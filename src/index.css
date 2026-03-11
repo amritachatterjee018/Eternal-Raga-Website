@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&display=swap');
 @import "tailwindcss";
 
 @theme {
@@ -159,6 +160,34 @@
 
 
 /* ═══════════════════════════════════════════════════════════════
+   CHAKRA RAINBOW — full-bleed 7-column layout
+   ═══════════════════════════════════════════════════════════════ */
+
+.chakra-col {
+  flex: 1;
+  transition: flex 0.35s cubic-bezier(0.4, 0, 0.2, 1), filter 0.3s ease;
+}
+.chakra-col:hover {
+  flex: 2;
+  filter: brightness(1.12);
+}
+
+/* Mobile: stack vertically */
+@media (max-width: 640px) {
+  .chakra-rainbow {
+    flex-direction: column;
+    height: auto !important;
+  }
+  .chakra-col {
+    padding: 1.5rem 1rem;
+    min-height: 120px;
+  }
+  .chakra-col:hover {
+    flex: 1.5;
+  }
+}
+
+/* ═══════════════════════════════════════════════════════════════
    NEUROMORPHIC UI SYSTEM
    Warm cream-based light mode. Deep purple dark mode.
    Brand gold / purple palette preserved in both modes.
@@ -169,6 +198,7 @@
   --neu-shadow-dark:  #D9C4A3;  /* warm amber-tinted dark shadow   */
   --neu-shadow-light: #FFFFFF;  /* pure white highlight             */
   --neu-bg:           #FFF8F0;  /* matches --color-brand-bg         */
+  --deity-section-bg: #FFF8E7;  /* cream: Explore by Deity section  */
 }
 
 /* ── Dark mode overrides ── */
@@ -178,12 +208,29 @@
   --neu-bg:           #110728;  /* deep purple page background       */
   --color-brand-bg:   #110728;
   --color-brand-text: #EDE0FF;
+  --deity-section-bg: #110728;  /* dark purple in dark mode          */
+}
+
+/* ── Light mode: body baseline ── */
+html {
+  min-height: 100%;
+  background-color: #FFF8E7;
+}
+
+body {
+  background-color: #FFF8E7;
+  color: #333333;
+  min-height: 100vh;
 }
 
 /* ── Dark mode: body ── */
 .dark body {
   background-color: var(--color-brand-bg);
   color: var(--color-brand-text);
+}
+
+.dark html {
+  background-color: #110728;
 }
 
 /* ── Dark mode: headings ── */

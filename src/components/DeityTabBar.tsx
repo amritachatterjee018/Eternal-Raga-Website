@@ -5,120 +5,123 @@ import { ChevronLeft, ChevronRight, ArrowRight } from 'lucide-react';
 /* ─── Deity Data ────────────────────────────────────────────────────── */
 const DEITIES = [
   {
-    id: 'shiva',    name: 'Shiva',    hindi: 'शिव',
-    epithet: 'The Great God',    epithetHindi: 'महादेव',
+    id: 'shiva',     name: 'Shiva',     hindi: 'शिव',
+    epithet: 'The Great God',       epithetHindi: 'महादेव',
     description: 'Lord Shiva, the destroyer and transformer, embodies the supreme consciousness that pervades the universe — fierce, compassionate, and eternal.',
     stats: ['24 Mantras', '12 Temples', '108 Names'],
     image: 'https://picsum.photos/seed/shiva-port/400/520',
-    color: '#87CEEB', // Ice Blue — Kailash snow, Ganga
-    darkText: false,
+    color: '#87CEEB', darkText: false,
   },
   {
-    id: 'krishna',  name: 'Krishna',  hindi: 'कृष्ण',
-    epithet: 'The Divine Lover',  epithetHindi: 'माधव',
+    id: 'krishna',   name: 'Krishna',   hindi: 'कृष्ण',
+    epithet: 'The Divine Lover',    epithetHindi: 'माधव',
     description: 'Lord Krishna, beloved for his divine teachings in the Bhagavad Gita and enchanting flute melodies, embodies divine love and wisdom.',
     stats: ['18 Mantras', '8 Temples', '108 Names'],
     image: 'https://picsum.photos/seed/krishna-port/400/520',
-    color: '#4169E1', // Royal Blue — peacock feather, Shyam
-    darkText: false,
+    color: '#4169E1', darkText: false,
   },
   {
-    id: 'ganesh',   name: 'Ganesh',   hindi: 'गणेश',
+    id: 'ganesh',    name: 'Ganesh',    hindi: 'गणेश',
     epithet: 'Remover of Obstacles', epithetHindi: 'विघ्नहर्ता',
-    description: 'Lord Ganesha, the elephant-headed son of Shiva and Parvati, is the Lord of new beginnings — worshipped at every auspicious start.',
+    description: 'Lord Ganesha, the elephant-headed son of Shiva and Parvati, is worshipped at the start of every auspicious endeavour.',
     stats: ['12 Mantras', '8 Ashtavinayak', '108 Names'],
     image: 'https://picsum.photos/seed/ganesh-port/400/520',
-    color: '#FF6347', // Vermillion Red — sindoor
-    darkText: false,
+    color: '#FF6347', darkText: false,
   },
   {
-    id: 'durga',    name: 'Durga',    hindi: 'दुर्गा',
-    epithet: 'The Invincible',    epithetHindi: 'भवानी',
+    id: 'durga',     name: 'Durga',     hindi: 'दुर्गा',
+    epithet: 'The Invincible',      epithetHindi: 'भवानी',
     description: 'Goddess Durga, the warrior goddess, triumphs over evil and symbolises the power of the divine feminine — protective and invincible.',
     stats: ['9 Mantras', '51 Shakti Peethas', '108 Names'],
     image: 'https://picsum.photos/seed/durga-port/400/520',
-    color: '#DC143C', // Crimson — red saree, shakti
-    darkText: false,
+    color: '#DC143C', darkText: false,
   },
   {
-    id: 'ram',      name: 'Ram',      hindi: 'राम',
-    epithet: 'The Ideal Man',     epithetHindi: 'मर्यादा पुरुषोत्तम',
+    id: 'ram',       name: 'Ram',       hindi: 'राम',
+    epithet: 'The Ideal Man',       epithetHindi: 'मर्यादा पुरुषोत्तम',
     description: 'Lord Ram, the seventh avatar of Vishnu, is the embodiment of virtue, righteousness, and truth — a model of dharmic living.',
     stats: ['10 Mantras', '4 Temples', '108 Names'],
     image: 'https://picsum.photos/seed/ram-port/400/520',
-    color: '#FFD700', // Saffron Gold — dharmic robes
-    darkText: true,
+    color: '#FFD700', darkText: true,
   },
   {
-    id: 'lakshmi',  name: 'Lakshmi',  hindi: 'लक्ष्मी',
+    id: 'lakshmi',   name: 'Lakshmi',   hindi: 'लक्ष्मी',
     epithet: 'Goddess of Prosperity', epithetHindi: 'धन की देवी',
     description: 'Goddess Lakshmi is the divine embodiment of wealth, fortune, beauty, and grace — bestowing material abundance and spiritual wisdom.',
     stats: ['8 Mantras', '8 Forms', '108 Names'],
     image: 'https://picsum.photos/seed/lakshmi-port/400/520',
-    color: '#FF69B4', // Rose Pink — pink lotus
-    darkText: false,
+    color: '#FF69B4', darkText: false,
   },
   {
-    id: 'hanuman',  name: 'Hanuman',  hindi: 'हनुमान',
-    epithet: 'The Mighty Devotee',epithetHindi: 'बजरंगबली',
+    id: 'hanuman',   name: 'Hanuman',   hindi: 'हनुमान',
+    epithet: 'The Mighty Devotee',  epithetHindi: 'बजरंगबली',
     description: 'Lord Hanuman, the ardent devotee of Ram, is the epitome of strength, devotion, and selfless service — worshipped for courage.',
     stats: ['8 Mantras', '5 Temples', '108 Names'],
     image: 'https://picsum.photos/seed/hanuman-port/400/520',
-    color: '#FF8C00', // Deep Orange — sindoor body, saffron
-    darkText: false,
+    color: '#FF8C00', darkText: false,
   },
   {
-    id: 'saraswati',name: 'Saraswati',hindi: 'सरस्वती',
-    epithet: 'Goddess of Knowledge',epithetHindi: 'विद्या की देवी',
+    id: 'saraswati', name: 'Saraswati', hindi: 'सरस्वती',
+    epithet: 'Goddess of Knowledge', epithetHindi: 'विद्या की देवी',
     description: 'Goddess Saraswati presides over learning, arts, music, and wisdom — invoked by students and seekers to illuminate the mind.',
     stats: ['6 Mantras', '3 Temples', '108 Names'],
     image: 'https://picsum.photos/seed/saraswati-port/400/520',
-    color: '#F0F0F0', // Pearl White — white saree, swan
-    darkText: true,
+    color: '#AAAAAA', darkText: true, // Pearl White → mid-gray for visibility on cream
   },
   {
-    id: 'vishnu',   name: 'Vishnu',   hindi: 'विष्णु',
-    epithet: 'The Preserver',     epithetHindi: 'जगत पालक',
+    id: 'vishnu',    name: 'Vishnu',    hindi: 'विष्णु',
+    epithet: 'The Preserver',       epithetHindi: 'जगत पालक',
     description: 'Lord Vishnu is the preserver of the universe. Through his ten avatars he descends whenever dharma declines and righteousness needs restoring.',
     stats: ['12 Mantras', '108 Divya Desams', '108 Names'],
     image: 'https://picsum.photos/seed/vishnu-port/400/520',
-    color: '#1E90FF', // Ocean Blue — Ksheer Sagar
-    darkText: false,
+    color: '#1E90FF', darkText: false,
   },
   {
-    id: 'kali',     name: 'Kali',     hindi: 'काली',
-    epithet: 'The Fierce Mother',  epithetHindi: 'महाकाली',
-    description: 'Goddess Kali, the most intense form of Shakti, is the destroyer of ego and liberator of the soul — fierce in appearance, boundless in compassion.',
+    id: 'kali',      name: 'Kali',      hindi: 'काली',
+    epithet: 'The Fierce Mother',   epithetHindi: 'महाकाली',
+    description: 'Goddess Kali, the most intense form of Shakti, is the destroyer of ego and liberator of the soul — fierce and boundlessly compassionate.',
     stats: ['6 Mantras', 'Shakti Peethas', '108 Names'],
     image: 'https://picsum.photos/seed/kali-port/400/520',
-    color: '#4B0082', // Deep Indigo — cosmic void
-    darkText: false,
+    color: '#4B0082', darkText: false,
   },
   {
-    id: 'kartikeya',name: 'Kartikeya',hindi: 'कार्तिकेय',
-    epithet: 'God of War',         epithetHindi: 'मुरुगन',
+    id: 'kartikeya', name: 'Kartikeya', hindi: 'कार्तिकेय',
+    epithet: 'God of War',          epithetHindi: 'मुरुगन',
     description: 'Lord Kartikeya, son of Shiva and Parvati, is the commander of the divine army and the embodiment of spiritual wisdom and valour.',
     stats: ['5 Mantras', '6 Paadal Petra', '108 Names'],
     image: 'https://picsum.photos/seed/kartikeya-port/400/520',
-    color: '#009688', // Peacock Teal — peacock vahana
-    darkText: false,
+    color: '#009688', darkText: false,
   },
 ];
 
-const CARD_H = 400;  // card height in px
-const INACTIVE_W = 110; // collapsed card width
+/* Card dimensions */
+const CARD_H    = 400;  // px — height of all cards
+const INACTIVE_W = 130; // px — collapsed card width (≈5-6 visible beside active)
+const ACTIVE_W   = 350; // px — expanded card width
 
-/* ─── Component ─────────────────────────────────────────────────────── */
 export default function DeityTabBar() {
-  const [activeIdx, setActiveIdx] = useState(0);
+  const [activeIdx, setActiveIdx]         = useState(0);
+  const [hoveredIdx, setHoveredIdx]       = useState<number | null>(null);
   const [canScrollLeft, setCanScrollLeft]   = useState(false);
   const [canScrollRight, setCanScrollRight] = useState(true);
 
-  const rowRef   = useRef<HTMLDivElement>(null);
-  const rafRef   = useRef<number | null>(null);
-  const mouseX   = useRef<number>(0.5); // 0–1 relative position
+  const rowRef  = useRef<HTMLDivElement>(null);
+  const rafRef  = useRef<number | null>(null);
+  const mouseX  = useRef<number>(0.5);
 
-  /* ── Arrow visibility ──────────────────────────────────────── */
+  /* ── Dark mode detection (reactive) ─────────────────────── */
+  const [isDark, setIsDark] = useState<boolean>(
+    () => document.documentElement.classList.contains('dark')
+  );
+  useEffect(() => {
+    const obs = new MutationObserver(() =>
+      setIsDark(document.documentElement.classList.contains('dark'))
+    );
+    obs.observe(document.documentElement, { attributes: true, attributeFilter: ['class'] });
+    return () => obs.disconnect();
+  }, []);
+
+  /* ── Arrow visibility ───────────────────────────────────── */
   const updateArrows = useCallback(() => {
     const el = rowRef.current;
     if (!el) return;
@@ -138,22 +141,19 @@ export default function DeityTabBar() {
     };
   }, [updateArrows]);
 
-  /* ── Mouse-movement auto-scroll ────────────────────────────── */
+  /* ── Mouse-movement auto-scroll ─────────────────────────── */
   const startAutoScroll = useCallback(() => {
     const tick = () => {
       const el = rowRef.current;
       if (!el) return;
-      const pos = mouseX.current;       // 0–1
-      const edgeZone = 0.18;            // 18% from each side triggers scroll
-      const maxSpeed = 7;               // px per frame at extreme edge
-
-      if (pos < edgeZone) {
-        const t = 1 - pos / edgeZone;   // 0→1 as cursor approaches left edge
-        el.scrollLeft -= t * maxSpeed;
+      const pos = mouseX.current;
+      const zone = 0.15;
+      const maxSpeed = 6;
+      if (pos < zone) {
+        el.scrollLeft -= ((zone - pos) / zone) * maxSpeed;
         updateArrows();
-      } else if (pos > 1 - edgeZone) {
-        const t = (pos - (1 - edgeZone)) / edgeZone;
-        el.scrollLeft += t * maxSpeed;
+      } else if (pos > 1 - zone) {
+        el.scrollLeft += ((pos - (1 - zone)) / zone) * maxSpeed;
         updateArrows();
       }
       rafRef.current = requestAnimationFrame(tick);
@@ -173,14 +173,12 @@ export default function DeityTabBar() {
     mouseX.current = (e.clientX - rect.left) / rect.width;
   }, []);
 
-  /* ── Scroll by arrow click ──────────────────────────────────── */
+  /* ── Arrow scroll click ──────────────────────────────────── */
   const scrollRow = (dir: 'left' | 'right') => {
-    const el = rowRef.current;
-    if (!el) return;
-    el.scrollBy({ left: dir === 'left' ? -280 : 280, behavior: 'smooth' });
+    rowRef.current?.scrollBy({ left: dir === 'left' ? -300 : 300, behavior: 'smooth' });
   };
 
-  /* ── Tab select + scroll into view ─────────────────────────── */
+  /* ── Tab select + scroll into view ──────────────────────── */
   const handleSelect = (idx: number) => {
     setActiveIdx(idx);
     const el = rowRef.current;
@@ -189,218 +187,181 @@ export default function DeityTabBar() {
     if (!card) return;
     const cardLeft  = card.offsetLeft;
     const cardRight = cardLeft + card.offsetWidth;
-    if (cardLeft < el.scrollLeft + 60) {
-      el.scrollBy({ left: cardLeft - el.scrollLeft - 60, behavior: 'smooth' });
-    } else if (cardRight > el.scrollLeft + el.clientWidth - 60) {
-      el.scrollBy({ left: cardRight - (el.scrollLeft + el.clientWidth) + 60, behavior: 'smooth' });
+    if (cardLeft < el.scrollLeft + 50) {
+      el.scrollBy({ left: cardLeft - el.scrollLeft - 50, behavior: 'smooth' });
+    } else if (cardRight > el.scrollLeft + el.clientWidth - 50) {
+      el.scrollBy({ left: cardRight - (el.scrollLeft + el.clientWidth) + 50, behavior: 'smooth' });
     }
   };
 
-  const deity = DEITIES[activeIdx];
+  /* ── Arrow button shared classes ────────────────────────── */
+  const arrowBtn = (canScroll: boolean) =>
+    `hidden md:flex flex-shrink-0 w-10 h-10 rounded-full border-2 border-[#C8962E]
+     text-[#C8962E] bg-[#FFF8E7] dark:bg-[#110728]
+     items-center justify-center
+     hover:bg-[#C8962E] hover:text-white
+     transition-all duration-200 ease-out z-10
+     ${canScroll ? 'opacity-100 pointer-events-auto' : 'opacity-0 pointer-events-none'}`;
 
   return (
-    <section id="deities" className="py-14 bg-[var(--color-brand-bg)] dark:bg-[#110728]">
+    <section
+      id="deities"
+      className="py-14"
+      style={{ backgroundColor: 'var(--deity-section-bg, #FFF8E7)' }}
+    >
       <div className="max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8">
 
-        {/* ── Section heading ─────────────────────────────────── */}
+        {/* ── Section heading ──────────────────────────────── */}
         <div className="flex justify-between items-end mb-8">
-          <div className="scroll-heading">
-            <h2 className="text-3xl font-serif text-[var(--color-brand-purple)] dark:text-[#E0CFFF]">
-              Explore by Deity{' '}
-              <span className="hindi-text text-2xl ml-2 text-[var(--color-brand-gold-dark)]">देवता</span>
-            </h2>
-          </div>
+          <h2 className="scroll-heading text-3xl font-serif text-[#1B0A3C] dark:text-[#E0CFFF]">
+            Explore by Deity{' '}
+            <span className="text-2xl ml-2 font-serif text-[#C8962E]">· देवता</span>
+          </h2>
           <Link
             to="/deities/shiva"
-            className="text-[var(--color-brand-purple)] dark:text-[#C8962E] font-medium
-                       hover:text-[var(--color-brand-gold-dark)] flex items-center gap-1 text-sm"
+            className="text-[#C8962E] font-semibold hover:text-[#A37826] flex items-center gap-1 text-sm transition-colors"
           >
             View All <ArrowRight size={15} />
           </Link>
         </div>
 
-        {/* ── Card gallery row ────────────────────────────────── */}
+        {/* ── Gallery row ──────────────────────────────────── */}
         <div
-          className="relative flex items-stretch"
+          className="relative flex items-center gap-3"
           onMouseMove={handleMouseMove}
           onMouseEnter={startAutoScroll}
           onMouseLeave={stopAutoScroll}
         >
           {/* Left arrow */}
-          <button
-            onClick={() => scrollRow('left')}
-            aria-label="Scroll left"
-            className={`
-              hidden md:flex absolute left-0 top-1/2 -translate-y-1/2 -translate-x-1/2
-              z-20 w-10 h-10 rounded-full items-center justify-center flex-shrink-0
-              bg-[#1B0A3C] text-[#C8962E] border border-[#C8962E]/40
-              hover:bg-[#C8962E] hover:text-white shadow-lg
-              transition-all duration-200
-              ${canScrollLeft ? 'opacity-100 pointer-events-auto' : 'opacity-0 pointer-events-none'}
-            `}
-          >
+          <button onClick={() => scrollRow('left')} aria-label="Scroll left" className={arrowBtn(canScrollLeft)}>
             <ChevronLeft size={20} strokeWidth={2.5} />
           </button>
 
-          {/* Scrollable card strip */}
+          {/* Scrollable strip */}
           <div
             ref={rowRef}
-            className="flex gap-2 overflow-x-auto w-full deity-tab-scrollbar"
+            className="flex flex-1 gap-3 overflow-x-auto deity-tab-scrollbar"
             style={{ scrollbarWidth: 'none', msOverflowStyle: 'none' }}
           >
             {DEITIES.map((d, idx) => {
-              const isActive = idx === activeIdx;
+              const isActive   = idx === activeIdx;
+              // Hover takes full priority: only the hovered card expands.
+              // When nothing is hovered, fall back to the selected (active) card.
+              const isExpanded = hoveredIdx !== null ? hoveredIdx === idx : isActive;
+
               return (
                 <button
                   key={d.id}
                   onClick={() => handleSelect(idx)}
+                  onMouseEnter={() => setHoveredIdx(idx)}
+                  onMouseLeave={() => setHoveredIdx(null)}
                   aria-pressed={isActive}
                   aria-label={`${d.name} · ${d.hindi}`}
                   className={`
-                    relative flex-none overflow-hidden rounded-2xl
-                    cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-[#C8962E]
+                    flex-none overflow-hidden rounded-2xl cursor-pointer
+                    focus:outline-none focus-visible:ring-2 focus-visible:ring-[#C8962E]
                     transition-all duration-500 ease-in-out
+                    bg-white dark:bg-[#1C0A42]
                   `}
                   style={{
-                    width: isActive ? 340 : INACTIVE_W,
-                    minWidth: isActive ? 260 : INACTIVE_W,
-                    height: CARD_H,
+                    width:    isExpanded ? ACTIVE_W : INACTIVE_W,
+                    minWidth: isExpanded ? ACTIVE_W : INACTIVE_W,
+                    height:   CARD_H,
+                    boxShadow: isActive
+                      ? `0 0 0 2px #C8962E, 0 6px 28px ${d.color}55`
+                      : isExpanded
+                        ? `0 0 0 1.5px ${d.color}99, 0 4px 20px ${d.color}33`
+                        : '0 2px 8px rgba(0,0,0,0.08)',
                   }}
                 >
-                  {/* Full colour image — no grayscale */}
-                  <img
-                    src={d.image}
-                    alt={d.name}
-                    loading="lazy"
-                    referrerPolicy="no-referrer"
-                    className={`
-                      absolute inset-0 w-full h-full object-cover
-                      transition-transform duration-500 ease-in-out
-                      ${isActive ? 'scale-105' : 'scale-100 hover:scale-[1.03]'}
-                    `}
-                  />
-
-                  {/* Deity colour gradient — always visible at bottom, stronger on active */}
+                  {/* ── Image area ─────────────────────────── */}
                   <div
-                    className="absolute inset-0 transition-all duration-500"
-                    style={{
-                      background: isActive
-                        ? `linear-gradient(to top, ${d.color}CC 0%, ${d.color}44 40%, transparent 75%)`
-                        : `linear-gradient(to top, ${d.color}99 0%, ${d.color}22 50%, transparent 80%)`,
-                    }}
-                  />
-
-                  {/* Dark overlay for readability on top of color gradient */}
-                  <div
-                    className={`
-                      absolute inset-0 transition-all duration-500
-                      ${isActive
-                        ? 'bg-gradient-to-t from-black/55 via-transparent to-black/10'
-                        : 'bg-gradient-to-t from-black/30 via-transparent to-black/5'
-                      }
-                    `}
-                  />
-
-                  {/* Deity-coloured ring on active */}
-                  {isActive && (
-                    <div
-                      className="absolute inset-0 rounded-2xl ring-[2.5px] ring-inset pointer-events-none"
-                      style={{ boxShadow: `inset 0 0 0 2.5px ${d.color}` }}
-                    />
-                  )}
-
-                  {/* ── COLLAPSED: vertical name label ──────── */}
-                  <div
-                    className={`
-                      absolute inset-0 flex flex-col items-center justify-center gap-2
-                      transition-all duration-300
-                      ${isActive ? 'opacity-0 scale-90 pointer-events-none' : 'opacity-100 scale-100'}
-                    `}
+                    className="w-full overflow-hidden relative"
+                    style={{ height: isExpanded ? '55%' : '70%' }}
                   >
-                    {/* Deity-coloured badge */}
+                    <img
+                      src={d.image}
+                      alt={d.name}
+                      loading="lazy"
+                      referrerPolicy="no-referrer"
+                      className="w-full h-full object-cover transition-transform duration-500"
+                      style={{ transform: isExpanded ? 'scale(1.06)' : 'scale(1)' }}
+                    />
+                  </div>
+
+                  {/* ── INACTIVE: white footer card ─────────── */}
+                  {!isExpanded && (
                     <div
-                      className="rounded-xl px-2.5 py-1.5 flex flex-col items-center gap-0.5 backdrop-blur-sm"
-                      style={{ backgroundColor: `${d.color}CC` }}
+                      className="w-full flex flex-col items-center justify-center px-3"
+                      style={{
+                        height: '30%',
+                        borderTop: `3px solid ${d.color}`,
+                        backgroundColor: isDark ? '#2A1060' : '#ffffff',
+                      }}
                     >
-                      <span
-                        className={`text-[11px] font-bold tracking-wide whitespace-nowrap ${d.darkText ? 'text-gray-900' : 'text-white'}`}
-                        style={{ writingMode: 'vertical-rl', transform: 'rotate(180deg)' }}
+                      <p
+                        className="text-[14px] font-semibold leading-tight text-center"
+                        style={{ color: isDark ? '#ffffff' : '#1B0A3C' }}
                       >
                         {d.name}
-                      </span>
-                      <span
-                        className={`text-[10px] font-serif mt-0.5 whitespace-nowrap ${d.darkText ? 'text-gray-700' : 'text-white/80'}`}
-                        style={{ writingMode: 'vertical-rl', transform: 'rotate(180deg)' }}
+                      </p>
+                      <p
+                        className="text-[12px] font-serif leading-tight text-center mt-1"
+                        style={{ color: isDark ? 'rgba(255,255,255,0.75)' : d.color }}
                       >
                         {d.hindi}
-                      </span>
+                      </p>
                     </div>
-                  </div>
+                  )}
 
-                  {/* ── EXPANDED: content overlay slides up ─── */}
-                  <div
-                    className={`
-                      absolute bottom-0 left-0 right-0 p-6
-                      transition-all duration-500 ease-out
-                      ${isActive ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10 pointer-events-none'}
-                    `}
-                  >
-                    {/* Gold bar */}
-                    <div className="w-9 h-[2px] bg-[#C8962E] mb-3 rounded-full" />
-
-                    {/* Name */}
-                    <h3 className="text-white font-serif text-[1.75rem] leading-tight mb-1">
-                      {d.name}&nbsp;
-                      <span className="text-[#F5C518] font-serif text-xl">· {d.hindi}</span>
-                    </h3>
-
-                    {/* Epithet */}
-                    <p className="text-[#C8962E] text-sm font-semibold mb-3">
-                      {d.epithet} <span className="text-[#F5C518]/70 font-serif">· {d.epithetHindi}</span>
-                    </p>
-
-                    {/* Description */}
-                    <p className="text-white/75 text-xs leading-relaxed mb-4 line-clamp-3 max-w-[280px]">
-                      {d.description}
-                    </p>
-
-                    {/* Stats */}
-                    <div className="flex flex-wrap gap-3 mb-5">
-                      {d.stats.map((stat) => (
-                        <span key={stat} className="flex items-center gap-1.5 text-white/80 text-xs font-medium">
-                          <span className="w-1.5 h-1.5 rounded-full bg-[#C8962E] flex-shrink-0" />
-                          {stat}
-                        </span>
-                      ))}
-                    </div>
-
-                    {/* CTA */}
-                    <Link
-                      to={`/deities/${d.id}`}
-                      onClick={(e) => e.stopPropagation()}
-                      className="cta-button inline-flex items-center gap-2 px-5 py-2.5 rounded-xl text-sm font-bold"
+                  {/* ── EXPANDED: structured content area ─────── */}
+                  {isExpanded && (
+                    <div
+                      className="w-full flex flex-col bg-white dark:bg-[#1C0A42] px-5 pt-4 pb-5"
+                      style={{
+                        height: '45%',
+                        borderTop: `2px solid #C8962E`,
+                      }}
                     >
-                      Explore Full Page <ArrowRight size={14} />
-                    </Link>
-                  </div>
+                      {/* Name bilingual */}
+                      <h3 className="font-serif text-[22px] leading-tight text-[#1B0A3C] dark:text-[#E0CFFF] mb-1 text-left">
+                        {d.name}{' '}
+                        <span className="text-[#C8962E]">· {d.hindi}</span>
+                      </h3>
+
+                      {/* Epithet */}
+                      <p className="text-[13px] font-semibold text-[#C8962E] mb-2 text-left leading-tight">
+                        {d.epithet}{' '}
+                        <span className="font-serif text-[#A37826] font-normal">· {d.epithetHindi}</span>
+                      </p>
+
+                      {/* Description */}
+                      <p className="text-[12px] text-gray-600 dark:text-[#BCA8E8] leading-snug line-clamp-2 text-left mb-auto">
+                        {d.description}
+                      </p>
+
+                      {/* Stats */}
+                      <p className="text-[11px] font-semibold text-[#1B0A3C] dark:text-[#D4BFFF] mt-2 mb-3 text-left tracking-wide">
+                        {d.stats.join(' · ')}
+                      </p>
+
+                      {/* CTA */}
+                      <Link
+                        to={`/deities/${d.id}`}
+                        onClick={(e) => e.stopPropagation()}
+                        className="cta-button self-start inline-flex items-center gap-1.5 px-4 py-2 rounded-xl text-[12px] font-bold"
+                      >
+                        Explore Full Page <ArrowRight size={12} />
+                      </Link>
+                    </div>
+                  )}
                 </button>
               );
             })}
           </div>
 
           {/* Right arrow */}
-          <button
-            onClick={() => scrollRow('right')}
-            aria-label="Scroll right"
-            className={`
-              hidden md:flex absolute right-0 top-1/2 -translate-y-1/2 translate-x-1/2
-              z-20 w-10 h-10 rounded-full items-center justify-center flex-shrink-0
-              bg-[#1B0A3C] text-[#C8962E] border border-[#C8962E]/40
-              hover:bg-[#C8962E] hover:text-white shadow-lg
-              transition-all duration-200
-              ${canScrollRight ? 'opacity-100 pointer-events-auto' : 'opacity-0 pointer-events-none'}
-            `}
-          >
+          <button onClick={() => scrollRow('right')} aria-label="Scroll right" className={arrowBtn(canScrollRight)}>
             <ChevronRight size={20} strokeWidth={2.5} />
           </button>
         </div>
