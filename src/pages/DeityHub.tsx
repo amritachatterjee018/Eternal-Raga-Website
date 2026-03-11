@@ -69,7 +69,7 @@ export default function DeityHub() {
       <section className="py-12 bg-white border-b border-gray-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-end mb-8">
-            <h2 className="text-3xl font-serif text-[var(--color-brand-purple)]">
+            <h2 className="scroll-heading text-3xl font-serif text-[var(--color-brand-purple)]">
               108 Names <span className="hindi-text text-2xl ml-2">१०८ नाम</span>
             </h2>
             <a href="#" className="text-[var(--color-brand-purple)] font-medium hover:text-[var(--color-brand-gold-dark)] flex items-center gap-1">
@@ -79,7 +79,7 @@ export default function DeityHub() {
           
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
             {['Shiva (The Auspicious One)', 'Maheshwara (Lord of Gods)', 'Shambhu (Giver of Prosperity)', 'Pinakin (One who has a bow)', 'Shashi Shekhara (Crested with the moon)'].map((name, idx) => (
-              <div key={idx} className="bg-gray-50 p-4 rounded-lg border border-gray-100 text-center hover:border-[var(--color-brand-gold)] transition-colors cursor-pointer">
+              <div key={idx} className={`scroll-reveal scroll-delay-${idx + 1} bg-gray-50 p-4 rounded-lg border border-gray-100 text-center hover:border-[var(--color-brand-gold)] transition-colors cursor-pointer`}>
                 <p className="font-serif text-[var(--color-brand-purple)] mb-1">{idx + 1}. {name.split(' ')[0]}</p>
                 <p className="text-xs text-gray-500">{name.split('(')[1]?.replace(')', '') || 'Meaning'}</p>
               </div>
@@ -92,7 +92,7 @@ export default function DeityHub() {
       <section className="py-12 bg-[var(--color-brand-bg)]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-end mb-8">
-            <h2 className="text-3xl font-serif text-[var(--color-brand-purple)]">
+            <h2 className="scroll-heading text-3xl font-serif text-[var(--color-brand-purple)]">
               Mantras & Stotrams <span className="hindi-text text-2xl ml-2">मंत्र और स्तोत्र</span>
             </h2>
             <Link to="/mantras" className="text-[var(--color-brand-purple)] font-medium hover:text-[var(--color-brand-gold-dark)] flex items-center gap-1">
@@ -105,7 +105,7 @@ export default function DeityHub() {
               <Link
                 key={idx}
                 to={`/mantras/${mantra.name.toLowerCase().replace(/\s+/g, '-')}`}
-                className="interactive-card bg-white p-6 rounded-xl border border-gray-200 shadow-sm group flex items-center justify-between"
+                className={`scroll-reveal scroll-delay-${idx + 1} interactive-card bg-white p-6 rounded-xl border border-gray-200 shadow-sm group flex items-center justify-between`}
               >
                 <div>
                   <h3 className="text-lg font-serif text-[var(--color-brand-purple)] group-hover:text-[var(--color-brand-gold-dark)] transition-colors mb-1">
@@ -130,7 +130,7 @@ export default function DeityHub() {
       <section className="py-12 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-end mb-8">
-            <h2 className="text-3xl font-serif text-[var(--color-brand-purple)]">
+            <h2 className="scroll-heading text-3xl font-serif text-[var(--color-brand-purple)]">
               Sacred Temples <span className="hindi-text text-2xl ml-2">पवित्र मंदिर</span>
             </h2>
             <Link to="/temples" className="text-[var(--color-brand-purple)] font-medium hover:text-[var(--color-brand-gold-dark)] flex items-center gap-1">
@@ -140,7 +140,7 @@ export default function DeityHub() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {SHIVA_TEMPLES.map((temple, idx) => (
-              <Link key={idx} to={`/temples/${temple.name.toLowerCase()}`} className="interactive-card group rounded-xl overflow-hidden border border-gray-200 shadow-sm bg-white">
+              <Link key={idx} to={`/temples/${temple.name.toLowerCase()}`} className={`scroll-from-right scroll-stagger-${idx + 1} interactive-card group rounded-xl overflow-hidden border border-gray-200 shadow-sm bg-white`}>
                 <div className="aspect-video overflow-hidden relative">
                   <img
                     src={temple.image}
@@ -170,7 +170,7 @@ export default function DeityHub() {
       <section className="py-12 bg-[var(--color-brand-purple)] text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-end mb-8">
-            <h2 className="text-3xl font-serif">
+            <h2 className="scroll-heading text-3xl font-serif">
               Featured Videos <span className="text-[var(--color-brand-gold)] text-2xl ml-2">वीडियो</span>
             </h2>
             <a href="#" className="text-white/80 font-medium hover:text-[var(--color-brand-gold)] flex items-center gap-1 transition-colors">
@@ -180,7 +180,7 @@ export default function DeityHub() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
             {SHIVA_VIDEOS.map((video, idx) => (
-              <div key={idx} className="group cursor-pointer">
+              <div key={idx} className={`scroll-reveal scroll-delay-${idx + 1} group cursor-pointer`}>
                 <div className="aspect-video rounded-xl overflow-hidden relative mb-3 border border-white/10">
                   <img
                     src={video.image}
@@ -210,7 +210,7 @@ export default function DeityHub() {
       <section className="py-12 bg-[var(--color-brand-bg)]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-end mb-8">
-            <h2 className="text-3xl font-serif text-[var(--color-brand-purple)]">
+            <h2 className="scroll-heading text-3xl font-serif text-[var(--color-brand-purple)]">
               Sacred Shop <span className="hindi-text text-2xl ml-2">पवित्र दुकान</span>
             </h2>
             <Link to="/shop" className="text-[var(--color-brand-purple)] font-medium hover:text-[var(--color-brand-gold-dark)] flex items-center gap-1">
@@ -220,7 +220,7 @@ export default function DeityHub() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 max-w-4xl">
             {SHIVA_SHOP.map((product, idx) => (
-              <div key={idx} className="interactive-card bg-white rounded-xl border border-gray-200 shadow-sm overflow-hidden flex flex-row h-40">
+              <div key={idx} className={`scroll-reveal scroll-delay-${idx + 1} interactive-card bg-white rounded-xl border border-gray-200 shadow-sm overflow-hidden flex flex-row h-40`}>
                 <div className="w-40 h-full p-4 flex items-center justify-center bg-gray-50 border-r border-gray-100">
                   <img
                     src={product.image}

@@ -66,7 +66,7 @@ export default function EternalGyan() {
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       {/* Header */}
-      <div className="text-center mb-12">
+      <div className="scroll-heading text-center mb-12">
         <h1 className="text-4xl md:text-5xl font-serif text-[var(--color-brand-purple)] mb-4">
           Eternal Gyan <span className="hindi-text ml-2">शाश्वत ज्ञान</span>
         </h1>
@@ -105,7 +105,7 @@ export default function EternalGyan() {
       {activeTab === 'blog' ? (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {BLOG_POSTS.map((post, idx) => (
-            <article key={idx} className="interactive-card bg-white rounded-2xl overflow-hidden border border-[var(--color-brand-gold-dark)] shadow-sm group flex flex-col">
+            <article key={idx} className={`scroll-reveal scroll-stagger-${idx + 1} interactive-card bg-white rounded-2xl overflow-hidden border border-[var(--color-brand-gold-dark)] shadow-sm group flex flex-col`}>
               <div className="aspect-video overflow-hidden relative">
                 <img
                   src={post.image}
@@ -141,7 +141,7 @@ export default function EternalGyan() {
       ) : (
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {ENCYCLOPAEDIA_COLLECTIONS.map((collection, idx) => (
-            <Link key={idx} to="/eternal-gyan" className="interactive-card bg-white rounded-2xl overflow-hidden border border-gray-200 shadow-sm group flex flex-col sm:flex-row h-full">
+            <Link key={idx} to="/eternal-gyan" className={`scroll-from-right scroll-stagger-${idx + 1} interactive-card bg-white rounded-2xl overflow-hidden border border-gray-200 shadow-sm group flex flex-col sm:flex-row h-full`}>
               <div className="sm:w-2/5 h-48 sm:h-auto overflow-hidden">
                 <img
                   src={collection.image}

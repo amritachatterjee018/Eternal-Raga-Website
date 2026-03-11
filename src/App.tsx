@@ -19,6 +19,7 @@ import Mantras from './pages/Mantras';
 import Temples from './pages/Temples';
 import Meditate from './pages/Meditate';
 import Feedback from './pages/Feedback';
+import Listen from './pages/Listen';
 
 export default function App() {
   return (
@@ -41,6 +42,7 @@ export default function App() {
           <Route path="temples/:id" element={<Temples />} />
           <Route path="meditate" element={<Meditate />} />
           <Route path="feedback" element={<Feedback />} />
+          <Route path="listen" element={<Listen />} />
         </Route>
       </Routes>
     </BrowserRouter>

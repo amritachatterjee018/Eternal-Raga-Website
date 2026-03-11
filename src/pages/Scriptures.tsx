@@ -62,7 +62,7 @@ export default function Scriptures() {
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       {/* Header */}
-      <div className="text-center mb-16">
+      <div className="scroll-heading text-center mb-16">
         <h1 className="text-4xl md:text-5xl font-serif text-[var(--color-brand-purple)] mb-4">
           Sacred Scriptures <span className="hindi-text ml-2">पवित्र शास्त्र</span>
         </h1>
@@ -75,7 +75,7 @@ export default function Scriptures() {
         {/* Active Scripture (Gita) */}
         <div className="lg:col-span-2">
           {SCRIPTURES.filter(s => s.active).map(scripture => (
-            <div key={scripture.id} className="bg-white rounded-3xl border-2 border-[var(--color-brand-gold-dark)] shadow-lg overflow-hidden flex flex-col md:flex-row">
+            <div key={scripture.id} className="scroll-scale bg-white rounded-3xl border-2 border-[var(--color-brand-gold-dark)] shadow-lg overflow-hidden flex flex-col md:flex-row">
               <div className="md:w-1/3 aspect-[3/4] md:aspect-auto relative">
                 <img
                   src={scripture.image}
@@ -126,7 +126,7 @@ export default function Scriptures() {
           </h3>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             {SCRIPTURES.filter(s => !s.active).map(scripture => (
-              <div key={scripture.id} className="interactive-card bg-white rounded-2xl border border-gray-200 shadow-sm overflow-hidden flex flex-col sm:flex-row h-full opacity-80 hover:opacity-100 transition-opacity">
+              <div key={scripture.id} className={`scroll-reveal scroll-delay-${SCRIPTURES.filter(s => !s.active).indexOf(scripture) + 1} interactive-card bg-white rounded-2xl border border-gray-200 shadow-sm overflow-hidden flex flex-col sm:flex-row h-full opacity-80 hover:opacity-100 transition-opacity`}>
                 <div className="sm:w-1/3 aspect-[3/4] sm:aspect-auto relative grayscale">
                   <img
                     src={scripture.image}

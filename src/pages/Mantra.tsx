@@ -60,7 +60,7 @@ export default function Mantra() {
         {/* Main Content */}
         <div className="lg:col-span-2">
           {/* Header */}
-          <div className="mb-8">
+          <div className="scroll-heading mb-8">
             <h1 className="text-3xl md:text-4xl font-serif text-[var(--color-brand-purple)] mb-4">
               Hanuman Chalisa — Complete Text with Meaning <span className="hindi-text ml-2">हनुमान चालीसा</span>
             </h1>
@@ -139,7 +139,7 @@ export default function Mantra() {
           {/* Verses */}
           <div className="space-y-8 mb-12">
             {VERSES.map((verse) => (
-              <div key={verse.id} className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm relative">
+              <div key={verse.id} className="scroll-verse bg-white p-6 rounded-xl border border-gray-200 shadow-sm relative">
                 <div className="absolute top-6 right-6 text-sm font-serif text-[var(--color-brand-gold-dark)]">
                   {verse.id}
                 </div>
@@ -182,7 +182,7 @@ export default function Mantra() {
           </div>
 
           {/* In Modern Life Section */}
-          <div className="bg-[#FFFDF8] border border-[var(--color-brand-gold-dark)] rounded-2xl p-8 mb-12 shadow-sm">
+          <div className="scroll-scale bg-[#FFFDF8] border border-[var(--color-brand-gold-dark)] rounded-2xl p-8 mb-12 shadow-sm">
             <h2 className="text-2xl font-serif text-[var(--color-brand-purple)] mb-4">
               In Modern Life <span className="hindi-text ml-2">आधुनिक जीवन में</span>
             </h2>
@@ -196,7 +196,7 @@ export default function Mantra() {
         </div>
 
         {/* Sidebar */}
-        <div className="lg:col-span-1">
+        <div className="scroll-from-right lg:col-span-1">
           <div className="sticky top-32 space-y-8">
             {/* Action Buttons */}
             <div className="flex flex-col gap-4">

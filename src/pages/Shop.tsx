@@ -88,7 +88,7 @@ export default function Shop() {
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       {/* Header */}
-      <div className="flex flex-col md:flex-row justify-between items-center mb-12 gap-6">
+      <div className="scroll-heading flex flex-col md:flex-row justify-between items-center mb-12 gap-6">
         <div>
           <h1 className="text-4xl md:text-5xl font-serif text-[var(--color-brand-purple)] mb-2">
             Sacred Shop <span className="hindi-text ml-2">पवित्र दुकान</span>
@@ -128,8 +128,8 @@ export default function Shop() {
 
       {/* Product Grid */}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-        {filteredProducts.map((product) => (
-          <div key={product.id} className="interactive-card bg-white rounded-2xl border border-[var(--color-brand-gold-dark)] shadow-sm overflow-hidden group flex flex-col relative">
+        {filteredProducts.map((product, idx) => (
+          <div key={product.id} className={`scroll-reveal scroll-delay-${(idx % 6) + 1} interactive-card bg-white rounded-2xl border border-[var(--color-brand-gold-dark)] shadow-sm overflow-hidden group flex flex-col relative`}>
             {/* Badge */}
             {product.badge && (
               <div className="absolute top-4 left-4 z-10 bg-[var(--color-brand-purple)] text-white text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider shadow-sm">
@@ -179,7 +179,7 @@ export default function Shop() {
       </div>
 
       {/* Testimonial Strip */}
-      <div className="mt-16 bg-[#FFFDF0] border border-[var(--color-brand-gold)]/30 rounded-2xl p-8 text-center relative overflow-hidden">
+      <div className="scroll-scale mt-16 bg-[#FFFDF0] border border-[var(--color-brand-gold)]/30 rounded-2xl p-8 text-center relative overflow-hidden">
         <div className="flex justify-center mb-4 text-[var(--color-brand-gold)]">
           <Star size={20} fill="currentColor" />
           <Star size={20} fill="currentColor" />

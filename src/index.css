@@ -13,70 +13,346 @@
 }
 
 @layer components {
-  /* Navigation Bar Items */
+
+  /* ────────────────────────────────────────────────────
+     NAVIGATION BAR ITEMS
+     Gold pill on hover, active has filled pill + underline
+     Click: brief scale press via `active:`
+  ──────────────────────────────────────────────────── */
   .nav-item {
-    @apply px-[14px] py-[6px] rounded-[20px] transition-all duration-200 ease-in-out active:scale-[0.97] text-sm cursor-pointer;
-  }
-  .nav-item-active {
-    @apply text-[var(--color-brand-gold)] bg-[rgba(200,150,46,0.2)] underline underline-offset-4 decoration-2 decoration-[var(--color-brand-gold)];
+    @apply relative px-[14px] py-[6px] rounded-[20px] text-sm font-medium
+           cursor-pointer select-none
+           transition-all duration-200 ease-in-out
+           active:scale-[0.97];
   }
   .nav-item-inactive {
-    @apply text-white hover:text-[var(--color-brand-gold)] hover:bg-[rgba(200,150,46,0.15)];
+    @apply text-white/90
+           hover:text-[var(--color-brand-gold)]
+           hover:bg-[rgba(200,150,46,0.15)];
+  }
+  .nav-item-active {
+    @apply text-[var(--color-brand-gold)]
+           bg-[rgba(200,150,46,0.22)]
+           underline underline-offset-4 decoration-2
+           decoration-[var(--color-brand-gold)];
   }
 
-  /* Filter Pills */
+  /* ────────────────────────────────────────────────────
+     FILTER PILLS  (type + deity filters, tab toggles)
+     Tactile press feel, satisfying active fill
+  ──────────────────────────────────────────────────── */
   .filter-pill {
-    @apply px-5 py-2 rounded-[24px] border-[1.5px] transition-all duration-200 ease-in-out active:scale-[0.97] whitespace-nowrap text-sm font-medium;
-  }
-  .filter-pill-active {
-    @apply bg-[#C8962E] border-[#C8962E] text-white shadow-inner;
+    @apply px-5 py-2 rounded-[24px] border-[1.5px]
+           text-sm font-semibold whitespace-nowrap cursor-pointer select-none
+           transition-all duration-200 ease-in-out
+           active:scale-[0.97] active:translate-y-0;
   }
   .filter-pill-inactive {
-    @apply bg-white border-[var(--color-brand-gold)] text-[var(--color-brand-gold-dark)] hover:bg-[var(--color-brand-gold)]/10 hover:-translate-y-[1px];
+    @apply bg-white border-[var(--color-brand-gold-dark)] text-[var(--color-brand-gold-dark)]
+           hover:bg-[rgba(200,150,46,0.08)]
+           hover:-translate-y-[1px]
+           hover:shadow-sm;
+  }
+  .filter-pill-active {
+    @apply bg-[#C8962E] border-[#C8962E] text-white
+           shadow-[inset_0_2px_5px_rgba(0,0,0,0.18)]
+           -translate-y-[1px];
   }
 
-  /* Scripture Layer Toggles */
+  /* ────────────────────────────────────────────────────
+     SCRIPTURE LAYER TOGGLES
+     Left-to-right background fill slide when toggling.
+     ON  = gold filled pill, white text, gold glow
+     OFF = cream bg, gold border, gold text
+  ──────────────────────────────────────────────────── */
   .toggle-switch {
-    @apply relative overflow-hidden px-4 py-2 rounded-full border transition-all duration-200 ease-in-out active:scale-[0.97] z-10 text-sm font-medium;
+    @apply relative overflow-hidden
+           px-5 py-2 rounded-full border text-sm font-semibold
+           cursor-pointer select-none
+           transition-colors duration-200 ease-in-out
+           active:scale-[0.97] z-10;
   }
+  /* The sliding fill layer */
   .toggle-switch::before {
     content: '';
-    @apply absolute inset-0 bg-[var(--color-brand-gold)] -z-10 transition-transform duration-200 ease-in-out origin-left;
+    @apply absolute inset-0 bg-[var(--color-brand-gold-dark)] -z-10
+           transition-transform duration-200 ease-in-out origin-left;
   }
   .toggle-switch-on {
-    @apply border-[var(--color-brand-gold)] text-white shadow-[0_0_10px_rgba(200,150,46,0.4)];
+    @apply border-[var(--color-brand-gold-dark)] text-white
+           shadow-[0_0_12px_rgba(200,150,46,0.45)];
   }
   .toggle-switch-on::before {
     @apply scale-x-100;
   }
   .toggle-switch-off {
-    @apply bg-[#FFFDF0] border-[var(--color-brand-gold)] text-[var(--color-brand-gold-dark)];
+    @apply bg-[#FFFDF0] border-[var(--color-brand-gold-dark)] text-[var(--color-brand-gold-dark)];
   }
   .toggle-switch-off::before {
     @apply scale-x-0;
   }
 
-  /* CTA Buttons */
+  /* ────────────────────────────────────────────────────
+     CTA BUTTONS  (gold filled — Explore Mantras, Subscribe, Add to Cart)
+     Depth shadow + lift on hover + press on click
+  ──────────────────────────────────────────────────── */
   .cta-button {
-    @apply bg-[var(--color-brand-gold)] text-[var(--color-brand-purple)] font-bold transition-all duration-200 ease-in-out shadow-[0_4px_12px_rgba(245,197,24,0.3)] hover:-translate-y-[2px] hover:shadow-[0_6px_16px_rgba(245,197,24,0.4)] active:translate-y-[1px] active:shadow-[0_2px_6px_rgba(245,197,24,0.3)] active:scale-[0.98];
+    @apply bg-[var(--color-brand-gold)] text-[var(--color-brand-purple)] font-bold
+           cursor-pointer select-none
+           transition-all duration-200 ease-in-out
+           shadow-[0_4px_14px_rgba(245,197,24,0.35)]
+           hover:-translate-y-[2px]
+           hover:shadow-[0_7px_18px_rgba(245,197,24,0.48)]
+           hover:brightness-105
+           active:translate-y-[1px]
+           active:shadow-[0_2px_6px_rgba(245,197,24,0.28)]
+           active:scale-[0.98]
+           active:brightness-100;
   }
 
-  /* Secondary Buttons */
+  /* ────────────────────────────────────────────────────
+     SECONDARY BUTTONS  (outlined — Visit Shop, View Product)
+     Border thickens, faint gold fill, press scale
+  ──────────────────────────────────────────────────── */
   .secondary-button {
-    @apply border-[1.5px] border-[var(--color-brand-gold)] text-[var(--color-brand-gold-dark)] transition-all duration-200 ease-in-out hover:border-2 hover:bg-[var(--color-brand-gold)]/5 active:scale-[0.98];
+    @apply border-[1.5px] border-[var(--color-brand-gold-dark)] text-[var(--color-brand-gold-dark)]
+           font-semibold cursor-pointer select-none
+           transition-all duration-200 ease-in-out
+           hover:border-2
+           hover:bg-[rgba(200,150,46,0.06)]
+           hover:-translate-y-[1px]
+           hover:shadow-sm
+           active:scale-[0.97]
+           active:translate-y-0;
   }
 
-  /* Card Hover Effects */
+  /* ────────────────────────────────────────────────────
+     INTERACTIVE CARDS  (all clickable cards)
+     Lift + shadow bloom + gold border highlight
+  ──────────────────────────────────────────────────── */
   .interactive-card {
-    @apply transition-all duration-200 ease-in-out hover:-translate-y-[2px] hover:shadow-md hover:border-[var(--color-brand-gold)]/50 active:scale-[0.98];
+    @apply cursor-pointer
+           transition-all duration-200 ease-in-out
+           hover:-translate-y-[3px]
+           hover:shadow-[0_8px_24px_rgba(0,0,0,0.10)]
+           hover:border-[var(--color-brand-gold-dark)]/60
+           active:translate-y-0
+           active:scale-[0.98]
+           active:shadow-sm;
   }
 
-  /* Deity Cards */
+  /* ────────────────────────────────────────────────────
+     DEITY CARDS  (Home page deity row — stronger lift)
+  ──────────────────────────────────────────────────── */
   .deity-card {
-    @apply transition-all duration-200 ease-in-out hover:-translate-y-1 hover:shadow-lg hover:border-[var(--color-brand-gold)] active:scale-[0.98];
+    @apply cursor-pointer
+           transition-all duration-200 ease-in-out
+           hover:-translate-y-[5px]
+           hover:shadow-[0_10px_28px_rgba(0,0,0,0.14)]
+           hover:border-[var(--color-brand-gold)]
+           hover:border-2
+           active:translate-y-0
+           active:scale-[0.97]
+           active:shadow-sm;
   }
 }
 
+
+/* ═══════════════════════════════════════════════════════════════
+   NEUROMORPHIC UI SYSTEM
+   Warm cream-based light mode. Deep purple dark mode.
+   Brand gold / purple palette preserved in both modes.
+   ═══════════════════════════════════════════════════════════════ */
+
+/* ── CSS Custom Properties ── */
+:root {
+  --neu-shadow-dark:  #D9C4A3;  /* warm amber-tinted dark shadow   */
+  --neu-shadow-light: #FFFFFF;  /* pure white highlight             */
+  --neu-bg:           #FFF8F0;  /* matches --color-brand-bg         */
+}
+
+/* ── Dark mode overrides ── */
+.dark {
+  --neu-shadow-dark:  #06010E;  /* near-black purple shadow          */
+  --neu-shadow-light: #261050;  /* elevated purple highlight         */
+  --neu-bg:           #110728;  /* deep purple page background       */
+  --color-brand-bg:   #110728;
+  --color-brand-text: #EDE0FF;
+}
+
+/* ── Dark mode: body ── */
+.dark body {
+  background-color: var(--color-brand-bg);
+  color: var(--color-brand-text);
+}
+
+/* ── Dark mode: headings ── */
+.dark h1,
+.dark h2,
+.dark h3,
+.dark h4,
+.dark h5,
+.dark h6 { color: #E0CFFF; }
+
+/* ── Dark mode: Tailwind bg utilities ── */
+.dark .bg-white         { background-color: #1C0A42 !important; }
+.dark .bg-gray-50       { background-color: #160836 !important; }
+.dark .bg-gray-100      { background-color: #1E0E44 !important; }
+.dark .bg-amber-50      { background-color: #1C0A42 !important; }
+.dark .bg-purple-50     { background-color: #160836 !important; }
+
+/* ── Dark mode: Tailwind text utilities ── */
+.dark .text-gray-900    { color: #EDE0FF !important; }
+.dark .text-gray-800    { color: #E0CFFF !important; }
+.dark .text-gray-700    { color: #D4BFFF !important; }
+.dark .text-gray-600    { color: #BCA8E8 !important; }
+.dark .text-gray-500    { color: #9E88CC !important; }
+.dark .text-gray-400    { color: #8070AA !important; }
+.dark .text-purple-900  { color: #EDE0FF !important; }
+.dark .text-purple-800  { color: #E0CFFF !important; }
+.dark .text-purple-700  { color: #D4BFFF !important; }
+
+/* ── Dark mode: Tailwind border utilities ── */
+.dark .border-gray-100  { border-color: rgba(200,150,46,0.15) !important; }
+.dark .border-gray-200  { border-color: rgba(200,150,46,0.20) !important; }
+.dark .border-gray-300  { border-color: rgba(200,150,46,0.25) !important; }
+
+/* ── Dark mode: filter pills & toggles ── */
+.dark .filter-pill-inactive    { background-color: #1C0A42 !important; }
+.dark .toggle-switch-off       { background-color: #1C0A42 !important; }
+
+/* ── Dark mode: secondary button ── */
+.dark .secondary-button        { color: #F5C518; border-color: #C8962E; }
+
+/* ── Neuromorphic utility classes ── */
+
+/* Raised / protruding surface — use on cards, panels */
+.neu-surface {
+  background:  var(--neu-bg);
+  box-shadow:
+     6px  6px 16px var(--neu-shadow-dark),
+    -6px -6px 16px var(--neu-shadow-light);
+  border-radius: 20px;
+  transition: box-shadow 200ms ease;
+}
+
+/* Smaller raised element (inputs, small buttons) */
+.neu-raised {
+  box-shadow:
+     4px  4px 10px var(--neu-shadow-dark),
+    -4px -4px 10px var(--neu-shadow-light);
+}
+
+/* Recessed / pressed-in look */
+.neu-inset {
+  box-shadow:
+    inset  4px  4px  8px var(--neu-shadow-dark),
+    inset -4px -4px  8px var(--neu-shadow-light);
+}
+
+/* Larger card (section wrappers, page panels) */
+.neu-card {
+  background:    var(--neu-bg);
+  box-shadow:
+     8px  8px 20px var(--neu-shadow-dark),
+    -8px -8px 20px var(--neu-shadow-light);
+  border-radius: 24px;
+  transition:    box-shadow 200ms ease, transform 200ms ease;
+}
+.neu-card:hover {
+  box-shadow:
+     12px  12px 28px var(--neu-shadow-dark),
+    -12px -12px 28px var(--neu-shadow-light);
+}
+
+/* ── Neuromorphic shadow injected into interactive-card & deity-card ── */
+.interactive-card {
+  box-shadow:
+     5px  5px 14px var(--neu-shadow-dark),
+    -5px -5px 14px var(--neu-shadow-light);
+}
+.interactive-card:hover {
+  box-shadow:
+     9px  9px 22px var(--neu-shadow-dark),
+    -9px -9px 22px var(--neu-shadow-light);
+}
+.deity-card {
+  box-shadow:
+     6px  6px 16px var(--neu-shadow-dark),
+    -6px -6px 16px var(--neu-shadow-light);
+}
+.deity-card:hover {
+  box-shadow:
+     11px  11px 26px var(--neu-shadow-dark),
+    -11px -11px 26px var(--neu-shadow-light);
+}
+
+/* ── Theme Toggle Button ── */
+.theme-toggle-btn {
+  width:           44px;
+  height:          44px;
+  border-radius:   14px;
+  border:          none;
+  display:         flex;
+  align-items:     center;
+  justify-content: center;
+  cursor:          pointer;
+  flex-shrink:     0;
+  background:      var(--neu-bg);
+  color:           #C8962E;
+  box-shadow:
+     4px  4px 10px var(--neu-shadow-dark),
+    -4px -4px 10px var(--neu-shadow-light);
+  transition:      transform 150ms ease, box-shadow 150ms ease, background 300ms ease, color 300ms ease;
+}
+.theme-toggle-btn:hover {
+  transform:  translateY(-1px);
+  box-shadow:
+     6px  6px 14px var(--neu-shadow-dark),
+    -6px -6px 14px var(--neu-shadow-light);
+}
+.theme-toggle-btn:active {
+  transform:  translateY(1px);
+  box-shadow:
+    inset  3px  3px 7px var(--neu-shadow-dark),
+    inset -3px -3px 7px var(--neu-shadow-light);
+}
+.dark .theme-toggle-btn {
+  background: #1C0A42;
+  color:      #F5C518;
+}
+
+/* ── Smooth global dark/light transition ── */
+*,
+*::before,
+*::after {
+  transition-property:      background-color, border-color, color, box-shadow, fill, stroke;
+  transition-duration:      280ms;
+  transition-timing-function: ease;
+}
+/* But don't let transitions slow down hover/press animations */
+.cta-button,
+.secondary-button,
+.interactive-card,
+.deity-card,
+.nav-item,
+.filter-pill,
+.toggle-switch,
+.theme-toggle-btn {
+  transition-property:      background-color, border-color, color, box-shadow,
+                            transform, opacity, filter;
+  transition-duration:      200ms;
+  transition-timing-function: ease;
+}
+
+/* ── Reduced motion: disable theme transition ── */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+  }
+}
 body {
   background-color: var(--color-brand-bg);
   color: var(--color-brand-text);
@@ -136,4 +412,110 @@ h1, h2, h3, h4, h5, h6 {
 
 .footer-link:hover::after {
   width: 100%;
+}
+
+/* Social Icon Circles */
+.footer-social-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  border: 2px solid #C8962E;
+  color: #C8962E;
+  flex-shrink: 0;
+  transition: background-color 200ms ease, color 200ms ease, transform 200ms ease;
+}
+
+.footer-social-icon:hover {
+  background-color: #C8962E;
+  color: #ffffff;
+  transform: scale(1.1);
+}
+
+/* ══════════════════════════════════════════════════════════
+   SCROLL REVEAL ANIMATIONS — IntersectionObserver driven
+   Elements start hidden; JS adds .is-visible when in viewport.
+   Works in ALL modern browsers, immune to overflow containers.
+   ══════════════════════════════════════════════════════════ */
+
+/* ── Shared transition speed ── */
+.scroll-reveal,
+.scroll-scale,
+.scroll-from-right,
+.scroll-heading,
+.scroll-fade,
+.scroll-footer-layer,
+.scroll-verse {
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+  will-change: opacity, transform;
+}
+
+/* ── Initial (hidden) states ── */
+.scroll-reveal    { opacity: 0; transform: translateY(30px) rotate(1.5deg); }
+.scroll-scale     { opacity: 0; transform: scale(0.95); }
+.scroll-from-right{ opacity: 0; transform: translateX(40px); }
+.scroll-heading   { opacity: 0; transform: translateY(14px); transition-duration: 0.5s; }
+.scroll-fade      { opacity: 0; transition-duration: 0.7s; }
+.scroll-footer-layer { opacity: 0; transform: translateY(24px); transition-duration: 0.7s; }
+.scroll-verse     { opacity: 0; transform: translateY(20px); transition-duration: 0.55s; }
+
+/* ── Visible (animated-in) states — added by IntersectionObserver ── */
+.scroll-reveal.is-visible,
+.scroll-scale.is-visible,
+.scroll-from-right.is-visible,
+.scroll-heading.is-visible,
+.scroll-fade.is-visible,
+.scroll-footer-layer.is-visible,
+.scroll-verse.is-visible {
+  opacity: 1;
+  transform: none;
+}
+
+/* ── Stagger delays — placed on individual cards ── */
+.scroll-delay-1 { transition-delay: 0ms;   }
+.scroll-delay-2 { transition-delay: 100ms; }
+.scroll-delay-3 { transition-delay: 200ms; }
+.scroll-delay-4 { transition-delay: 300ms; }
+.scroll-delay-5 { transition-delay: 400ms; }
+.scroll-delay-6 { transition-delay: 500ms; }
+.scroll-delay-7 { transition-delay: 600ms; }
+.scroll-delay-8 { transition-delay: 700ms; }
+
+/* Tighter stagger (150ms) for 3-column grids */
+.scroll-stagger-1 { transition-delay: 0ms;   }
+.scroll-stagger-2 { transition-delay: 150ms; }
+.scroll-stagger-3 { transition-delay: 300ms; }
+.scroll-stagger-4 { transition-delay: 450ms; }
+
+/* ══════════════════════════════════════════════════════════
+   REDUCED MOTION — skip all transitions, show immediately
+   ══════════════════════════════════════════════════════════ */
+@media (prefers-reduced-motion: reduce) {
+  .scroll-reveal,
+  .scroll-scale,
+  .scroll-from-right,
+  .scroll-heading,
+  .scroll-fade,
+  .scroll-footer-layer,
+  .scroll-verse {
+    opacity: 1 !important;
+    transform: none !important;
+    transition: none !important;
+  }
+}
+
+/* ── Deity tab bar — hide scrollbar, keep scroll ──────────── */
+.deity-tab-scrollbar {
+  scrollbar-width: none;          /* Firefox */
+  -ms-overflow-style: none;       /* IE / Edge */
+}
+.deity-tab-scrollbar::-webkit-scrollbar {
+  display: none;                  /* Chrome / Safari / Opera */
+}
+
+/* Deity tab base border drawn on bottom of flex strip */
+.deity-tab {
+  border-bottom-style: solid;
 }

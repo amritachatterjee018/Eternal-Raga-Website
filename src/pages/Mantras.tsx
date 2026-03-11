@@ -69,11 +69,11 @@ export default function Mantras() {
     return categoryMatch && strictDeityMatch && searchMatch;
   });
 
-  const renderMantraCard = (mantra: any) => (
+  const renderMantraCard = (mantra: any, idx: number = 0) => (
     <Link
       key={mantra.id}
       to={mantra.link}
-      className="interactive-card bg-white p-5 rounded-2xl border border-gray-200 shadow-sm group flex items-center justify-between"
+      className={`scroll-verse scroll-delay-${(idx % 6) + 1} interactive-card bg-white p-5 rounded-2xl border border-gray-200 shadow-sm group flex items-center justify-between`}
     >
       <div className="flex items-center gap-4">
         <div className="w-10 h-10 rounded-full overflow-hidden flex-shrink-0 border border-gray-100">
@@ -103,7 +103,7 @@ export default function Mantras() {
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-      <div className="text-center mb-10">
+      <div className="scroll-heading text-center mb-10">
         <h1 className="text-4xl md:text-5xl font-serif text-[var(--color-brand-purple)] mb-4">
           Mantras & Stotrams <span className="hindi-text ml-2">मंत्र और स्तोत्र</span>
         </h1>
@@ -185,7 +185,7 @@ export default function Mantras() {
                 शिव Shiva
               </h2>
               <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-                {filteredMantras.filter(m => m.deity === 'Shiva').map(renderMantraCard)}
+                {filteredMantras.filter(m => m.deity === 'Shiva').map((m, i) => renderMantraCard(m, i))}
               </div>
             </div>
 
@@ -194,7 +194,7 @@ export default function Mantras() {
                 कृष्ण/विष्णु Krishna & Vishnu
               </h2>
               <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-                {filteredMantras.filter(m => m.deity === 'Krishna' || m.deity === 'Vishnu').map(renderMantraCard)}
+                {filteredMantras.filter(m => m.deity === 'Krishna' || m.deity === 'Vishnu').map((m, i) => renderMantraCard(m, i))}
               </div>
             </div>
 
@@ -203,13 +203,13 @@ export default function Mantras() {
                 दुर्गा/देवी Durga & Devi
               </h2>
               <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-                {filteredMantras.filter(m => m.deity === 'Durga' || m.deity === 'Lakshmi').map(renderMantraCard)}
+                {filteredMantras.filter(m => m.deity === 'Durga' || m.deity === 'Lakshmi').map((m, i) => renderMantraCard(m, i))}
               </div>
             </div>
           </>
         ) : (
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-            {filteredMantras.map(renderMantraCard)}
+            {filteredMantras.map((m, i) => renderMantraCard(m, i))}
             {filteredMantras.length === 0 && (
               <div className="col-span-full text-center py-12 text-gray-500 bg-gray-50 rounded-2xl border border-gray-200">
                 No matching sacred texts found. Try adjusting your filters.
@@ -220,7 +220,7 @@ export default function Mantras() {
       </div>
 
       {/* Bottom CTA */}
-      <div className="bg-[var(--color-brand-purple)] rounded-2xl p-8 text-center text-white shadow-md">
+      <div className="scroll-scale bg-[var(--color-brand-purple)] rounded-2xl p-8 text-center text-white shadow-md">
         <h3 className="text-2xl font-serif mb-4">Can't find what you're looking for?</h3>
         <p className="text-white/80 mb-6 max-w-lg mx-auto">
           We're adding new content every week. Subscribe to get notified when new mantras and stotrams are added.

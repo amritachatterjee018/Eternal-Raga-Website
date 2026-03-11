@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import { ChevronRight, PlayCircle, ShoppingBag, ArrowRight } from 'lucide-react';
+import { PlayCircle, ShoppingBag, ArrowRight, Headphones, Music2 } from 'lucide-react';
+import DeityTabBar from '../components/DeityTabBar';
 
 const HERO_SLIDES = [
   {
@@ -53,19 +54,6 @@ const HERO_SLIDES = [
   },
 ];
 
-const DEITIES = [
-  { name: 'Shiva', hindi: 'शिव', epithet: 'The Great God · महादेव', stats: '24 Mantras · 12 Temples · 108 Names', image: 'https://picsum.photos/seed/shiva-card/200/150' },
-  { name: 'Krishna', hindi: 'कृष्ण', epithet: 'The Divine Lover · श्याम', stats: '18 Mantras · 8 Temples · 108 Names', image: 'https://picsum.photos/seed/krishna-card/200/150' },
-  { name: 'Ganesh', hindi: 'गणेश', epithet: 'Remover of Obstacles · विघ्नहर्ता', stats: '12 Mantras · 8 Temples · 108 Names', image: 'https://picsum.photos/seed/ganesh-card/200/150' },
-  { name: 'Durga', hindi: 'दुर्गा', epithet: 'The Invincible · भवानी', stats: '9 Mantras · 51 Shakti Peethas', image: 'https://picsum.photos/seed/durga-card/200/150' },
-  { name: 'Ram', hindi: 'राम', epithet: 'Maryada Purushottam · मर्यादा पुरुषोत्तम', stats: '10 Mantras · 4 Temples', image: 'https://picsum.photos/seed/ram-card/200/150' },
-  { name: 'Lakshmi', hindi: 'लक्ष्मी', epithet: 'Goddess of Prosperity · धन की देवी', stats: '8 Mantras · 108 Names', image: 'https://picsum.photos/seed/lakshmi-card/200/150' },
-  { name: 'Hanuman', hindi: 'हनुमान', epithet: 'The Mighty Devotee · बजरंगबली', stats: '8 Mantras · 5 Temples', image: 'https://picsum.photos/seed/hanuman-card/200/150' },
-  { name: 'Saraswati', hindi: 'सरस्वती', epithet: 'Goddess of Knowledge · विद्या की देवी', stats: '6 Mantras · 108 Names', image: 'https://picsum.photos/seed/saraswati-card/200/150' },
-  { name: 'Vishnu', hindi: 'विष्णु', epithet: 'The Preserver · जगत पालक', stats: '12 Mantras · 15 Temples · 108 Names', image: 'https://picsum.photos/seed/vishnu-card/200/150' },
-  { name: 'Kali', hindi: 'काली', epithet: 'The Fierce Mother · महाकाली', stats: '6 Mantras · Shakti Peethas', image: 'https://picsum.photos/seed/kali-card/200/150' },
-  { name: 'Kartikeya', hindi: 'कार्तिकेय', epithet: 'God of War · मुरुगन', stats: '5 Mantras · 6 Temples', image: 'https://picsum.photos/seed/kartikeya-card/200/150' },
-];
 
 const GYAN_ARTICLES = [
   { title: 'The Science Behind Om Chanting', category: 'Meditation', image: 'https://picsum.photos/seed/om/300/200' },
@@ -113,6 +101,8 @@ const TESTIMONIALS = [
   }
 ];
 
+
+
 export default function Home() {
   const [currentSlide, setCurrentSlide] = useState(0);
   const [activeTestimonial, setActiveTestimonial] = useState(0);
@@ -135,7 +125,7 @@ export default function Home() {
 
   return (
     <div className="flex flex-col">
-      {/* Hero Carousel */}
+      {/* Hero Carousel — NO animation, already has its own auto-scroll */}
       <section className="relative h-[500px] w-full overflow-hidden bg-[var(--color-brand-purple)]">
         {HERO_SLIDES.map((slide, index) => (
           <div
@@ -190,54 +180,14 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Deity Cards Section */}
-      <section id="deities" className="py-12 bg-white">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex justify-between items-end mb-8">
-            <div>
-              <h2 className="text-3xl font-serif text-[var(--color-brand-purple)]">
-                Explore by Deity <span className="hindi-text text-2xl ml-2">देवता</span>
-              </h2>
-            </div>
-            <a href="#deities" className="text-[var(--color-brand-purple)] font-medium hover:text-[var(--color-brand-gold-dark)] flex items-center gap-1">
-              View All <ArrowRight size={16} />
-            </a>
-          </div>
-
-          <div className="flex overflow-x-auto gap-4 md:gap-6 pb-6 hide-scrollbar snap-x snap-mandatory">
-            {DEITIES.map((deity) => (
-              <Link
-                key={deity.name}
-                to={`/deities/${deity.name.toLowerCase()}`}
-                className="deity-card flex-none w-[calc(50%-8px)] md:w-[calc(33.333%-16px)] lg:w-[calc(18.5%)] h-[250px] rounded-xl overflow-hidden bg-white border border-gray-200 shadow-sm snap-start group flex flex-col"
-              >
-                <div className="h-[60%] overflow-hidden">
-                  <img
-                    src={deity.image}
-                    alt={deity.name}
-                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                    referrerPolicy="no-referrer"
-                  />
-                </div>
-                <div className="h-[40%] p-4 flex flex-col justify-center bg-[var(--color-brand-purple)] text-white">
-                  <h3 className="text-lg font-serif mb-1">
-                    {deity.name} <span className="text-[var(--color-brand-gold)] text-sm ml-1">{deity.hindi}</span>
-                  </h3>
-                  <p className="text-xs text-white/80 mb-2 truncate">{deity.epithet}</p>
-                  <p className="text-[10px] text-white/60 truncate">{deity.stats}</p>
-                </div>
-              </Link>
-            ))}
-          </div>
-        </div>
-      </section>
+      <DeityTabBar />
 
       {/* Daily Mantra & Featured Video */}
       <section className="py-12 bg-[var(--color-brand-bg)]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-            {/* Daily Mantra Card */}
-            <div className="bg-white rounded-2xl border border-[var(--color-brand-gold-dark)] shadow-md p-8 flex flex-col justify-center items-center text-center">
+            {/* Daily Mantra Card — scale + fade */}
+            <div className="scroll-scale bg-white rounded-2xl border border-[var(--color-brand-gold-dark)] shadow-md p-8 flex flex-col justify-center items-center text-center">
               <h3 className="text-sm font-bold tracking-widest text-[var(--color-brand-gold-dark)] uppercase mb-6">Daily Mantra</h3>
               <p className="text-5xl font-serif hindi-text mb-4">ॐ नमः शिवाय</p>
               <p className="text-lg italic text-gray-600 mb-4">Om Namah Shivaya</p>
@@ -252,8 +202,8 @@ export default function Home() {
               </Link>
             </div>
 
-            {/* Featured Video */}
-            <div className="interactive-card rounded-2xl overflow-hidden shadow-md bg-black relative aspect-video flex items-center justify-center group cursor-pointer">
+            {/* Featured Video — slide up with slight delay */}
+            <div className="scroll-reveal scroll-delay-2 interactive-card rounded-2xl overflow-hidden shadow-md bg-black relative aspect-video flex items-center justify-center group cursor-pointer">
               <img
                 src="https://picsum.photos/seed/video/800/450?blur=1"
                 alt="Featured Video"
@@ -276,7 +226,7 @@ export default function Home() {
       <section className="py-12 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-end mb-8">
-            <h2 className="text-3xl font-serif text-[var(--color-brand-purple)]">
+            <h2 className="scroll-heading text-3xl font-serif text-[var(--color-brand-purple)]">
               Eternal Gyan <span className="hindi-text text-2xl ml-2">शाश्वत ज्ञान</span>
             </h2>
             <Link to="/eternal-gyan" className="text-[var(--color-brand-purple)] font-medium hover:text-[var(--color-brand-gold-dark)] flex items-center gap-1">
@@ -284,9 +234,14 @@ export default function Home() {
             </Link>
           </div>
 
+          {/* Article cards — staggered slide-up */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {GYAN_ARTICLES.map((article, index) => (
-              <Link key={index} to="/eternal-gyan" className="interactive-card group rounded-xl overflow-hidden border border-gray-200 shadow-sm bg-white">
+              <Link
+                key={index}
+                to="/eternal-gyan"
+                className={`scroll-reveal scroll-stagger-${index + 1} interactive-card group rounded-xl overflow-hidden border border-gray-200 shadow-sm bg-white`}
+              >
                 <div className="aspect-video overflow-hidden">
                   <img
                     src={article.image}
@@ -313,7 +268,7 @@ export default function Home() {
       <section className="py-12 bg-[var(--color-brand-bg)]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-end mb-8">
-            <h2 className="text-3xl font-serif text-[var(--color-brand-purple)]">
+            <h2 className="scroll-heading text-3xl font-serif text-[var(--color-brand-purple)]">
               Sacred Shop <span className="hindi-text text-2xl ml-2">पवित्र दुकान</span>
             </h2>
             <Link to="/shop" className="text-[var(--color-brand-purple)] font-medium hover:text-[var(--color-brand-gold-dark)] flex items-center gap-1">
@@ -321,14 +276,18 @@ export default function Home() {
             </Link>
           </div>
 
+          {/* Product cards — staggered slide-up with subtle rotation */}
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
             {SHOP_PRODUCTS.map((product, index) => (
-              <div key={index} className="interactive-card bg-white rounded-xl border border-gray-200 shadow-sm overflow-hidden flex flex-col">
-                <div className="aspect-square p-4 flex items-center justify-center bg-gray-50">
+              <div
+                key={index}
+                className={`scroll-reveal scroll-delay-${index + 1} interactive-card bg-white rounded-xl border border-gray-200 shadow-sm overflow-hidden flex flex-col`}
+              >
+                <div className="aspect-square p-4 flex items-center justify-center bg-gray-50 dark:bg-[#1C0A42]/50">
                   <img
                     src={product.image}
                     alt={product.name}
-                    className="max-w-full max-h-full object-contain mix-blend-multiply"
+                    className="max-w-full max-h-full object-contain"
                     referrerPolicy="no-referrer"
                   />
                 </div>
@@ -353,13 +312,14 @@ export default function Home() {
       {/* Testimonials */}
       <section className="py-16 bg-white overflow-hidden">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          {/* Heading — gentle fade */}
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-serif text-[var(--color-brand-purple)]">
+            <h2 className="scroll-fade text-3xl font-serif text-[var(--color-brand-purple)]">
               What Devotees Say <span className="hindi-text text-2xl ml-2">भक्तों के विचार</span>
             </h2>
           </div>
 
-          <div 
+          <div
             className="relative"
             onMouseEnter={() => setIsTestimonialHovered(true)}
             onMouseLeave={() => setIsTestimonialHovered(false)}
@@ -393,6 +353,52 @@ export default function Home() {
                 />
               ))}
             </div>
+          </div>
+        </div>
+      </section>
+
+      {/* ── LISTEN & PODCAST TEASER ────────────────────── */}
+      <section className="scroll-scale bg-gradient-to-br from-[var(--color-brand-purple)] via-[#2D1060] to-[#1B0A3C]
+                          py-16 px-4 sm:px-6 lg:px-8">
+        <div className="max-w-5xl mx-auto flex flex-col md:flex-row items-center gap-8">
+          {/* Icon cluster */}
+          <div className="flex items-center justify-center gap-4 flex-shrink-0">
+            <div className="w-20 h-20 rounded-2xl bg-[var(--color-brand-gold)]/20 border border-[var(--color-brand-gold)]/30
+                            flex items-center justify-center neu-raised">
+              <Headphones size={36} className="text-[var(--color-brand-gold)]" />
+            </div>
+            <div className="flex flex-col gap-3">
+              <div className="w-14 h-14 rounded-xl bg-white/10 border border-white/20 flex items-center justify-center">
+                <Music2 size={24} className="text-white/70" />
+              </div>
+              <div className="w-14 h-14 rounded-xl bg-white/10 border border-white/20 flex items-center justify-center">
+                <PlayCircle size={24} className="text-white/70" />
+              </div>
+            </div>
+          </div>
+
+          {/* Text */}
+          <div className="text-center md:text-left flex-1">
+            <p className="text-[var(--color-brand-gold)] text-sm font-medium mb-2 tracking-wide uppercase">Now Available</p>
+            <h2 className="text-3xl md:text-4xl font-serif font-bold" style={{ color: '#C8962E' }}>
+              Listen · सुनें
+            </h2>
+            <p className="text-white/60 mt-2 text-sm leading-relaxed">
+              Devotional podcasts, curated playlists, guided meditations, and our YouTube channel —
+              all in one place.
+            </p>
+          </div>
+
+          {/* CTA */}
+          <div className="flex-shrink-0">
+            <Link
+              to="/listen"
+              className="cta-button inline-flex items-center gap-2 px-8 py-3 rounded-xl font-bold text-sm whitespace-nowrap"
+            >
+              <Headphones size={16} />
+              Go to Listen
+              <ArrowRight size={16} />
+            </Link>
           </div>
         </div>
       </section>
