@@ -2,7 +2,8 @@
 
 import React, { useState } from 'react';
 import Link from 'next/link';
-import { Youtube, Instagram, Facebook, Music2, Apple, ChevronDown } from 'lucide-react';
+import { ChevronDown } from 'lucide-react';
+import SocialBar from '@/src/components/SocialBar';
 
 export default function Footer() {
   const [openSection, setOpenSection] = useState<string | null>(null);
@@ -48,18 +49,6 @@ export default function Footer() {
               <p className="text-xs text-[#FFFDF0] mb-8">
                 A <a href="#" className="text-[var(--color-brand-gold)] underline hover:text-yellow-400 transition-colors">Creative Chronix</a> Product
               </p>
-              <p className="text-xs font-bold tracking-widest uppercase text-[#C8962E] mb-3">Follow Us · हमें फॉलो करें</p>
-              <div className="flex flex-row gap-4">
-                {[
-                  { icon: <Youtube size={24} />, label: 'YouTube' },
-                  { icon: <Instagram size={24} />, label: 'Instagram' },
-                  { icon: <Facebook size={24} />, label: 'Facebook' },
-                  { icon: <Music2 size={24} />, label: 'Spotify' },
-                  { icon: <Apple size={24} />, label: 'Apple Music' },
-                ].map(({ icon, label }) => (
-                  <a key={label} href="#" aria-label={label} className="footer-social-icon">{icon}</a>
-                ))}
-              </div>
             </div>
 
             {/* Column 2: Quick Links */}
@@ -124,17 +113,6 @@ export default function Footer() {
               <p className="text-xs text-[#FFFDF0] mb-8">
                 A <a href="#" className="text-[var(--color-brand-gold)] underline hover:text-yellow-400 transition-colors">Creative Chronix</a> Product
               </p>
-              <div className="flex flex-row gap-4 justify-center flex-wrap">
-                {[
-                  { icon: <Youtube size={24} />, label: 'YouTube' },
-                  { icon: <Instagram size={24} />, label: 'Instagram' },
-                  { icon: <Facebook size={24} />, label: 'Facebook' },
-                  { icon: <Music2 size={24} />, label: 'Spotify' },
-                  { icon: <Apple size={24} />, label: 'Apple Music' },
-                ].map(({ icon, label }) => (
-                  <a key={label} href="#" aria-label={label} className="footer-social-icon">{icon}</a>
-                ))}
-              </div>
             </div>
 
             {([
@@ -180,6 +158,9 @@ export default function Footer() {
           </div>
         </div>
       </div>
+
+      {/* Layer 3: Social Bar */}
+      <SocialBar />
 
       {/* Gold divider */}
       <div className="w-full" style={{ height: '1px', background: 'rgba(200,150,46,0.20)' }} />
