@@ -1,0 +1,223 @@
+{
+  "id": "om_jai_jagdish_hare",
+  "title_en": "Om Jai Jagdish Hare",
+  "title_hi": "ॐ जय जगदीश हरे",
+  "deity": "universal",
+  "author": "Pandit Shardha Ram Phillauri",
+  "type": "aarti",
+  "total_verses": 9,
+  "sections": [
+    "chorus",
+    "verse"
+  ],
+  "verses": [
+    {
+      "verse_number": 0,
+      "section": "chorus",
+      "hindi_text": "ॐ जय जगदीश हरे, स्वामी जय जगदीश हरे।\nभक्त जनों के संकट, दास जनों के संकट,\nक्षण में दूर करे।\nॐ जय जगदीश हरे।",
+      "transliteration": "Oṃ jaya jagadīśa hare, svāmī jaya jagadīśa hare.\nBhakta janõ ke saṅkaṭa, dāsa janõ ke saṅkaṭa,\nkṣaṇa meṃ dūra kare.\nOṃ jaya jagadīśa hare.",
+      "word_by_word": {
+        "oṃ": "sacred primordial sound",
+        "jaya": "victory, glory",
+        "jagadīśa": "Lord of the universe",
+        "hare": "O Lord (Hari)",
+        "svāmī": "Master, Lord",
+        "bhakta janõ": "devotees, faithful people",
+        "saṅkaṭa": "troubles, difficulties",
+        "dāsa janõ": "humble servants",
+        "kṣaṇa meṃ": "in a moment",
+        "dūra kare": "removes far away"
+      },
+      "meaning_en": "Glory to You, O Lord of the universe! You remove the troubles of Your devotees and humble servants in an instant.",
+      "meaning_hi": "हे जगत के ईश्वर, आपकी जय हो! आप भक्तों और दासों के सब संकट पल भर में दूर कर देते हैं।",
+      "modern_context_en": "This chorus, sung together by families, is the unifying heartbeat of Hindu evening prayer — whether in a Varanasi temple or a living room in New Jersey. It reminds us that no crisis is too big for divine grace.",
+      "modern_context_hi": "यह धुन परिवार को एक साथ जोड़ती है — चाहे वाराणसी का मंदिर हो या न्यू जर्सी का घर। यह याद दिलाती है कि ईश्वर की कृपा से कोई संकट बड़ा नहीं।"
+    },
+    {
+      "verse_number": 1,
+      "section": "verse",
+      "hindi_text": "जो ध्यावे फल पावे, दुख बिनसे मन का, स्वामी दुख बिनसे मन का।\nसुख सम्पत्ति घर आवे, सुख सम्पत्ति घर आवे,\nकष्ट मिटे तन का।\nॐ जय जगदीश हरे।",
+      "transliteration": "Jo dhyāve phala pāve, dukha binase mana kā, svāmī dukha binase mana kā.\nSukha sampatti ghara āve, sukha sampatti ghara āve,\nkaṣṭa miṭe tana kā.\nOṃ jaya jagadīśa hare.",
+      "word_by_word": {
+        "jo": "whoever",
+        "dhyāve": "meditates",
+        "phala pāve": "obtains the fruit, reward",
+        "dukha": "sorrow",
+        "binase": "is destroyed",
+        "mana kā": "of the mind",
+        "sukha": "happiness",
+        "sampatti": "prosperity, wealth",
+        "ghara āve": "comes home",
+        "kaṣṭa": "suffering, pain",
+        "miṭe": "is removed",
+        "tana kā": "of the body"
+      },
+      "meaning_en": "Whoever meditates upon You receives divine reward — sorrow of the mind is destroyed. Happiness and prosperity come home, and all bodily suffering is removed.",
+      "meaning_hi": "जो आपका ध्यान करता है उसे फल मिलता है, मन का दुख नष्ट हो जाता है। घर में सुख-सम्पत्ति आती है और तन का कष्ट मिट जाता है।",
+      "modern_context_en": "For professionals dealing with burnout and anxiety abroad, this verse is a reminder that even five minutes of sincere meditation can bring mental peace and restore a sense of well-being to the entire household.",
+      "modern_context_hi": "विदेश में काम के तनाव और चिंता से जूझ रहे लोगों के लिए यह श्लोक याद दिलाता है कि पाँच मिनट का सच्चा ध्यान भी मन की शांति और घर की खुशहाली ला सकता है।"
+    },
+    {
+      "verse_number": 2,
+      "section": "verse",
+      "hindi_text": "मात पिता तुम मेरे, शरण गहूँ मैं किसकी, स्वामी शरण गहूँ मैं किसकी।\nतुम बिन और न दूजा, तुम बिन और न दूजा,\nआस करूँ मैं जिसकी।\nॐ जय जगदीश हरे।",
+      "transliteration": "Māta pitā tuma mere, śaraṇa gahūṃ maiṃ kisakī, svāmī śaraṇa gahūṃ maiṃ kisakī.\nTuma bina aura na dūjā, tuma bina aura na dūjā,\nāsa karūṃ maiṃ jisakī.\nOṃ jaya jagadīśa hare.",
+      "word_by_word": {
+        "māta": "mother",
+        "pitā": "father",
+        "tuma mere": "You are mine",
+        "śaraṇa": "refuge, shelter",
+        "gahūṃ": "I take, I hold",
+        "kisakī": "whose",
+        "tuma bina": "without You",
+        "aura na dūjā": "there is no other",
+        "āsa": "hope, expectation",
+        "karūṃ": "I place"
+      },
+      "meaning_en": "You are my mother and father — whose refuge shall I seek other than Yours? Without You there is no one else in whom I can place my hope.",
+      "meaning_hi": "आप ही मेरे माता-पिता हैं, आपके सिवा मैं किसकी शरण लूँ? आपके बिना कोई और नहीं जिस पर मैं आशा रखूँ।",
+      "modern_context_en": "Living thousands of miles from parents, many NRIs feel the ache of not having family nearby during tough times. This verse assures us that God fills every role — parent, guide, and protector — when loved ones are far away.",
+      "modern_context_hi": "जब माता-पिता हज़ारों मील दूर हों और कठिन समय में परिवार पास न हो, तो यह श्लोक आश्वस्त करता है कि ईश्वर माता-पिता, मार्गदर्शक और रक्षक — हर भूमिका निभाते हैं।"
+    },
+    {
+      "verse_number": 3,
+      "section": "verse",
+      "hindi_text": "तुम पूरण परमात्मा, तुम अन्तर्यामी, स्वामी तुम अन्तर्यामी।\nपारब्रह्म परमेश्वर, पारब्रह्म परमेश्वर,\nतुम सब के स्वामी।\nॐ जय जगदीश हरे।",
+      "transliteration": "Tuma pūraṇa paramātmā, tuma antaryāmī, svāmī tuma antaryāmī.\nPārabrahma parameśvara, pārabrahma parameśvara,\ntuma saba ke svāmī.\nOṃ jaya jagadīśa hare.",
+      "word_by_word": {
+        "pūraṇa": "complete, whole",
+        "paramātmā": "Supreme Soul",
+        "antaryāmī": "the inner knower, indweller",
+        "pārabrahma": "Supreme Brahman, the Absolute",
+        "parameśvara": "Supreme God",
+        "saba ke": "of everyone",
+        "svāmī": "Master, Lord"
+      },
+      "meaning_en": "You are the complete Supreme Soul, the knower of all hearts. You are the Supreme Brahman, the highest God — the Master of all beings.",
+      "meaning_hi": "आप पूर्ण परमात्मा हैं, सबके हृदय के जानने वाले अन्तर्यामी हैं। आप पारब्रह्म परमेश्वर हैं, सबके स्वामी हैं।",
+      "modern_context_en": "In a multicultural world where we meet people of every faith and background, this verse affirms a universal truth — one Supreme Being dwells within every heart, making all of humanity one family.",
+      "modern_context_hi": "बहुसांस्कृतिक दुनिया में जहाँ हर धर्म और पृष्ठभूमि के लोग मिलते हैं, यह श्लोक एक सार्वभौमिक सत्य बताता है — एक परमात्मा सबके हृदय में बसता है, सारी मानवता एक परिवार है।"
+    },
+    {
+      "verse_number": 4,
+      "section": "verse",
+      "hindi_text": "तुम करुणा के सागर, तुम पालनकर्ता, स्वामी तुम पालनकर्ता।\nमैं मूरख खल कामी, मैं सेवक तुम स्वामी,\nकृपा करो भर्ता।\nॐ जय जगदीश हरे।",
+      "transliteration": "Tuma karuṇā ke sāgara, tuma pālanakartā, svāmī tuma pālanakartā.\nMaiṃ mūrakha khala kāmī, maiṃ sevaka tuma svāmī,\nkṛpā karo bhartā.\nOṃ jaya jagadīśa hare.",
+      "word_by_word": {
+        "karuṇā": "compassion, mercy",
+        "sāgara": "ocean",
+        "pālanakartā": "sustainer, nurturer",
+        "mūrakha": "foolish",
+        "khala": "wicked, flawed",
+        "kāmī": "driven by desires",
+        "sevaka": "servant",
+        "kṛpā karo": "please bestow grace",
+        "bhartā": "sustainer, Lord"
+      },
+      "meaning_en": "You are the ocean of compassion and the great sustainer. I am foolish, flawed, and driven by desires — I am the servant and You are the Master. Please shower Your grace upon me.",
+      "meaning_hi": "आप करुणा के सागर और पालनकर्ता हैं। मैं मूर्ख, दोषी और कामनाओं से भरा हूँ — मैं सेवक हूँ, आप स्वामी हैं, कृपा कीजिए।",
+      "modern_context_en": "Admitting imperfection is the first step to growth. In the pressure-cooker of corporate life and social media perfection, this verse gives us permission to be humble, to accept our flaws, and to ask for help from a power greater than ourselves.",
+      "modern_context_hi": "अपनी कमियाँ स्वीकार करना विकास की पहली सीढ़ी है। कॉर्पोरेट जीवन और सोशल मीडिया की दिखावटी दुनिया में यह श्लोक हमें विनम्र होने और अपने से बड़ी शक्ति से सहायता माँगने की अनुमति देता है।"
+    },
+    {
+      "verse_number": 5,
+      "section": "verse",
+      "hindi_text": "तुम हो एक अगोचर, सबके प्राणपति, स्वामी सबके प्राणपति।\nकिस विध मिलूँ दयामय, किस विध मिलूँ दयामय,\nतुमको मैं कुमति।\nॐ जय जगदीश हरे।",
+      "transliteration": "Tuma ho eka agocara, sabake prāṇapati, svāmī sabake prāṇapati.\nKisa vidha milūṃ dayāmaya, kisa vidha milūṃ dayāmaya,\ntumako maiṃ kumati.\nOṃ jaya jagadīśa hare.",
+      "word_by_word": {
+        "eka": "one, unique",
+        "agocara": "invisible, beyond senses",
+        "prāṇapati": "Lord of all life-breaths",
+        "kisa vidha": "in what way, how",
+        "milūṃ": "may I meet, may I attain",
+        "dayāmaya": "O merciful One",
+        "kumati": "one of poor intellect, ignorant"
+      },
+      "meaning_en": "You are the One invisible God, the Lord of every living breath. O merciful One, how can someone as ignorant as I ever attain You?",
+      "meaning_hi": "आप एक अगोचर (अदृश्य) ईश्वर हैं, सबके प्राणों के स्वामी हैं। हे दयामय, मैं कुबुद्धि — किस प्रकार आपसे मिलूँ?",
+      "modern_context_en": "This is the timeless spiritual question that strikes us during quiet moments — on a late-night flight or during a silent morning walk. How do we connect with something invisible yet so essential? The longing itself is the beginning of the journey.",
+      "modern_context_hi": "यह वही शाश्वत आध्यात्मिक प्रश्न है जो रात की उड़ान में या सुबह की शांत सैर में मन में उठता है — अदृश्य पर इतने आवश्यक से कैसे जुड़ें? यह लालसा ही यात्रा की शुरुआत है।"
+    },
+    {
+      "verse_number": 6,
+      "section": "verse",
+      "hindi_text": "दीनबन्धु दुखहर्ता, ठाकुर तुम मेरे, स्वामी ठाकुर तुम मेरे।\nअपने हाथ उठाओ, अपनी शरण लगाओ,\nद्वार पड़ा तेरे।\nॐ जय जगदीश हरे।",
+      "transliteration": "Dīnabandhu dukhahartā, ṭhākura tuma mere, svāmī ṭhākura tuma mere.\nApane hātha uṭhāo, apanī śaraṇa lagāo,\ndvāra paḍā tere.\nOṃ jaya jagadīśa hare.",
+      "word_by_word": {
+        "dīnabandhu": "friend of the helpless",
+        "dukhahartā": "remover of sorrows",
+        "ṭhākura": "Lord, Master (affectionate)",
+        "apane hātha uṭhāo": "raise Your hands (to bless)",
+        "apanī śaraṇa lagāo": "take me into Your refuge",
+        "dvāra": "door, doorstep",
+        "paḍā tere": "I lie fallen at Yours"
+      },
+      "meaning_en": "O friend of the helpless, remover of sorrows — You are my beloved Lord! Raise Your hands in blessing and grant me Your shelter, for I have fallen at Your doorstep.",
+      "meaning_hi": "हे दीनबन्धु, दुख हरने वाले — आप मेरे ठाकुर हैं! अपने हाथ उठाकर आशीर्वाद दीजिए और मुझे अपनी शरण में ले लीजिए, मैं आपके द्वार पड़ा हूँ।",
+      "modern_context_en": "When visa issues, health scares, or family emergencies make us feel helpless far from home, this verse is a heartfelt surrender — laying our burdens at God's door and trusting that we are not alone.",
+      "modern_context_hi": "जब वीज़ा की समस्या, स्वास्थ्य का भय या पारिवारिक आपातकाल घर से दूर असहाय बना दे, तो यह श्लोक ईश्वर के द्वार पर अपना बोझ रखने और भरोसा करने की प्रार्थना है कि हम अकेले नहीं हैं।"
+    },
+    {
+      "verse_number": 7,
+      "section": "verse",
+      "hindi_text": "विषय विकार मिटाओ, पाप हरो देवा, स्वामी पाप हरो देवा।\nश्रद्धा भक्ति बढ़ाओ, श्रद्धा भक्ति बढ़ाओ,\nसन्तन की सेवा।\nॐ जय जगदीश हरे।",
+      "transliteration": "Viṣaya vikāra miṭāo, pāpa haro devā, svāmī pāpa haro devā.\nŚraddhā bhakti baḍhāo, śraddhā bhakti baḍhāo,\nsantana kī sevā.\nOṃ jaya jagadīśa hare.",
+      "word_by_word": {
+        "viṣaya": "worldly attachments, sensory temptations",
+        "vikāra": "distortions, impurities",
+        "miṭāo": "destroy, remove",
+        "pāpa": "sins",
+        "haro": "take away",
+        "devā": "O God",
+        "śraddhā": "faith",
+        "bhakti": "devotion",
+        "baḍhāo": "increase",
+        "santana kī sevā": "service of the saints, holy people"
+      },
+      "meaning_en": "Remove my worldly attachments and impurities, take away my sins, O Lord! Increase my faith and devotion, and bless me with the desire to serve the saintly.",
+      "meaning_hi": "हे देवा, मेरे विषय-विकार मिटाइए और पाप हर लीजिए। मेरी श्रद्धा-भक्ति बढ़ाइए और सन्तों की सेवा का भाव दीजिए।",
+      "modern_context_en": "In an age of endless distractions — social media, streaming, consumerism — this verse is a prayer to cleanse the mind, strengthen our spiritual discipline, and redirect our energy toward meaningful service and community.",
+      "modern_context_hi": "सोशल मीडिया, ओटीटी और उपभोक्तावाद के अंतहीन विकर्षणों के युग में यह श्लोक मन को शुद्ध करने, आध्यात्मिक अनुशासन मज़बूत करने और सेवा व समुदाय की ओर ऊर्जा लगाने की प्रार्थना है।"
+    },
+    {
+      "verse_number": 8,
+      "section": "verse",
+      "hindi_text": "तन मन धन सब तेरा, सब कुछ है तेरा, स्वामी सब कुछ है तेरा।\nतेरा तुझको अर्पण, तेरा तुझको अर्पण,\nक्या लागे मेरा।\nॐ जय जगदीश हरे।",
+      "transliteration": "Tana mana dhana saba terā, saba kucha hai terā, svāmī saba kucha hai terā.\nTerā tujhako arpaṇa, terā tujhako arpaṇa,\nkyā lāge merā.\nOṃ jaya jagadīśa hare.",
+      "word_by_word": {
+        "tana": "body",
+        "mana": "mind",
+        "dhana": "wealth",
+        "saba terā": "all is Yours",
+        "saba kucha": "everything",
+        "terā tujhako arpaṇa": "what is Yours, I offer back to You",
+        "kyā lāge merā": "what in it is mine"
+      },
+      "meaning_en": "My body, mind, and wealth — everything is Yours, O Lord. I am merely offering back to You what was always Yours. Nothing here truly belongs to me.",
+      "meaning_hi": "तन, मन, धन — सब कुछ आपका है, स्वामी। जो आपका है वही आपको अर्पण कर रहा हूँ, इसमें मेरा क्या है?",
+      "modern_context_en": "This is the ultimate antidote to the ownership anxiety that haunts modern life — mortgage stress, savings worries, career possessiveness. When we realize everything is borrowed, gratitude replaces greed and generosity flows naturally.",
+      "modern_context_hi": "यह आधुनिक जीवन की स्वामित्व-चिंता — EMI, बचत, करियर का मोह — का सबसे बड़ा इलाज है। जब समझ आए कि सब उधार है, तो लालच की जगह कृतज्ञता और उदारता स्वाभाविक रूप से आती है।"
+    },
+    {
+      "verse_number": 9,
+      "section": "verse",
+      "hindi_text": "श्री सत्यनारायण जी की आरती जो कोई नर गावे।\nकहत शिवानन्द स्वामी, मनवांछित फल पावे।\nॐ जय जगदीश हरे, स्वामी जय जगदीश हरे।\nभक्त जनों के संकट, दास जनों के संकट,\nक्षण में दूर करे।\nॐ जय जगदीश हरे।",
+      "transliteration": "Śrī Satyanārāyaṇa jī kī āratī jo koī nara gāve.\nKahata Śivānanda svāmī, manavāñchita phala pāve.\nOṃ jaya jagadīśa hare, svāmī jaya jagadīśa hare.\nBhakta janõ ke saṅkaṭa, dāsa janõ ke saṅkaṭa,\nkṣaṇa meṃ dūra kare.\nOṃ jaya jagadīśa hare.",
+      "word_by_word": {
+        "śrī": "holy, auspicious",
+        "satyanārāyaṇa jī": "Lord Satyanarayan (form of Vishnu)",
+        "āratī": "this devotional hymn of worship",
+        "jo koī nara": "whichever person",
+        "gāve": "sings",
+        "kahata": "says, declares",
+        "śivānanda svāmī": "Swami Shivananda (spiritual authority attesting the benefit)",
+        "manavāñchita": "desired by the heart",
+        "phala pāve": "obtains the fruit, reward"
+      },
+      "meaning_en": "Whoever sings this aarti of Lord Satyanarayan with devotion — as Swami Shivananda declares — shall obtain the fulfillment of their heart's desires. Glory to the Lord of the universe, who removes all troubles of His devotees in an instant.",
+      "meaning_hi": "जो कोई भी इस श्री सत्यनारायण जी की आरती को गाता है — जैसा शिवानन्द स्वामी कहते हैं — उसे मनवांछित फल प्राप्त होता है। ॐ जय जगदीश हरे, जो भक्तों के संकट क्षण में दूर करते हैं।",
+      "modern_context_en": "This closing verse is the promise that seals every Sunday evening aarti in homes from London to Los Angeles — sing with a sincere heart, and the divine listens. It turns a simple family ritual into a powerful act of collective faith and gratitude.",
+      "modern_context_hi": "यह समापन श्लोक वह वादा है जो लंदन से लॉस एंजेलेस तक हर रविवार की शाम की आरती को पूर्ण करता है — सच्चे हृदय से गाइए, ईश्वर सुनते हैं। यह एक सरल पारिवारिक अनुष्ठान को सामूहिक श्रद्धा और कृतज्ञता का शक्तिशाली कृत्य बना देता है।"
+    }
+  ]
+}

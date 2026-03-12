@@ -1,0 +1,874 @@
+{
+  "id": "vishnu_sahasranama_108",
+  "title_en": "Vishnu Sahasranama — 108 Key Names",
+  "title_hi": "विष्णु सहस्रनाम — १०८ प्रमुख नाम",
+  "deity": "vishnu",
+  "author": "Bhishma (Mahabharata)",
+  "type": "stotram",
+  "names": [
+    {
+      "number": 1,
+      "sanskrit": "विश्वम्",
+      "transliteration": "Viśvam",
+      "meaning_en": "The Universe, the all-pervading one",
+      "meaning_hi": "विश्व, सर्वव्यापी",
+      "significance": "Vishnu is the universe itself — everything that exists is a manifestation of Him."
+    },
+    {
+      "number": 2,
+      "sanskrit": "विष्णुः",
+      "transliteration": "Viṣṇuḥ",
+      "meaning_en": "The one who pervades everywhere",
+      "meaning_hi": "जो सर्वत्र व्याप्त हैं",
+      "significance": "His very name denotes omnipresence — He enters and permeates all of creation."
+    },
+    {
+      "number": 3,
+      "sanskrit": "वषट्कारः",
+      "transliteration": "Vaṣaṭkāraḥ",
+      "meaning_en": "The one invoked through Vedic sacrificial chants",
+      "meaning_hi": "यज्ञ में वषट्कार मन्त्र द्वारा आह्वानित",
+      "significance": "He is the essence of all Vedic rituals and the ultimate recipient of every offering."
+    },
+    {
+      "number": 4,
+      "sanskrit": "भूतभव्यभवत्प्रभुः",
+      "transliteration": "Bhūtabhavyabhavatprabhuḥ",
+      "meaning_en": "Lord of past, present and future",
+      "meaning_hi": "भूत, भविष्य और वर्तमान के स्वामी",
+      "significance": "He transcends time — master of all that was, is, and ever will be."
+    },
+    {
+      "number": 5,
+      "sanskrit": "भूतकृत्",
+      "transliteration": "Bhūtakṛt",
+      "meaning_en": "Creator of all beings",
+      "meaning_hi": "समस्त प्राणियों के रचयिता",
+      "significance": "He brings forth all living beings through His divine will."
+    },
+    {
+      "number": 6,
+      "sanskrit": "भूतभृत्",
+      "transliteration": "Bhūtabhṛt",
+      "meaning_en": "Sustainer of all beings",
+      "meaning_hi": "सभी प्राणियों का भरण-पोषण करने वाले",
+      "significance": "He nourishes and sustains every creature without exception."
+    },
+    {
+      "number": 7,
+      "sanskrit": "भावः",
+      "transliteration": "Bhāvaḥ",
+      "meaning_en": "Pure existence itself",
+      "meaning_hi": "शुद्ध अस्तित्व, सत्ता स्वरूप",
+      "significance": "He is existence in its purest form — the being behind all becoming."
+    },
+    {
+      "number": 8,
+      "sanskrit": "आत्मा",
+      "transliteration": "Ātmā",
+      "meaning_en": "The Supreme Self",
+      "meaning_hi": "परमात्मा, सबकी आत्मा",
+      "significance": "He dwells as the innermost Self in every living being."
+    },
+    {
+      "number": 9,
+      "sanskrit": "परमात्मा",
+      "transliteration": "Paramātmā",
+      "meaning_en": "The Supreme Soul",
+      "meaning_hi": "सर्वोच्च आत्मा",
+      "significance": "Beyond the individual self, He is the ultimate cosmic consciousness."
+    },
+    {
+      "number": 10,
+      "sanskrit": "मुक्तानां परमा गतिः",
+      "transliteration": "Muktānāṃ paramā gatiḥ",
+      "meaning_en": "The supreme goal of the liberated",
+      "meaning_hi": "मुक्त आत्माओं की परम गति",
+      "significance": "For those who attain liberation, He is the final and highest destination."
+    },
+    {
+      "number": 11,
+      "sanskrit": "ईश्वरः",
+      "transliteration": "Īśvaraḥ",
+      "meaning_en": "The Supreme Lord, the controller",
+      "meaning_hi": "परमेश्वर, सबके नियन्ता",
+      "significance": "He governs the entire cosmos with absolute sovereignty."
+    },
+    {
+      "number": 12,
+      "sanskrit": "सम्भवः",
+      "transliteration": "Sambhavaḥ",
+      "meaning_en": "One who manifests at will",
+      "meaning_hi": "अपनी इच्छा से प्रकट होने वाले",
+      "significance": "He incarnates in various forms whenever dharma needs to be restored."
+    },
+    {
+      "number": 13,
+      "sanskrit": "आदित्यः",
+      "transliteration": "Ādityaḥ",
+      "meaning_en": "Son of Aditi, the radiant one",
+      "meaning_hi": "अदिति के पुत्र, तेजस्वी",
+      "significance": "He shines like the sun, illuminating the world with divine radiance."
+    },
+    {
+      "number": 14,
+      "sanskrit": "पुष्कराक्षः",
+      "transliteration": "Puṣkarākṣaḥ",
+      "meaning_en": "The lotus-eyed one",
+      "meaning_hi": "कमल नेत्रों वाले",
+      "significance": "His eyes are beautiful like lotuses, gazing upon all beings with compassion."
+    },
+    {
+      "number": 15,
+      "sanskrit": "महास्वनः",
+      "transliteration": "Mahāsvanaḥ",
+      "meaning_en": "One of great cosmic sound",
+      "meaning_hi": "महान् ध्वनि वाले, ॐकार स्वरूप",
+      "significance": "He is the source of the primordial sound Oṃ that reverberates through creation."
+    },
+    {
+      "number": 16,
+      "sanskrit": "अनादिनिधनः",
+      "transliteration": "Anādinidhanaḥ",
+      "meaning_en": "Without beginning or end",
+      "meaning_hi": "जिनका न आदि है न अन्त",
+      "significance": "He is eternal — beyond the cycle of birth and death."
+    },
+    {
+      "number": 17,
+      "sanskrit": "धाता",
+      "transliteration": "Dhātā",
+      "meaning_en": "The supporter, the creator",
+      "meaning_hi": "धारण करने वाले, विधाता",
+      "significance": "He supports and upholds the entire framework of creation."
+    },
+    {
+      "number": 18,
+      "sanskrit": "विधाता",
+      "transliteration": "Vidhātā",
+      "meaning_en": "The supreme ordainer",
+      "meaning_hi": "विधि के विधाता, भाग्य नियन्ता",
+      "significance": "He ordains the laws of the cosmos and the destiny of all beings."
+    },
+    {
+      "number": 19,
+      "sanskrit": "शर्वः",
+      "transliteration": "Śarvaḥ",
+      "meaning_en": "The destroyer of evil",
+      "meaning_hi": "पापों का संहार करने वाले",
+      "significance": "He annihilates all evil and suffering to protect the righteous."
+    },
+    {
+      "number": 20,
+      "sanskrit": "शाश्वतः",
+      "transliteration": "Śāśvataḥ",
+      "meaning_en": "The eternal, the unchanging",
+      "meaning_hi": "शाश्वत, सनातन",
+      "significance": "He remains changeless amidst the ever-changing world."
+    },
+    {
+      "number": 21,
+      "sanskrit": "कृष्णः",
+      "transliteration": "Kṛṣṇaḥ",
+      "meaning_en": "The dark-hued one, the all-attractive",
+      "meaning_hi": "श्याम वर्ण, सबको आकर्षित करने वाले",
+      "significance": "As Kṛṣṇa, He draws every heart toward the divine through irresistible love."
+    },
+    {
+      "number": 22,
+      "sanskrit": "लोहिताक्षः",
+      "transliteration": "Lohitākṣaḥ",
+      "meaning_en": "The red-eyed one",
+      "meaning_hi": "लाल नेत्रों वाले",
+      "significance": "His reddish eyes signify both fierce protection of devotees and boundless compassion."
+    },
+    {
+      "number": 23,
+      "sanskrit": "प्रतर्दनः",
+      "transliteration": "Pratardanaḥ",
+      "meaning_en": "The great destroyer of enemies",
+      "meaning_hi": "शत्रुओं का विनाश करने वाले",
+      "significance": "He destroys the inner enemies — desire, anger, and greed — in the hearts of seekers."
+    },
+    {
+      "number": 24,
+      "sanskrit": "नारायणः",
+      "transliteration": "Nārāyaṇaḥ",
+      "meaning_en": "The refuge of all beings, dwelling in the cosmic waters",
+      "meaning_hi": "सबके आश्रय, जल में निवास करने वाले",
+      "significance": "He is the ultimate shelter — the one in whom all beings find their final resting place."
+    },
+    {
+      "number": 25,
+      "sanskrit": "नरः",
+      "transliteration": "Naraḥ",
+      "meaning_en": "The primeval man, the imperishable",
+      "meaning_hi": "अविनाशी पुरुष",
+      "significance": "He is the eternal being from whom all individual souls originate."
+    },
+    {
+      "number": 26,
+      "sanskrit": "हरिः",
+      "transliteration": "Hariḥ",
+      "meaning_en": "The remover of sins and sorrows",
+      "meaning_hi": "पापों और दुःखों को हरने वाले",
+      "significance": "Simply chanting His name 'Hari' removes accumulated sins and suffering."
+    },
+    {
+      "number": 27,
+      "sanskrit": "शौरिः",
+      "transliteration": "Śauriḥ",
+      "meaning_en": "Descendant of the valiant Śūra",
+      "meaning_hi": "शूरवंशी, वीर कुल के",
+      "significance": "He embodies divine valor and courage as the scion of a heroic lineage."
+    },
+    {
+      "number": 28,
+      "sanskrit": "जनार्दनः",
+      "transliteration": "Janārdanaḥ",
+      "meaning_en": "One who is worshipped by all people",
+      "meaning_hi": "सब जनों द्वारा पूजित",
+      "significance": "All beings instinctively turn to Him in their moments of deepest need."
+    },
+    {
+      "number": 29,
+      "sanskrit": "अनन्तः",
+      "transliteration": "Anantaḥ",
+      "meaning_en": "The infinite, the limitless",
+      "meaning_hi": "अनन्त, असीमित",
+      "significance": "He has no boundaries in space, time, or attributes — He is truly infinite."
+    },
+    {
+      "number": 30,
+      "sanskrit": "दामोदरः",
+      "transliteration": "Dāmodaraḥ",
+      "meaning_en": "One who was bound around the waist by Yaśodā",
+      "meaning_hi": "जिन्हें यशोदा ने उदर में रस्सी से बाँधा",
+      "significance": "The infinite Lord allows Himself to be bound by the ropes of pure love."
+    },
+    {
+      "number": 31,
+      "sanskrit": "महाविष्णुः",
+      "transliteration": "Mahāviṣṇuḥ",
+      "meaning_en": "The great all-pervading Lord",
+      "meaning_hi": "महान् सर्वव्यापी भगवान्",
+      "significance": "He is the supreme form of Viṣṇu from whom all universes emanate."
+    },
+    {
+      "number": 32,
+      "sanskrit": "गोविन्दः",
+      "transliteration": "Govindaḥ",
+      "meaning_en": "Protector of cows, knower of all senses",
+      "meaning_hi": "गौओं के रक्षक, इन्द्रियों के ज्ञाता",
+      "significance": "He protects all life and is known through the Vedas and through direct experience."
+    },
+    {
+      "number": 33,
+      "sanskrit": "माधवः",
+      "transliteration": "Mādhavaḥ",
+      "meaning_en": "Consort of Lakṣmī, lord of knowledge",
+      "meaning_hi": "लक्ष्मीपति, विद्या के स्वामी",
+      "significance": "He is the lord of both spiritual wisdom and material abundance."
+    },
+    {
+      "number": 34,
+      "sanskrit": "मधुसूदनः",
+      "transliteration": "Madhusūdanaḥ",
+      "meaning_en": "Slayer of the demon Madhu",
+      "meaning_hi": "मधु दैत्य का संहार करने वाले",
+      "significance": "He destroys the demon of ignorance just as He slew the demon Madhu."
+    },
+    {
+      "number": 35,
+      "sanskrit": "त्रिविक्रमः",
+      "transliteration": "Trivikramaḥ",
+      "meaning_en": "One who conquered the three worlds in three strides",
+      "meaning_hi": "तीन पगों से तीनों लोक नापने वाले",
+      "significance": "As Vāmana, He measured the entire universe — nothing is beyond His reach."
+    },
+    {
+      "number": 36,
+      "sanskrit": "वामनः",
+      "transliteration": "Vāmanaḥ",
+      "meaning_en": "The dwarf incarnation",
+      "meaning_hi": "वामन अवतार",
+      "significance": "He teaches that true greatness lies not in physical stature but in divine intent."
+    },
+    {
+      "number": 37,
+      "sanskrit": "श्रीधरः",
+      "transliteration": "Śrīdharaḥ",
+      "meaning_en": "Bearer of Lakṣmī (the goddess of fortune)",
+      "meaning_hi": "श्री (लक्ष्मी) को धारण करने वाले",
+      "significance": "All prosperity and grace reside eternally upon His chest."
+    },
+    {
+      "number": 38,
+      "sanskrit": "हृषीकेशः",
+      "transliteration": "Hṛṣīkeśaḥ",
+      "meaning_en": "Lord of the senses",
+      "meaning_hi": "इन्द्रियों के स्वामी",
+      "significance": "He is the master of all senses and guides them toward higher purpose."
+    },
+    {
+      "number": 39,
+      "sanskrit": "पद्मनाभः",
+      "transliteration": "Padmanābhaḥ",
+      "meaning_en": "One from whose navel springs the cosmic lotus",
+      "meaning_hi": "जिनकी नाभि से ब्रह्मा का कमल उत्पन्न हुआ",
+      "significance": "From His navel-lotus, the creator Brahmā emerged — He is the source of creation."
+    },
+    {
+      "number": 40,
+      "sanskrit": "वासुदेवः",
+      "transliteration": "Vāsudevaḥ",
+      "meaning_en": "Son of Vasudeva, the indwelling Lord",
+      "meaning_hi": "वसुदेव के पुत्र, सबमें निवास करने वाले",
+      "significance": "He dwells in all beings — 'Vāsudevaḥ sarvam iti' — Vāsudeva is everything."
+    },
+    {
+      "number": 41,
+      "sanskrit": "सङ्कर्षणः",
+      "transliteration": "Saṅkarṣaṇaḥ",
+      "meaning_en": "One who draws all beings toward Himself",
+      "meaning_hi": "सबको अपनी ओर आकर्षित करने वाले",
+      "significance": "He draws all souls back to the divine source at the time of cosmic dissolution."
+    },
+    {
+      "number": 42,
+      "sanskrit": "प्रद्युम्नः",
+      "transliteration": "Pradyumnaḥ",
+      "meaning_en": "One of supreme radiance and power",
+      "meaning_hi": "परम तेजस्वी, महान् शक्ति वाले",
+      "significance": "His brilliance illuminates all worlds and dispels the darkness of ignorance."
+    },
+    {
+      "number": 43,
+      "sanskrit": "अनिरुद्धः",
+      "transliteration": "Aniruddhaḥ",
+      "meaning_en": "One who cannot be obstructed",
+      "meaning_hi": "जिन्हें कोई रोक नहीं सकता",
+      "significance": "No force in the universe can hinder His will or His grace."
+    },
+    {
+      "number": 44,
+      "sanskrit": "पुरुषोत्तमः",
+      "transliteration": "Puruṣottamaḥ",
+      "meaning_en": "The Supreme Person, the best among all beings",
+      "meaning_hi": "पुरुषों में उत्तम, परम पुरुष",
+      "significance": "He transcends both the perishable and imperishable — the highest reality."
+    },
+    {
+      "number": 45,
+      "sanskrit": "अधोक्षजः",
+      "transliteration": "Adhokṣajaḥ",
+      "meaning_en": "One who is beyond sense perception",
+      "meaning_hi": "इन्द्रियों से परे",
+      "significance": "He cannot be perceived by ordinary senses — only through devotion and grace."
+    },
+    {
+      "number": 46,
+      "sanskrit": "नारसिंहवपुः",
+      "transliteration": "Nārasiṃhavapuḥ",
+      "meaning_en": "One with the form of Narasimha (man-lion)",
+      "meaning_hi": "नरसिंह रूप धारण करने वाले",
+      "significance": "He assumed the half-man, half-lion form to protect His child-devotee Prahlāda."
+    },
+    {
+      "number": 47,
+      "sanskrit": "श्रीमान्",
+      "transliteration": "Śrīmān",
+      "meaning_en": "The possessor of all glory and beauty",
+      "meaning_hi": "श्री (शोभा और ऐश्वर्य) से सम्पन्न",
+      "significance": "All beauty, wealth, and auspiciousness are eternally present in Him."
+    },
+    {
+      "number": 48,
+      "sanskrit": "केशवः",
+      "transliteration": "Keśavaḥ",
+      "meaning_en": "One with beautiful hair, lord of Brahmā and Śiva",
+      "meaning_hi": "सुन्दर केशों वाले, ब्रह्मा और शिव के स्वामी",
+      "significance": "He is the supreme lord from whom even Brahmā (Ka) and Śiva (Īśa) originate."
+    },
+    {
+      "number": 49,
+      "sanskrit": "अच्युतः",
+      "transliteration": "Acyutaḥ",
+      "meaning_en": "The infallible one who never falls",
+      "meaning_hi": "जो कभी च्युत (पतित) नहीं होते",
+      "significance": "He never wavers from His nature, His promises, or His devotees."
+    },
+    {
+      "number": 50,
+      "sanskrit": "सत्यः",
+      "transliteration": "Satyaḥ",
+      "meaning_en": "The absolute truth",
+      "meaning_hi": "परम सत्य स्वरूप",
+      "significance": "He is truth itself — the unchanging reality behind all appearances."
+    },
+    {
+      "number": 51,
+      "sanskrit": "योगः",
+      "transliteration": "Yogaḥ",
+      "meaning_en": "One who is attained through yoga",
+      "meaning_hi": "योग द्वारा प्राप्त होने वाले",
+      "significance": "He is both the path and the goal of all yogic practice."
+    },
+    {
+      "number": 52,
+      "sanskrit": "योगविदां नेता",
+      "transliteration": "Yogavidāṃ netā",
+      "meaning_en": "The guide of those who know yoga",
+      "meaning_hi": "योगविदों के मार्गदर्शक",
+      "significance": "He leads the greatest yogis toward the supreme realization."
+    },
+    {
+      "number": 53,
+      "sanskrit": "वेदविद्",
+      "transliteration": "Vedavid",
+      "meaning_en": "The knower of the Vedas",
+      "meaning_hi": "वेदों के ज्ञाता",
+      "significance": "He is the ultimate source and the perfect knower of all Vedic wisdom."
+    },
+    {
+      "number": 54,
+      "sanskrit": "अव्ययः",
+      "transliteration": "Avyayaḥ",
+      "meaning_en": "The imperishable, the indestructible",
+      "meaning_hi": "अविनाशी, जिनका कभी क्षय नहीं होता",
+      "significance": "While everything in the material world perishes, He remains unchanged forever."
+    },
+    {
+      "number": 55,
+      "sanskrit": "पुरुषः",
+      "transliteration": "Puruṣaḥ",
+      "meaning_en": "The cosmic being, the Supreme Person",
+      "meaning_hi": "परम पुरुष, ब्रह्माण्डीय सत्ता",
+      "significance": "He pervades the entire universe as the primordial cosmic being of the Puruṣa Sūkta."
+    },
+    {
+      "number": 56,
+      "sanskrit": "प्राणः",
+      "transliteration": "Prāṇaḥ",
+      "meaning_en": "The life-breath of all beings",
+      "meaning_hi": "सबके प्राण, जीवन शक्ति",
+      "significance": "Every breath drawn by every creature is sustained by His power."
+    },
+    {
+      "number": 57,
+      "sanskrit": "प्रणवः",
+      "transliteration": "Praṇavaḥ",
+      "meaning_en": "The sacred syllable Oṃ",
+      "meaning_hi": "ॐकार स्वरूप",
+      "significance": "He is Oṃ — the primordial sound from which all creation emerges."
+    },
+    {
+      "number": 58,
+      "sanskrit": "सर्वः",
+      "transliteration": "Sarvaḥ",
+      "meaning_en": "The all, everything",
+      "meaning_hi": "सब कुछ, सर्वस्व",
+      "significance": "There is nothing that exists apart from Him — He is the totality."
+    },
+    {
+      "number": 59,
+      "sanskrit": "शर्वः",
+      "transliteration": "Śarvaḥ",
+      "meaning_en": "The auspicious one, destroyer of suffering",
+      "meaning_hi": "मंगलकारी, दुःखों का नाश करने वाले",
+      "significance": "He destroys all forms of suffering for those who surrender to Him."
+    },
+    {
+      "number": 60,
+      "sanskrit": "सर्वेश्वरः",
+      "transliteration": "Sarveśvaraḥ",
+      "meaning_en": "The Lord of all",
+      "meaning_hi": "सबके ईश्वर",
+      "significance": "He is the supreme sovereign over all worlds, all beings, and all deities."
+    },
+    {
+      "number": 61,
+      "sanskrit": "सर्वज्ञः",
+      "transliteration": "Sarvajñaḥ",
+      "meaning_en": "The omniscient one",
+      "meaning_hi": "सर्वज्ञ, सब कुछ जानने वाले",
+      "significance": "He knows the thoughts, actions, and destiny of every being in creation."
+    },
+    {
+      "number": 62,
+      "sanskrit": "जगदीशः",
+      "transliteration": "Jagadīśaḥ",
+      "meaning_en": "Lord of the universe",
+      "meaning_hi": "जगत् के ईश्वर",
+      "significance": "He rules the entire cosmos with perfect wisdom and infinite compassion."
+    },
+    {
+      "number": 63,
+      "sanskrit": "अनुत्तमः",
+      "transliteration": "Anuttamaḥ",
+      "meaning_en": "One than whom there is none greater",
+      "meaning_hi": "जिनसे श्रेष्ठ कोई नहीं",
+      "significance": "He stands supreme — no being or principle surpasses Him."
+    },
+    {
+      "number": 64,
+      "sanskrit": "महायोगी",
+      "transliteration": "Mahāyogī",
+      "meaning_en": "The supreme yogi",
+      "meaning_hi": "महान् योगी",
+      "significance": "He is the greatest master of yoga — in perfect union with all of reality."
+    },
+    {
+      "number": 65,
+      "sanskrit": "महाबलः",
+      "transliteration": "Mahābalaḥ",
+      "meaning_en": "One of immense strength",
+      "meaning_hi": "अपार बल वाले",
+      "significance": "His strength is infinite — He effortlessly upholds the entire universe."
+    },
+    {
+      "number": 66,
+      "sanskrit": "महाबुद्धिः",
+      "transliteration": "Mahābuddhiḥ",
+      "meaning_en": "One of supreme intelligence",
+      "meaning_hi": "परम बुद्धि वाले",
+      "significance": "His wisdom is boundless and forms the foundation of all knowledge."
+    },
+    {
+      "number": 67,
+      "sanskrit": "महातेजाः",
+      "transliteration": "Mahātejāḥ",
+      "meaning_en": "One of supreme radiance",
+      "meaning_hi": "महान् तेज वाले",
+      "significance": "His divine splendor outshines all luminaries — the sun and stars glow by His light."
+    },
+    {
+      "number": 68,
+      "sanskrit": "स्वयम्भूः",
+      "transliteration": "Svayambhūḥ",
+      "meaning_en": "The self-manifested one",
+      "meaning_hi": "स्वयं प्रकट होने वाले",
+      "significance": "He is not created by anyone — He manifests by His own divine will."
+    },
+    {
+      "number": 69,
+      "sanskrit": "शम्भुः",
+      "transliteration": "Śambhuḥ",
+      "meaning_en": "The source of all auspiciousness",
+      "meaning_hi": "कल्याण के स्रोत",
+      "significance": "He bestows peace, joy, and auspiciousness upon all who remember Him."
+    },
+    {
+      "number": 70,
+      "sanskrit": "सुरेशः",
+      "transliteration": "Sureśaḥ",
+      "meaning_en": "Lord of the devas",
+      "meaning_hi": "देवताओं के ईश्वर",
+      "significance": "Even the greatest celestial beings bow before Him as their supreme lord."
+    },
+    {
+      "number": 71,
+      "sanskrit": "चक्री",
+      "transliteration": "Cakrī",
+      "meaning_en": "Bearer of the Sudarśana discus",
+      "meaning_hi": "सुदर्शन चक्र धारण करने वाले",
+      "significance": "His discus symbolizes the cosmic wheel of time and the power to destroy adharma."
+    },
+    {
+      "number": 72,
+      "sanskrit": "गदाधरः",
+      "transliteration": "Gadādharaḥ",
+      "meaning_en": "Bearer of the divine mace Kaumodakī",
+      "meaning_hi": "गदा (कौमोदकी) धारण करने वाले",
+      "significance": "His mace represents the power of knowledge that crushes ignorance."
+    },
+    {
+      "number": 73,
+      "sanskrit": "शार्ङ्गधन्वा",
+      "transliteration": "Śārṅgadhanvā",
+      "meaning_en": "Wielder of the bow Śārṅga",
+      "meaning_hi": "शार्ङ्ग धनुष धारण करने वाले",
+      "significance": "His bow represents the cosmic principle of destruction and dissolution."
+    },
+    {
+      "number": 74,
+      "sanskrit": "नन्दकी",
+      "transliteration": "Nandakī",
+      "meaning_en": "Bearer of the sword Nandaka",
+      "meaning_hi": "नन्दक खड्ग धारण करने वाले",
+      "significance": "His sword represents the cutting edge of supreme knowledge that severs bondage."
+    },
+    {
+      "number": 75,
+      "sanskrit": "शङ्खभृत्",
+      "transliteration": "Śaṅkhabhṛt",
+      "meaning_en": "Bearer of the divine conch Pāñcajanya",
+      "meaning_hi": "पाञ्चजन्य शंख धारण करने वाले",
+      "significance": "His conch heralds the triumph of dharma and awakens souls from spiritual slumber."
+    },
+    {
+      "number": 76,
+      "sanskrit": "अमृतांशूद्भवः",
+      "transliteration": "Amṛtāṃśūdbhavaḥ",
+      "meaning_en": "The source of the life-giving nectar",
+      "meaning_hi": "अमृत के स्रोत",
+      "significance": "He is the origin of immortality — granting eternal life to those who seek Him."
+    },
+    {
+      "number": 77,
+      "sanskrit": "चतुर्भुजः",
+      "transliteration": "Caturbhujaḥ",
+      "meaning_en": "The four-armed one",
+      "meaning_hi": "चार भुजाओं वाले",
+      "significance": "His four arms represent dharma, artha, kāma, and mokṣa — the four goals of life."
+    },
+    {
+      "number": 78,
+      "sanskrit": "सुदर्शनः",
+      "transliteration": "Sudarśanaḥ",
+      "meaning_en": "One whose vision is beautiful and auspicious",
+      "meaning_hi": "जिनका दर्शन शुभ और सुन्दर है",
+      "significance": "Just beholding His divine form liberates the soul from worldly entanglements."
+    },
+    {
+      "number": 79,
+      "sanskrit": "उपेन्द्रः",
+      "transliteration": "Upendraḥ",
+      "meaning_en": "The younger brother of Indra (as Vāmana)",
+      "meaning_hi": "इन्द्र के अनुज",
+      "significance": "Though appearing as Indra's younger brother, He is the supreme Lord of all devas."
+    },
+    {
+      "number": 80,
+      "sanskrit": "रामः",
+      "transliteration": "Rāmaḥ",
+      "meaning_en": "The one who delights, Lord Rāma",
+      "meaning_hi": "आनन्द देने वाले, भगवान् राम",
+      "significance": "As Rāma, He exemplifies the ideal of righteous conduct and perfect devotion."
+    },
+    {
+      "number": 81,
+      "sanskrit": "भगवान्",
+      "transliteration": "Bhagavān",
+      "meaning_en": "The possessor of all six divine opulences",
+      "meaning_hi": "षड् ऐश्वर्यों से सम्पन्न, भगवान्",
+      "significance": "He possesses all wealth, strength, fame, beauty, knowledge, and renunciation in full."
+    },
+    {
+      "number": 82,
+      "sanskrit": "ज्योतिः",
+      "transliteration": "Jyotiḥ",
+      "meaning_en": "The supreme light",
+      "meaning_hi": "परम ज्योति, प्रकाश स्वरूप",
+      "significance": "He is the light of consciousness that illuminates every mind and every world."
+    },
+    {
+      "number": 83,
+      "sanskrit": "विश्वरूपः",
+      "transliteration": "Viśvarūpaḥ",
+      "meaning_en": "One whose form is the entire universe",
+      "meaning_hi": "जिनका रूप सम्पूर्ण विश्व है",
+      "significance": "As shown to Arjuna, His cosmic form contains all worlds, all beings, all time."
+    },
+    {
+      "number": 84,
+      "sanskrit": "अमृतः",
+      "transliteration": "Amṛtaḥ",
+      "meaning_en": "The immortal, the nectar of existence",
+      "meaning_hi": "अमर, अमृत स्वरूप",
+      "significance": "He is deathless and grants immortality to those who take refuge in Him."
+    },
+    {
+      "number": 85,
+      "sanskrit": "सर्वगः",
+      "transliteration": "Sarvagaḥ",
+      "meaning_en": "One who pervades everything",
+      "meaning_hi": "सर्वत्र गमन करने वाले, व्यापक",
+      "significance": "There is no place, no being, and no moment where He is not present."
+    },
+    {
+      "number": 86,
+      "sanskrit": "सर्वदर्शनः",
+      "transliteration": "Sarvadarśanaḥ",
+      "meaning_en": "One who sees everything",
+      "meaning_hi": "सब कुछ देखने वाले",
+      "significance": "Nothing is hidden from His gaze — He witnesses every act and every thought."
+    },
+    {
+      "number": 87,
+      "sanskrit": "सर्वविद्भानुः",
+      "transliteration": "Sarvavidbhānuḥ",
+      "meaning_en": "The all-knowing radiant one",
+      "meaning_hi": "सर्वज्ञ प्रकाशमान",
+      "significance": "He shines with the light of omniscience, knowing all and illuminating all."
+    },
+    {
+      "number": 88,
+      "sanskrit": "धर्माध्यक्षः",
+      "transliteration": "Dharmādhyakṣaḥ",
+      "meaning_en": "The superintendent of dharma",
+      "meaning_hi": "धर्म के अध्यक्ष",
+      "significance": "He oversees and ensures the cosmic order of righteousness is maintained."
+    },
+    {
+      "number": 89,
+      "sanskrit": "अजः",
+      "transliteration": "Ajaḥ",
+      "meaning_en": "The unborn one",
+      "meaning_hi": "जिनका जन्म नहीं होता",
+      "significance": "He has no origin — He exists eternally beyond the cycle of birth."
+    },
+    {
+      "number": 90,
+      "sanskrit": "महर्षिः कपिलाचार्यः",
+      "transliteration": "Maharṣiḥ Kapilācāryaḥ",
+      "meaning_en": "The great sage Kapila",
+      "meaning_hi": "महान ऋषि कपिलाचार्य",
+      "significance": "He incarnated as sage Kapila to teach Sāṅkhya philosophy and liberate His mother Devahūti."
+    },
+    {
+      "number": 91,
+      "sanskrit": "ऋतुः",
+      "transliteration": "Ṛtuḥ",
+      "meaning_en": "The seasons, the rhythm of time",
+      "meaning_hi": "ऋतु, कालचक्र",
+      "significance": "He manifests as the cyclical rhythm of seasons, sustaining life on earth."
+    },
+    {
+      "number": 92,
+      "sanskrit": "सुदर्शनः",
+      "transliteration": "Sudarśanaḥ",
+      "meaning_en": "One of beautiful, auspicious appearance",
+      "meaning_hi": "जिनका दर्शन अति सुन्दर और शुभ है",
+      "significance": "His divine vision grants liberation — to see Him is to be transformed."
+    },
+    {
+      "number": 93,
+      "sanskrit": "सर्वशस्त्रभृत्",
+      "transliteration": "Sarvaśastrabhṛt",
+      "meaning_en": "Bearer of all divine weapons",
+      "meaning_hi": "सभी दिव्य अस्त्र-शस्त्र धारण करने वाले",
+      "significance": "He wields every weapon needed to protect dharma and destroy adharma."
+    },
+    {
+      "number": 94,
+      "sanskrit": "श्रीपतिः",
+      "transliteration": "Śrīpatiḥ",
+      "meaning_en": "The husband of Śrī (Lakṣmī)",
+      "meaning_hi": "श्री (लक्ष्मी) के पति",
+      "significance": "He is the eternal consort of the goddess of wealth, grace, and abundance."
+    },
+    {
+      "number": 95,
+      "sanskrit": "श्रीवत्सवक्षाः",
+      "transliteration": "Śrīvatsavakṣāḥ",
+      "meaning_en": "One who bears the Śrīvatsa mark on His chest",
+      "meaning_hi": "जिनके वक्षस्थल पर श्रीवत्स चिह्न है",
+      "significance": "The Śrīvatsa on His chest signifies that Lakṣmī forever resides upon His heart."
+    },
+    {
+      "number": 96,
+      "sanskrit": "श्रीनिवासः",
+      "transliteration": "Śrīnivāsaḥ",
+      "meaning_en": "The abode of Lakṣmī",
+      "meaning_hi": "जिनमें श्री (लक्ष्मी) का निवास है",
+      "significance": "All prosperity and divine grace find their eternal home in Him."
+    },
+    {
+      "number": 97,
+      "sanskrit": "वैकुण्ठः",
+      "transliteration": "Vaikuṇṭhaḥ",
+      "meaning_en": "Lord of Vaikuṇṭha, the supreme abode",
+      "meaning_hi": "वैकुण्ठ धाम के स्वामी",
+      "significance": "He presides over the spiritual realm where there is no sorrow or bondage."
+    },
+    {
+      "number": 98,
+      "sanskrit": "पुण्डरीकाक्षः",
+      "transliteration": "Puṇḍarīkākṣaḥ",
+      "meaning_en": "The lotus-eyed one",
+      "meaning_hi": "कमल के समान नेत्रों वाले",
+      "significance": "His lotus-like eyes radiate infinite compassion upon every being in creation."
+    },
+    {
+      "number": 99,
+      "sanskrit": "उत्तरः",
+      "transliteration": "Uttaraḥ",
+      "meaning_en": "The supreme one who transcends all",
+      "meaning_hi": "सबसे उत्कृष्ट, सबसे परे",
+      "significance": "He surpasses all limitations and is the ultimate answer to every spiritual quest."
+    },
+    {
+      "number": 100,
+      "sanskrit": "क्षामः",
+      "transliteration": "Kṣāmaḥ",
+      "meaning_en": "One who destroys all impurities",
+      "meaning_hi": "सब दोषों का क्षय करने वाले",
+      "significance": "He burns away the impurities of the heart, purifying devotees completely."
+    },
+    {
+      "number": 101,
+      "sanskrit": "सत्त्वस्थः",
+      "transliteration": "Sattvasthah",
+      "meaning_en": "One established in pure goodness",
+      "meaning_hi": "शुद्ध सत्त्व गुण में स्थित",
+      "significance": "He embodies and resides in the purest mode of goodness — beyond all taint."
+    },
+    {
+      "number": 102,
+      "sanskrit": "सुव्रतः",
+      "transliteration": "Suvrataḥ",
+      "meaning_en": "One of noble vows",
+      "meaning_hi": "श्रेष्ठ व्रतों वाले",
+      "significance": "His vow to protect those who surrender to Him never wavers."
+    },
+    {
+      "number": 103,
+      "sanskrit": "सुमुखः",
+      "transliteration": "Sumukhaḥ",
+      "meaning_en": "One with a beautiful, radiant face",
+      "meaning_hi": "सुन्दर मुख वाले",
+      "significance": "His face radiates grace and delight, comforting all who behold Him."
+    },
+    {
+      "number": 104,
+      "sanskrit": "सुहृद्",
+      "transliteration": "Suhṛd",
+      "meaning_en": "The true friend of all beings",
+      "meaning_hi": "सबके सच्चे मित्र",
+      "significance": "He is the selfless well-wisher residing in every heart as the dearest friend."
+    },
+    {
+      "number": 105,
+      "sanskrit": "सत्कर्ता",
+      "transliteration": "Satkartā",
+      "meaning_en": "One who honors the righteous",
+      "meaning_hi": "सत्पुरुषों का सत्कार करने वाले",
+      "significance": "He recognizes and rewards even the smallest act of dharma performed sincerely."
+    },
+    {
+      "number": 106,
+      "sanskrit": "सर्वधर्मज्ञः",
+      "transliteration": "Sarvadharmajñaḥ",
+      "meaning_en": "The knower of all dharma",
+      "meaning_hi": "सभी धर्मों के ज्ञाता",
+      "significance": "He perfectly knows the righteous path for every being in every situation."
+    },
+    {
+      "number": 107,
+      "sanskrit": "सर्वप्रहरणायुधः",
+      "transliteration": "Sarvapraharaṇāyudhaḥ",
+      "meaning_en": "One for whom everything becomes a weapon",
+      "meaning_hi": "जिनके लिये सब कुछ आयुध बन जाता है",
+      "significance": "He can use anything in creation as His instrument — nothing limits His protective power."
+    },
+    {
+      "number": 108,
+      "sanskrit": "ॐ नमो भगवते वासुदेवाय",
+      "transliteration": "Oṃ namo bhagavate Vāsudevāya",
+      "meaning_en": "Om, I bow to the divine Lord Vāsudeva",
+      "meaning_hi": "ॐ, भगवान् वासुदेव को नमस्कार",
+      "significance": "This supreme twelve-syllable mantra encompasses the entire Sahasranāma — salutation to the Lord who dwells in all."
+    }
+  ]
+}

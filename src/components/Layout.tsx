@@ -1,5 +1,7 @@
+'use client';
 import React, { useState, useEffect, useRef, useCallback } from 'react';
-import { Link, Outlet, useLocation, useNavigate } from 'react-router-dom';
+import Link from 'next/link';
+import { usePathname, useRouter } from 'next/navigation';
 import { Search, Menu, X, Facebook, Instagram, Youtube, Music2, Apple, User, ChevronDown, Sun, Moon } from 'lucide-react';
 
 /* ── SVG Tab Icons ─────────────────────────────────────────────────── */
@@ -73,8 +75,8 @@ function SlidingPillNav({
   items, isDark, toggleTheme, isLoggedIn,
   onSignInClick, onSignOut, isUserDropdownOpen, setIsUserDropdownOpen,
 }: SlidingPillNavProps) {
-  const location = useLocation();
-  const navigate = useNavigate();
+  const pathname = usePathname();
+  const router = useRouter();
   const [isMobileOpen, setIsMobileOpen] = useState(false);
   const [indicatorStyle, setIndicatorStyle] = useState({ left: 0, width: 0, opacity: 0 });
   const pillContainerRef = useRef<HTMLDivElement>(null);
@@ -84,8 +86,8 @@ function SlidingPillNav({
   /* Active index based on current route — uses all items */
   const activeIndex = items.findIndex(item =>
     item.path === '/'
-      ? location.pathname === '/'
-      : location.pathname.startsWith(item.path)
+      ? pathname === '/'
+      : (pathname ?? '').startsWith(item.path)
   );
 
   /* Reposition indicator */
@@ -107,7 +109,7 @@ function SlidingPillNav({
   useEffect(() => {
     const t = setTimeout(updateIndicator, 30);
     return () => clearTimeout(t);
-  }, [updateIndicator, location.pathname]);
+  }, [updateIndicator, pathname]);
 
   useEffect(() => {
     const container = pillContainerRef.current;
@@ -130,7 +132,7 @@ function SlidingPillNav({
     else return;
     e.preventDefault();
     tabRefs.current[next]?.focus();
-    navigate(items[next].path);
+    router.push(items[next].path);
     if (liveRef.current) {
       liveRef.current.textContent = '';
       requestAnimationFrame(() => {
@@ -139,7 +141,7 @@ function SlidingPillNav({
     }
   };
 
-  useEffect(() => { setIsMobileOpen(false); }, [location.pathname]);
+  useEffect(() => { setIsMobileOpen(false); }, [pathname]);
 
   return (
     <>
@@ -162,7 +164,7 @@ function SlidingPillNav({
           style={{ height: 52 }}
         >
           {/* Logo */}
-          <Link to="/" className="flex items-center gap-2 flex-shrink-0 group">
+          <Link href="/" className="flex items-center gap-2 flex-shrink-0 group">
             <span
               className="text-[#C8962E] text-2xl leading-none select-none"
               style={{ textShadow: '0 0 12px rgba(200,150,46,0.5)' }}
@@ -198,10 +200,10 @@ function SlidingPillNav({
                 </button>
                 {isUserDropdownOpen && (
                   <div className="absolute top-10 right-0 w-48 bg-white rounded-md shadow-lg py-1 z-50 border border-gray-200">
-                    <Link to="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">My Favorites</Link>
-                    <Link to="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Reading Progress</Link>
-                    <Link to="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Order History</Link>
-                    <Link to="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Email Preferences</Link>
+                    <Link href="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">My Favorites</Link>
+                    <Link href="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Reading Progress</Link>
+                    <Link href="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Order History</Link>
+                    <Link href="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Email Preferences</Link>
                     <button onClick={onSignOut} className="block w-full text-left px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 border-t border-gray-100">
                       Sign Out
                     </button>
@@ -219,7 +221,7 @@ function SlidingPillNav({
 
             {/* Shop icon */}
             <button
-              onClick={() => navigate('/shop')}
+              onClick={() => router.push('/shop')}
               className="text-white/60 hover:text-[#C8962E] transition-colors"
               aria-label="Shop"
             >
@@ -297,7 +299,7 @@ function SlidingPillNav({
                   role="tab"
                   aria-selected={isActive}
                   tabIndex={isActive ? 0 : -1}
-                  onClick={() => navigate(item.path)}
+                  onClick={() => router.push(item.path)}
                   onKeyDown={e => handleKeyDown(e, idx)}
                   style={{
                     position: 'relative',
@@ -345,12 +347,12 @@ function SlidingPillNav({
             <div className="px-4 py-3 flex flex-col gap-1">
               {items.map(item => {
                 const isActive = item.path === '/'
-                  ? location.pathname === '/'
-                  : location.pathname.startsWith(item.path);
+                  ? pathname === '/'
+                  : (pathname ?? '').startsWith(item.path);
                 return (
                   <button
                     key={item.path}
-                    onClick={() => navigate(item.path)}
+                    onClick={() => router.push(item.path)}
                     className="flex items-center gap-3 px-4 py-3 rounded-xl text-left w-full transition-colors"
                     style={{
                       background: isActive ? 'rgba(200,150,46,0.12)' : 'transparent',
@@ -374,7 +376,7 @@ function SlidingPillNav({
                   className="text-sm text-white/70 hover:text-[#C8962E] transition-colors">
                   {isLoggedIn ? 'Sign Out' : 'Sign In'}
                 </button>
-                <button onClick={() => navigate('/shop')} className="text-white/60 hover:text-[#C8962E] transition-colors ml-auto" aria-label="Shop">
+                <button onClick={() => router.push('/shop')} className="text-white/60 hover:text-[#C8962E] transition-colors ml-auto" aria-label="Shop">
                   <ShopIcon />
                 </button>
               </div>
@@ -398,7 +400,7 @@ export default function Layout() {
     if (saved) return saved === 'dark';
     return window.matchMedia('(prefers-color-scheme: dark)').matches;
   });
-  const location = useLocation();
+  const pathname = usePathname();
 
   // ── Dark Mode: apply / remove .dark on <html> ─────────────────────
   useEffect(() => {
@@ -415,7 +417,7 @@ export default function Layout() {
 
   useEffect(() => {
     window.scrollTo(0, 0);
-  }, [location.pathname]);
+  }, [pathname]);
 
   // ── Scroll Reveal: IntersectionObserver ──────────────────────────
   // Adds `.is-visible` to any element with a scroll-* class when it
@@ -453,7 +455,7 @@ export default function Layout() {
     }, 50);
 
     return () => clearTimeout(timer);
-  }, [location.pathname]);
+  }, [pathname]);
 
   const handleSignIn = (e: React.FormEvent) => {
     e.preventDefault();
@@ -477,7 +479,7 @@ export default function Layout() {
 
       {/* Main Content */}
       <main className="flex-grow">
-        <Outlet />
+        {/* children handled by Next.js layout */}
       </main>
 
       {/* Footer */}
@@ -548,11 +550,11 @@ export default function Layout() {
               <div className="lg:col-span-2">
                 <h4 className="text-[12px] uppercase tracking-wider font-bold text-[var(--color-brand-gold)] mb-6">Quick Links</h4>
                 <ul className="space-y-3">
-                  <li><Link to="/mantras" className="text-[#FFFDF0] text-sm footer-link">Popular Mantras</Link></li>
-                  <li><Link to="/scriptures" className="text-[#FFFDF0] text-sm footer-link">Bhagavad Gita</Link></li>
-                  <li><Link to="/#deities" className="text-[#FFFDF0] text-sm footer-link">Browse by Deity</Link></li>
-                  <li><Link to="/mantras" className="text-[#FFFDF0] text-sm footer-link">108 Names Collections</Link></li>
-                  <li><Link to="#" className="text-[#FFFDF0] text-sm footer-link">Download App</Link></li>
+                  <li><Link href="/mantras" className="text-[#FFFDF0] text-sm footer-link">Popular Mantras</Link></li>
+                  <li><Link href="/scriptures" className="text-[#FFFDF0] text-sm footer-link">Bhagavad Gita</Link></li>
+                  <li><Link href="/#deities" className="text-[#FFFDF0] text-sm footer-link">Browse by Deity</Link></li>
+                  <li><Link href="/mantras" className="text-[#FFFDF0] text-sm footer-link">108 Names Collections</Link></li>
+                  <li><Link href="#" className="text-[#FFFDF0] text-sm footer-link">Download App</Link></li>
                 </ul>
               </div>
 
@@ -560,11 +562,11 @@ export default function Layout() {
               <div className="lg:col-span-2">
                 <h4 className="text-[12px] uppercase tracking-wider font-bold text-[var(--color-brand-gold)] mb-6">Explore</h4>
                 <ul className="space-y-3">
-                  <li><Link to="/scriptures" className="text-[#FFFDF0] text-sm footer-link">Scriptures</Link></li>
-                  <li><Link to="/temples" className="text-[#FFFDF0] text-sm footer-link">Temples</Link></li>
-                  <li><Link to="/meditate" className="text-[#FFFDF0] text-sm footer-link">Meditate &amp; Yoga</Link></li>
-                  <li><Link to="/eternal-gyan" className="text-[#FFFDF0] text-sm footer-link">Eternal Gyan</Link></li>
-                  <li><Link to="/shop" className="text-[#FFFDF0] text-sm footer-link">Shop</Link></li>
+                  <li><Link href="/scriptures" className="text-[#FFFDF0] text-sm footer-link">Scriptures</Link></li>
+                  <li><Link href="/temples" className="text-[#FFFDF0] text-sm footer-link">Temples</Link></li>
+                  <li><Link href="/meditate" className="text-[#FFFDF0] text-sm footer-link">Meditate &amp; Yoga</Link></li>
+                  <li><Link href="/eternal-gyan" className="text-[#FFFDF0] text-sm footer-link">Eternal Gyan</Link></li>
+                  <li><Link href="/shop" className="text-[#FFFDF0] text-sm footer-link">Shop</Link></li>
                 </ul>
               </div>
 
@@ -573,7 +575,7 @@ export default function Layout() {
                 <h4 className="text-[12px] uppercase tracking-wider font-bold text-[var(--color-brand-gold)] mb-6">Listen &amp; Follow</h4>
                 <ul className="space-y-3">
                   <li>
-                    <Link to="/listen" className="text-[#FFFDF0] text-sm footer-link">
+                    <Link href="/listen" className="text-[#FFFDF0] text-sm footer-link">
                       Listen &amp; Podcast Page →
                     </Link>
                   </li>
@@ -584,12 +586,12 @@ export default function Layout() {
               <div className="lg:col-span-2">
                 <h4 className="text-[12px] uppercase tracking-wider font-bold text-[var(--color-brand-gold)] mb-6">Support</h4>
                 <ul className="space-y-3">
-                  <li><Link to="#" className="text-[#FFFDF0] text-sm footer-link">About Us</Link></li>
-                  <li><Link to="#" className="text-[#FFFDF0] text-sm footer-link">Contact</Link></li>
-                  <li><Link to="/feedback" className="text-[#FFFDF0] text-sm footer-link">Request Content</Link></li>
-                  <li><Link to="#" className="text-[#FFFDF0] text-sm footer-link">Privacy Policy</Link></li>
-                  <li><Link to="#" className="text-[#FFFDF0] text-sm footer-link">Terms of Service</Link></li>
-                  <li><Link to="#" className="text-[#FFFDF0] text-sm footer-link">Sitemap</Link></li>
+                  <li><Link href="#" className="text-[#FFFDF0] text-sm footer-link">About Us</Link></li>
+                  <li><Link href="#" className="text-[#FFFDF0] text-sm footer-link">Contact</Link></li>
+                  <li><Link href="/feedback" className="text-[#FFFDF0] text-sm footer-link">Request Content</Link></li>
+                  <li><Link href="#" className="text-[#FFFDF0] text-sm footer-link">Privacy Policy</Link></li>
+                  <li><Link href="#" className="text-[#FFFDF0] text-sm footer-link">Terms of Service</Link></li>
+                  <li><Link href="#" className="text-[#FFFDF0] text-sm footer-link">Sitemap</Link></li>
                 </ul>
               </div>
             </div>
@@ -632,29 +634,29 @@ export default function Layout() {
               {/* Accordion sections */}
               {([
                 { id: 'quick-links', title: 'Quick Links', items: [
-                  <li key="m"><Link to="/mantras" className="text-[#FFFDF0] text-sm footer-link">Popular Mantras</Link></li>,
-                  <li key="s"><Link to="/scriptures" className="text-[#FFFDF0] text-sm footer-link">Bhagavad Gita</Link></li>,
-                  <li key="d"><Link to="/#deities" className="text-[#FFFDF0] text-sm footer-link">Browse by Deity</Link></li>,
-                  <li key="n"><Link to="/mantras" className="text-[#FFFDF0] text-sm footer-link">108 Names Collections</Link></li>,
-                  <li key="a"><Link to="#" className="text-[#FFFDF0] text-sm footer-link">Download App</Link></li>,
+                  <li key="m"><Link href="/mantras" className="text-[#FFFDF0] text-sm footer-link">Popular Mantras</Link></li>,
+                  <li key="s"><Link href="/scriptures" className="text-[#FFFDF0] text-sm footer-link">Bhagavad Gita</Link></li>,
+                  <li key="d"><Link href="/#deities" className="text-[#FFFDF0] text-sm footer-link">Browse by Deity</Link></li>,
+                  <li key="n"><Link href="/mantras" className="text-[#FFFDF0] text-sm footer-link">108 Names Collections</Link></li>,
+                  <li key="a"><Link href="#" className="text-[#FFFDF0] text-sm footer-link">Download App</Link></li>,
                 ]},
                 { id: 'explore', title: 'Explore', items: [
-                  <li key="sc"><Link to="/scriptures" className="text-[#FFFDF0] text-sm footer-link">Scriptures</Link></li>,
-                  <li key="te"><Link to="/temples" className="text-[#FFFDF0] text-sm footer-link">Temples</Link></li>,
-                  <li key="me"><Link to="/meditate" className="text-[#FFFDF0] text-sm footer-link">Meditate &amp; Yoga</Link></li>,
-                  <li key="eg"><Link to="/eternal-gyan" className="text-[#FFFDF0] text-sm footer-link">Eternal Gyan</Link></li>,
-                  <li key="sh"><Link to="/shop" className="text-[#FFFDF0] text-sm footer-link">Shop</Link></li>,
+                  <li key="sc"><Link href="/scriptures" className="text-[#FFFDF0] text-sm footer-link">Scriptures</Link></li>,
+                  <li key="te"><Link href="/temples" className="text-[#FFFDF0] text-sm footer-link">Temples</Link></li>,
+                  <li key="me"><Link href="/meditate" className="text-[#FFFDF0] text-sm footer-link">Meditate &amp; Yoga</Link></li>,
+                  <li key="eg"><Link href="/eternal-gyan" className="text-[#FFFDF0] text-sm footer-link">Eternal Gyan</Link></li>,
+                  <li key="sh"><Link href="/shop" className="text-[#FFFDF0] text-sm footer-link">Shop</Link></li>,
                 ]},
                 { id: 'listen', title: 'Listen & Follow', items: [
-                  <li key="l"><Link to="/listen" className="text-[#FFFDF0] text-sm footer-link">Listen &amp; Podcast Page →</Link></li>,
+                  <li key="l"><Link href="/listen" className="text-[#FFFDF0] text-sm footer-link">Listen &amp; Podcast Page →</Link></li>,
                 ]},
                 { id: 'support', title: 'Support', items: [
-                  <li key="ab"><Link to="#" className="text-[#FFFDF0] text-sm footer-link">About Us</Link></li>,
-                  <li key="co"><Link to="#" className="text-[#FFFDF0] text-sm footer-link">Contact</Link></li>,
-                  <li key="rc"><Link to="/feedback" className="text-[#FFFDF0] text-sm footer-link">Request Content</Link></li>,
-                  <li key="pp"><Link to="#" className="text-[#FFFDF0] text-sm footer-link">Privacy Policy</Link></li>,
-                  <li key="tos"><Link to="#" className="text-[#FFFDF0] text-sm footer-link">Terms of Service</Link></li>,
-                  <li key="sm"><Link to="#" className="text-[#FFFDF0] text-sm footer-link">Sitemap</Link></li>,
+                  <li key="ab"><Link href="#" className="text-[#FFFDF0] text-sm footer-link">About Us</Link></li>,
+                  <li key="co"><Link href="#" className="text-[#FFFDF0] text-sm footer-link">Contact</Link></li>,
+                  <li key="rc"><Link href="/feedback" className="text-[#FFFDF0] text-sm footer-link">Request Content</Link></li>,
+                  <li key="pp"><Link href="#" className="text-[#FFFDF0] text-sm footer-link">Privacy Policy</Link></li>,
+                  <li key="tos"><Link href="#" className="text-[#FFFDF0] text-sm footer-link">Terms of Service</Link></li>,
+                  <li key="sm"><Link href="#" className="text-[#FFFDF0] text-sm footer-link">Sitemap</Link></li>,
                 ]},
               ] as { id: string; title: string; items: React.ReactNode[] }[]).map(({ id, title, items }) => (
                 <div key={id} className="border-b border-white/10">

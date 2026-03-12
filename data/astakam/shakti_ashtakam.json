@@ -1,0 +1,208 @@
+{
+  "id": "shakti_ashtakam",
+  "title_en": "Shakti Ashtakam",
+  "title_hi": "शक्त्यष्टकम्",
+  "deity": "devi",
+  "author": "Traditional",
+  "author_hi": "पारंपरिक",
+  "type": "ashtakam",
+  "language": "sanskrit",
+  "total_verses": 8,
+  "sections": [
+    "stuti"
+  ],
+  "description_en": "Eight-verse hymn to Shakti, the divine feminine cosmic energy that is the source of all creation. Praises her as Adi Shakti - the primordial power from which all deities, creation, and consciousness arise.",
+  "description_hi": "आदि शक्ति की स्तुति जिनसे समस्त देवी-देवता, सृष्टि और चेतना उत्पन्न होती है।",
+  "recitation_benefits": [
+    "Awakens inner Shakti",
+    "Empowers the seeker",
+    "Removes weakness and fear",
+    "Grants creative power",
+    "Leads to enlightenment"
+  ],
+  "best_time_to_recite": [
+    "Navaratri",
+    "Tuesday",
+    "Friday",
+    "Ashtami",
+    "During challenges"
+  ],
+  "verses": [
+    {
+      "verse_number": 1,
+      "section": "stuti",
+      "hindi_text": "या देवी सर्वभूतेषु शक्तिरूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।।१।।",
+      "transliteration": "yā devī sarvabhūteṣu śaktirūpeṇa saṃsthitā,\nnamas tasyai namas tasyai namas tasyai namo namaḥ.",
+      "word_by_word": {
+        "yā": "she who",
+        "devī": "goddess, divine one",
+        "sarvabhūteṣu": "in all beings",
+        "śaktirūpeṇa": "in the form of power/energy",
+        "saṃsthitā": "is established, abides",
+        "namas": "salutation, bow",
+        "tasyai": "to her",
+        "namo": "reverence, homage",
+        "namaḥ": "salutation"
+      },
+      "meaning_en": "To that Goddess who dwells in all living beings in the form of Shakti — the primordial power — I offer salutation again and again. She is not separate from creation but is the very energy that animates every creature. With humility and devotion, I bow to her thrice and more.",
+      "meaning_hi": "वह देवी जो समस्त प्राणियों में शक्ति के रूप में विराजमान हैं, उन्हें बारंबार नमस्कार है। वे सृष्टि से अलग नहीं, बल्कि हर जीव की प्राण-शक्ति स्वयं हैं। भक्ति और विनम्रता के साथ उन्हें तीन बार और अनेक बार प्रणाम करता हूँ।",
+      "modern_context_en": "When you feel an inexplicable surge of energy during a crisis — the strength a mother finds when her child is in danger, or the resolve a professional discovers when all seems lost — that is Shakti manifesting within you. This verse teaches us to recognize that power not as our own ego-achievement but as the Goddess dwelling inside us. Acknowledging this transforms anxiety into purposeful action.",
+      "modern_context_hi": "जब किसी संकट में आपको अचानक अद्भुत शक्ति का अनुभव होता है — जैसे एक माँ अपने बच्चे को बचाने के लिए असाधारण बल दिखाती है — वह शक्ति देवी का ही स्वरूप है। यह श्लोक हमें सिखाता है कि इस ऊर्जा को अहंकार नहीं, बल्कि देवी का प्रसाद मानें। ऐसा मानने से घबराहट, साहस में बदल जाती है।"
+    },
+    {
+      "verse_number": 2,
+      "section": "stuti",
+      "hindi_text": "या देवी सर्वभूतेषु बुद्धिरूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।।२।।",
+      "transliteration": "yā devī sarvabhūteṣu buddhirūpeṇa saṃsthitā,\nnamas tasyai namas tasyai namas tasyai namo namaḥ.",
+      "word_by_word": {
+        "yā": "she who",
+        "devī": "goddess, divine one",
+        "sarvabhūteṣu": "in all beings",
+        "buddhirūpeṇa": "in the form of intellect/wisdom",
+        "saṃsthitā": "is established, abides",
+        "namas": "salutation, bow",
+        "tasyai": "to her",
+        "buddhi": "intellect, discriminative wisdom",
+        "namo": "reverence",
+        "namaḥ": "salutation"
+      },
+      "meaning_en": "To that Goddess who resides in all beings in the form of Buddhi — the higher discriminative intellect — I offer repeated salutations. She is the light of discernment that separates truth from illusion and right action from wrong. Every act of genuine wisdom in the world is her graceful presence shining through.",
+      "meaning_hi": "वह देवी जो समस्त प्राणियों में बुद्धि के रूप में विराजमान हैं, उन्हें बारंबार नमस्कार है। वे विवेक की वह ज्योति हैं जो सत्य और असत्य का भेद कराती हैं। जगत में जो भी सच्ची बुद्धिमत्ता है, वह देवी की ही कृपा का प्रकाश है।",
+      "modern_context_en": "In a world overwhelmed with information, social media noise, and conflicting opinions, the capacity to think clearly and make sound decisions is increasingly rare and precious. This verse reminds us that true intellectual clarity is not merely the result of IQ or education but is a divine gift — Devi as Buddhi within us. Before important decisions, pausing to invoke this inner wisdom can transform impulsive reactions into thoughtful, life-affirming choices.",
+      "modern_context_hi": "आज जब सोशल मीडिया, झूठी खबरों और भ्रामक सूचनाओं की बाढ़ है, तब सही निर्णय लेने की शक्ति बहुत दुर्लभ हो गई है। यह श्लोक याद दिलाता है कि सच्ची बुद्धि केवल पढ़ाई या IQ नहीं, बल्कि देवी का वरदान है। किसी बड़े निर्णय से पहले एक पल रुककर इस आंतरिक विवेक को जागृत करना हमारे जीवन को बेहतर बना सकता है।"
+    },
+    {
+      "verse_number": 3,
+      "section": "stuti",
+      "hindi_text": "या देवी सर्वभूतेषु श्रद्धारूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।।३।।",
+      "transliteration": "yā devī sarvabhūteṣu śraddhārūpeṇa saṃsthitā,\nnamas tasyai namas tasyai namas tasyai namo namaḥ.",
+      "word_by_word": {
+        "yā": "she who",
+        "devī": "goddess",
+        "sarvabhūteṣu": "in all beings",
+        "śraddhārūpeṇa": "in the form of faith/reverence",
+        "saṃsthitā": "is established",
+        "śraddhā": "faith, reverence, trust",
+        "namas": "salutation",
+        "tasyai": "to her",
+        "namo": "homage",
+        "namaḥ": "reverence"
+      },
+      "meaning_en": "To that Goddess who dwells in all beings in the form of Shraddha — sacred faith and devoted reverence — I offer salutation again and again. Shraddha is the luminous trust that sustains the seeker on the spiritual path even when the destination cannot yet be seen. Without this divine quality, no endeavor — worldly or sacred — can find its deepest completion.",
+      "meaning_hi": "वह देवी जो समस्त प्राणियों में श्रद्धा के रूप में विराजमान हैं, उन्हें बारंबार नमस्कार है। श्रद्धा वह दिव्य विश्वास है जो साधक को तब भी मार्ग पर बनाए रखती है जब मंजिल दिखाई नहीं देती। इस दिव्य गुण के बिना न कोई सांसारिक कार्य और न कोई आध्यात्मिक साधना पूर्ण हो सकती है।",
+      "modern_context_en": "Whether you are a student preparing for a competitive exam through months of uncertainty, an entrepreneur building a startup with no guarantee of success, or a patient enduring a long course of treatment — Shraddha is the quiet inner faith that keeps you going. This verse reminds us that this sustaining trust is not mere optimism or stubbornness but the Goddess herself holding you steady. Cultivating Shraddha means trusting the process even when results are invisible.",
+      "modern_context_hi": "चाहे आप महीनों की मेहनत के बाद परीक्षा की तैयारी कर रहे हों, कोई व्यवसाय शुरू कर रहे हों या लंबी बीमारी से जूझ रहे हों — श्रद्धा वह आंतरिक विश्वास है जो आपको थामे रखती है। यह श्लोक बताता है कि यह विश्वास केवल आशावाद नहीं, बल्कि देवी की शक्ति है जो आपके भीतर है। प्रक्रिया पर भरोसा रखना ही श्रद्धा की साधना है।"
+    },
+    {
+      "verse_number": 4,
+      "section": "stuti",
+      "hindi_text": "या देवी सर्वभूतेषु लक्ष्मीरूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।।४।।",
+      "transliteration": "yā devī sarvabhūteṣu lakṣmīrūpeṇa saṃsthitā,\nnamas tasyai namas tasyai namas tasyai namo namaḥ.",
+      "word_by_word": {
+        "yā": "she who",
+        "devī": "goddess",
+        "sarvabhūteṣu": "in all beings",
+        "lakṣmīrūpeṇa": "in the form of Lakshmi/prosperity",
+        "saṃsthitā": "is established",
+        "lakṣmī": "goddess of fortune, abundance, grace",
+        "namas": "salutation",
+        "tasyai": "to her",
+        "namo": "homage",
+        "namaḥ": "reverence"
+      },
+      "meaning_en": "To that Goddess who abides in all beings as Lakshmi — the embodiment of auspiciousness, beauty, and abundance — I offer salutation again and again. She is not merely material wealth but the grace that makes life flourish in all its dimensions: health, love, wisdom, and prosperity. Every moment of beauty, harmony, and sufficiency in our lives is her generous presence.",
+      "meaning_hi": "वह देवी जो समस्त प्राणियों में लक्ष्मी के रूप में विराजमान हैं, उन्हें बारंबार नमस्कार है। वे केवल धन-संपदा नहीं, बल्कि जीवन की हर प्रकार की समृद्धि — स्वास्थ्य, प्रेम, ज्ञान और सौंदर्य — की अधिष्ठात्री हैं। जीवन में जो भी सौंदर्य, सामंजस्य और पर्याप्तता है, वह उनकी कृपा का ही प्रसाद है।",
+      "modern_context_en": "In today's culture of relentless hustle and scarcity mindset, we are conditioned to believe there is never enough — never enough money, time, recognition, or love. This verse invites a radical shift: to see Lakshmi not as a transaction to be earned but as the divine abundance already present in every shared meal, every functioning relationship, and every healthy breath. Gratitude practice becomes an act of devotion to Devi herself.",
+      "modern_context_hi": "आज की भागदौड़ भरी जिंदगी में हम हमेशा यह सोचते हैं कि 'कुछ और चाहिए' — और पैसे, समय, प्रेम कभी पर्याप्त नहीं लगते। यह श्लोक हमें एक नई दृष्टि देता है: हर साझा भोजन, हर स्वस्थ सांस और हर रिश्ते में लक्ष्मी पहले से ही मौजूद हैं। कृतज्ञता का भाव रखना स्वयं देवी की आराधना बन जाती है।"
+    },
+    {
+      "verse_number": 5,
+      "section": "stuti",
+      "hindi_text": "या देवी सर्वभूतेषु क्षुधारूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।।५।।",
+      "transliteration": "yā devī sarvabhūteṣu kṣudhārūpeṇa saṃsthitā,\nnamas tasyai namas tasyai namas tasyai namo namaḥ.",
+      "word_by_word": {
+        "yā": "she who",
+        "devī": "goddess",
+        "sarvabhūteṣu": "in all beings",
+        "kṣudhārūpeṇa": "in the form of hunger/longing",
+        "saṃsthitā": "is established",
+        "kṣudhā": "hunger, craving, yearning",
+        "namas": "salutation",
+        "tasyai": "to her",
+        "namo": "homage",
+        "namaḥ": "reverence"
+      },
+      "meaning_en": "To that Goddess who dwells in all beings as Kshudha — the sacred force of hunger and longing — I offer salutation again and again. This verse startles us with its audacity: even hunger, the most primal of drives, is a form of the Divine Mother. She pulses in every craving of body and soul, reminding us that all yearning ultimately seeks return to the Source.",
+      "meaning_hi": "वह देवी जो समस्त प्राणियों में क्षुधा — भूख और तृष्णा — के रूप में विराजमान हैं, उन्हें बारंबार नमस्कार है। यह श्लोक हमें चौंकाता है: यहाँ तक कि भूख भी, जो सबसे आदिम प्रवृत्ति है, दिव्य माँ का एक रूप है। हर इच्छा और तृष्णा में वही स्पंदित हैं, जो बताता है कि सभी लालसाएँ अंततः मूल स्रोत की ओर लौटने की चाह हैं।",
+      "modern_context_en": "We live in an age of insatiable appetites — for content, validation, food, achievement — and yet chronic dissatisfaction persists. This verse offers a profound reframe: the hunger itself is sacred, a signal from the Goddess within that our souls are seeking something deeper than what we have consumed. When you notice that restless longing, instead of mindlessly feeding it, pause and ask — what is the soul truly hungry for?",
+      "modern_context_hi": "हम ऐसे युग में जी रहे हैं जहाँ कंटेंट, प्रशंसा, खाना और सफलता की अतृप्त भूख है — फिर भी असंतोष बना रहता है। यह श्लोक एक गहरी दृष्टि देता है: यह भूख खुद पवित्र है, देवी का संकेत है कि आत्मा कुछ गहरा खोज रही है। अगली बार जब वह बेचैन लालसा उठे, तो पूछें — आत्मा वास्तव में किस चीज़ की भूखी है?"
+    },
+    {
+      "verse_number": 6,
+      "section": "stuti",
+      "hindi_text": "या देवी सर्वभूतेषु चेतनेत्यभिधीयते।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।।६।।",
+      "transliteration": "yā devī sarvabhūteṣu cetanety abhidhīyate,\nnamas tasyai namas tasyai namas tasyai namo namaḥ.",
+      "word_by_word": {
+        "yā": "she who",
+        "devī": "goddess",
+        "sarvabhūteṣu": "in all beings",
+        "cetanā": "consciousness, sentience, awareness",
+        "iti": "thus, so called",
+        "abhidhīyate": "is known as, is called",
+        "namas": "salutation",
+        "tasyai": "to her",
+        "namo": "homage",
+        "namaḥ": "reverence"
+      },
+      "meaning_en": "To that Goddess who is known in all beings as Chetana — pure consciousness and sentient awareness — I offer salutation again and again. She is not an object to be perceived but the very light of perception itself, the awareness that makes all experience possible. Without her as Chetana, the universe would exist in absolute darkness with no one to know it.",
+      "meaning_hi": "वह देवी जो समस्त प्राणियों में चेतना के रूप में जानी जाती हैं, उन्हें बारंबार नमस्कार है। वे अनुभव की वस्तु नहीं, बल्कि अनुभव का प्रकाश स्वयं हैं — वह जागरूकता जो हर अनुभव को संभव बनाती है। उनके बिना, यह सारा ब्रह्मांड घोर अंधकार में होता, जहाँ जानने वाला कोई न होता।",
+      "modern_context_en": "Modern neuroscience debates the 'hard problem of consciousness' — why is there subjective experience at all, why does anything feel like something from the inside? This verse from millennia ago provides the answer the laboratories cannot: consciousness is not produced by the brain but is the Goddess herself, Chetana, the primordial awareness in which all brain activity appears. Meditation, then, is the practice of recognizing that we are not merely thinking beings but the awareness itself — Devi's own nature.",
+      "modern_context_hi": "आज का विज्ञान 'चेतना की समस्या' पर बहस करता है — आखिर अनुभव होता क्यों है? यह श्लोक हजारों साल पहले उत्तर देता है: चेतना मस्तिष्क का उत्पाद नहीं, बल्कि देवी स्वयं हैं। ध्यान का अभ्यास इसी सत्य को पहचानने की साधना है — कि हम सोचने वाले नहीं, बल्कि वह जागरूकता हैं जिसमें सारे विचार उठते-बैठते हैं।"
+    },
+    {
+      "verse_number": 7,
+      "section": "stuti",
+      "hindi_text": "सर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके।\nशरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते।।७।।",
+      "transliteration": "sarvamaṅgalamāṅgalye śive sarvārthasādhike,\nśaraṇye tryambake gauri nārāyaṇi namo'stu te.",
+      "word_by_word": {
+        "sarvamaṅgala": "all auspiciousness",
+        "māṅgalye": "O auspicious one",
+        "śive": "O benevolent one, O Shiva's beloved",
+        "sarvārthasādhike": "accomplisher of all goals/purposes",
+        "śaraṇye": "O refuge, giver of shelter",
+        "tryambake": "O three-eyed one",
+        "gauri": "O fair one, O Gauri",
+        "nārāyaṇi": "O Narayani, consort of Narayana",
+        "namaḥ": "salutation",
+        "astu": "let there be",
+        "te": "to you"
+      },
+      "meaning_en": "O Narayani, you are the auspiciousness of all that is auspicious, the benevolent Shiva, the fulfiller of every purpose and goal. You are the refuge of all who seek shelter, the three-eyed Gauri — to you I offer my salutation. This verse celebrates her as the universal sanctuary — the one to whom all beings ultimately run when every other resource fails.",
+      "meaning_hi": "हे नारायणी, आप समस्त मंगलों की मंगलदायिनी हैं, कल्याणकारी शिवा हैं और सभी अर्थों को सिद्ध करने वाली हैं। आप शरण देने वाली त्र्यम्बके और गौरि हैं — आपको नमस्कार है। यह श्लोक उन्हें सार्वभौमिक आश्रय के रूप में स्तुत करता है — वह जिनके पास जीव तब दौड़ता है जब अन्य सभी साधन विफल हो जाते हैं।",
+      "modern_context_en": "There are moments in life when every support system collapses simultaneously — a loved one lost, finances shattered, health failing, relationships broken — and in that total freefall, something deeper than the mind reaches out for the ultimate refuge. This verse names that refuge: Narayani, who is not elsewhere but is the very ground of being that was always holding you. Chanting this verse in moments of extreme vulnerability is an act of returning home.",
+      "modern_context_hi": "जीवन में कुछ ऐसे पल आते हैं जब सब एक साथ टूट जाता है — प्रियजन की मृत्यु, आर्थिक संकट, स्वास्थ्य का बिगड़ना — और उस पूर्ण टूटन में कुछ गहरा किसी परम आश्रय की ओर हाथ बढ़ाता है। यह श्लोक उस आश्रय का नाम देता है: नारायणी, जो कहीं और नहीं बल्कि हमारे अस्तित्व की नींव हैं। ऐसे क्षणों में इस मंत्र का जप घर वापस आने जैसा है।"
+    },
+    {
+      "verse_number": 8,
+      "section": "phala_shruti",
+      "hindi_text": "या देवी सर्वभूतेषु मातृरूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।।८।।",
+      "transliteration": "yā devī sarvabhūteṣu mātṛrūpeṇa saṃsthitā,\nnamas tasyai namas tasyai namas tasyai namo namaḥ.",
+      "word_by_word": {
+        "yā": "she who",
+        "devī": "goddess",
+        "sarvabhūteṣu": "in all beings",
+        "mātṛrūpeṇa": "in the form of the mother",
+        "saṃsthitā": "is established, abides",
+        "mātṛ": "mother, motherhood",
+        "namas": "salutation",
+        "tasyai": "to her",
+        "namo": "homage",
+        "namaḥ": "reverence"
+      },
+      "meaning_en": "To that Goddess who dwells in all beings in the form of the Mother — Matri — I offer salutation again and again, and yet again. This final and most intimate verse crowns the ashtakam by revealing that the highest name for the infinite cosmic Shakti is simply: Mother. All her forms — as power, wisdom, faith, abundance, hunger, and consciousness — are ultimately the love of a mother who is present in every being without exception and without condition.",
+      "meaning_hi": "वह देवी जो समस्त प्राणियों में माँ के रूप में विराजमान हैं, उन्हें बारंबार और फिर-फिर नमस्कार है। यह अंतिम और सबसे आत्मीय श्लोक अष्टकम् के शिखर पर यह प्रकट करता है कि अनंत ब्रह्मांडीय शक्ति का सर्वोच्च नाम बस एक ही है: माँ। उनके सभी रूप — शक्ति, बुद्धि, श्रद्धा, लक्ष्मी, क्षुधा और चेतना — अंततः उस माँ का प्रेम है जो बिना किसी अपवाद और बिना किसी शर्त के हर प्राणी में विद्यमान है।",
+      "modern_context_en": "In a world that often feels cold, transactional, and indifferent — where algorithms replace relationships and productivity is prized over belonging — the image of the Universal Mother strikes at our deepest need. This concluding verse is an invitation to experience the entire cosmos not as a hostile or indifferent mechanism but as the loving presence of a mother who has never left. Every person you meet carries that Matri within them — and so do you.",
+      "modern_context_hi": "आज की दुनिया में जहाँ रिश्ते लेन-देन बन गए हैं और एल्गोरिदम ने अपनापन छीन लिया है, विश्वमाता का यह रूप हमारी सबसे गहरी जरूरत को छूता है। यह अंतिम श्लोक निमंत्रण है — इस सृष्टि को एक ठंडी मशीन नहीं, बल्कि उस माँ की प्रेमपूर्ण उपस्थिति के रूप में अनुभव करने का, जिसने कभी साथ नहीं छोड़ा। जिस भी इंसान से आप मिलें, उसमें वह माँ है — और आप में भी।"
+    }
+  ]
+}

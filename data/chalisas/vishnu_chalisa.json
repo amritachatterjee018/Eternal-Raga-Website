@@ -1,0 +1,871 @@
+{
+  "id": "vishnu_chalisa",
+  "title_en": "Vishnu Chalisa",
+  "title_hi": "विष्णु चालीसा",
+  "deity": "vishnu",
+  "author": "Traditional",
+  "type": "chalisa",
+  "total_verses": 44,
+  "sections": [
+    "doha_opening",
+    "chaupai",
+    "doha_closing"
+  ],
+  "verses": [
+    {
+      "verse_number": 1,
+      "section": "doha_opening",
+      "hindi_text": "श्री हरि विष्णु के चरण में, मन क्रम वचन ध्यान।\nनमन करूँ श्री विष्णु को, जो करते जग कल्याण॥",
+      "transliteration": "Śrī Hari Viṣṇu ke caraṇ meṃ, man kram vacan dhyān.\nNaman karūṃ Śrī Viṣṇu ko, jo karte jag kalyāṇ॥",
+      "word_by_word": {
+        "श्री हरि विष्णु": "Lord Hari Vishnu",
+        "चरण": "feet",
+        "मन क्रम वचन": "mind, deed, and speech",
+        "ध्यान": "meditation",
+        "नमन": "salutation",
+        "जग कल्याण": "welfare of the world"
+      },
+      "meaning_en": "I meditate upon the feet of Lord Hari Vishnu with my mind, deeds, and words. I bow to Lord Vishnu, who works for the welfare of the entire world.",
+      "meaning_hi": "मैं मन, कर्म और वचन से श्री हरि विष्णु के चरणों का ध्यान करता हूँ। मैं उन श्री विष्णु को नमन करता हूँ जो सम्पूर्ण जगत का कल्याण करते हैं।",
+      "modern_context_en": "Before starting any new chapter in life — a job, a move abroad, a family decision — grounding yourself in humility and devotion sets the right foundation.",
+      "modern_context_hi": "जीवन के किसी भी नए अध्याय की शुरुआत से पहले — नौकरी, विदेश जाना, पारिवारिक निर्णय — विनम्रता और भक्ति की नींव रखना सही दिशा देता है।"
+    },
+    {
+      "verse_number": 2,
+      "section": "doha_opening",
+      "hindi_text": "जय लक्ष्मीपति दीनदयाला, जय गरुड़ध्वज पालनहारा।\nजय विष्णु भगवान कृपाला, जय शरणागत प्रतिपालनहारा॥",
+      "transliteration": "Jaya Lakṣmīpati Dīnadayālā, Jaya Garuḍadhvaja Pālanahārā.\nJaya Viṣṇu Bhagavān Kṛpālā, Jaya Śaraṇāgata Pratipālanahārā॥",
+      "word_by_word": {
+        "जय": "victory/glory",
+        "लक्ष्मीपति": "husband of Lakshmi",
+        "दीनदयाला": "merciful to the humble",
+        "गरुड़ध्वज": "one whose flag bears Garuda",
+        "पालनहारा": "the sustainer",
+        "कृपाला": "the compassionate one",
+        "शरणागत": "those who seek refuge",
+        "प्रतिपालनहारा": "protector and nurturer"
+      },
+      "meaning_en": "Glory to the husband of Lakshmi, who is merciful to the humble! Glory to the one who bears Garuda on his flag and sustains all. Glory to the compassionate Lord Vishnu who protects all who take refuge in Him.",
+      "meaning_hi": "लक्ष्मीपति और दीनदयालु की जय हो! गरुड़ध्वज और पालनहार की जय हो। कृपालु भगवान विष्णु की जय हो जो शरणागतों की रक्षा करते हैं।",
+      "modern_context_en": "When you feel vulnerable in a foreign land — far from family, uncertain about the future — know that the divine sustainer protects those who sincerely seek refuge.",
+      "modern_context_hi": "जब आप विदेश में असुरक्षित महसूस करें — परिवार से दूर, भविष्य अनिश्चित — तो जानें कि पालनहार भगवान उनकी रक्षा करते हैं जो सच्चे हृदय से शरण लेते हैं।"
+    },
+    {
+      "verse_number": 3,
+      "section": "chaupai",
+      "hindi_text": "क्षीरसागर में जो विराजे, शेषनाग शय्या पर साजे।\nलक्ष्मी जी चरणन सेवा करें, विष्णु भगवान सब दुख हरें॥",
+      "transliteration": "Kṣīrasāgar meṃ jo virāje, Śeṣanāg śayyā par sāje.\nLakṣmī jī caraṇan sevā kareṃ, Viṣṇu Bhagavān sab dukh hareṃ॥",
+      "word_by_word": {
+        "क्षीरसागर": "ocean of milk",
+        "विराजे": "resides",
+        "शेषनाग": "serpent Shesha",
+        "शय्या": "bed",
+        "लक्ष्मी": "Goddess Lakshmi",
+        "चरणन": "at the feet",
+        "सेवा": "service",
+        "दुख हरें": "remove sorrows"
+      },
+      "meaning_en": "Lord Vishnu resides upon the ocean of milk, reclining on the bed of Shesha Naga. Goddess Lakshmi serves at His feet, and Lord Vishnu removes all sorrows.",
+      "meaning_hi": "भगवान विष्णु क्षीरसागर में शेषनाग की शय्या पर विराजमान हैं। लक्ष्मी जी उनके चरणों की सेवा करती हैं, और विष्णु भगवान सब दुखों को हरते हैं।",
+      "modern_context_en": "Even in the midst of chaos, Vishnu rests calmly on the cosmic ocean — a reminder that inner peace is possible even when life feels like an endless sea of responsibilities.",
+      "modern_context_hi": "अनंत अराजकता के बीच भी विष्णु शांति से विश्राम करते हैं — यह याद दिलाता है कि जिम्मेदारियों के सागर में भी आंतरिक शांति संभव है।"
+    },
+    {
+      "verse_number": 4,
+      "section": "chaupai",
+      "hindi_text": "चार भुजा शंख गदा धारी, चक्र पद्म कर शोभा भारी।\nपीताम्बर शिर मुकुट विराजे, कुण्डल श्रवण मकर छवि साजे॥",
+      "transliteration": "Cār bhujā śaṅkh gadā dhārī, cakra padma kar śobhā bhārī.\nPītāmbar śir mukuṭ virāje, kuṇḍal śravaṇ makar chavi sāje॥",
+      "word_by_word": {
+        "चार भुजा": "four arms",
+        "शंख": "conch",
+        "गदा": "mace",
+        "चक्र": "discus",
+        "पद्म": "lotus",
+        "पीताम्बर": "yellow garment",
+        "मुकुट": "crown",
+        "कुण्डल": "earrings",
+        "मकर": "crocodile-shaped"
+      },
+      "meaning_en": "Lord Vishnu bears four arms holding the conch, mace, discus, and lotus. He is adorned in yellow garments, with a crown on His head and crocodile-shaped earrings that enhance His beauty.",
+      "meaning_hi": "भगवान विष्णु चार भुजाओं में शंख, गदा, चक्र और पद्म धारण करते हैं। पीताम्बर वस्त्र, सिर पर मुकुट और मकर कुण्डल उनकी शोभा बढ़ाते हैं।",
+      "modern_context_en": "Each of Vishnu's four attributes represents a life tool: clarity (conch/communication), strength (mace/resilience), decisiveness (discus/focus), and grace (lotus/compassion). Balance all four in your career and relationships.",
+      "modern_context_hi": "विष्णु के चार आयुध जीवन के चार उपकरण हैं: स्पष्टता (शंख/संवाद), शक्ति (गदा/दृढ़ता), निर्णय क्षमता (चक्र/एकाग्रता), और कृपा (पद्म/करुणा)।"
+    },
+    {
+      "verse_number": 5,
+      "section": "chaupai",
+      "hindi_text": "वनमाला गले शोभित भारी, कौस्तुभ मणि उर छवि न्यारी।\nश्रीवत्स लांछन वक्ष विराजे, देख छवि सुर मुनि मन साजे॥",
+      "transliteration": "Vanamālā gale śobhit bhārī, Kaustubh maṇi ur chavi nyārī.\nŚrīvatsa lāñchan vakṣa virāje, dekh chavi sur muni man sāje॥",
+      "word_by_word": {
+        "वनमाला": "garland of forest flowers",
+        "कौस्तुभ मणि": "Kaustubha gem",
+        "उर": "chest",
+        "श्रीवत्स": "auspicious mark",
+        "लांछन": "mark/symbol",
+        "वक्ष": "chest",
+        "सुर": "gods",
+        "मुनि": "sages"
+      },
+      "meaning_en": "A garland of forest flowers adorns His neck beautifully, and the Kaustubha gem shines uniquely upon His chest. The Shrivatsa mark graces His chest, and seeing His beauty, the minds of gods and sages are enchanted.",
+      "meaning_hi": "वनमाला उनके गले में शोभित है और कौस्तुभ मणि उनके वक्षस्थल पर अनूठी छवि देती है। श्रीवत्स चिह्न उनके वक्ष पर विराजमान है, जिसे देख देवता और मुनि मोहित हो जाते हैं।",
+      "modern_context_en": "True adornment comes from inner qualities — integrity, generosity, and love — not just outward success. Let your character be your Kaustubha gem in professional and personal life.",
+      "modern_context_hi": "सच्चा श्रृंगार आंतरिक गुणों से होता है — ईमानदारी, उदारता और प्रेम से — केवल बाहरी सफलता से नहीं। अपने चरित्र को ही अपना कौस्तुभ मणि बनाएँ।"
+    },
+    {
+      "verse_number": 6,
+      "section": "chaupai",
+      "hindi_text": "मत्स्य रूप धर वेद बचाये, प्रलय काल में श्रुति उर लाये।\nसोमक दैत्य को मार गिराये, धर्म की रक्षा हित अवतार आये॥",
+      "transliteration": "Matsya rūp dhar Ved bacāye, pralay kāl meṃ Śruti ur lāye.\nSomak daitya ko mār girāye, dharm kī rakṣā hit avatār āye॥",
+      "word_by_word": {
+        "मत्स्य": "fish",
+        "वेद": "Vedas",
+        "बचाये": "saved",
+        "प्रलय काल": "time of cosmic dissolution",
+        "श्रुति": "sacred scriptures",
+        "सोमक": "demon Somaka",
+        "दैत्य": "demon",
+        "अवतार": "incarnation"
+      },
+      "meaning_en": "Taking the form of a fish (Matsya), the Lord saved the Vedas during the great cosmic flood. He slew the demon Somaka and incarnated for the protection of righteousness.",
+      "meaning_hi": "मत्स्य रूप धारण कर भगवान ने प्रलय काल में वेदों को बचाया। सोमक दैत्य का वध किया और धर्म की रक्षा के लिए अवतार लिया।",
+      "modern_context_en": "Like Matsya saving knowledge from the flood, preserving your cultural wisdom, language, and traditions while living abroad is an act of sacred rescue for future generations.",
+      "modern_context_hi": "जैसे मत्स्य ने प्रलय से ज्ञान बचाया, विदेश में रहते हुए अपनी संस्कृति, भाषा और परंपराओं को सहेजना आने वाली पीढ़ियों के लिए पवित्र कार्य है।"
+    },
+    {
+      "verse_number": 7,
+      "section": "chaupai",
+      "hindi_text": "कूर्म रूप धर पर्वत धारा, मंदराचल को पृष्ठ सहारा।\nसमुद्र मंथन हित अवतारा, सुर असुर को सहज उबारा॥",
+      "transliteration": "Kūrm rūp dhar parvat dhārā, Mandarācal ko pṛṣṭh sahārā.\nSamudra manthan hit avatārā, sur asur ko sahaj ubārā॥",
+      "word_by_word": {
+        "कूर्म": "tortoise",
+        "पर्वत": "mountain",
+        "मंदराचल": "Mount Mandara",
+        "पृष्ठ": "back",
+        "समुद्र मंथन": "churning of the ocean",
+        "सुर": "gods",
+        "असुर": "demons",
+        "उबारा": "rescued"
+      },
+      "meaning_en": "Taking the form of a tortoise (Kurma), the Lord supported Mount Mandara on His back. He incarnated for the churning of the ocean and effortlessly supported both gods and demons.",
+      "meaning_hi": "कूर्म रूप धारण कर भगवान ने मंदराचल पर्वत को अपनी पीठ पर धारण किया। समुद्र मंथन के लिए अवतार लेकर देवताओं और असुरों दोनों को सहज सहारा दिया।",
+      "modern_context_en": "Sometimes you are the silent foundation that holds everything together — the family, the mortgage, the responsibilities. Like Kurma, your steady support makes the impossible possible.",
+      "modern_context_hi": "कभी-कभी आप वह मूक आधार होते हैं जो सब कुछ संभाले रहता है — परिवार, खर्चे, जिम्मेदारियाँ। कूर्म की तरह आपका स्थिर सहारा असंभव को संभव बनाता है।"
+    },
+    {
+      "verse_number": 8,
+      "section": "chaupai",
+      "hindi_text": "वाराह रूप धरा जब लीन्हा, हिरण्याक्ष को मार पछीन्हा।\nधरती को रसातल से लाये, प्रभु ने जगत समस्त बचाये॥",
+      "transliteration": "Vārāh rūp dharā jab līnhā, Hiraṇyākṣa ko mār pachīnhā.\nDhartī ko Rasātal se lāye, Prabhu ne jagat samast bacāye॥",
+      "word_by_word": {
+        "वाराह": "boar",
+        "हिरण्याक्ष": "demon Hiranyaksha",
+        "मार": "slew",
+        "धरती": "earth",
+        "रसातल": "nether regions",
+        "जगत": "world",
+        "बचाये": "saved"
+      },
+      "meaning_en": "When the Lord took the form of a boar (Varaha), He slew the demon Hiranyaksha. He lifted the Earth from the nether regions and saved the entire world.",
+      "meaning_hi": "जब भगवान ने वाराह रूप धारण किया, तब हिरण्याक्ष दैत्य का वध किया। पृथ्वी को रसातल से उठाकर लाये और समस्त जगत की रक्षा की।",
+      "modern_context_en": "When life plunges into crisis — job loss, health scares, family emergencies — you must dive deep like Varaha, lift what matters most, and bring stability back to the surface.",
+      "modern_context_hi": "जब जीवन संकट में डूबे — नौकरी जाना, स्वास्थ्य समस्या, पारिवारिक आपातकाल — तो वाराह की तरह गहरे गोता लगाएँ, जो सबसे महत्वपूर्ण है उसे उठाएँ और स्थिरता वापस लाएँ।"
+    },
+    {
+      "verse_number": 9,
+      "section": "chaupai",
+      "hindi_text": "नरसिंह रूप अति विकराला, हिरण्यकशिपु विदारे काला।\nप्रहलाद बचाये निज दासा, पूर्ण किये भक्तन की आशा॥",
+      "transliteration": "Narasiṃh rūp ati vikrālā, Hiraṇyakaśipu vidāre kālā.\nPrahlād bacāye nij dāsā, pūrṇ kiye bhaktan kī āśā॥",
+      "word_by_word": {
+        "नरसिंह": "half-man half-lion",
+        "विकराला": "fierce/terrifying",
+        "हिरण्यकशिपु": "demon king Hiranyakashipu",
+        "विदारे": "tore apart",
+        "प्रहलाद": "devotee Prahlada",
+        "भक्तन": "devotees",
+        "आशा": "hopes"
+      },
+      "meaning_en": "In the terrifying form of Narasimha (half-man, half-lion), the Lord tore apart the demon king Hiranyakashipu. He saved His devotee Prahlada and fulfilled the hopes of all devotees.",
+      "meaning_hi": "अत्यंत विकराल नरसिंह रूप धारण कर भगवान ने हिरण्यकशिपु का वध किया। अपने दास प्रहलाद को बचाया और भक्तों की आशा पूर्ण की।",
+      "modern_context_en": "When a young person stands up for their values against immense pressure — from toxic workplaces or societal expectations — divine protection comes in unexpected forms, just as Narasimha appeared from a pillar.",
+      "modern_context_hi": "जब कोई अपने मूल्यों के लिए भारी दबाव के विरुद्ध खड़ा होता है — विषाक्त कार्यस्थल या सामाजिक अपेक्षाओं के सामने — तो ईश्वर की सुरक्षा अप्रत्याशित रूप में आती है, जैसे नरसिंह खंभे से प्रकट हुए।"
+    },
+    {
+      "verse_number": 10,
+      "section": "chaupai",
+      "hindi_text": "वामन रूप धरे सुखदाई, बलि से तीन लोक लिपटाई।\nदो पग में त्रिभुवन नाप लीन्हा, तीजे पग बलि शीश पर दीन्हा॥",
+      "transliteration": "Vāman rūp dhare sukhdāī, Bali se tīn lok lipṭāī.\nDo pag meṃ tribhuvan nāp līnhā, tīje pag Bali śīś par dīnhā॥",
+      "word_by_word": {
+        "वामन": "dwarf",
+        "बलि": "King Bali",
+        "तीन लोक": "three worlds",
+        "दो पग": "two steps",
+        "त्रिभुवन": "three worlds",
+        "नाप लीन्हा": "measured",
+        "शीश": "head"
+      },
+      "meaning_en": "Taking the blissful form of a dwarf (Vamana), the Lord reclaimed the three worlds from King Bali. In two steps He measured the three worlds, and placed His third step on Bali's head.",
+      "meaning_hi": "सुखदायी वामन रूप धारण कर भगवान ने बलि से तीनों लोक वापस लिए। दो पगों में त्रिभुवन नाप लिया और तीसरा पग बलि के मस्तक पर रखा।",
+      "modern_context_en": "Never underestimate the small and humble. A modest start — a small savings plan, a quiet act of integrity — can expand to encompass vast success, just like Vamana's cosmic steps.",
+      "modern_context_hi": "छोटे और विनम्र को कभी कम न आँकें। एक छोटी शुरुआत — छोटी बचत योजना, शांत ईमानदारी — वामन के विराट कदमों की तरह विशाल सफलता बन सकती है।"
+    },
+    {
+      "verse_number": 11,
+      "section": "chaupai",
+      "hindi_text": "परशुराम षष्ठ अवतारा, दुष्ट क्षत्रिय कुल संहारा।\nइक्कीस बार पृथ्वी जीती, क्षत्रिय विहीन धरा कर दीती॥",
+      "transliteration": "Paraśurām ṣaṣṭh avatārā, duṣṭ kṣatriya kul saṃhārā.\nIkkīs bār pṛthvī jītī, kṣatriya vihīn dharā kar dītī॥",
+      "word_by_word": {
+        "परशुराम": "Parashurama",
+        "षष्ठ": "sixth",
+        "अवतारा": "incarnation",
+        "दुष्ट": "wicked",
+        "क्षत्रिय": "warrior class",
+        "संहारा": "destroyed",
+        "इक्कीस बार": "twenty-one times",
+        "पृथ्वी": "earth"
+      },
+      "meaning_en": "Parashurama was the sixth incarnation of Vishnu who destroyed the wicked warrior clans. He conquered the earth twenty-one times and rid it of corrupt rulers.",
+      "meaning_hi": "परशुराम विष्णु के छठे अवतार थे जिन्होंने दुष्ट क्षत्रिय कुल का संहार किया। इक्कीस बार पृथ्वी जीतकर उसे दुष्ट शासकों से मुक्त किया।",
+      "modern_context_en": "Parashurama reminds us that persistence against injustice matters. Fighting corruption, discrimination, or unfairness — even if it takes repeated efforts — is a sacred duty.",
+      "modern_context_hi": "परशुराम हमें याद दिलाते हैं कि अन्याय के विरुद्ध दृढ़ता महत्वपूर्ण है। भ्रष्टाचार, भेदभाव या अन्याय से लड़ना — भले ही बार-बार प्रयास करना पड़े — एक पवित्र कर्तव्य है।"
+    },
+    {
+      "verse_number": 12,
+      "section": "chaupai",
+      "hindi_text": "श्री रामचन्द्र सप्तम अवतारा, रावण राक्षस कुल संहारा।\nमर्यादा पुरुषोत्तम कहाये, धर्म सत्य का मार्ग दिखाये॥",
+      "transliteration": "Śrī Rāmacandra saptam avatārā, Rāvaṇ rākṣas kul saṃhārā.\nMaryādā Puruṣottam kahāye, dharm satya kā mārg dikhāye॥",
+      "word_by_word": {
+        "श्री रामचन्द्र": "Lord Rama",
+        "सप्तम": "seventh",
+        "रावण": "demon king Ravana",
+        "राक्षस": "demon",
+        "मर्यादा पुरुषोत्तम": "ideal man of righteous limits",
+        "धर्म": "righteousness",
+        "सत्य": "truth"
+      },
+      "meaning_en": "Lord Ramachandra was the seventh incarnation who destroyed the demon Ravana and his clan. He was called Maryada Purushottam (the ideal man) and showed the world the path of righteousness and truth.",
+      "meaning_hi": "श्री रामचन्द्र सातवें अवतार थे जिन्होंने रावण और राक्षस कुल का संहार किया। मर्यादा पुरुषोत्तम कहलाये और धर्म व सत्य का मार्ग दिखाया।",
+      "modern_context_en": "Rama's life teaches that upholding your word, keeping family bonds sacred, and walking the path of integrity — even through exile and hardship — is the highest form of success.",
+      "modern_context_hi": "राम का जीवन सिखाता है कि अपने वचन का पालन, पारिवारिक बंधनों को पवित्र रखना, और ईमानदारी के मार्ग पर चलना — वनवास और कठिनाइयों के बावजूद — सबसे बड़ी सफलता है।"
+    },
+    {
+      "verse_number": 13,
+      "section": "chaupai",
+      "hindi_text": "श्री कृष्ण अष्टम अवतारा, कंस चाणूर मर्दन हरा।\nगीता ज्ञान जगत को दीन्हा, भक्तन को अभयदान कीन्हा॥",
+      "transliteration": "Śrī Kṛṣṇa aṣṭam avatārā, Kaṃs Cāṇūr mardan harā.\nGītā jñān jagat ko dīnhā, bhaktan ko abhayadān kīnhā॥",
+      "word_by_word": {
+        "श्री कृष्ण": "Lord Krishna",
+        "अष्टम": "eighth",
+        "कंस": "demon king Kamsa",
+        "चाणूर": "wrestler Chanura",
+        "मर्दन": "destroyed",
+        "गीता": "Bhagavad Gita",
+        "ज्ञान": "knowledge",
+        "अभयदान": "gift of fearlessness"
+      },
+      "meaning_en": "Lord Krishna was the eighth incarnation who destroyed the tyrants Kamsa and Chanura. He gave the knowledge of the Gita to the world and granted fearlessness to His devotees.",
+      "meaning_hi": "श्री कृष्ण आठवें अवतार थे जिन्होंने कंस और चाणूर का वध किया। जगत को गीता का ज्ञान दिया और भक्तों को अभयदान दिया।",
+      "modern_context_en": "The Gita's message — do your duty without obsessing over results — is the ultimate career and life advice. Krishna's gift of fearlessness is what every immigrant needs when facing the unknown.",
+      "modern_context_hi": "गीता का संदेश — फल की चिंता छोड़ कर्म करो — सबसे बड़ी करियर और जीवन सलाह है। कृष्ण का अभयदान वही है जो हर प्रवासी को अनजानी राहों पर चाहिए।"
+    },
+    {
+      "verse_number": 14,
+      "section": "chaupai",
+      "hindi_text": "बुद्ध रूप नवम अवतारा, दया अहिंसा धर्म प्रचारा।\nशान्ति करुणा जग में बोये, सकल प्राणियों के दुख खोये॥",
+      "transliteration": "Buddh rūp navam avatārā, dayā ahiṃsā dharm pracārā.\nŚānti karuṇā jag meṃ boye, sakal prāṇiyoṃ ke dukh khoye॥",
+      "word_by_word": {
+        "बुद्ध": "Buddha",
+        "नवम": "ninth",
+        "दया": "compassion",
+        "अहिंसा": "non-violence",
+        "शान्ति": "peace",
+        "करुणा": "mercy",
+        "सकल प्राणियों": "all living beings"
+      },
+      "meaning_en": "In the ninth incarnation as Buddha, the Lord spread the dharma of compassion and non-violence. He sowed seeds of peace and mercy in the world and removed the suffering of all living beings.",
+      "meaning_hi": "नवम अवतार बुद्ध रूप में भगवान ने दया और अहिंसा का धर्म प्रचारित किया। जगत में शान्ति और करुणा बोई और समस्त प्राणियों के दुख दूर किये।",
+      "modern_context_en": "In a world of road rage, social media anger, and workplace aggression, Buddha's message of compassion and non-violence is medicine for the modern soul.",
+      "modern_context_hi": "सड़क पर गुस्सा, सोशल मीडिया पर क्रोध और कार्यस्थल पर आक्रामकता के युग में बुद्ध की करुणा और अहिंसा का संदेश आधुनिक आत्मा के लिए औषधि है।"
+    },
+    {
+      "verse_number": 15,
+      "section": "chaupai",
+      "hindi_text": "कलियुग अन्त कल्कि अवतारा, श्वेत अश्व पर होय सवारा।\nम्लेच्छ सकल जग से मिटवाये, सतयुग धर्म पुनः स्थापाये॥",
+      "transliteration": "Kaliyug ant Kalki avatārā, śvet aśva par hoy savārā.\nMleccha sakal jag se miṭvāye, Satyug dharm punaḥ sthāpāye॥",
+      "word_by_word": {
+        "कलियुग": "age of Kali",
+        "कल्कि": "Kalki",
+        "श्वेत अश्व": "white horse",
+        "म्लेच्छ": "wicked/barbarian",
+        "सतयुग": "age of truth",
+        "स्थापाये": "re-established"
+      },
+      "meaning_en": "At the end of Kali Yuga, the Lord will come as the Kalki incarnation, riding a white horse. He will rid the world of all wickedness and re-establish the golden age of truth (Satya Yuga).",
+      "meaning_hi": "कलियुग के अंत में भगवान कल्कि अवतार लेंगे, श्वेत अश्व पर सवार होकर। सम्पूर्ण दुष्टों को समाप्त कर सतयुग के धर्म की पुनः स्थापना करेंगे।",
+      "modern_context_en": "The promise of Kalki reminds us that no matter how dark times get — corruption, injustice, moral decline — a new beginning always awaits. Hope is eternal.",
+      "modern_context_hi": "कल्कि का वादा याद दिलाता है कि चाहे समय कितना भी अंधकारमय हो — भ्रष्टाचार, अन्याय, नैतिक पतन — एक नई शुरुआत हमेशा प्रतीक्षा में है। आशा शाश्वत है।"
+    },
+    {
+      "verse_number": 16,
+      "section": "chaupai",
+      "hindi_text": "दशावतार लीला अति भारी, सकल जगत के हितकारी।\nजब जब धर्म ग्लानि जग होई, तब तब प्रभु प्रगटे सुखदोई॥",
+      "transliteration": "Daśāvatār līlā ati bhārī, sakal jagat ke hitkārī.\nJab jab dharm glāni jag hoī, tab tab Prabhu pragaṭe sukhdoī॥",
+      "word_by_word": {
+        "दशावतार": "ten incarnations",
+        "लीला": "divine play",
+        "हितकारी": "benefactor",
+        "धर्म ग्लानि": "decline of righteousness",
+        "प्रगटे": "appears",
+        "सुखदोई": "giver of happiness"
+      },
+      "meaning_en": "The divine play of the ten incarnations is supremely grand and benefits the entire world. Whenever righteousness declines in the world, the Lord appears to restore happiness.",
+      "meaning_hi": "दशावतार की लीला अत्यंत भव्य है और समस्त जगत का हित करने वाली है। जब-जब संसार में धर्म की हानि होती है, तब-तब सुखदाता प्रभु प्रकट होते हैं।",
+      "modern_context_en": "Life demands different versions of you — a nurturing parent, a tough negotiator, a compassionate friend. Like Vishnu's avatars, adapt to what each situation requires while staying true to your core values.",
+      "modern_context_hi": "जीवन आपके विभिन्न रूपों की माँग करता है — पालनकर्ता माता-पिता, कठोर वार्ताकार, दयालु मित्र। विष्णु के अवतारों की तरह हर परिस्थिति के अनुसार ढलें लेकिन मूल मूल्यों पर स्थिर रहें।"
+    },
+    {
+      "verse_number": 17,
+      "section": "chaupai",
+      "hindi_text": "शंख नाद जो करते भारी, दूर होय भव रोग बिमारी।\nसुदर्शन चक्र सदा रखवारा, दुष्ट दलन प्रभु कृपा तुम्हारा॥",
+      "transliteration": "Śaṅkh nād jo karte bhārī, dūr hoy bhav rog bimārī.\nSudarśan cakr sadā rakhvārā, duṣṭ dalan Prabhu kṛpā tumhārā॥",
+      "word_by_word": {
+        "शंख नाद": "sound of the conch",
+        "भव रोग": "worldly diseases",
+        "बिमारी": "illness",
+        "सुदर्शन चक्र": "Sudarshana discus",
+        "रखवारा": "protector",
+        "दुष्ट दलन": "crusher of the wicked"
+      },
+      "meaning_en": "The mighty sound of His conch drives away all worldly diseases and afflictions. His Sudarshana discus is ever the protector, and by His grace, all wickedness is crushed.",
+      "meaning_hi": "उनके शंख की भारी ध्वनि सांसारिक रोग और बीमारियों को दूर करती है। सुदर्शन चक्र सदा रक्षक है, और प्रभु की कृपा से दुष्टों का दमन होता है।",
+      "modern_context_en": "When health anxieties overwhelm you, trust that divine protection surrounds those who have faith. Take practical action, but let faith remove the deeper fear.",
+      "modern_context_hi": "जब स्वास्थ्य की चिंताएँ आपको घेर लें, तो विश्वास रखें कि ईश्वरीय सुरक्षा विश्वास रखने वालों के चारों ओर है। व्यावहारिक कदम उठाएँ, लेकिन विश्वास को गहरे भय को दूर करने दें।"
+    },
+    {
+      "verse_number": 18,
+      "section": "chaupai",
+      "hindi_text": "गदा खड्ग पद्म कर धारी, करें सदा भक्तन रखवारी।\nनारायण हरि नाम तुम्हारा, भव सागर से करें उबारा॥",
+      "transliteration": "Gadā khaḍg padma kar dhārī, kareṃ sadā bhaktan rakhvārī.\nNārāyaṇ Hari nām tumhārā, bhav sāgar se kareṃ ubārā॥",
+      "word_by_word": {
+        "गदा": "mace",
+        "खड्ग": "sword",
+        "पद्म": "lotus",
+        "भक्तन": "devotees",
+        "रखवारी": "protection",
+        "नारायण": "Narayana",
+        "भव सागर": "ocean of worldly existence",
+        "उबारा": "rescued"
+      },
+      "meaning_en": "Holding the mace, sword, and lotus in His hands, the Lord always protects His devotees. Your name is Narayana Hari, and You rescue us from the ocean of worldly existence.",
+      "meaning_hi": "गदा, खड्ग और पद्म हाथ में धारण कर भगवान सदा भक्तों की रखवाली करते हैं। नारायण हरि आपका नाम है जो भवसागर से उबारता है।",
+      "modern_context_en": "The ocean of modern life — commutes, deadlines, EMIs, visa worries — can feel endless. Chanting Narayana's name is like finding a lifeboat in that storm.",
+      "modern_context_hi": "आधुनिक जीवन का सागर — यात्रा, समय-सीमा, किश्तें, वीजा की चिंता — अंतहीन लग सकता है। नारायण का नाम जपना उस तूफान में एक नाव पाने जैसा है।"
+    },
+    {
+      "verse_number": 19,
+      "section": "chaupai",
+      "hindi_text": "ब्रह्मा जी नाभि कमल से जन्मे, सृष्टि रचना का मूल प्रभु तुमसे।\nपालन कर्ता विष्णु पुकारे, अन्त समय शिव संग बिहारे॥",
+      "transliteration": "Brahmā jī nābhi kamal se janme, sṛṣṭi racanā kā mūl Prabhu tumse.\nPālan kartā Viṣṇu pukāre, ant samay Śiv saṅg bihāre॥",
+      "word_by_word": {
+        "ब्रह्मा": "Lord Brahma",
+        "नाभि कमल": "navel lotus",
+        "सृष्टि रचना": "creation of the universe",
+        "मूल": "root/origin",
+        "पालन कर्ता": "sustainer",
+        "शिव": "Lord Shiva"
+      },
+      "meaning_en": "Lord Brahma was born from the lotus at Your navel — the entire creation originates from You, O Lord. You are called Vishnu, the sustainer, and at the end of time, You are with Shiva in cosmic play.",
+      "meaning_hi": "ब्रह्मा जी आपकी नाभि कमल से जन्मे — सृष्टि की रचना का मूल आप हैं, प्रभु। पालन कर्ता विष्णु कहलाते हैं और अन्त समय शिव के संग विहार करते हैं।",
+      "modern_context_en": "You are both the creator and sustainer of your family's wellbeing. Just as Vishnu is the source from which creation springs, your effort is the navel-lotus from which your family's life blossoms.",
+      "modern_context_hi": "आप अपने परिवार की भलाई के सृजक और पालनकर्ता दोनों हैं। जैसे विष्णु वह स्रोत हैं जहाँ से सृष्टि उपजती है, आपका प्रयास वह नाभि-कमल है जिससे परिवार का जीवन खिलता है।"
+    },
+    {
+      "verse_number": 20,
+      "section": "chaupai",
+      "hindi_text": "वैकुण्ठ धाम में जो विराजे, सकल लोक सुन्दरता साजे।\nनित्य सिद्ध परमानन्द रूपा, अनन्त अनादि अतुल अनूपा॥",
+      "transliteration": "Vaikuṇṭh dhām meṃ jo virāje, sakal lok sundartā sāje.\nNitya siddh paramānand rūpā, anant anādi atul anūpā॥",
+      "word_by_word": {
+        "वैकुण्ठ": "Vaikuntha (supreme abode)",
+        "धाम": "abode",
+        "सकल लोक": "all worlds",
+        "नित्य सिद्ध": "eternally perfect",
+        "परमानन्द": "supreme bliss",
+        "अनन्त": "infinite",
+        "अनादि": "without beginning",
+        "अतुल": "incomparable",
+        "अनूपा": "unparalleled"
+      },
+      "meaning_en": "Lord Vishnu resides in the supreme abode of Vaikuntha, adorning all worlds with beauty. He is eternally perfect and the form of supreme bliss — infinite, beginningless, incomparable, and unparalleled.",
+      "meaning_hi": "भगवान विष्णु वैकुण्ठ धाम में विराजमान हैं, समस्त लोकों को सुन्दरता प्रदान करते हैं। वे नित्य सिद्ध और परमानन्द स्वरूप हैं — अनन्त, अनादि, अतुल और अनुपम।",
+      "modern_context_en": "Your true home is not a zip code or a country — it is the state of inner peace and completeness. Like Vaikuntha, create a sacred space within yourself that no relocation can disturb.",
+      "modern_context_hi": "आपका सच्चा घर कोई पिनकोड या देश नहीं है — यह आंतरिक शांति और पूर्णता की अवस्था है। वैकुण्ठ की तरह अपने भीतर एक पवित्र स्थान बनाएँ जिसे कोई स्थानांतरण बाधित न कर सके।"
+    },
+    {
+      "verse_number": 21,
+      "section": "chaupai",
+      "hindi_text": "तुम ही करता तुम ही हरता, तुम ही पालक सबके करता।\nतुमसे प्रगट सकल संसारा, तुम ही सबके प्राणाधारा॥",
+      "transliteration": "Tum hī kartā tum hī hartā, tum hī pālak sabke kartā.\nTumse pragaṭ sakal saṃsārā, tum hī sabke prāṇādhārā॥",
+      "word_by_word": {
+        "करता": "creator/doer",
+        "हरता": "remover/destroyer",
+        "पालक": "sustainer",
+        "प्रगट": "manifested",
+        "संसारा": "world",
+        "प्राणाधारा": "life-support"
+      },
+      "meaning_en": "You alone are the creator, the remover, and the sustainer of all. The entire world manifests from You, and You alone are the life-support of all beings.",
+      "meaning_hi": "आप ही कर्ता हैं, आप ही हर्ता हैं, आप ही सबके पालक और कर्ता हैं। आपसे ही सम्पूर्ण संसार प्रकट होता है और आप ही सबके प्राणाधार हैं।",
+      "modern_context_en": "Recognize the divine thread running through every role you play — provider, partner, parent, professional. One source, many expressions. Align all your roles with one core purpose.",
+      "modern_context_hi": "हर भूमिका में चलने वाले दिव्य सूत्र को पहचानें — प्रदाता, साथी, माता-पिता, पेशेवर। एक स्रोत, अनेक अभिव्यक्तियाँ। सभी भूमिकाओं को एक मूल उद्देश्य से जोड़ें।"
+    },
+    {
+      "verse_number": 22,
+      "section": "chaupai",
+      "hindi_text": "सागर मेखला धरनी धारी, तुम रक्षक जगत हितकारी।\nनभ जैसी तुम्हारी काया, माया तुम्हारी अगम अपारा॥",
+      "transliteration": "Sāgar mekhalā dharanī dhārī, tum rakṣak jagat hitkārī.\nNabh jaisī tumhārī kāyā, māyā tumhārī agam apārā॥",
+      "word_by_word": {
+        "सागर": "ocean",
+        "मेखला": "girdle/belt",
+        "धरनी": "earth",
+        "रक्षक": "protector",
+        "हितकारी": "benefactor",
+        "नभ": "sky",
+        "काया": "body",
+        "माया": "divine illusion",
+        "अगम": "inaccessible",
+        "अपारा": "limitless"
+      },
+      "meaning_en": "You bear the earth girded by the oceans and are the protector and benefactor of the world. Your body is vast like the sky, and Your divine maya is inaccessible and limitless.",
+      "meaning_hi": "सागर रूपी मेखला वाली पृथ्वी को धारण करते हैं, आप जगत के रक्षक और हितकारी हैं। आपकी काया आकाश सी विशाल है और माया अगम व अपार है।",
+      "modern_context_en": "The world is held together by forces we cannot see — gravity, love, sacrifice. Like Vishnu sustaining the earth, your unseen daily sacrifices hold your family's world together.",
+      "modern_context_hi": "संसार उन शक्तियों से संभाला जाता है जो दिखती नहीं — गुरुत्वाकर्षण, प्रेम, त्याग। जैसे विष्णु पृथ्वी को धारण करते हैं, आपके अदृश्य दैनिक त्याग परिवार की दुनिया को थामे रखते हैं।"
+    },
+    {
+      "verse_number": 23,
+      "section": "chaupai",
+      "hindi_text": "गरुड़ वाहन गरुड़ ध्वजधारी, विनती सुनो हमारी भारी।\nशेषनाग जो शय्या तेरी, सदा रहे मुख नाम घनेरी॥",
+      "transliteration": "Garuḍ vāhan Garuḍ dhvajadhārī, vinatī suno hamārī bhārī.\nŚeṣanāg jo śayyā terī, sadā rahe mukh nām ghanerī॥",
+      "word_by_word": {
+        "गरुड़": "Garuda (divine eagle)",
+        "वाहन": "vehicle",
+        "ध्वजधारी": "flag-bearer",
+        "विनती": "humble request",
+        "शेषनाग": "serpent Shesha",
+        "शय्या": "bed",
+        "मुख": "mouth",
+        "नाम": "name",
+        "घनेरी": "abundantly"
+      },
+      "meaning_en": "O Lord who rides Garuda and bears Garuda on His flag, please hear our earnest prayer. Shesha Naga, who serves as Your bed, always chants Your name abundantly.",
+      "meaning_hi": "गरुड़ वाहन और गरुड़ ध्वज धारण करने वाले, हमारी विनती सुनिए। शेषनाग जो आपकी शय्या हैं, सदा आपके नाम का जप करते हैं।",
+      "modern_context_en": "Even the mightiest beings serve with devotion — Garuda carries, Shesha supports. In our lives, the highest form of service is not about titles but about showing up with devotion for those who need us.",
+      "modern_context_hi": "सबसे शक्तिशाली प्राणी भी भक्ति से सेवा करते हैं — गरुड़ वहन करते हैं, शेष सहारा देते हैं। जीवन में सेवा का सर्वोच्च रूप पद नहीं, बल्कि जरूरतमंदों के लिए भक्ति से उपस्थित होना है।"
+    },
+    {
+      "verse_number": 24,
+      "section": "chaupai",
+      "hindi_text": "तुलसी दल प्रभु को अति भावे, भक्त प्रेम पत्र फूल चढ़ावे।\nएकादशी व्रत जो नर करही, विष्णु कृपा सदा उर भरही॥",
+      "transliteration": "Tulasī dal Prabhu ko ati bhāve, bhakt prem patra phūl caḍhāve.\nEkādaśī vrat jo nar karahī, Viṣṇu kṛpā sadā ur bharahī॥",
+      "word_by_word": {
+        "तुलसी दल": "basil leaf",
+        "भावे": "pleases",
+        "प्रेम": "love",
+        "पत्र": "leaf",
+        "फूल": "flower",
+        "एकादशी": "eleventh day fast",
+        "व्रत": "vow/fast",
+        "कृपा": "grace",
+        "उर": "heart"
+      },
+      "meaning_en": "The Lord is deeply pleased by the offering of Tulsi leaves. When devotees offer leaves and flowers with love, and observe the Ekadashi fast, Vishnu's grace fills their hearts forever.",
+      "meaning_hi": "तुलसी का पत्ता प्रभु को अत्यंत प्रिय है। भक्त जब प्रेम से पत्र-पुष्प चढ़ाते हैं और एकादशी का व्रत करते हैं, तो विष्णु की कृपा सदा उनके हृदय में भरी रहती है।",
+      "modern_context_en": "You don't need grand temples or elaborate rituals. A single Tulsi leaf offered with love at your kitchen altar can connect you to the divine, even in a studio apartment abroad.",
+      "modern_context_hi": "आपको भव्य मंदिर या विस्तृत अनुष्ठान की जरूरत नहीं। विदेश में छोटे से अपार्टमेंट में भी रसोई के मंदिर पर प्रेम से चढ़ाया एक तुलसी का पत्ता आपको ईश्वर से जोड़ सकता है।"
+    },
+    {
+      "verse_number": 25,
+      "section": "chaupai",
+      "hindi_text": "धरती पाताल अकाश तुम्हारा, तुम ही सबमें ओत प्रसारा।\nजल थल वायु अग्नि आकाशा, सबमें व्याप्त तुम्हारा वासा॥",
+      "transliteration": "Dhartī pātāl ākāś tumhārā, tum hī sabmeṃ ot prasārā.\nJal thal vāyu agni ākāśā, sabmeṃ vyāpt tumhārā vāsā॥",
+      "word_by_word": {
+        "धरती": "earth",
+        "पाताल": "netherworld",
+        "अकाश": "sky",
+        "ओत प्रसारा": "warp and weft (pervading)",
+        "जल": "water",
+        "थल": "land",
+        "वायु": "air",
+        "अग्नि": "fire",
+        "व्याप्त": "pervading",
+        "वासा": "dwelling"
+      },
+      "meaning_en": "The earth, netherworld, and sky are all Yours — You pervade everything as the warp and weft of existence. In water, land, air, fire, and sky — Your presence dwells in all.",
+      "meaning_hi": "पृथ्वी, पाताल और आकाश सब आपका है — आप ही सबमें ओतप्रोत हैं। जल, थल, वायु, अग्नि और आकाश — सबमें आपका वास व्याप्त है।",
+      "modern_context_en": "Wherever you live — New Jersey, London, Sydney — the divine is present. God doesn't have a passport. Vishnu pervades every element, every country, every moment.",
+      "modern_context_hi": "आप जहाँ भी रहें — न्यू जर्सी, लंदन, सिडनी — ईश्वर उपस्थित हैं। भगवान को पासपोर्ट की जरूरत नहीं। विष्णु हर तत्व, हर देश, हर क्षण में व्याप्त हैं।"
+    },
+    {
+      "verse_number": 26,
+      "section": "chaupai",
+      "hindi_text": "ध्रुव को जो तुमने वर दीन्हा, अटल पदवी तारा कीन्हा।\nनारद को निज भक्ति प्रदाना, गायन विद्या अद्भुत दाना॥",
+      "transliteration": "Dhruv ko jo tumne var dīnhā, aṭal padavī tārā kīnhā.\nNārad ko nij bhakti pradānā, gāyan vidyā adbhut dānā॥",
+      "word_by_word": {
+        "ध्रुव": "Dhruva",
+        "वर": "boon",
+        "अटल पदवी": "immovable position",
+        "तारा": "star",
+        "नारद": "sage Narada",
+        "भक्ति": "devotion",
+        "गायन विद्या": "art of singing",
+        "अद्भुत": "wondrous"
+      },
+      "meaning_en": "You granted Dhruva the boon of an immovable position as the Pole Star. You blessed Narada with supreme devotion and the wondrous gift of divine music.",
+      "meaning_hi": "आपने ध्रुव को वर देकर उसे अटल तारे की पदवी दी। नारद को अपनी भक्ति प्रदान की और अद्भुत गायन विद्या का दान दिया।",
+      "modern_context_en": "A child's sincere determination, like young Dhruva's, can move the cosmos. Encourage your children's passions — their steady focus today becomes their Pole Star tomorrow.",
+      "modern_context_hi": "एक बच्चे का सच्चा संकल्प, बालक ध्रुव की तरह, ब्रह्मांड को हिला सकता है। अपने बच्चों के जुनून को प्रोत्साहित करें — आज की उनकी स्थिर एकाग्रता कल का ध्रुव तारा बनेगी।"
+    },
+    {
+      "verse_number": 27,
+      "section": "chaupai",
+      "hindi_text": "अम्बरीष की लाज बचाई, सुदर्शन चक्र शक्ति दिखलाई।\nदुर्वासा मुनि अभिमान चूरा, विष्णु भक्त की रक्षा पूरा॥",
+      "transliteration": "Ambarīṣ kī lāj bacāī, Sudarśan cakr śakti dikhlāī.\nDurvāsā muni abhimān cūrā, Viṣṇu bhakt kī rakṣā pūrā॥",
+      "word_by_word": {
+        "अम्बरीष": "King Ambarisha",
+        "लाज": "honor",
+        "सुदर्शन चक्र": "Sudarshana discus",
+        "दुर्वासा": "sage Durvasa",
+        "अभिमान": "pride",
+        "चूरा": "crushed",
+        "रक्षा": "protection"
+      },
+      "meaning_en": "The Lord saved King Ambarisha's honor by unleashing the Sudarshana discus. He crushed the pride of sage Durvasa and completely protected His devotee.",
+      "meaning_hi": "भगवान ने सुदर्शन चक्र की शक्ति दिखाकर अम्बरीष की लाज बचाई। दुर्वासा मुनि का अभिमान चूर किया और अपने भक्त की पूर्ण रक्षा की।",
+      "modern_context_en": "When you faithfully do your duty and someone powerful tries to bully you, the universe has a way of protecting the sincere. Stay on the right path and trust the process.",
+      "modern_context_hi": "जब आप निष्ठा से अपना कर्तव्य करते हैं और कोई शक्तिशाली व्यक्ति आपको डराने की कोशिश करता है, तो ब्रह्मांड सच्चे लोगों की रक्षा करता है। सही मार्ग पर रहें और प्रक्रिया पर भरोसा रखें।"
+    },
+    {
+      "verse_number": 28,
+      "section": "chaupai",
+      "hindi_text": "गज ग्राह में फँसा पुकारा, हरि आये तत्काल उबारा।\nनक्र वध कर गज को तारा, भक्तवत्सल यश जग में सारा॥",
+      "transliteration": "Gaj grāh meṃ phaṃsā pukārā, Hari āye tatkāl ubārā.\nNakra vadh kar gaj ko tārā, bhaktavatsal yaś jag meṃ sārā॥",
+      "word_by_word": {
+        "गज": "elephant",
+        "ग्राह": "crocodile",
+        "पुकारा": "called out",
+        "तत्काल": "immediately",
+        "उबारा": "rescued",
+        "नक्र": "crocodile",
+        "वध": "slaying",
+        "तारा": "saved",
+        "भक्तवत्सल": "loving towards devotees"
+      },
+      "meaning_en": "When the elephant Gajendra, caught by a crocodile, cried out in distress, Lord Hari came immediately and rescued him. Slaying the crocodile, He saved Gajendra — His fame as the lover of devotees spread across the world.",
+      "meaning_hi": "जब गजेन्द्र ग्राह की पकड़ में फँसकर पुकारा, हरि तत्काल आकर उबारे। नक्र का वध कर गज को तारा — भक्तवत्सल का यश सम्पूर्ण जगत में फैला।",
+      "modern_context_en": "When you feel trapped — by debt, by a toxic relationship, by a situation that seems impossible — a sincere cry for help is never unheard. Help arrives, often from unexpected sources.",
+      "modern_context_hi": "जब आप फँसा हुआ महसूस करें — कर्ज में, विषाक्त संबंध में, असंभव लगती स्थिति में — सच्ची पुकार कभी अनसुनी नहीं जाती। सहायता आती है, अक्सर अप्रत्याशित स्रोतों से।"
+    },
+    {
+      "verse_number": 29,
+      "section": "chaupai",
+      "hindi_text": "द्रौपदी की लाज जो राखी, अक्षय वस्त्र कृपा से साखी।\nभक्त सुदामा को अपनाया, दीन दरिद्र को राज दिलाया॥",
+      "transliteration": "Draupadī kī lāj jo rākhī, akṣay vastr kṛpā se sākhī.\nBhakt Sudāmā ko apnāyā, dīn daridra ko rāj dilāyā॥",
+      "word_by_word": {
+        "द्रौपदी": "Draupadi",
+        "लाज": "honor",
+        "अक्षय वस्त्र": "unending cloth",
+        "कृपा": "grace",
+        "सुदामा": "Sudama",
+        "अपनाया": "embraced",
+        "दीन दरिद्र": "humble and poor",
+        "राज": "kingdom/wealth"
+      },
+      "meaning_en": "The Lord protected Draupadi's honor by providing an endless flow of cloth through His grace. He embraced the poor devotee Sudama and blessed the humble one with immense wealth.",
+      "meaning_hi": "भगवान ने अपनी कृपा से अक्षय वस्त्र देकर द्रौपदी की लाज रखी। गरीब भक्त सुदामा को अपनाया और दीन-दरिद्र को वैभव दिलाया।",
+      "modern_context_en": "God's grace multiplies what you have when you give with an open heart. Sudama gave a handful of rice; Krishna returned a kingdom. Generosity, even in scarcity, unlocks abundance.",
+      "modern_context_hi": "जब आप खुले हृदय से देते हैं तो ईश्वर की कृपा आपके पास जो है उसे बढ़ा देती है। सुदामा ने मुट्ठी भर चावल दिए; कृष्ण ने राज्य लौटाया। अभाव में भी उदारता समृद्धि का द्वार खोलती है।"
+    },
+    {
+      "verse_number": 30,
+      "section": "chaupai",
+      "hindi_text": "विभीषण को शरणागत पाया, लंका का राजतिलक कराया।\nशरणागत रक्षक कहलाये, कभी न भक्तन को ठुकराये॥",
+      "transliteration": "Vibhīṣaṇ ko śaraṇāgat pāyā, Laṅkā kā rājatilak karāyā.\nŚaraṇāgat rakṣak kahlāye, kabhī na bhaktan ko ṭhukrāye॥",
+      "word_by_word": {
+        "विभीषण": "Vibhishana",
+        "शरणागत": "one who seeks refuge",
+        "लंका": "Lanka",
+        "राजतिलक": "coronation",
+        "रक्षक": "protector",
+        "ठुकराये": "rejected"
+      },
+      "meaning_en": "The Lord accepted Vibhishana as a refugee and crowned him king of Lanka. He is known as the protector of those who seek refuge and never rejects any devotee.",
+      "meaning_hi": "भगवान ने विभीषण को शरणागत पाकर लंका का राजतिलक कराया। शरणागत रक्षक कहलाते हैं और कभी भी भक्तों को नहीं ठुकराते।",
+      "modern_context_en": "Leaving behind the familiar — family expectations, homeland, comfort zones — to do the right thing takes courage. Like Vibhishana, those who choose integrity over convenience find protection and reward.",
+      "modern_context_hi": "सही काम करने के लिए परिचित को छोड़ना — पारिवारिक अपेक्षाएँ, मातृभूमि, आराम — साहस माँगता है। विभीषण की तरह जो ईमानदारी चुनते हैं, उन्हें सुरक्षा और पुरस्कार मिलता है।"
+    },
+    {
+      "verse_number": 31,
+      "section": "chaupai",
+      "hindi_text": "भक्त हेतु नित नये उपाया, कष्ट हरण को रूप बनाया।\nजो कोई शरण तुम्हारी आवे, सो सब सुख सम्पत्ति पावे॥",
+      "transliteration": "Bhakt hetu nit naye upāyā, kaṣṭ haraṇ ko rūp banāyā.\nJo koī śaraṇ tumhārī āve, so sab sukh sampatti pāve॥",
+      "word_by_word": {
+        "भक्त": "devotees",
+        "हेतु": "for the sake of",
+        "उपाया": "means/ways",
+        "कष्ट हरण": "removal of suffering",
+        "शरण": "refuge",
+        "सुख": "happiness",
+        "सम्पत्ति": "wealth/prosperity"
+      },
+      "meaning_en": "For the sake of devotees, the Lord devises ever-new means and takes forms to remove their suffering. Whoever comes to His refuge receives all happiness and prosperity.",
+      "meaning_hi": "भक्तों के लिए भगवान नित नये उपाय करते हैं और कष्ट हरण के लिए नये रूप धारण करते हैं। जो भी उनकी शरण आता है, वह सब सुख और सम्पत्ति पाता है।",
+      "modern_context_en": "The solutions to your problems may come in unexpected forms — a chance meeting, an unexpected opportunity, a kind stranger. Stay open to divine innovation in your life.",
+      "modern_context_hi": "आपकी समस्याओं के समाधान अप्रत्याशित रूपों में आ सकते हैं — एक अनायास मुलाकात, अनपेक्षित अवसर, एक दयालु अजनबी। अपने जीवन में दिव्य नवाचार के लिए खुले रहें।"
+    },
+    {
+      "verse_number": 32,
+      "section": "chaupai",
+      "hindi_text": "अज अजित अनन्त अविनाशी, सबके हृदय बसे अविनाशी।\nनिर्गुण सगुण दोऊ रूप तुम्हारा, भक्त जनन को अति सुखकारा॥",
+      "transliteration": "Aj ajit anant avināśī, sabke hṛday base avināśī.\nNirguṇ saguṇ doū rūp tumhārā, bhakt janan ko ati sukhkārā॥",
+      "word_by_word": {
+        "अज": "unborn",
+        "अजित": "unconquered",
+        "अनन्त": "infinite",
+        "अविनाशी": "imperishable",
+        "हृदय": "heart",
+        "निर्गुण": "formless",
+        "सगुण": "with form",
+        "सुखकारा": "joy-giving"
+      },
+      "meaning_en": "You are unborn, unconquered, infinite, and imperishable — dwelling in every heart as the indestructible One. Both Your formless and formed aspects exist, and both bring supreme joy to Your devotees.",
+      "meaning_hi": "आप अज, अजित, अनन्त और अविनाशी हैं — सबके हृदय में अविनाशी रूप में बसते हैं। निर्गुण और सगुण दोनों आपके रूप हैं, दोनों भक्तजनों को अति सुख देने वाले हैं।",
+      "modern_context_en": "Whether you connect with God through silent meditation (formless) or through murti puja and bhajans (with form), both paths are valid. Find the approach that speaks to your heart.",
+      "modern_context_hi": "चाहे आप मौन ध्यान (निराकार) से जुड़ें या मूर्ति पूजा और भजनों (साकार) से, दोनों मार्ग सही हैं। वह तरीका खोजें जो आपके हृदय से बोलता हो।"
+    },
+    {
+      "verse_number": 33,
+      "section": "chaupai",
+      "hindi_text": "चारों वेद तुम्हारे गुण गावें, षड दर्शन तुम को समझावें।\nसनकादिक ब्रह्मादि मुनिन्दा, सदा करें तुम भजन अनिन्दा॥",
+      "transliteration": "Cāroṃ Ved tumhāre guṇ gāveṃ, ṣaḍ darśan tum ko samjhāveṃ.\nSanakādik Brahmādi munindā, sadā kareṃ tum bhajan anindā॥",
+      "word_by_word": {
+        "चारों वेद": "four Vedas",
+        "गुण गावें": "sing Your praises",
+        "षड दर्शन": "six philosophical schools",
+        "सनकादिक": "Sanaka and brothers",
+        "ब्रह्मादि": "Brahma and other gods",
+        "मुनिन्दा": "great sages",
+        "भजन": "worship"
+      },
+      "meaning_en": "The four Vedas sing Your glories, and the six schools of philosophy try to explain You. Sanaka and his brothers, Brahma, and all great sages constantly worship You with blameless devotion.",
+      "meaning_hi": "चारों वेद आपके गुण गाते हैं और छह दर्शन आपको समझाते हैं। सनकादिक, ब्रह्मा और महान मुनिगण सदा निर्दोष भक्ति से आपका भजन करते हैं।",
+      "modern_context_en": "All knowledge systems — science, philosophy, arts — ultimately point to a deeper truth. Your professional expertise and spiritual growth are not contradictions; they are complementary paths to understanding.",
+      "modern_context_hi": "सभी ज्ञान प्रणालियाँ — विज्ञान, दर्शन, कला — अंततः एक गहरे सत्य की ओर इशारा करती हैं। आपकी पेशेवर विशेषज्ञता और आध्यात्मिक विकास विरोधाभास नहीं, बल्कि समझ के पूरक मार्ग हैं।"
+    },
+    {
+      "verse_number": 34,
+      "section": "chaupai",
+      "hindi_text": "लक्ष्मी जी सँग जो विराजे, सम्पत्ति ऐश्वर्य सब साजे।\nजो नर नित्य तुम्हें शीश नावे, लक्ष्मी कृपा सदा वो पावे॥",
+      "transliteration": "Lakṣmī jī saṅg jo virāje, sampatti aiśvarya sab sāje.\nJo nar nitya tumheṃ śīś nāve, Lakṣmī kṛpā sadā vo pāve॥",
+      "word_by_word": {
+        "लक्ष्मी": "Goddess Lakshmi",
+        "सम्पत्ति": "wealth",
+        "ऐश्वर्य": "prosperity",
+        "नित्य": "daily",
+        "शीश नावे": "bows their head",
+        "कृपा": "grace"
+      },
+      "meaning_en": "Lord Vishnu is enthroned with Goddess Lakshmi, and all wealth and prosperity are arranged around Them. Whoever daily bows their head to the Lord always receives Lakshmi's grace.",
+      "meaning_hi": "भगवान विष्णु लक्ष्मी जी के संग विराजमान हैं, सम्पत्ति और ऐश्वर्य सब सजे हैं। जो व्यक्ति नित्य उन्हें शीश नवाता है, वह सदा लक्ष्मी की कृपा पाता है।",
+      "modern_context_en": "Financial security comes not just from hard work but from maintaining a grateful, humble attitude. Daily gratitude — like bowing to Vishnu — opens the channels for prosperity to flow.",
+      "modern_context_hi": "आर्थिक सुरक्षा केवल कठिन परिश्रम से नहीं, बल्कि कृतज्ञ और विनम्र दृष्टिकोण से आती है। दैनिक कृतज्ञता — विष्णु को शीश नवाने की तरह — समृद्धि के मार्ग खोलती है।"
+    },
+    {
+      "verse_number": 35,
+      "section": "chaupai",
+      "hindi_text": "हरि ॐ तत्सत नाम तुम्हारा, प्रणव रूप जग का आधारा।\nओम नमो नारायण बोलें, भव बन्धन के सब बन्ध खोलें॥",
+      "transliteration": "Hari Oṃ Tatsat nām tumhārā, praṇav rūp jag kā ādhārā.\nOṃ Namo Nārāyaṇ boleṃ, bhav bandhan ke sab bandh kholeṃ॥",
+      "word_by_word": {
+        "ॐ तत्सत": "Om Tatsat (ultimate truth)",
+        "प्रणव": "sacred syllable Om",
+        "आधारा": "foundation",
+        "ॐ नमो नारायण": "Om salutations to Narayana",
+        "भव बन्धन": "bonds of worldly existence",
+        "खोलें": "open/release"
+      },
+      "meaning_en": "Your name is Hari Om Tatsat — the sacred syllable Om, the foundation of the world. When we chant 'Om Namo Narayana,' all bonds of worldly existence are released.",
+      "meaning_hi": "हरि ॐ तत्सत आपका नाम है — प्रणव रूप जगत का आधार। 'ॐ नमो नारायण' बोलने से भव बन्धन के सब बन्ध खुल जाते हैं।",
+      "modern_context_en": "A simple mantra — 'Om Namo Narayana' — chanted during your morning commute or before a stressful meeting can reset your mind and free you from anxiety's grip.",
+      "modern_context_hi": "'ॐ नमो नारायण' — इस सरल मंत्र का जाप सुबह की यात्रा या तनावपूर्ण बैठक से पहले आपके मन को शांत कर चिंता की पकड़ से मुक्त कर सकता है।"
+    },
+    {
+      "verse_number": 36,
+      "section": "chaupai",
+      "hindi_text": "सत्यनारायण व्रत करवाई, पूजा कथा सकल सुख दाई।\nजो नर करें विधिवत पूजा, विष्णु कृपा से न रहे दूजा॥",
+      "transliteration": "Satyanārāyaṇ vrat karvāī, pūjā kathā sakal sukh dāī.\nJo nar kareṃ vidhivat pūjā, Viṣṇu kṛpā se na rahe dūjā॥",
+      "word_by_word": {
+        "सत्यनारायण": "Satyanarayan",
+        "व्रत": "vow/ritual",
+        "पूजा": "worship",
+        "कथा": "story/recitation",
+        "विधिवत": "according to proper rites",
+        "दूजा": "separate/lacking"
+      },
+      "meaning_en": "The Satyanarayan vrat and katha (worship and recitation) bestow all happiness. Whoever performs the worship with proper rites is never separated from Vishnu's grace.",
+      "meaning_hi": "सत्यनारायण व्रत और पूजा-कथा सकल सुख देने वाली है। जो व्यक्ति विधिवत पूजा करता है, वह विष्णु की कृपा से कभी वंचित नहीं रहता।",
+      "modern_context_en": "The Satyanarayan Puja is one tradition that travels well across borders. Hosting it in your home abroad strengthens community bonds and keeps sacred traditions alive for your children.",
+      "modern_context_hi": "सत्यनारायण पूजा एक ऐसी परंपरा है जो सीमाओं के पार भी जीवित रहती है। विदेश में अपने घर में इसका आयोजन समुदाय को जोड़ता है और बच्चों के लिए पवित्र परंपराओं को जीवित रखता है।"
+    },
+    {
+      "verse_number": 37,
+      "section": "chaupai",
+      "hindi_text": "जो कोई चालीसा यह गावे, सकल मनोरथ पूर्ण हो जावे।\nविष्णु कृपा जो नर पर होई, तिसके मन में कष्ट न कोई॥",
+      "transliteration": "Jo koī cālīsā yah gāve, sakal manorath pūrṇ ho jāve.\nViṣṇu kṛpā jo nar par hoī, tiske man meṃ kaṣṭ na koī॥",
+      "word_by_word": {
+        "चालीसा": "forty verses",
+        "गावे": "sings",
+        "मनोरथ": "desires/wishes",
+        "पूर्ण": "fulfilled",
+        "कष्ट": "suffering",
+        "कोई": "any"
+      },
+      "meaning_en": "Whoever sings this Chalisa will have all their heartfelt wishes fulfilled. The person upon whom Vishnu's grace descends will have no suffering left in their heart.",
+      "meaning_hi": "जो कोई इस चालीसा को गाता है, उसके सकल मनोरथ पूर्ण हो जाते हैं। जिस व्यक्ति पर विष्णु की कृपा होती है, उसके मन में कोई कष्ट नहीं रहता।",
+      "modern_context_en": "Regular spiritual practice — even 15 minutes of chanting — creates a positive feedback loop in your life. Consistency is the key. The wish-fulfillment is the natural byproduct of inner peace.",
+      "modern_context_hi": "नियमित आध्यात्मिक अभ्यास — चाहे 15 मिनट का जाप ही हो — जीवन में सकारात्मक चक्र बनाता है। निरंतरता कुंजी है। इच्छापूर्ति आंतरिक शांति का स्वाभाविक परिणाम है।"
+    },
+    {
+      "verse_number": 38,
+      "section": "chaupai",
+      "hindi_text": "रोगी होय सो स्वस्थ हो जाई, दरिद्र हो सो धन सम्पत पाई।\nनिःसन्तान सन्तान सुख पावे, गृह कलेश सब दूर भगावे॥",
+      "transliteration": "Rogī hoy so svasth ho jāī, daridra ho so dhan sampat pāī.\nNiḥsantān santān sukh pāve, gṛh kleś sab dūr bhagāve॥",
+      "word_by_word": {
+        "रोगी": "sick person",
+        "स्वस्थ": "healthy",
+        "दरिद्र": "poor",
+        "धन": "wealth",
+        "निःसन्तान": "childless",
+        "सन्तान": "children",
+        "गृह कलेश": "household strife"
+      },
+      "meaning_en": "The sick will become healthy, the poor will gain wealth. The childless will be blessed with children, and all household conflicts will be driven away.",
+      "meaning_hi": "रोगी स्वस्थ हो जाएगा, दरिद्र को धन-सम्पत्ति मिलेगी। निःसन्तान को सन्तान का सुख मिलेगा और घर के सब कलेश दूर हो जाएंगे।",
+      "modern_context_en": "Health, finances, family harmony, and the joy of parenthood — these are universal prayers that cross every border. Trust that sincere devotion addresses the deepest human needs.",
+      "modern_context_hi": "स्वास्थ्य, वित्त, पारिवारिक सामंजस्य और संतान का सुख — ये सार्वभौमिक प्रार्थनाएँ हैं जो हर सीमा पार करती हैं। विश्वास रखें कि सच्ची भक्ति सबसे गहरी मानवीय आवश्यकताओं को पूरा करती है।"
+    },
+    {
+      "verse_number": 39,
+      "section": "chaupai",
+      "hindi_text": "भय नाशन दुख हरण तुम्हारा, भवसागर से करो उबारा।\nसकल विपत्ति मिटे क्षण माहीं, तुम सम कृपालु कोउ जग नाहीं॥",
+      "transliteration": "Bhay nāśan dukh haraṇ tumhārā, bhavsāgar se karo ubārā.\nSakal vipatti miṭe kṣaṇ māhīṃ, tum sam kṛpālu kou jag nāhīṃ॥",
+      "word_by_word": {
+        "भय नाशन": "destroyer of fear",
+        "दुख हरण": "remover of sorrows",
+        "भवसागर": "ocean of worldly existence",
+        "विपत्ति": "calamities",
+        "क्षण": "moment",
+        "कृपालु": "compassionate"
+      },
+      "meaning_en": "You are the destroyer of fear and the remover of all sorrows — please rescue us from the ocean of worldly existence. All calamities vanish in a moment, for there is no one as compassionate as You in this world.",
+      "meaning_hi": "आप भय के नाशक और दुखों के हरने वाले हैं — भवसागर से हमारा उद्धार करें। सकल विपत्तियाँ क्षण में मिट जाती हैं, आपसे कृपालु इस जगत में कोई नहीं।",
+      "modern_context_en": "Fear of failure, fear of illness, fear of the unknown — these are the modern ocean we all swim in. Surrendering these fears to the divine doesn't mean inaction; it means acting without paralyzing anxiety.",
+      "modern_context_hi": "असफलता का भय, बीमारी का भय, अज्ञात का भय — यह आधुनिक सागर है जिसमें हम सब तैरते हैं। इन भयों को ईश्वर को समर्पित करने का मतलब निष्क्रियता नहीं, बल्कि पंगु करने वाली चिंता के बिना कर्म करना है।"
+    },
+    {
+      "verse_number": 40,
+      "section": "chaupai",
+      "hindi_text": "विष्णु सहस्रनाम जो गावे, दुख दारिद्र निकट नहिं आवे।\nअनन्त नाम अनन्त महिमा, विष्णु चरण में पावे गरिमा॥",
+      "transliteration": "Viṣṇu Sahasranām jo gāve, dukh dāridra nikaṭ nahiṃ āve.\nAnant nām anant mahimā, Viṣṇu caraṇ meṃ pāve garimā॥",
+      "word_by_word": {
+        "सहस्रनाम": "thousand names",
+        "दारिद्र": "poverty",
+        "निकट": "near",
+        "अनन्त": "infinite",
+        "महिमा": "glory",
+        "गरिमा": "greatness/dignity"
+      },
+      "meaning_en": "Whoever sings the Vishnu Sahasranama will never be touched by sorrow or poverty. His names are infinite and His glory is infinite — one attains dignity and greatness at Vishnu's feet.",
+      "meaning_hi": "जो विष्णु सहस्रनाम गाता है, उसके पास दुख और दारिद्र्य नहीं आते। उनके नाम अनन्त हैं, महिमा अनन्त है — विष्णु के चरणों में गरिमा प्राप्त होती है।",
+      "modern_context_en": "The practice of chanting sacred names is like a daily investment in spiritual wealth. Over time, it compounds into unshakeable inner strength and resilience against life's financial and emotional storms.",
+      "modern_context_hi": "पवित्र नामों का जाप आध्यात्मिक संपत्ति में दैनिक निवेश जैसा है। समय के साथ यह जीवन के आर्थिक और भावनात्मक तूफानों के विरुद्ध अटूट आंतरिक शक्ति में बदल जाता है।"
+    },
+    {
+      "verse_number": 41,
+      "section": "chaupai",
+      "hindi_text": "सन्ध्या प्रातः जो नर गुण गावे, अन्तकाल विष्णु धाम पावे।\nजीवन भर सुख शान्ति बिराजे, मरणोपरान्त वैकुण्ठ विराजे॥",
+      "transliteration": "Sandhyā prātaḥ jo nar guṇ gāve, antkāl Viṣṇu dhām pāve.\nJīvan bhar sukh śānti birāje, maraṇoprānt Vaikuṇṭh virāje॥",
+      "word_by_word": {
+        "सन्ध्या": "evening",
+        "प्रातः": "morning",
+        "गुण गावे": "sings praises",
+        "अन्तकाल": "at the time of death",
+        "विष्णु धाम": "Vishnu's abode",
+        "जीवन भर": "throughout life",
+        "मरणोपरान्त": "after death",
+        "वैकुण्ठ": "Vaikuntha"
+      },
+      "meaning_en": "Whoever sings the Lord's praises morning and evening will attain Vishnu's abode at the time of death. Throughout life, peace and happiness will prevail, and after death, one resides in Vaikuntha.",
+      "meaning_hi": "जो व्यक्ति सन्ध्या और प्रातः गुण गाता है, वह अन्तकाल में विष्णु धाम पाता है। जीवन भर सुख-शान्ति बनी रहती है और मरणोपरान्त वैकुण्ठ में विराजते हैं।",
+      "modern_context_en": "A morning and evening spiritual routine — even five minutes of prayer — bookends your day with peace. It's the ultimate life hack for mental health and purposeful living.",
+      "modern_context_hi": "सुबह और शाम की आध्यात्मिक दिनचर्या — चाहे पाँच मिनट की प्रार्थना ही हो — आपके दिन को शांति से आरंभ और समाप्त करती है। यह मानसिक स्वास्थ्य और सार्थक जीवन का सबसे बड़ा उपाय है।"
+    },
+    {
+      "verse_number": 42,
+      "section": "chaupai",
+      "hindi_text": "विष्णु चालीसा जो नित गावे, चारों पुरुषार्थ फल पावे।\nधर्म अर्थ काम मोक्ष दाता, विष्णु भगवान सबके त्राता॥",
+      "transliteration": "Viṣṇu Cālīsā jo nit gāve, cāroṃ puruṣārth phal pāve.\nDharm arth kām mokṣ dātā, Viṣṇu Bhagavān sabke trātā॥",
+      "word_by_word": {
+        "चालीसा": "chalisa",
+        "नित": "daily",
+        "चारों पुरुषार्थ": "four goals of life",
+        "धर्म": "righteousness",
+        "अर्थ": "prosperity",
+        "काम": "desire/fulfillment",
+        "मोक्ष": "liberation",
+        "त्राता": "savior"
+      },
+      "meaning_en": "Whoever sings this Vishnu Chalisa daily attains the fruits of all four goals of human life — righteousness, prosperity, desire-fulfillment, and liberation. Lord Vishnu is the giver of all four and the savior of everyone.",
+      "meaning_hi": "जो नित्य विष्णु चालीसा गाता है, उसे चारों पुरुषार्थों का फल प्राप्त होता है। धर्म, अर्थ, काम और मोक्ष के दाता भगवान विष्णु सबके त्राता हैं।",
+      "modern_context_en": "The four Purusharthas — duty, wealth, fulfillment, and freedom — map perfectly to modern goals: ethical career, financial security, personal satisfaction, and spiritual liberation. Balance all four for a complete life.",
+      "modern_context_hi": "चार पुरुषार्थ — कर्तव्य, धन, पूर्ति और मुक्ति — आधुनिक लक्ष्यों से मेल खाते हैं: नैतिक करियर, आर्थिक सुरक्षा, व्यक्तिगत संतुष्टि और आध्यात्मिक मुक्ति। पूर्ण जीवन के लिए चारों को संतुलित करें।"
+    },
+    {
+      "verse_number": 43,
+      "section": "doha_closing",
+      "hindi_text": "विष्णु चालीसा पढ़ें जो कोई, उनकी विपत्ति दूर हो होई।\nमन कर्म वचन ध्यान जो लावे, सो जन परम पद निश्चय पावे॥",
+      "transliteration": "Viṣṇu Cālīsā paḍheṃ jo koī, unkī vipatti dūr ho hoī.\nMan karm vacan dhyān jo lāve, so jan param pad niścay pāve॥",
+      "word_by_word": {
+        "पढ़ें": "reads/recites",
+        "विपत्ति": "calamity",
+        "दूर": "removed",
+        "मन": "mind",
+        "कर्म": "deed",
+        "वचन": "speech",
+        "ध्यान": "meditation",
+        "परम पद": "supreme state",
+        "निश्चय": "certainly"
+      },
+      "meaning_en": "Whoever recites this Vishnu Chalisa will see all their calamities removed. One who devotes their mind, deeds, and words to this meditation will certainly attain the supreme state.",
+      "meaning_hi": "जो कोई विष्णु चालीसा पढ़ता है, उसकी विपत्तियाँ दूर होती हैं। जो मन, कर्म और वचन से ध्यान लगाता है, वह जन निश्चय ही परम पद पाता है।",
+      "modern_context_en": "Alignment of thought, word, and action is the secret to integrity and success. When what you think, say, and do are in harmony, you become unstoppable — in career, relationships, and spiritual growth.",
+      "modern_context_hi": "विचार, वचन और कर्म का सामंजस्य ईमानदारी और सफलता का रहस्य है। जब आप जो सोचते हैं, बोलते हैं और करते हैं, वह एक हो — तब करियर, रिश्तों और आध्यात्मिक विकास में आप अजेय बनते हैं।"
+    },
+    {
+      "verse_number": 44,
+      "section": "doha_closing",
+      "hindi_text": "जय जय विष्णु लक्ष्मीपति देवा, जय जय पालनहार महादेवा।\nकर जोड़ विनय यही मैं करता, चरणन में रहूँ सदा प्रभु हरता॥",
+      "transliteration": "Jaya jaya Viṣṇu Lakṣmīpati devā, jaya jaya Pālanahār Mahādevā.\nKar joḍ vinay yahī maiṃ kartā, caraṇan meṃ rahūṃ sadā Prabhu hartā॥",
+      "word_by_word": {
+        "जय जय": "glory, glory",
+        "लक्ष्मीपति": "husband of Lakshmi",
+        "पालनहार": "sustainer",
+        "महादेवा": "great God",
+        "कर जोड़": "with folded hands",
+        "विनय": "humble prayer",
+        "चरणन": "at the feet",
+        "हरता": "remover of sorrows"
+      },
+      "meaning_en": "Glory, glory to Lord Vishnu, the husband of Lakshmi! Glory to the great sustainer God! With folded hands, I make this humble prayer — may I always remain at Your feet, O Lord, remover of all sorrows.",
+      "meaning_hi": "जय जय विष्णु लक्ष्मीपति देव! जय जय पालनहार महादेव! कर जोड़कर यही विनय करता हूँ — प्रभु, दुख हरने वाले, सदा आपके चरणों में रहूँ।",
+      "modern_context_en": "The closing prayer is a surrender — not of weakness, but of wisdom. After doing your best at work and home, place the results at the Lord's feet and find peace in the surrender.",
+      "modern_context_hi": "अंतिम प्रार्थना समर्पण है — कमजोरी का नहीं, बल्कि बुद्धिमत्ता का। काम और घर में अपना सर्वोत्तम देने के बाद, परिणाम प्रभु के चरणों में रखें और समर्पण में शांति पाएँ।"
+    }
+  ]
+}

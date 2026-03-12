@@ -1,0 +1,162 @@
+{
+  "id": "saraswati_aarti",
+  "title_en": "Saraswati Vandana and Aarti",
+  "title_hi": "सरस्वती वंदना और आरती",
+  "deity": "saraswati",
+  "author": "Traditional",
+  "type": "aarti",
+  "total_verses": 7,
+  "sections": [
+    "vandana",
+    "chorus",
+    "verse"
+  ],
+  "verses": [
+    {
+      "verse_number": 1,
+      "section": "vandana",
+      "hindi_text": "या कुन्देन्दु तुषारहार धवला, या शुभ्र वस्त्रावृता।\nया वीणा वरदण्डमण्डितकरा, या श्वेत पद्मासना।\nया ब्रह्माच्युत शंकरप्रभृतिभिर्देवैः सदा पूजिता,\nसा माम् पातु सरस्वती भगवती निःशेष जाड्यापहा॥",
+      "transliteration": "Yā kundendu tuṣārahāra dhavalā, yā śubhra vastrāvṛtā,\nyā vīṇā varadaṇḍamaṇḍitakarā, yā śveta padmāsanā.\nYā brahmācyuta śaṅkaraprabhṛtibhir devaiḥ sadā pūjitā,\nsā mām pātu sarasvatī bhagavatī niḥśeṣa jāḍyāpahā.",
+      "word_by_word": {
+        "कुन्देन्दु": "jasmine and moon",
+        "तुषारहार": "garland of snow/frost",
+        "धवला": "bright white",
+        "शुभ्र वस्त्रावृता": "clad in pure white garments",
+        "वीणा": "veena (stringed instrument)",
+        "वरदण्डमण्डितकरा": "hands adorned with the boon-granting staff",
+        "श्वेत पद्मासना": "seated on a white lotus",
+        "ब्रह्माच्युत शंकर": "Brahma, Vishnu, and Shiva",
+        "सदा पूजिता": "always worshipped",
+        "निःशेष जाड्यापहा": "remover of all ignorance and dullness",
+        "पातु": "may she protect"
+      },
+      "meaning_en": "She who is as white as the jasmine flower, the moon, and a garland of snow, who is draped in pure white garments, whose hands are adorned with the veena and the boon-granting gesture, who is seated upon a white lotus — she who is forever worshipped by Brahma, Vishnu, Shiva and all the gods — may that Goddess Saraswati, the remover of all ignorance and sluggishness, protect me.",
+      "meaning_hi": "जो कुन्द के फूल, चन्द्रमा और बर्फ के हार के समान श्वेत हैं, जो शुभ्र वस्त्र धारण करती हैं, जिनके हाथों में वीणा और वरदान की मुद्रा शोभायमान है, जो श्वेत कमल पर विराजमान हैं — जिनकी ब्रह्मा, विष्णु, शिव आदि सभी देवता सदा पूजा करते हैं — वे समस्त जड़ता और अज्ञान को हरने वाली भगवती सरस्वती मेरी रक्षा करें।",
+      "modern_context_en": "Before starting any new course, certification exam, or creative project, this vandana invokes clarity and removes mental fog. For professionals navigating complex decisions or students preparing for competitive exams, this is a prayer to dissolve dullness and awaken sharp intellect.",
+      "modern_context_hi": "कोई भी नया कोर्स, प्रमाणपत्र परीक्षा, या रचनात्मक परियोजना शुरू करने से पहले यह वंदना मन की धुंध दूर करती है। कठिन निर्णयों का सामना करने वाले पेशेवरों या प्रतियोगी परीक्षाओं की तैयारी करने वाले विद्यार्थियों के लिए यह जड़ता मिटाकर तीव्र बुद्धि जगाने की प्रार्थना है।"
+    },
+    {
+      "verse_number": 2,
+      "section": "chorus",
+      "hindi_text": "जय सरस्वती माता, जय सरस्वती माता।\nमैया जय सरस्वती माता॥\nसद्गुण वैभव शालिनी, त्रिभुवन विख्याता।\nजय सरस्वती माता॥",
+      "transliteration": "Jaya sarasvatī mātā, jaya sarasvatī mātā,\nmaiyā jaya sarasvatī mātā.\nSadguṇa vaibhava śālinī, tribhuvana vikhyātā.\nJaya sarasvatī mātā.",
+      "word_by_word": {
+        "जय": "glory / victory to",
+        "सरस्वती माता": "Mother Saraswati",
+        "मैया": "O Mother (affectionate)",
+        "सद्गुण": "noble virtues",
+        "वैभव": "glory / splendor",
+        "शालिनी": "one who possesses",
+        "त्रिभुवन": "three worlds",
+        "विख्याता": "renowned / celebrated"
+      },
+      "meaning_en": "Glory to you, Mother Saraswati! O Mother, you are adorned with noble virtues and divine splendor, and your fame resounds through all three worlds. Victory to Mother Saraswati!",
+      "meaning_hi": "हे माता सरस्वती, आपकी जय हो! आप सद्गुणों और वैभव से सुशोभित हैं और तीनों लोकों में आपकी ख्याति है। माता सरस्वती की जय हो!",
+      "modern_context_en": "This chorus is repeated after every verse, creating a meditative rhythm — much like a team chant before a big presentation or a family prayer before exam season begins. It anchors the mind to gratitude and positivity.",
+      "modern_context_hi": "यह टेक हर छंद के बाद दोहराई जाती है, जो एक ध्यानपूर्ण लय बनाती है — जैसे किसी बड़ी प्रस्तुति से पहले टीम का संकल्प या परीक्षा के मौसम में परिवार की प्रार्थना। यह मन को कृतज्ञता और सकारात्मकता से जोड़ती है।"
+    },
+    {
+      "verse_number": 3,
+      "section": "verse",
+      "hindi_text": "चन्द्र वदनी पद्मासिनी, द्युति मंगलकारी।\nसोहे शुभ मुक्ता हार, गले शोभा प्यारी॥\nओम् जय सरस्वती माता॥",
+      "transliteration": "Candra vadanī padmāsinī, dyuti maṅgalakārī.\nSohe śubha muktā hāra, gale śobhā pyārī.\nOm jaya sarasvatī mātā.",
+      "word_by_word": {
+        "चन्द्र वदनी": "moon-faced",
+        "पद्मासिनी": "seated on the lotus",
+        "द्युति": "radiance / glow",
+        "मंगलकारी": "one who brings auspiciousness",
+        "शुभ": "auspicious",
+        "मुक्ता हार": "pearl necklace",
+        "गले": "on the neck",
+        "शोभा": "beauty / grace"
+      },
+      "meaning_en": "She has a face as beautiful as the moon, sits upon a lotus, and her radiance brings auspiciousness everywhere. A lovely necklace of pearls adorns her neck, adding to her graceful beauty. Om, glory to Mother Saraswati!",
+      "meaning_hi": "उनका चन्द्रमा के समान सुन्दर मुख है, वे कमल पर विराजमान हैं और उनकी कान्ति मंगलकारी है। उनके गले में सुन्दर मोतियों का हार शोभायमान है। ॐ जय सरस्वती माता!",
+      "modern_context_en": "The pearl necklace symbolizes accumulated wisdom — each pearl a lesson learned. Whether you are building a career abroad or learning a new skill at midlife, every experience adds a pearl to your inner necklace of knowledge.",
+      "modern_context_hi": "मोतियों का हार संचित ज्ञान का प्रतीक है — हर मोती एक सीखा हुआ पाठ। चाहे विदेश में करियर बना रहे हों या मध्य आयु में नया कौशल सीख रहे हों, हर अनुभव आपके ज्ञान के हार में एक मोती जोड़ता है।"
+    },
+    {
+      "verse_number": 4,
+      "section": "verse",
+      "hindi_text": "कमल नयनी कमला सिनी, सब विद्या दायिनी।\nपुस्तक धारिणी, ज्ञान प्रदायिनी, ज्ञान प्रकाश भरी॥\nओम् जय सरस्वती माता॥",
+      "transliteration": "Kamala nayanī kamalā sinī, saba vidyā dāyinī.\nPustaka dhāriṇī, jñāna pradāyinī, jñāna prakāśa bharī.\nOm jaya sarasvatī mātā.",
+      "word_by_word": {
+        "कमल नयनी": "lotus-eyed",
+        "कमला सिनी": "seated among lotuses",
+        "सब विद्या दायिनी": "bestower of all knowledge",
+        "पुस्तक धारिणी": "holder of the book (scriptures)",
+        "ज्ञान प्रदायिनी": "giver of wisdom",
+        "ज्ञान प्रकाश": "light of knowledge",
+        "भरी": "filled with"
+      },
+      "meaning_en": "She has lotus-like eyes and sits among lotuses. She is the bestower of all forms of knowledge. She holds the sacred book in her hand, grants wisdom to all, and is filled with the radiant light of knowledge. Om, glory to Mother Saraswati!",
+      "meaning_hi": "उनके कमल जैसे नेत्र हैं और वे कमलों के बीच विराजमान हैं। वे समस्त विद्याओं की दाता हैं। उनके हाथ में पुस्तक है, वे ज्ञान प्रदान करती हैं और ज्ञान के प्रकाश से परिपूर्ण हैं। ॐ जय सरस्वती माता!",
+      "modern_context_en": "In an age of information overload, Saraswati's book represents curated, true knowledge — not just data. This verse reminds professionals and students alike to seek depth over volume, and wisdom over mere information.",
+      "modern_context_hi": "सूचना की बाढ़ के इस युग में सरस्वती की पुस्तक सच्चे और सारगर्भित ज्ञान का प्रतीक है — केवल आँकड़ों का नहीं। यह छंद पेशेवरों और विद्यार्थियों को मात्रा से अधिक गहराई और जानकारी से अधिक विवेक खोजने की याद दिलाता है।"
+    },
+    {
+      "verse_number": 5,
+      "section": "verse",
+      "hindi_text": "हंस वाहिनी ज्ञान दायिनी, अम्बे विद्या दायिनी।\nमोह अंधेरा मिटे, मैया, तुम बिन ज्ञान कहाँ॥\nओम् जय सरस्वती माता॥",
+      "transliteration": "Haṃsa vāhinī jñāna dāyinī, ambe vidyā dāyinī.\nMoha andherā miṭe, maiyā, tuma bina jñāna kahāṃ.\nOm jaya sarasvatī mātā.",
+      "word_by_word": {
+        "हंस वाहिनी": "one whose vehicle is the swan",
+        "ज्ञान दायिनी": "giver of knowledge",
+        "अम्बे": "O Mother (another name)",
+        "विद्या दायिनी": "bestower of learning",
+        "मोह": "delusion / attachment",
+        "अंधेरा": "darkness",
+        "मिटे": "may it be destroyed",
+        "तुम बिन": "without you",
+        "ज्ञान कहाँ": "where is knowledge?"
+      },
+      "meaning_en": "She rides the swan and bestows knowledge. O Mother Amba, you are the giver of all learning. May the darkness of delusion be destroyed — for without you, Mother, where can true knowledge be found? Om, glory to Mother Saraswati!",
+      "meaning_hi": "हंस पर विराजमान ज्ञानदायिनी, हे अम्बे, आप विद्या देने वाली हैं। मोह का अंधेरा मिट जाए, मैया — आपके बिना ज्ञान कहाँ? ॐ जय सरस्वती माता!",
+      "modern_context_en": "The swan (hamsa) symbolizes the ability to discern the real from the unreal — like separating milk from water. In professional life, this is the skill of critical thinking: filtering truth from noise, especially in a world of social media and misinformation.",
+      "modern_context_hi": "हंस नीर-क्षीर विवेक का प्रतीक है — पानी में से दूध अलग करना। पेशेवर जीवन में यह आलोचनात्मक सोच का कौशल है: सोशल मीडिया और भ्रामक सूचनाओं से भरी दुनिया में सत्य को शोर से अलग करना।"
+    },
+    {
+      "verse_number": 6,
+      "section": "verse",
+      "hindi_text": "तुम्हीं हो कर्ता, तुम्हीं हो हर्ता, चारों धाम की।\nतुम्हीं हो माता, पिता सखा सब, तुम बिन और न कोई॥\nओम् जय सरस्वती माता॥",
+      "transliteration": "Tumhīṃ ho kartā, tumhīṃ ho hartā, cāroṃ dhāma kī.\nTumhīṃ ho mātā, pitā sakhā saba, tuma bina aura na koī.\nOm jaya sarasvatī mātā.",
+      "word_by_word": {
+        "तुम्हीं": "you alone",
+        "कर्ता": "creator / doer",
+        "हर्ता": "remover / destroyer",
+        "चारों धाम": "four sacred abodes / all directions",
+        "माता": "mother",
+        "पिता": "father",
+        "सखा": "friend",
+        "और न कोई": "there is no one else"
+      },
+      "meaning_en": "You alone are the creator and the remover of all things across the four sacred realms. You alone are our mother, father, and friend — without you, there is no one else. Om, glory to Mother Saraswati!",
+      "meaning_hi": "चारों धामों में आप ही कर्ता हैं, आप ही हर्ता हैं। आप ही माता, पिता और सखा सब कुछ हैं — आपके बिना और कोई नहीं। ॐ जय सरस्वती माता!",
+      "modern_context_en": "For NRIs living far from family, this verse is a comforting reminder that the Divine Mother serves as mother, father, and friend — a constant companion when loved ones are thousands of miles away. She is the support system that never has a time zone difference.",
+      "modern_context_hi": "परिवार से दूर रहने वाले प्रवासी भारतीयों के लिए यह छंद सांत्वना देता है कि दिव्य माता ही माँ, पिता और मित्र हैं — जब अपने हज़ारों मील दूर हों तब भी वे सदा साथ रहती हैं। वे एक ऐसा सहारा हैं जिनमें कभी समय-क्षेत्र का अंतर नहीं आता।"
+    },
+    {
+      "verse_number": 7,
+      "section": "verse",
+      "hindi_text": "चन्द्र कला शुभ नाम तुम्हारा, राग रूप गुणधारी।\nभक्तन हित आनन्द करत हो, शरण पड़ें हम सारी॥\nओम् जय सरस्वती माता॥\n\nसरस्वती माता की आरती जो कोई नर गावे।\nहित से ज्ञान प्राप्त कर, सुख सम्पत्ति पावे॥\nओम् जय सरस्वती माता॥",
+      "transliteration": "Candra kalā śubha nāma tumhārā, rāga rūpa guṇadhārī.\nBhaktana hita ānanda karata ho, śaraṇa paḍeṃ hama sārī.\nOm jaya sarasvatī mātā.\n\nSarasvatī mātā kī āratī jo koī nara gāve.\nHita se jñāna prāpta kara, sukha sampatti pāve.\nOm jaya sarasvatī mātā.",
+      "word_by_word": {
+        "चन्द्र कला": "phase of the moon / moonlight art",
+        "शुभ नाम": "auspicious name",
+        "राग रूप": "embodiment of melody",
+        "गुणधारी": "bearer of virtues",
+        "भक्तन हित": "for the welfare of devotees",
+        "आनन्द": "bliss / joy",
+        "शरण": "refuge / shelter",
+        "नर": "person",
+        "गावे": "sings",
+        "हित से": "with devotion / sincerity",
+        "सुख सम्पत्ति": "happiness and prosperity"
+      },
+      "meaning_en": "Your auspicious name is as beautiful as the phases of the moon. You are the embodiment of melody and the bearer of all virtues. You bring joy for the welfare of your devotees — we all take refuge in you. Whoever sings this aarti of Mother Saraswati with sincere devotion gains true knowledge, happiness, and prosperity. Om, glory to Mother Saraswati!",
+      "meaning_hi": "चन्द्रकला के समान आपका शुभ नाम है, आप राग-रूप और गुणों की धारिणी हैं। भक्तों के हित के लिए आप आनन्द प्रदान करती हैं — हम सब आपकी शरण में आते हैं। जो भी व्यक्ति श्रद्धा से माता सरस्वती की यह आरती गाता है, वह ज्ञान प्राप्त करके सुख और सम्पत्ति पाता है। ॐ जय सरस्वती माता!",
+      "modern_context_en": "This concluding verse promises that sincere devotion to learning — not just ritualistic prayer — brings true happiness and prosperity. On Vasant Panchami or before any new creative or professional endeavor, singing this aarti sets the intention for growth through knowledge, clear communication, and artistic expression.",
+      "modern_context_hi": "यह समापन छंद वचन देता है कि विद्या के प्रति सच्ची श्रद्धा — केवल कर्मकांडी पूजा नहीं — सच्चा सुख और समृद्धि लाती है। वसंत पंचमी पर या किसी नई रचनात्मक या व्यावसायिक शुरुआत से पहले इस आरती को गाना ज्ञान, स्पष्ट संवाद और कलात्मक अभिव्यक्ति के माध्यम से विकास का संकल्प स्थापित करता है।"
+    }
+  ]
+}

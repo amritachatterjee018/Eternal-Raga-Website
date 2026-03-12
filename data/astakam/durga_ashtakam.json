@@ -1,0 +1,226 @@
+{
+  "id": "durga_ashtakam",
+  "title_en": "Durga Ashtakam",
+  "title_hi": "दुर्गा अष्टकम्",
+  "deity": "durga",
+  "author": "Traditional",
+  "author_hi": "पारंपरिक",
+  "type": "ashtakam",
+  "language": "sanskrit",
+  "total_verses": 9,
+  "sections": [
+    "stuti",
+    "phala_shruti"
+  ],
+  "description_en": "The Durga Ashtakam is an eight-verse hymn praising Goddess Durga as the supreme protector, the slayer of demons, and the embodiment of divine feminine power (Shakti). It celebrates her ferocity in battle and her compassion towards devotees.",
+  "description_hi": "दुर्गा अष्टकम् देवी दुर्गा की सर्वोच्च रक्षिका, दानवों की संहारक और दिव्य स्त्री शक्ति के रूप में स्तुति करने वाला आठ श्लोकों का स्तोत्र है।",
+  "recitation_benefits": [
+    "Grants divine protection",
+    "Destroys negative forces",
+    "Empowers inner strength",
+    "Removes fear and insecurity",
+    "Brings victory in battles of life"
+  ],
+  "best_time_to_recite": [
+    "Tuesday",
+    "Friday",
+    "Navaratri",
+    "Durga Ashtami",
+    "During crises"
+  ],
+  "verses": [
+    {
+      "verse_number": 1,
+      "section": "stuti",
+      "hindi_text": "नमो देव्यै महादेव्यै शिवायै सततं नमः।\nनमः प्रकृत्यै भद्रायै नियताः प्रणताः स्म ताम्॥१॥",
+      "transliteration": "namo devyai mahādevyai śivāyai satataṃ namaḥ।\nnamaḥ prakṛtyai bhadrāyai niyatāḥ praṇatāḥ sma tām॥1॥",
+      "word_by_word": {
+        "namaḥ": "salutation, bow",
+        "devyai": "to the Goddess",
+        "mahādevyai": "to the Great Goddess",
+        "śivāyai": "to the auspicious one",
+        "satatam": "always, constantly",
+        "prakṛtyai": "to the primal Nature",
+        "bhadrāyai": "to the beneficent one",
+        "niyatāḥ": "with discipline, steadfastly",
+        "praṇatāḥ": "bowed down, surrendered",
+        "tām": "to Her"
+      },
+      "meaning_en": "We bow always to the Goddess, to the Great Goddess, to the auspicious Śivā. We bow to primal Nature, to the beneficent one — steadfastly we surrender to Her. She who is both the source of existence and the giver of all that is good receives our eternal reverence.",
+      "meaning_hi": "हम सदा देवी को, महादेवी को, और शिवा (मंगलमयी) को नमस्कार करते हैं। हम प्रकृति स्वरूपा और कल्याणकारी देवी को प्रणाम करते हैं। अनुशासन के साथ हम उनके चरणों में झुकते हैं।",
+      "modern_context_en": "When life feels chaotic — a difficult diagnosis, a relationship falling apart, or a career that seems to be crumbling — this verse teaches us that surrendering to a higher power is not weakness but wisdom. Like hitting 'reset' on a overwhelmed mind, this daily salutation is an anchor that steadies us before we face the storms of the day. Even five seconds of intentional reverence each morning can shift the entire tone of your day.",
+      "modern_context_hi": "जब जिंदगी उलझी हुई लगे — चाहे कोई बड़ी बीमारी हो, रिश्ते टूट रहे हों, या नौकरी का संकट हो — तब यह श्लोक सिखाता है कि किसी बड़ी शक्ति के सामने झुकना कमज़ोरी नहीं, बुद्धिमानी है। सुबह उठकर बस पाँच सेकंड देवी को याद करना आपके पूरे दिन का रंग बदल सकता है।"
+    },
+    {
+      "verse_number": 2,
+      "section": "stuti",
+      "hindi_text": "रौद्रायै नमो नित्यायै गौर्यै धात्र्यै नमो नमः।\nज्योत्स्नायै चेन्दुरूपिण्यै सुखायै सततं नमः॥२॥",
+      "transliteration": "raudrāyai namo nityāyai gauryai dhātryai namo namaḥ।\njyotsnāyai cendurupiṇyai sukhāyai satataṃ namaḥ॥2॥",
+      "word_by_word": {
+        "raudrāyai": "to the fierce one, form of Rudra's energy",
+        "nityāyai": "to the eternal one",
+        "gauryai": "to the fair/radiant one, Gauri",
+        "dhātryai": "to the sustainer, nourisher",
+        "jyotsnāyai": "to the moonlit one, luminous",
+        "indu-rupiṇyai": "to the one who has the form of the moon",
+        "sukhāyai": "to the one who grants happiness",
+        "satatam": "always, perpetually",
+        "namaḥ": "salutation"
+      },
+      "meaning_en": "Salutations to the fierce Raudrā, to the eternal one, to the radiant Gaurī, and to the sustainer of all — salutations again and again. We bow perpetually to the moonlit luminous one, to She who takes the form of the moon, and to the bestower of happiness. She embodies both fierce power and gentle grace, showing that true strength holds both.",
+      "meaning_hi": "रौद्र रूपा, नित्य, गौरी और धात्री देवी को बार-बार नमस्कार है। ज्योत्स्ना स्वरूपा, चंद्र रूपिणी और सुख देने वाली देवी को सदा नमस्कार है। वे एक साथ शक्ति और कोमलता की प्रतीक हैं।",
+      "modern_context_en": "We often feel we must choose between being strong or being kind — especially at work, where being firm in a meeting can make you feel guilty, or being gentle makes others take advantage. Durga's dual nature as both Raudrā (fierce) and Gaurī (gentle) tells us these qualities are not opposites — they live together in a whole, balanced person. The most effective leaders, parents, and partners learn when to be the moon's soft glow and when to be the lightning.",
+      "modern_context_hi": "अक्सर हम सोचते हैं कि या तो सख्त बनो या दयालु — खासकर ऑफिस में या घर पर। देवी का रौद्र और गौरी दोनों रूप हमें बताता है कि असली ताकत इन दोनों को एक साथ जीने में है। जो इंसान सही वक्त पर सख्त और सही वक्त पर नरम हो सकता है, वही सबसे मज़बूत होता है।"
+    },
+    {
+      "verse_number": 3,
+      "section": "stuti",
+      "hindi_text": "कल्याण्यै प्रणतां वृद्ध्यै सिद्ध्यै कुर्मो नमो नमः।\nनैर्ऋत्यै भूभृतां लक्ष्म्यै शर्वाण्यै ते नमो नमः॥३॥",
+      "transliteration": "kalyāṇyai praṇatāṃ vṛddhyai siddhyai kurmo namo namaḥ।\nnairṛtyai bhūbhṛtāṃ lakṣmyai śarvāṇyai te namo namaḥ॥3॥",
+      "word_by_word": {
+        "kalyāṇyai": "to the auspicious one",
+        "praṇatām": "of those who bow down",
+        "vṛddhyai": "for growth, prosperity",
+        "siddhyai": "for accomplishment, perfection",
+        "kurmaḥ": "we make, we offer",
+        "nairṛtyai": "to the one presiding over the southwest direction",
+        "bhūbhṛtām": "of the earth-bearers, of kings",
+        "lakṣmyai": "to the Lakṣmī form, prosperity",
+        "śarvāṇyai": "to Śarvāṇī, consort of Śarva",
+        "te": "to You"
+      },
+      "meaning_en": "We offer salutations to the auspicious Kalyāṇī, for the growth and accomplishment of those who bow before Her. We bow again and again to Nairṛtī, to the Lakṣmī of those who bear the earth, and to Śarvāṇī. She is the source of all progress and the fulfillment of all worthy endeavors.",
+      "meaning_hi": "हम कल्याणकारी देवी को नमस्कार करते हैं जो झुकने वालों को वृद्धि और सिद्धि प्रदान करती हैं। नैर्ऋती, राजाओं की लक्ष्मी, और शर्वाणी को बार-बार प्रणाम है। वे सभी उचित कार्यों की पूर्ति करने वाली हैं।",
+      "modern_context_en": "Whether you're preparing for a job interview, launching a startup, or working toward a fitness goal that seems impossible, this verse reminds you that growth (vṛddhi) and achievement (siddhi) are blessings that flow from a source beyond just your own effort. Showing up with humility alongside your hard work — acknowledging that something larger supports you — is what separates burnout from breakthrough. Invoke the Kalyāṇī energy before your next big presentation or important decision.",
+      "modern_context_hi": "चाहे जॉब इंटरव्यू हो, नया बिज़नेस शुरू करना हो, या कोई बड़ा सपना पूरा करना हो — यह श्लोक याद दिलाता है कि वृद्धि और सिद्धि सिर्फ हमारी मेहनत से नहीं, एक बड़ी शक्ति के आशीर्वाद से भी आती है। अहंकार छोड़कर, विनम्रता के साथ काम करने वाले को देवी की कृपा जरूर मिलती है।"
+    },
+    {
+      "verse_number": 4,
+      "section": "stuti",
+      "hindi_text": "दुर्गायै दुर्गपारायै सारायै सर्वकारिण्यै।\nख्यात्यै तथैव कृष्णायै धूम्रायै सततं नमः॥४॥",
+      "transliteration": "durgāyai durgapārāyai sārāyai sarvakāriṇyai।\nkhyātyai tathaiva kṛṣṇāyai dhūmrāyai satataṃ namaḥ॥4॥",
+      "word_by_word": {
+        "durgāyai": "to Durgā, the inaccessible one",
+        "durgapārāyai": "to the one who takes us beyond difficulties",
+        "sārāyai": "to the essence, the quintessential one",
+        "sarvakāriṇyai": "to the doer of all, cause of all actions",
+        "khyātyai": "to the renowned one, the famous",
+        "kṛṣṇāyai": "to the dark one, Kṛṣṇā",
+        "dhūmrāyai": "to the smoky-hued one",
+        "satatam": "always",
+        "namaḥ": "salutation"
+      },
+      "meaning_en": "Perpetual salutations to Durgā, to the one who takes us beyond all difficulties, to the essence of all things and the doer of all actions. We bow to the renowned one, to Kṛṣṇā the dark one, and to Dhūmrā of the smoky hue. She is the fundamental reality underlying all phenomena and the one power that carries devoted souls across every obstacle.",
+      "meaning_hi": "दुर्गा, कठिनाइयों से पार कराने वाली, सारतत्त्व और सर्वकारिणी देवी को सदा नमस्कार है। ख्याति वाली, कृष्णा और धूम्रा देवी को भी प्रणाम है। वे सभी बाधाओं को पार कराने वाली परम शक्ति हैं।",
+      "modern_context_en": "The name 'Durgā' literally means 'she who takes you through the difficult passage' — and what a relevant metaphor for modern life. Whether you're navigating a painful divorce, a health scare, being laid off, or moving to a new city where you know nobody, this verse is your reminder that there is a force that specializes in carrying people through impossible passages. You are not meant to go through your hardest moments alone — that is precisely when Durgā's energy is most accessible.",
+      "modern_context_hi": "दुर्गा का मतलब ही है 'मुश्किल रास्ते से पार कराने वाली।' जब तलाक हो, नौकरी जाए, या किसी नए शहर में अकेलापन लगे — तब याद रखो कि देवी की शक्ति ही सबसे कठिन मोड़ों पर सबसे ज़्यादा काम आती है। आप अकेले नहीं हैं — दुर्गा का हाथ हर मुश्किल सुरंग के उस पार आपका इंतज़ार कर रहा है।"
+    },
+    {
+      "verse_number": 5,
+      "section": "stuti",
+      "hindi_text": "अतिसौम्यातिरौद्रायै नतास्तस्यै नमो नमः।\nनमो जगत्प्रतिष्ठायै देव्यै कृत्यै नमो नमः॥५॥",
+      "transliteration": "atisaumyātiraudrāyai natāstasyai namo namaḥ।\nnamo jagatpratiṣṭhāyai devyai kṛtyai namo namaḥ॥5॥",
+      "word_by_word": {
+        "atisaumyā": "supremely gentle, exceedingly benign",
+        "atiraudrāyai": "to the supremely fierce one",
+        "natāḥ": "bowed, we who bow",
+        "tasyai": "to Her",
+        "jagat-pratiṣṭhāyai": "to the foundation of the universe",
+        "devyai": "to the Goddess",
+        "kṛtyai": "to the one who is action itself, the accomplished one",
+        "namaḥ": "salutation"
+      },
+      "meaning_en": "We who bow are surrendered to Her who is at once supremely gentle and supremely fierce — salutations again and again to Her. We bow to the Goddess who is the very foundation of the universe and who is action itself embodied. In Her, all paradoxes resolve — tenderness and terror, stillness and movement coexist in perfect divine unity.",
+      "meaning_hi": "जो परम सौम्य भी हैं और परम रौद्र भी, उन देवी को हम बार-बार प्रणाम करते हैं। जगत की आधार और स्वयं क्रिया स्वरूपा देवी को नमस्कार है। उनमें सभी विरोधाभास एक हो जाते हैं।",
+      "modern_context_en": "Social media constantly tells us to 'pick a side' — be the fierce go-getter or the compassionate nurturer, be ambitious or be content. This verse dissolves that false binary: the greatest human beings — whether a nurse working a double shift with a smile or an entrepreneur fighting for their team — hold both extremes gracefully. When you feel torn between being tough and being tender, remember that Durgā herself is both, and so are you.",
+      "modern_context_hi": "सोशल मीडिया हमें हमेशा 'एक पक्ष चुनो' का दबाव देता है — या तो ताकतवर बनो या दयालु। लेकिन यह श्लोक बताता है कि सबसे बड़े इंसान दोनों को एक साथ जीते हैं। जब आप ऑफिस में सख्त बॉस होने और घर पर केयरिंग पार्टनर होने के बीच उलझे हों, तो याद रखें — दुर्गा दोनों हैं, और आप भी हो सकते हैं।"
+    },
+    {
+      "verse_number": 6,
+      "section": "stuti",
+      "hindi_text": "या देवी सर्वभूतेषु शक्तिरूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥६॥",
+      "transliteration": "yā devī sarvabhūteṣu śaktirūpeṇa saṃsthitā।\nnamastasyai namastasyai namastasyai namo namaḥ॥6॥",
+      "word_by_word": {
+        "yā": "She who",
+        "devī": "the Goddess",
+        "sarvabhūteṣu": "in all beings",
+        "śakti-rūpeṇa": "in the form of power/energy",
+        "saṃsthitā": "is established, dwells",
+        "namastasyai": "salutation to Her",
+        "namaḥ": "bow, reverence"
+      },
+      "meaning_en": "To that Goddess who dwells in all beings in the form of Śakti — power and energy — salutations to Her, salutations to Her, salutations to Her, again and again. This verse recognizes the divine energy not as something external or distant but as the very life-force pulsing within every living creature. The repetition of salutations deepens the recognition that this power is omnipresent and inexhaustible.",
+      "meaning_hi": "जो देवी सभी प्राणियों में शक्ति के रूप में विराजमान हैं, उन्हें नमस्कार है, नमस्कार है, नमस्कार है, बार-बार नमस्कार है। यह श्लोक बताता है कि दैवीय ऊर्जा कहीं बाहर नहीं, बल्कि हर जीव के भीतर ही वास करती है।",
+      "modern_context_en": "This may be the most powerful verse for someone struggling with self-doubt — the woman who thinks she's not smart enough for the promotion, the teenager crushed by comparison on Instagram, the parent who feels like they're failing. The Goddess dwells in you as Śakti — not metaphorically, but literally as your capacity to act, to endure, to create, and to love. When you feel powerless, you are not absent of Śakti; you have simply forgotten it is there.",
+      "modern_context_hi": "जो खुद को कमज़ोर या काबिल नहीं समझता — जो महिला प्रमोशन के लिए खुद को कम आंकती है, जो टीनएजर इंस्टाग्राम पर खुद की तुलना करके टूट जाता है — यह श्लोक उनके लिए है। देवी आपके भीतर शक्ति के रूप में हैं — यही आपकी हिम्मत, आपकी सहनशक्ति और आपका प्यार है। शक्ति गई नहीं है, बस आप उसे भूल गए हैं।"
+    },
+    {
+      "verse_number": 7,
+      "section": "stuti",
+      "hindi_text": "शरणागतदीनार्तपरित्राणपरायणे।\nसर्वस्यार्तिहरे देवि नारायणि नमोऽस्तु ते॥७॥",
+      "transliteration": "śaraṇāgatadīnārtaparitrāṇaparāyaṇe।\nsarvasyārtihare devi nārāyaṇi namo'stu te॥7॥",
+      "word_by_word": {
+        "śaraṇāgata": "those who have taken refuge, the surrendered",
+        "dīna": "the humble, the poor",
+        "ārta": "the afflicted, those in distress",
+        "paritrāṇa": "protection, rescue, deliverance",
+        "parāyaṇe": "devoted to, whose purpose is",
+        "sarvasya": "of all, everyone's",
+        "ārtihare": "remover of suffering and pain",
+        "devi": "O Goddess",
+        "nārāyaṇi": "O Nārāyaṇī",
+        "namaḥ": "salutation"
+      },
+      "meaning_en": "O Goddess Nārāyaṇī, You who are wholly devoted to the protection of those who take refuge in You, the humble and the distressed — salutations to You. You are the remover of the suffering of all beings without exception. No one who truly surrenders to Her is abandoned — She is the ultimate refuge for the broken and the frightened.",
+      "meaning_hi": "हे नारायणी देवी, आप शरण में आए हुए, दीन-दुखी और पीड़ित लोगों की रक्षा में तत्पर हैं, आपको नमस्कार है। आप सभी के दुःख और पीड़ा को हरने वाली हैं। जो सच्चे मन से आपकी शरण लेता है, वह कभी अकेला नहीं रहता।",
+      "modern_context_en": "There are moments in modern life — a 3 AM anxiety spiral, getting a frightening medical report alone, being ghosted by someone you loved, drowning in financial debt — when you feel completely forsaken. This verse is Durgā's direct promise: her entire being is oriented toward those in distress who come to her. You don't need to be perfect or spiritually advanced to receive her protection; you just need to come as you are, broken and honest.",
+      "modern_context_hi": "रात के तीन बजे अकेले घबराहट में डूबे होना, डरावनी मेडिकल रिपोर्ट मिलना, या किसी प्रिय का अचानक छोड़ जाना — इन पलों में यह श्लोक देवी का सीधा वादा है: वे पीड़ितों की रक्षा के लिए ही हैं। आपको परफेक्ट होने की ज़रूरत नहीं — बस टूटे हुए और सच्चे दिल से आना काफी है।"
+    },
+    {
+      "verse_number": 8,
+      "section": "stuti",
+      "hindi_text": "सर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके।\nशरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते॥८॥",
+      "transliteration": "sarvamaṅgalamāṅgalye śive sarvārthasādhike।\nśaraṇye tryambake gauri nārāyaṇi namo'stu te॥8॥",
+      "word_by_word": {
+        "sarvamaṅgala": "all auspiciousness",
+        "māṅgalye": "O auspicious one, embodiment of all good",
+        "śive": "O auspicious, benevolent one",
+        "sarvārtha-sādhike": "accomplisher of all purposes and goals",
+        "śaraṇye": "O refuge, O protector",
+        "tryambake": "O three-eyed one",
+        "gauri": "O fair-complexioned one, O Gaurī",
+        "nārāyaṇi": "O Nārāyaṇī",
+        "namaḥ": "salutation",
+        "stu": "let there be, may there be"
+      },
+      "meaning_en": "O Nārāyaṇī, You are the auspiciousness within all auspicious things, the benevolent Śivā, the accomplisher of all purposes — salutations to You. O three-eyed Gaurī, You are the ultimate refuge — we bow to You. This verse acknowledges that all good fortune, all fruitful endeavors, and all safe shelters ultimately trace back to Her grace.",
+      "meaning_hi": "हे नारायणी, आप सभी मंगलों में मंगलमयी हैं, सर्वार्थ को सिद्ध करने वाली, शरण देने वाली, त्रिनेत्रा गौरी हैं — आपको नमस्कार है। सभी शुभ, सभी सफल प्रयास और सभी सुरक्षित आश्रय अंततः आपकी कृपा से ही हैं।",
+      "modern_context_en": "Before any major life transition — whether it's a wedding, starting a new job, beginning a family, launching a creative project, or even just a Monday morning — chanting this verse reorients your intention. It is a reminder that true success is not just career achievement or social status, but the fulfillment of all worthy purposes (sarvārtha-sādhike). Ask yourself: are the goals I'm chasing truly 'sarvartha' — good for all, including myself? That question alone can save you years of misaligned effort.",
+      "modern_context_hi": "किसी भी बड़े मोड़ से पहले — शादी हो, नई नौकरी हो, बच्चा होने वाला हो, या कोई नया सफर शुरू हो — इस श्लोक का जाप आपके इरादों को सही दिशा देता है। एक सवाल खुद से पूछें: जो लक्ष्य मैं पा रहा हूँ, क्या वो सच में 'सर्वार्थ' है — मेरे और बाकी सबके लिए भला? यह एक सवाल आपकी सालों की भटकन बचा सकता है।"
+    },
+    {
+      "verse_number": 9,
+      "section": "phala-shruti",
+      "hindi_text": "इदं स्तोत्रं पठित्वा तु महास्तोत्रं पठेन्नरः।\nसो‌ऽपि मुच्येत संसारान्मुक्तो भवति सर्वदा॥९॥",
+      "transliteration": "idaṃ stotraṃ paṭhitvā tu mahāstotraṃ paṭhennараḥ।\nso'pi mucyeta saṃsārānmukto bhavati sarvadā॥9॥",
+      "word_by_word": {
+        "idam": "this",
+        "stotram": "hymn, prayer",
+        "paṭhitvā": "having recited, after reading",
+        "mahāstotram": "the great hymn",
+        "paṭhet": "should recite, let one recite",
+        "naraḥ": "a person, human being",
+        "saḥ": "that person, he or she",
+        "mucyeta": "is liberated, freed",
+        "saṃsārāt": "from the cycle of worldly existence",
+        "muktaḥ": "liberated, free",
+        "bhavati": "becomes",
+        "sarvadā": "always, forever"
+      },
+      "meaning_en": "The person who recites this hymn and then recites the great hymn (Devī Māhātmya) shall be liberated from the cycle of worldly existence and attain freedom always. This phalashruti — the verse of fruit — seals the ashtakam with a promise: sincere, sustained devotion through sacred recitation leads not just to material benefit but to the ultimate liberation of the soul.",
+      "meaning_hi": "जो व्यक्ति इस स्तोत्र को पढ़कर महास्तोत्र का पाठ करता है, वह संसार के बंधनों से मुक्त होकर सदा स्वतंत्र हो जाता है। यह फलश्रुति बताती है कि सच्ची भक्ति से किया गया पाठ न केवल सांसारिक लाभ देता है, बल्कि आत्मा की परम मुक्ति भी प्रदान करता है।",
+      "modern_context_en": "We live in an age of constant mental captivity — addicted to notifications, enslaved by others' opinions, trapped in loops of comparison, regret, and anxiety. The 'saṃsāra' this verse speaks of is not just the ancient concept of rebirth but the very real, daily cycle of mental suffering most of us live in. Consistent devotional practice — even ten minutes of sincere recitation each morning — gradually loosens those mental chains. Freedom is not a distant spiritual goal; it begins the moment you choose to step off the hamster wheel, even briefly.",
+      "modern_context_hi": "हम एक ऐसे युग में जी रहे हैं जहाँ नोटिफिकेशन की लत, दूसरों की राय का डर, और तुलना का दर्द हमें हर रोज़ जकड़े रहते हैं। यह 'संसार' सिर्फ पुनर्जन्म का चक्र नहीं, बल्कि हमारी रोज़ की मानसिक कैद भी है। हर सुबह बस दस मिनट सच्ची श्रद्धा से पाठ करना धीरे-धीरे उन मानसिक ज़ंजीरों को तोड़ता है — और असली आज़ादी वहीं से शुरू होती है।"
+    }
+  ]
+}

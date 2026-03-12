@@ -1,0 +1,151 @@
+{
+  "id": "hanuman_aarti",
+  "title_en": "Hanuman Aarti — Aarti Kije Hanuman Lala Ki",
+  "title_hi": "आरती कीजै हनुमान लला की",
+  "deity": "hanuman",
+  "author": "Traditional",
+  "type": "aarti",
+  "total_verses": 7,
+  "sections": [
+    "chorus",
+    "verse"
+  ],
+  "verses": [
+    {
+      "verse_number": 1,
+      "section": "chorus",
+      "hindi_text": "आरती कीजै हनुमान लला की।\nदुष्ट दलन रघुनाथ कला की॥",
+      "transliteration": "Āratī kījai Hanumān lalā kī.\nDuṣṭa dalan Raghunāth kalā kī.",
+      "word_by_word": {
+        "āratī": "worship with lighted lamp",
+        "kījai": "let us perform",
+        "Hanumān lalā": "dear Hanuman",
+        "duṣṭa dalan": "destroyer of the wicked",
+        "Raghunāth": "Lord Rama",
+        "kalā": "divine art / incarnation"
+      },
+      "meaning_en": "Let us perform the aarti of dear Hanuman. He is the destroyer of the wicked and a manifestation of Lord Rama's own divine power.",
+      "meaning_hi": "प्रिय हनुमान जी की आरती करें। वे दुष्टों का नाश करने वाले और भगवान श्री राम की दिव्य कला के स्वरूप हैं।",
+      "modern_context_en": "This opening chorus sets the intention for Tuesday and Saturday prayers — invoking Hanuman's courage to face the challenges of a demanding work week far from home.",
+      "modern_context_hi": "यह प्रारंभिक पंक्ति मंगलवार और शनिवार की पूजा का संकल्प है — हनुमान जी की शक्ति का आह्वान करें ताकि घर से दूर रहकर भी कठिन कार्यसप्ताह का सामना कर सकें।"
+    },
+    {
+      "verse_number": 2,
+      "section": "verse",
+      "hindi_text": "जाके बल से गिरिवर काँपे।\nरोग दोष जाके निकट न झाँके॥",
+      "transliteration": "Jāke bal se girivar kāṃpe.\nRog doṣ jāke nikaṭ na jhāṃke.",
+      "word_by_word": {
+        "jāke": "whose",
+        "bal": "strength",
+        "girivar": "great mountains",
+        "kāṃpe": "tremble",
+        "rog": "disease",
+        "doṣ": "affliction / fault",
+        "nikaṭ": "near",
+        "jhāṃke": "dare to peek / approach"
+      },
+      "meaning_en": "By whose strength even the mightiest mountains tremble. No disease or affliction dares to come near his devotees.",
+      "meaning_hi": "जिनके बल से बड़े-बड़े पर्वत भी काँप उठते हैं। कोई भी रोग या दोष उनके भक्तों के पास आने का साहस नहीं करता।",
+      "modern_context_en": "Living abroad, health anxieties — both physical and mental — are real. This verse reminds us that devotion to Hanuman builds an inner resilience that shields us from fear and illness.",
+      "modern_context_hi": "विदेश में रहते हुए शारीरिक और मानसिक स्वास्थ्य की चिंता सहज है। यह पद याद दिलाता है कि हनुमान भक्ति एक आंतरिक शक्ति देती है जो भय और रोग से रक्षा करती है।"
+    },
+    {
+      "verse_number": 3,
+      "section": "verse",
+      "hindi_text": "अंजनि पुत्र महा बलदाई।\nसंतन के प्रभु सदा सहाई॥",
+      "transliteration": "Anjanī putra mahā baladāī.\nSantan ke prabhu sadā sahāī.",
+      "word_by_word": {
+        "Anjanī putra": "son of Anjani",
+        "mahā": "great",
+        "baladāī": "giver of strength",
+        "santan": "saints / good people",
+        "prabhu": "lord",
+        "sadā": "always",
+        "sahāī": "helper"
+      },
+      "meaning_en": "He is the son of Mother Anjani and the great bestower of strength. He is always the helper and protector of virtuous, good-hearted people.",
+      "meaning_hi": "वे माता अंजनि के पुत्र और महान बलदाई हैं। वे सज्जनों और संतों के सदा सहायक हैं।",
+      "modern_context_en": "When you feel alone managing responsibilities abroad — aging parents on video calls, children's school runs, office deadlines — Hanuman stands as the ever-present helper for those who serve others selflessly.",
+      "modern_context_hi": "जब विदेश में अकेले जिम्मेदारियाँ उठानी पड़ें — वीडियो कॉल पर बूढ़े माता-पिता, बच्चों की पढ़ाई, ऑफिस की डेडलाइन — हनुमान जी उन सबके सदा सहायक हैं जो निःस्वार्थ सेवा करते हैं।"
+    },
+    {
+      "verse_number": 4,
+      "section": "verse",
+      "hindi_text": "दे बीरा रघुनाथ पठाए।\nलंका जलाय सिया सुधि लाए॥",
+      "transliteration": "De bīrā Raghunāth paṭhāe.\nLaṅkā jalāy Siyā sudhi lāe.",
+      "word_by_word": {
+        "de bīrā": "O brave one",
+        "Raghunāth": "Lord Rama",
+        "paṭhāe": "sent",
+        "Laṅkā": "Lanka",
+        "jalāy": "burned",
+        "Siyā": "Sita",
+        "sudhi": "news / information",
+        "lāe": "brought"
+      },
+      "meaning_en": "O brave one, Lord Rama sent you as His messenger. You burned the city of Lanka and brought back news of Mother Sita.",
+      "meaning_hi": "हे वीर, भगवान श्री राम ने आपको दूत बनाकर भेजा। आपने लंका को जलाया और माता सीता का समाचार लेकर आए।",
+      "modern_context_en": "Hanuman accomplished a seemingly impossible mission across the ocean through devotion and courage. When facing a daunting project, visa challenge, or cross-country move, remember that faithful action conquers every obstacle.",
+      "modern_context_hi": "हनुमान जी ने भक्ति और साहस से समुद्र पार का असंभव-सा कार्य पूरा किया। जब कोई कठिन प्रोजेक्ट, वीज़ा की समस्या या बड़ा बदलाव सामने हो, तो याद रखें कि श्रद्धापूर्ण कर्म हर बाधा को जीत लेता है।"
+    },
+    {
+      "verse_number": 5,
+      "section": "verse",
+      "hindi_text": "लंका सो कोट समुद्र सी खाई।\nजात पवनसुत बार न लाई॥",
+      "transliteration": "Laṅkā so koṭ samudra sī khāī.\nJāt Pavanasut bār na lāī.",
+      "word_by_word": {
+        "Laṅkā": "Lanka",
+        "koṭ": "fortress",
+        "samudra": "ocean",
+        "khāī": "moat / trench",
+        "jāt": "going",
+        "Pavanasut": "son of the Wind-God",
+        "bār na lāī": "did not take any time / no delay"
+      },
+      "meaning_en": "Lanka had a mighty fortress with an ocean serving as its moat. Yet the son of the Wind-God crossed it in no time at all.",
+      "meaning_hi": "लंका का विशाल किला था और समुद्र उसकी खाई के समान था। फिर भी पवनपुत्र ने वहाँ पहुँचने में जरा भी देर नहीं लगाई।",
+      "modern_context_en": "Oceans — literal and metaphorical — separate NRI families from their homeland. Hanuman's effortless ocean-crossing inspires us that no distance is too great when love and duty propel you forward.",
+      "modern_context_hi": "समुद्र — सचमुच और लाक्षणिक — NRI परिवारों को अपनी मातृभूमि से अलग करते हैं। हनुमान जी का सहज समुद्र-लंघन प्रेरणा देता है कि जब प्रेम और कर्तव्य प्रेरित करें तो कोई दूरी बड़ी नहीं।"
+    },
+    {
+      "verse_number": 6,
+      "section": "verse",
+      "hindi_text": "लंका जलाय असुर सब मारे।\nसियाराम जी के काज सँवारे॥",
+      "transliteration": "Laṅkā jalāy asur sab māre.\nSiyārāmajī ke kāj saṃvāre.",
+      "word_by_word": {
+        "Laṅkā": "Lanka",
+        "jalāy": "having burned",
+        "asur": "demons",
+        "sab": "all",
+        "māre": "slayed",
+        "Siyārāmajī": "Lord Rama and Sita",
+        "kāj": "task / mission",
+        "saṃvāre": "fulfilled / accomplished"
+      },
+      "meaning_en": "He burned Lanka, destroyed all the demons, and thus accomplished the sacred mission of Lord Rama and Mother Sita.",
+      "meaning_hi": "उन्होंने लंका को जलाया, सब असुरों का नाश किया और सीताराम जी के कार्य को सफलतापूर्वक पूरा किया।",
+      "modern_context_en": "True service means completing the mission, not just starting it. In careers and family duties abroad, Hanuman teaches us to see our commitments through to the very end with full devotion.",
+      "modern_context_hi": "सच्ची सेवा का अर्थ है कार्य को पूरा करना, केवल शुरू करना नहीं। विदेश में करियर और पारिवारिक कर्तव्यों में हनुमान जी सिखाते हैं कि पूर्ण भक्ति से अपनी प्रतिबद्धताओं को अंत तक निभाएँ।"
+    },
+    {
+      "verse_number": 7,
+      "section": "verse",
+      "hindi_text": "लक्ष्मण मूर्छित पड़े सकारे।\nआणि सजीवन प्राण उबारे॥",
+      "transliteration": "Lakṣmaṇ mūrchit paḍe sakāre.\nĀṇi sajīvan prāṇ ubāre.",
+      "word_by_word": {
+        "Lakṣmaṇ": "Lakshmana",
+        "mūrchit": "unconscious",
+        "paḍe": "fell",
+        "sakāre": "at dawn / in distress",
+        "āṇi": "bringing",
+        "sajīvan": "Sanjeevani (life-giving herb)",
+        "prāṇ": "life",
+        "ubāre": "saved / revived"
+      },
+      "meaning_en": "When Lakshmana fell unconscious on the battlefield, Hanuman brought the life-giving Sanjeevani herb and saved his life.",
+      "meaning_hi": "जब लक्ष्मण जी युद्धभूमि में मूर्छित हो गए, तब हनुमान जी संजीवनी बूटी लेकर आए और उनके प्राण बचाए।",
+      "modern_context_en": "When a family member faces a health crisis thousands of miles away, we feel helpless. Hanuman's act of carrying an entire mountain for one life reminds us that love finds a way — move mountains if you must.",
+      "modern_context_hi": "जब कोई परिवारजन हज़ारों मील दूर स्वास्थ्य संकट में हो, तो हम असहाय महसूस करते हैं। हनुमान जी का एक प्राण बचाने के लिए पूरा पर्वत उठा लाना सिखाता है कि प्रेम रास्ता निकाल ही लेता है — ज़रूरत हो तो पहाड़ भी उठा लो।"
+    }
+  ]
+}

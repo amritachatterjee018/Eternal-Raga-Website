@@ -1,0 +1,220 @@
+{
+  "id": "surya_ashtakam",
+  "title_en": "Surya Ashtakam",
+  "title_hi": "सूर्य अष्टकम्",
+  "deity": "surya",
+  "author": "Traditional",
+  "author_hi": "पारंपरिक",
+  "type": "ashtakam",
+  "language": "sanskrit",
+  "total_verses": 8,
+  "sections": [
+    "stuti"
+  ],
+  "description_en": "The Surya Ashtakam is an eight-verse hymn praising the Sun God Surya, the source of all life and energy. It describes his golden chariot driven by seven horses, his role as the cosmic eye of Vishnu, and his power to heal diseases and remove darkness.",
+  "description_hi": "सूर्य अष्टकम् सूर्य देव — समस्त जीवन और ऊर्जा के स्रोत — की स्तुति में आठ श्लोकों का स्तोत्र है। सात घोड़ों के स्वर्ण रथ, विष्णु के नेत्र और रोग निवारक शक्ति का वर्णन।",
+  "recitation_benefits": [
+    "Improves health and vitality",
+    "Cures eye diseases",
+    "Removes planetary doshas",
+    "Brings fame and recognition",
+    "Energizes body and mind"
+  ],
+  "best_time_to_recite": [
+    "Sunday",
+    "At sunrise",
+    "Makar Sankranti",
+    "Chhath Puja",
+    "Ratha Saptami"
+  ],
+  "verses": [
+    {
+      "verse_number": 1,
+      "section": "stuti",
+      "hindi_text": "आदिदेव नमस्तुभ्यं प्रसीद मम भास्कर।\nदिवाकर नमस्तुभ्यं प्रभाकर नमोऽस्तु ते॥१॥",
+      "transliteration": "ādideva namastubhyaṃ prasīda mama bhāskara.\ndivākara namastubhyaṃ prabhākara namo'stu te॥1॥",
+      "word_by_word": {
+        "ādideva": "primordial god, the first deity",
+        "namastubhyaṃ": "salutation to you",
+        "prasīda": "be pleased, be gracious",
+        "mama": "to me, my",
+        "bhāskara": "one who shines, the sun",
+        "divākara": "maker of the day",
+        "prabhākara": "creator of light, the radiant one",
+        "namaḥ": "salutation, reverence",
+        "astu": "let it be, may it be",
+        "te": "to you"
+      },
+      "meaning_en": "O Ādideva, the primordial god, I bow to you — O Bhāskara, the one who illumines, be gracious unto me. O Divākara, maker of the day, O Prabhākara, creator of all radiance, I offer my salutations to you. You are the first among all gods, the eternal source of light who sustains all of creation.",
+      "meaning_hi": "हे आदिदेव, आप को मेरा प्रणाम है — हे भास्कर, प्रकाश देने वाले, मुझ पर कृपा करें। हे दिवाकर, दिन के निर्माता, हे प्रभाकर, प्रकाश के स्रोत, आपको मेरा नमस्कार है। आप सभी देवताओं में प्रथम हैं और सम्पूर्ण सृष्टि को धारण करने वाले हैं।",
+      "modern_context_en": "Every morning when you silence your alarm and scroll through your phone before even getting out of bed, this verse is an invitation to pause — to greet the day with intention rather than anxiety. Just as the sun rises without fail regardless of yesterday's storms, you too can show up for your life today, whether you are facing a difficult job interview, a strained relationship, or financial uncertainty. Saluting the light — literally or metaphorically — sets a tone of gratitude that science confirms reduces cortisol and sharpens focus for the day ahead.",
+      "modern_context_hi": "हर सुबह जब अलार्म बजता है और हम फ़ोन स्क्रॉल करने लगते हैं, यह श्लोक हमें रुककर दिन को सही इरादे के साथ शुरू करने की प्रेरणा देता है। चाहे कल का दिन कितना भी मुश्किल रहा हो — नौकरी की टेंशन हो, रिश्तों की उलझन हो या पैसों की चिंता — सूरज की तरह हम भी हर दिन नए सिरे से शुरुआत कर सकते हैं। बस एक मिनट रुककर उस रोशनी का शुक्रिया अदा करें जो हर दिन बिना नागा आती है।"
+    },
+    {
+      "verse_number": 2,
+      "section": "stuti",
+      "hindi_text": "सप्ताश्वरथमारूढं प्रचण्डं कश्यपात्मजम्।\nश्वेतपद्मधरं देवं तं सूर्यं प्रणमाम्यहम्॥२॥",
+      "transliteration": "saptāśvarathamārūḍhaṃ pracaṇḍaṃ kaśyapātmajam.\nśvetapadmadharam devaṃ taṃ sūryaṃ praṇamāmyaham॥2॥",
+      "word_by_word": {
+        "saptāśva": "seven horses",
+        "rathamārūḍhaṃ": "mounted on a chariot",
+        "pracaṇḍaṃ": "fierce, intensely brilliant, formidable",
+        "kaśyapātmajam": "son of Kaśyapa (the sage)",
+        "śveta": "white",
+        "padmadharam": "holding a lotus",
+        "devam": "divine being, god",
+        "tam": "that, him",
+        "sūryam": "the Sun",
+        "praṇamāmi": "I bow down to, I salute",
+        "aham": "I"
+      },
+      "meaning_en": "I bow to that radiant Sūrya, who rides a chariot drawn by seven horses, who is fierce and blazing in his brilliance, and who was born as the son of the sage Kaśyapa. He holds a white lotus in his hand, embodying purity and divine grace even in his overwhelming power. I offer my complete salutation to this magnificent solar deity.",
+      "meaning_hi": "मैं उन सूर्य देव को प्रणाम करता हूँ जो सात घोड़ों वाले रथ पर सवार हैं, जो अपने तेज में प्रचंड हैं और ऋषि कश्यप के पुत्र हैं। वे श्वेत कमल धारण किए हुए हैं, जो उनकी शक्ति के साथ-साथ उनकी पवित्रता और दिव्यता को दर्शाता है। ऐसे देदीप्यमान सूर्य देव को मेरा नमस्कार है।",
+      "modern_context_en": "The seven horses of Sūrya's chariot represent the seven colors of visible light and, symbolically, the seven days of the week — a reminder that every single day is a fresh unit of energy given to you to use purposefully. When you are overwhelmed by a massive project at work or drowning in parenting responsibilities, break your effort into day-sized, intentional segments rather than trying to see the whole road at once. The sun does not rush across the sky in panic; it moves with fierce, steady purpose — and so can you.",
+      "modern_context_hi": "सूर्य के सात घोड़े सात दिनों का प्रतीक हैं — यानी हर दिन एक नई ऊर्जा का उपहार है। जब ऑफिस का काम पहाड़ जैसा लगे या बच्चों की देखभाल थका दे, तो पूरे बोझ को एक साथ उठाने की बजाय एक-एक दिन पर ध्यान दें। सूरज हड़बड़ी में नहीं चलता — वो एक तय रफ़्तार से, पूरी ताकत के साथ अपना सफर तय करता है, यही हमें भी करना है।"
+    },
+    {
+      "verse_number": 3,
+      "section": "stuti",
+      "hindi_text": "लोहितं रथमारूढं सर्वलोकपितामहम्।\nमहापापहरं देवं तं सूर्यं प्रणमाम्यहम्॥३॥",
+      "transliteration": "lohitaṃ rathamārūḍhaṃ sarvalokapitāmaham.\nmahāpāpaharaṃ devaṃ taṃ sūryaṃ praṇamāmyaham॥3॥",
+      "word_by_word": {
+        "lohitam": "red, crimson-hued",
+        "rathamārūḍhaṃ": "mounted on a chariot",
+        "sarvaloka": "of all worlds, of all realms",
+        "pitāmaham": "grandfather, progenitor, the great father",
+        "mahāpāpa": "great sins, grave transgressions",
+        "haram": "remover, destroyer",
+        "devam": "god, divine being",
+        "tam": "him, that",
+        "sūryam": "the Sun God",
+        "praṇamāmi": "I bow, I prostrate",
+        "aham": "I"
+      },
+      "meaning_en": "I bow to the divine Sūrya, who rides his crimson-hued chariot and is the great progenitor of all worlds and all living beings. He is the remover of the greatest sins and transgressions, the purifying force that dissolves all accumulated karmic burdens. I offer my deepest salutation to this all-pervading solar divinity who is grandfather and sustainer of every realm of existence.",
+      "meaning_hi": "मैं उन सूर्य देव को प्रणाम करता हूँ जो लाल रंग के रथ पर आरूढ़ हैं और समस्त लोकों के पितामह हैं। वे महान पापों को नष्ट करने वाले और सभी प्राणियों के संचित कर्मभार को शुद्ध करने वाले हैं। ऐसे सर्वव्यापी सूर्य देव को मेरा सादर प्रणाम है।",
+      "modern_context_en": "The crimson chariot of dawn reminds us of those raw, vulnerable early morning hours when guilt, regret, and shame from past mistakes feel heaviest — those 3 a.m. moments when you replay old decisions about a toxic relationship you stayed in too long, or a financial choice that went wrong. This verse offers a profound reassurance: the rising sun literally burns away darkness, and spiritually, sincere acknowledgment and forward movement can dissolve even what feels like unforgivable self-failure. You do not have to carry yesterday's weight into today's light.",
+      "modern_context_hi": "सुबह की लाल रोशनी उन पलों की याद दिलाती है जब पिछली गलतियों का बोझ सबसे भारी लगता है — जब किसी गलत रिश्ते में बने रहने या पैसों के गलत फैसले का पछतावा मन को खाता है। यह श्लोक भरोसा दिलाता है कि जैसे सूरज अंधेरे को जला देता है, वैसे ही सच्ची स्वीकृति और आगे बढ़ने की इच्छा हमारे सबसे बड़े बोझ को भी हल्का कर सकती है। बीते कल के पाप आज की रोशनी में लेकर चलना ज़रूरी नहीं।"
+    },
+    {
+      "verse_number": 4,
+      "section": "stuti",
+      "hindi_text": "त्रैगुण्यं च महाशूरं ब्रह्मविष्णुमहेश्वरम्।\nमहापापहरं देवं तं सूर्यं प्रणमाम्यहम्॥४॥",
+      "transliteration": "traiguṇyaṃ ca mahāśūraṃ brahmaviṣṇumaheśvaram.\nmahāpāpaharaṃ devaṃ taṃ sūryaṃ praṇamāmyaham॥4॥",
+      "word_by_word": {
+        "traiguṇyam": "embodiment of the three guṇas (sattva, rajas, tamas)",
+        "ca": "and, also",
+        "mahāśūram": "great hero, the mighty one",
+        "brahma": "Brahmā, the creator",
+        "viṣṇu": "Viṣṇu, the preserver",
+        "maheśvaram": "Maheśvara, Śiva the great lord",
+        "mahāpāpa": "greatest sins",
+        "haram": "remover, destroyer",
+        "devam": "god",
+        "tam": "him",
+        "sūryam": "the Sun",
+        "praṇamāmi": "I bow to",
+        "aham": "I"
+      },
+      "meaning_en": "I bow to that great hero Sūrya, who embodies all three guṇas of creation and who is the combined essence of Brahmā the creator, Viṣṇu the preserver, and Maheśvara the destroyer. He is simultaneously the force of creation, sustenance, and dissolution that governs all of existence. I offer my humble salutation to this supreme solar deity who destroys even the greatest of sins.",
+      "meaning_hi": "मैं उस महावीर सूर्य देव को प्रणाम करता हूँ जो तीनों गुणों — सत्व, रज और तम — के मूर्तिमान स्वरूप हैं और जो ब्रह्मा, विष्णु और महेश्वर तीनों के सम्मिलित रूप हैं। वे एक साथ सृष्टि, पालन और संहार की शक्ति को धारण करते हैं। ऐसे परम सूर्य देव को जो महापापों का भी नाश करते हैं, मेरा प्रणाम है।",
+      "modern_context_en": "The three guṇas in this verse map beautifully onto the three modes most of us cycle through in a single workday: the creative clarity of sattva when an idea flows perfectly, the driven intensity of rajas when you are pushing a deadline, and the sluggish resistance of tamas when motivation evaporates entirely. Recognizing which mode you are operating in — rather than judging yourself for it — is a practical form of self-awareness that can transform how you handle career pressures and creative blocks. Sūrya contains and transcends all three, reminding you that you too are larger than any single mental state.",
+      "modern_context_hi": "तीन गुण असल में हमारे हर दिन के तीन मूड हैं — सत्त्व यानी जब दिमाग बिल्कुल साफ हो और काम धड़ाधड़ हो; रज यानी जब डेडलाइन के लिए भागदौड़ हो; और तम यानी जब बिल्कुल मन न करे और सोफे से उठना मुश्किल लगे। खुद को इन मूड्स के लिए दोष देने की बजाय यह समझें कि आप किस मोड में हैं — यही असली आत्मज्ञान है। सूरज इन तीनों के पार है, और आप भी किसी एक मानसिक अवस्था से बड़े हैं।"
+    },
+    {
+      "verse_number": 5,
+      "section": "stuti",
+      "hindi_text": "बृंहितं तेजसां पुञ्जं वायुमाकाशमेव च।\nप्रभुं च सर्वलोकानां तं सूर्यं प्रणमाम्यहम्॥५॥",
+      "transliteration": "bṛṃhitaṃ tejasāṃ puñjaṃ vāyumākāśameva ca.\nprabhuṃ ca sarvalokānāṃ taṃ sūryaṃ praṇamāmyaham॥5॥",
+      "word_by_word": {
+        "bṛṃhitam": "magnified, swollen with, abundant",
+        "tejasām": "of radiances, of luminous energies",
+        "puñjam": "mass, collection, aggregate",
+        "vāyum": "air, wind, the element of air",
+        "ākāśam": "sky, ether, space",
+        "eva": "indeed, truly",
+        "ca": "and",
+        "prabhum": "lord, master, the powerful one",
+        "sarvalokānām": "of all worlds",
+        "tam": "him",
+        "sūryam": "the Sun",
+        "praṇamāmi": "I bow",
+        "aham": "I"
+      },
+      "meaning_en": "I bow to Sūrya, who is the magnificent aggregation of all radiant energies, who is the very essence of air and ether pervading all of space, and who is the supreme lord of all worlds and realms. He is not merely a physical star but the concentrated totality of all luminous power in the universe. I offer my salutation to this lord of all existence whose radiance fills every dimension of creation.",
+      "meaning_hi": "मैं उन सूर्य देव को प्रणाम करता हूँ जो समस्त तेजस्वी ऊर्जाओं का विशाल संग्रह हैं, जो वायु और आकाश के रूप में सर्वत्र व्याप्त हैं और जो समस्त लोकों के स्वामी हैं। वे केवल एक भौतिक तारा नहीं हैं, बल्कि ब्रह्मांड की समस्त प्रकाशमय शक्तियों का परम केंद्र हैं। ऐसे सर्वलोक-प्रभु को मेरा सादर प्रणाम है।",
+      "modern_context_en": "Modern science has confirmed what this verse declares poetically: the sun is literally the source of almost all energy on Earth, from the food we eat to the fuel we burn, from the wind that powers turbines to the ancient sunlight stored as fossil fuels. When you feel depleted — after a long week of back-to-back meetings, emotional labor in difficult relationships, or the invisible exhaustion of parenting — remember that the original source of all energy is still rising every morning without fail, offering itself completely. Stepping outside for even five minutes of morning sunlight is not just wellness advice; it is a direct communion with the cosmic energy source this verse celebrates.",
+      "modern_context_hi": "आधुनिक विज्ञान भी यही कहता है जो यह श्लोक हज़ारों साल पहले कह गया — धरती पर लगभग हर ऊर्जा का स्रोत सूरज है, चाहे वो हमारा खाना हो, हवा हो या ईंधन। जब लंबे हफ्ते की थकान हो, भावनात्मक मेहनत से चूर हों, या पैरेंटिंग की अदृश्य थकान सताए — याद रखें कि ऊर्जा का मूल स्रोत हर सुबह बिना नागा उगता है। बस पाँच मिनट के लिए बाहर निकलकर धूप में खड़े हों — यह सिर्फ wellness टिप नहीं, इस श्लोक की सबसे सरल साधना है।"
+    },
+    {
+      "verse_number": 6,
+      "section": "stuti",
+      "hindi_text": "बन्धूकपुष्पसङ्काशं हारकुण्डलभूषितम्।\nएकचक्रधरं देवं तं सूर्यं प्रणमाम्यहम्॥६॥",
+      "transliteration": "bandhūkapuṣpasaṅkāśaṃ hārakuṇḍalabhūṣitam.\nekacakradharaṃ devaṃ taṃ sūryaṃ praṇamāmyaham॥6॥",
+      "word_by_word": {
+        "bandhūka": "bandhūka flower (red-orange hibiscus)",
+        "puṣpa": "flower",
+        "saṅkāśam": "resembling, appearing like",
+        "hāra": "garland, necklace",
+        "kuṇḍala": "earrings, ear ornaments",
+        "bhūṣitam": "adorned with, decorated with",
+        "eka": "one, single",
+        "cakra": "wheel, disc, circle",
+        "dharam": "bearing, holding",
+        "devam": "god",
+        "tam": "him",
+        "sūryam": "the Sun",
+        "praṇamāmi": "I bow",
+        "aham": "I"
+      },
+      "meaning_en": "I bow to the divine Sūrya, whose luminous form resembles the bright crimson bandhūka flower, who is beautifully adorned with garlands and radiant earrings, and who bears the single wheel — the solar disc — as his emblem and vehicle of cosmic motion. His beauty is not mere ornamentation but the visible expression of his inner divinity and life-giving power. I offer my salutation to this resplendently adorned lord of the solar wheel.",
+      "meaning_hi": "मैं उन सूर्य देव को प्रणाम करता हूँ जिनका रूप लाल-नारंगी बन्धूक पुष्प के समान देदीप्यमान है, जो हार और कुण्डलों से सुशोभित हैं, और जो एकमात्र चक्र को धारण करते हैं। उनकी यह सुंदरता केवल बाहरी आभूषण नहीं, बल्कि उनकी आंतरिक दिव्यता और जीवनदायी शक्ति का प्रकट रूप है। ऐसे भव्य सूर्य चक्रधारी को मेरा प्रणाम है।",
+      "modern_context_en": "The image of Sūrya adorned with garlands and earrings, glowing like a crimson flower, speaks to the idea that how we present ourselves — with care, dignity, and intention — is itself a spiritual act. In an era of social media anxiety where we obsess over curating our online image while neglecting our inner radiance, this verse invites us to redirect that energy inward: your genuine vitality, warmth, and presence are your real ornamentation. The single wheel he bears is also a powerful symbol of focus — one direction, one purpose — a remedy for the scattered, notification-driven attention of modern life.",
+      "modern_context_hi": "सूर्य का फूल जैसा दमकता हुआ श्रृंगार यह बताता है कि खुद को देखभाल और गरिमा के साथ प्रस्तुत करना एक आध्यात्मिक कर्म है। सोशल मीडिया पर परफेक्ट इमेज बनाने की होड़ में हम अपनी असली चमक — अपनी गर्मजोशी, ऊर्जा और उपस्थिति — को भूल जाते हैं। एक चक्र का प्रतीक भी हमें याद दिलाता है: एक दिशा, एक मकसद — नोटिफिकेशन की भीड़ में भटके बिना ध्यान केंद्रित रखना।"
+    },
+    {
+      "verse_number": 7,
+      "section": "stuti",
+      "hindi_text": "विश्वेशं विश्वकर्तारं महातेजः प्रदीपनम्।\nमहापापहरं देवं तं सूर्यं प्रणमाम्यहम्॥७॥",
+      "transliteration": "viśveśaṃ viśvakartāraṃ mahātejāḥ pradīpanam.\nmahāpāpaharaṃ devaṃ taṃ sūryaṃ praṇamāmyaham॥7॥",
+      "word_by_word": {
+        "viśveśam": "lord of the universe, master of all",
+        "viśvakartāram": "creator of the universe, maker of all",
+        "mahātejāḥ": "of great radiance, supremely luminous",
+        "pradīpanam": "illuminator, the one who kindles light",
+        "mahāpāpa": "great sins, grave wrongdoings",
+        "haram": "remover, destroyer",
+        "devam": "god, divine one",
+        "tam": "him",
+        "sūryam": "the Sun God",
+        "praṇamāmi": "I bow, I offer salutation",
+        "aham": "I"
+      },
+      "meaning_en": "I bow to the divine Sūrya, who is the lord of the entire universe, the very creator and maker of all that exists, and the supreme illuminator whose great radiance kindles light in all directions. He does not merely light the physical world but is the initiating creative intelligence behind the whole of manifest existence. I offer my salutation to this destroyer of great sins, the all-creating, all-illuminating solar lord.",
+      "meaning_hi": "मैं उन सूर्य देव को प्रणाम करता हूँ जो विश्व के ईश्वर हैं, समस्त सृष्टि के निर्माता हैं, और जिनका महान तेज सब दिशाओं में प्रकाश प्रज्वलित करता है। वे केवल भौतिक जगत को प्रकाशित नहीं करते, बल्कि समस्त सृष्टि के मूल रचनात्मक चेतना के स्रोत हैं। ऐसे महापाप-नाशक, सर्व-निर्माता, सर्व-प्रकाशक सूर्य देव को मेरा प्रणाम है।",
+      "modern_context_en": "Calling Sūrya the creator of the universe — viśvakartā — is a reminder that the creative impulse you feel when solving a problem, writing, building something, or even raising a child is a direct spark of the same universal creative energy. When you are deep in self-doubt after a career pivot that did not go as planned, or when you question whether your creative work has any value, this verse reminds you that the force of creation itself flows through you. You are not separate from the cosmic creative intelligence; your urge to make, to build, and to illuminate others is Sūrya's light expressing itself through human hands.",
+      "modern_context_hi": "सूर्य को विश्वकर्ता — ब्रह्मांड का निर्माता — कहना यह याद दिलाता है कि जब आप कोई समस्या सुलझाते हैं, कुछ बनाते हैं, या बच्चे की परवरिश करते हैं — यह वही सार्वभौमिक रचनात्मक शक्ति है जो आपके ज़रिए काम कर रही है। करियर में बड़ा बदलाव लिया और नतीजा उम्मीद जैसा नहीं रहा, या लग रहा है कि आपके काम की कोई कद्र नहीं — तब याद करें कि सृष्टि की शक्ति खुद आपके ज़रिए प्रकट हो रही है। आपका बनाने का जज़्बा, दूसरों को रोशन करने की चाह — यही सूर्य का प्रकाश है।"
+    },
+    {
+      "verse_number": 8,
+      "section": "phalaśruti",
+      "hindi_text": "नमः पूर्वाय गिरये पश्चिमायाद्रये नमः।\nज्योतिर्गणानां पतये दिनाधिपतये नमः॥८॥",
+      "transliteration": "namaḥ pūrvāya giraye paścimāyādraye namaḥ.\njyotirgaṇānāṃ pataye dinādhipataye namaḥ॥8॥",
+      "word_by_word": {
+        "namaḥ": "salutation",
+        "pūrvāya": "to the east, to the eastern",
+        "giraye": "to the mountain (the eastern mountain of sunrise)",
+        "paścimāya": "to the west, to the western",
+        "adraye": "to the mountain (the western mountain of sunset)",
+        "jyotirgaṇānām": "of the host of luminaries, of all celestial lights",
+        "pataye": "to the lord, to the master",
+        "dina": "day",
+        "adhipataye": "to the overlord, to the supreme ruler"
+      },
+      "meaning_en": "Salutation to the eastern mountain where you rise, and salutation to the western mountain where you set; salutation to you, O lord of all the hosts of luminaries in the sky, and salutation to you, O supreme overlord of all the days. This closing verse completes the full arc of Sūrya's journey — from the dawn of beginning to the dusk of completion — and honors him as the sovereign of all light and all time. By saluting both his rising and his setting, the devotee acknowledges the sacred completeness of every single day as a gift of divine grace.",
+      "meaning_hi": "पूर्व के उस पर्वत को नमस्कार जहाँ से आप उदय होते हैं, और पश्चिम के उस पर्वत को नमस्कार जहाँ आप अस्त होते हैं। आकाश के समस्त ज्योतिर्गणों के स्वामी को और सभी दिनों के परमाधिपति को मेरा नमस्कार है। यह अंतिम श्लोक सूर्य की उदय से अस्त तक की पूर्ण यात्रा को सम्मान देता है और प्रत्येक दिन को दैवीय कृपा का एक सम्पूर्ण उपहार घोषित करता है।",
+      "modern_context_en": "This concluding verse bows to both the sunrise and the sunset — the beginning and the end — and in doing so, teaches us to honor completion as much as we honor commencement. In a hustle culture that glorifies starting new projects and chasing the next big goal, we rarely pause to acknowledge the sacred dignity of an ending: finishing a difficult phase of life, leaving a city you have outgrown, closing a chapter of a relationship, or simply putting your phone down at night and calling the day complete. Every sunset is not failure or loss; it is Sūrya fulfilling his purpose entirely — and you can do the same, today, with whatever you were given.",
+      "modern_context_hi": "यह आखिरी श्लोक उदय और अस्त — शुरुआत और अंत — दोनों को प्रणाम करता है। हमारी भागती-दौड़ती ज़िंदगी में हम नए प्रोजेक्ट शुरू करने का जश्न मनाते हैं, लेकिन किसी चीज़ के पूरा होने की गरिमा को शायद ही स्वीकारते हैं — चाहे वो एक मुश्किल दौर का खत्म होना हो, किसी शहर को अलविदा कहना हो, या बस रात को फोन रखकर दिन को पूरा घोषित करना हो। हर सूर्यास्त हार नहीं है — वो सूर्य का अपना काम पूरी तरह निभाना है। आप भी आज जो था, उसे पूरे दिल से जी लें — बस यही काफी है।"
+    }
+  ]
+}

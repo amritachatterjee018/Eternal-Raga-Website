@@ -1,0 +1,216 @@
+{
+  "id": "meenakshi_ashtakam",
+  "title_en": "Meenakshi Ashtakam",
+  "title_hi": "मीनाक्ष्यष्टकम्",
+  "deity": "devi",
+  "author": "Adi Shankaracharya",
+  "author_hi": "आदि शंकराचार्य",
+  "type": "ashtakam",
+  "language": "sanskrit",
+  "total_verses": 8,
+  "sections": [
+    "stuti"
+  ],
+  "description_en": "Eight-verse hymn to Goddess Meenakshi, the fish-eyed goddess of Madurai, consort of Lord Sundareshwara (Shiva). Describes her emerald green form and her sovereignty over the Pandya kingdom.",
+  "description_hi": "मदुरै की मीनाक्षी देवी की स्तुति। मरकत हरित देवी और पाण्ड्य राज्य की स्वामिनी का गान।",
+  "recitation_benefits": [
+    "Bestows Madurai Meenakshi grace",
+    "Grants beauty and auspiciousness",
+    "Fulfills marriage desires",
+    "Removes planetary afflictions",
+    "Grants worldly success"
+  ],
+  "best_time_to_recite": [
+    "Friday",
+    "Navaratri",
+    "Meenakshi Thirukalyanam",
+    "During marriage prayers",
+    "Any time for blessings"
+  ],
+  "verses": [
+    {
+      "verse_number": 1,
+      "section": "stuti",
+      "hindi_text": "उद्यद्भानुसहस्रकोटिसदृशां केयूरहारोज्ज्वलां\nबिम्बोष्ठीं स्मितदन्तपङ्क्तिरुचिरां पीताम्बरालङ्कृताम् ।\nविष्णुब्रह्मसुरेन्द्रसेवितपदां तत्त्वस्वरूपां शिवां\nमीनाक्षीं प्रणतोऽस्मि सन्ततमहं कारुण्यवारांनिधिम् ।।१।।",
+      "transliteration": "udyadbhānusahasrakoṭisadṛśāṃ keyūrahārojjvalāṃ\nbimboṣṭhīṃ smitadantapaṅktirucirāṃ pītāmbarālaṅkṛtām |\nviṣṇubrahmasurendra­sevitapadāṃ tattvasvarūpāṃ śivāṃ\nmīnākṣīṃ praṇato'smi santatamahaṃ kāruṇyavārāṃnidhim ||1||",
+      "word_by_word": {
+        "उद्यद्भानु": "rising sun",
+        "सहस्रकोटि": "thousand crore",
+        "सदृशाम्": "resembling",
+        "केयूरहार": "armlets and garlands",
+        "उज्ज्वलाम्": "radiant",
+        "बिम्बोष्ठीम्": "lips like the bimba fruit",
+        "स्मितदन्तपङ्क्ति": "row of smiling teeth",
+        "पीताम्बर": "yellow garments",
+        "शिवाम्": "auspicious one",
+        "मीनाक्षीम्": "fish-eyed goddess",
+        "प्रणतः": "I bow",
+        "कारुण्यवारांनिधिम्": "ocean of compassion"
+      },
+      "meaning_en": "I perpetually bow to Goddess Meenakshi, who shines with the brilliance of a thousand crore rising suns, adorned with armlets and garlands, with lips red as the bimba fruit and a row of radiant smiling teeth, dressed in golden yellow garments. Her feet are worshipped by Vishnu, Brahma, and Indra, the lord of the gods; she is the embodiment of ultimate truth and is the auspicious Shiva-Shakti herself. She is the boundless ocean of compassion to whom I surrender completely.",
+      "meaning_hi": "मैं सदा मीनाक्षी देवी को प्रणाम करता हूँ, जो सहस्र कोटि उदयमान सूर्यों के समान दीप्तिमान हैं, केयूर और हारों से उज्ज्वल हैं, जिनके ओठ बिम्बफल के समान लाल हैं और दाँतों की पंक्ति मधुर मुस्कान से सुशोभित है। विष्णु, ब्रह्मा और इन्द्र जिनके चरणों की सेवा करते हैं, वे तत्त्वस्वरूपिणी, परम मंगलमयी और करुणा की अपार सागर हैं।",
+      "modern_context_en": "In a world where we are often overwhelmed by the harsh glare of stress and uncertainty, Meenakshi's light—gentle yet more radiant than a thousand suns—reminds us that divine grace is always present. Just as the rising sun brings warmth to everyone without discrimination, her compassion reaches every person regardless of their status or failures. When we feel unworthy or burdened at the start of a new day, surrendering to this infinite ocean of compassion sets a powerful, grounding intention.",
+      "modern_context_hi": "जब हम सुबह उठते हैं और दिन की चुनौतियों से घबराते हैं, तब मीनाक्षी देवी की करुणा की याद हमें शांत कर देती है। जैसे सूर्य बिना भेदभाव के सबको प्रकाश देता है, वैसे ही देवी की कृपा हर किसी पर बरसती है। दिन की शुरुआत में इस श्लोक का स्मरण हमें आत्मविश्वास और सकारात्मकता से भर देता है।"
+    },
+    {
+      "verse_number": 2,
+      "section": "stuti",
+      "hindi_text": "मुक्तामणिस्वर्णविभूषिताङ्गीं\nमाणिक्यकेयूरसुभूषिताङ्गीम् ।\nकाञ्चीपुरीवासिनीं मदनेशीं\nमीनाक्षिदेवीं मनसा स्मरामि ।।२।।",
+      "transliteration": "muktāmaṇivarṇavibhūṣitāṅgīṃ\nmāṇikyakeyūrasubhūṣitāṅgīm |\nkāñcīpurīvāsinīṃ madaneśīṃ\nmīnākṣidevīṃ manasā smarāmi ||2||",
+      "word_by_word": {
+        "मुक्तामणि": "pearl and gems",
+        "स्वर्ण": "gold",
+        "विभूषिताङ्गीम्": "body adorned with",
+        "माणिक्य": "rubies",
+        "केयूर": "armlets",
+        "सुभूषिताङ्गीम्": "beautifully ornamented",
+        "काञ्चीपुरीवासिनीम्": "dweller of Kanchipuram",
+        "मदनेशीम्": "mistress of love and beauty",
+        "मीनाक्षिदेवीम्": "Goddess Meenakshi",
+        "मनसा": "in my mind",
+        "स्मरामि": "I remember, I meditate upon"
+      },
+      "meaning_en": "I meditate in my heart upon Goddess Meenakshi, whose divine body is adorned with pearls, precious gems, and gold, and who is further beautified by ruby-studded armlets and ornaments. She dwells in the sacred city of Kanchipuram and is the sovereign of beauty and love itself. Her very remembrance purifies the mind and fills it with divine splendor.",
+      "meaning_hi": "मैं मन से मीनाक्षी देवी का ध्यान करता हूँ, जिनका दिव्य शरीर मोती, मणि और स्वर्ण से विभूषित है और माणिक्य के केयूरों से सुसज्जित है। वे काञ्चीपुरी में निवास करने वाली और प्रेम तथा सौन्दर्य की स्वामिनी हैं। उनका स्मरण मात्र मन को पवित्र और आनंदमग्न कर देता है।",
+      "modern_context_en": "In our age of curated social media appearances and the relentless pursuit of external beauty, this verse invites us to recognize that true beauty is divine and resides within. Meditating on Meenakshi's adorned form is not about materialism but about recognizing that the universe itself is decorated with grace. Taking even five minutes in the morning to visualize this radiant form before a hectic workday can shift our perspective from anxiety to gratitude.",
+      "modern_context_hi": "आज जब हम सोशल मीडिया पर दूसरों की सुंदरता देखकर खुद को कमतर समझने लगते हैं, तब मीनाक्षी देवी का ध्यान हमें याद दिलाता है कि असली सौंदर्य भीतर से आता है। देवी के अलंकृत रूप का मानसिक ध्यान करने से मन की नकारात्मकता दूर होती है। काम पर जाने से पहले इस श्लोक का स्मरण करने से दिनभर आत्मविश्वास बना रहता है।"
+    },
+    {
+      "verse_number": 3,
+      "section": "stuti",
+      "hindi_text": "श्यामलां शिवकामेश्वरीं परदेवतां\nसुन्दराम्बिकां मधुरपुराधिनायिकाम् ।\nपार्वतीं च परमाम् अनादिसिद्धां\nमीनाक्षीं प्रणतोऽस्मि सन्ततमहम् ।।३।।",
+      "transliteration": "śyāmalāṃ śivakāmeśvarīṃ paradevatāṃ\nsundarāmbikāṃ madhurapurādhināyikām |\npārvatīṃ ca paramām anādisiddhāṃ\nmīnākṣīṃ praṇato'smi santatamaham ||3||",
+      "word_by_word": {
+        "श्यामलाम्": "emerald-green complexioned",
+        "शिवकामेश्वरीम्": "beloved of Shiva, goddess of love",
+        "परदेवताम्": "supreme deity",
+        "सुन्दराम्बिकाम्": "beautiful mother",
+        "मधुरपुर": "Madurai city",
+        "अधिनायिकाम्": "sovereign queen",
+        "पार्वतीम्": "daughter of the mountain",
+        "परमाम्": "the supreme",
+        "अनादिसिद्धाम्": "eternally accomplished",
+        "प्रणतः": "bowing in reverence",
+        "सन्ततम्": "always, perpetually"
+      },
+      "meaning_en": "I perpetually bow to Meenakshi, the emerald-green Goddess who is the beloved of Shiva and the mistress of divine love, the supreme deity and the beautiful mother, the sovereign queen of the sacred city of Madurai. She is Parvati herself, the supreme and eternally accomplished one who exists without beginning. Her green form represents the eternal fertility of nature and the ever-renewing power of creation.",
+      "meaning_hi": "मैं सदा मीनाक्षी को प्रणाम करता हूँ, जो श्यामवर्णा हैं, शिव की प्रियतमा और प्रेम की देवी हैं, परम देवता और सुन्दर अम्बिका हैं, तथा मधुरपुरी की अधिनायिका हैं। वे स्वयं पार्वती हैं, परम और अनादिकाल से सिद्ध हैं। उनका श्यामल रूप प्रकृति की शाश्वत शक्ति और सृजन की अनंत ऊर्जा का प्रतीक है।",
+      "modern_context_en": "Meenakshi's emerald-green form is a powerful symbol of environmental consciousness—she embodies the lush, life-giving force of nature that we must protect. In modern urban life where we are disconnected from nature, remembering her verdant form can inspire us to make eco-friendly choices, tend to plants, and reconnect with the natural world. Her role as queen of Madurai also reminds working professionals that true leadership is rooted in compassion and nurturing.",
+      "modern_context_hi": "मीनाक्षी देवी का श्यामल रूप प्रकृति की हरियाली और जीवनदायिनी शक्ति का प्रतीक है। आज जब पर्यावरण संकट गहरा रहा है, देवी का यह स्वरूप हमें प्रकृति की रक्षा की प्रेरणा देता है। मधुरपुरी की रानी के रूप में वे यह भी सिखाती हैं कि सच्चा नेतृत्व करुणा और सेवा पर आधारित होता है।"
+    },
+    {
+      "verse_number": 4,
+      "section": "stuti",
+      "hindi_text": "सुन्दरेश्वरसहोदरीं त्रिनयनां\nदेवीं च भक्तप्रियाम् ।\nहस्ते पाशमभीतिमुद्रवरदां\nचाभीष्टफलप्रदाम् ।\nश्रीचक्राङ्कितबिन्दुमध्यनिलयां\nश्रीमत्त्रिपुरसुन्दरीम्\nमीनाक्षीं प्रणतोऽस्मि सन्ततमहं\nकारुण्यवारांनिधिम् ।।४।।",
+      "transliteration": "sundareśvarasahodarīṃ trinayanāṃ\ndevīṃ ca bhaktapriyām |\nhaste pāśamabhītimudravaraddāṃ\ncābhīṣṭaphalapradām |\nśrīcakrāṅkitabindumadhayanilayāṃ\nśrīmattripurasundarīm\nmīnākṣīṃ praṇato'smi santatamahaṃ\nkāruṇyavārāṃnidhim ||4||",
+      "word_by_word": {
+        "सुन्दरेश्वरसहोदरीम्": "sister of Sundareswara",
+        "त्रिनयनाम्": "three-eyed goddess",
+        "भक्तप्रियाम्": "beloved of devotees",
+        "हस्ते": "in her hands",
+        "पाशम्": "the noose",
+        "अभीतिमुद्रा": "gesture of fearlessness",
+        "वरदाम्": "granter of boons",
+        "अभीष्टफलप्रदाम्": "bestower of desired fruits",
+        "श्रीचक्र": "Sri Chakra diagram",
+        "बिन्दुमध्यनिलयाम्": "dwelling in the central point",
+        "त्रिपुरसुन्दरीम्": "beauty of the three worlds",
+        "कारुण्यवारांनिधिम्": "ocean of compassion"
+      },
+      "meaning_en": "I perpetually bow to Goddess Meenakshi, the ocean of compassion, who is the sister of Sundareswara, the three-eyed goddess so dear to her devotees. In her hands she holds the noose and displays the gestures of fearlessness and boon-giving, readily bestowing upon her devotees all their desired results. She dwells at the central bindu point of the Sri Chakra and is the glorious Tripura Sundari—the supreme beauty who encompasses all three worlds.",
+      "meaning_hi": "मैं सदा करुणा की अपार सागर मीनाक्षी देवी को प्रणाम करता हूँ, जो सुन्दरेश्वर की सहोदरी हैं, त्रिनयना हैं और भक्तों की प्रिया हैं। वे हाथों में पाश धारण करती हैं और अभय तथा वरद मुद्रा से भक्तों को अभीष्ट फल देती हैं। वे श्रीचक्र के बिन्दुमध्य में निवास करने वाली श्रीमत् त्रिपुरसुन्दरी हैं।",
+      "modern_context_en": "Meenakshi's abhaya mudra—the gesture of fearlessness—is profoundly relevant in a time when anxiety disorders and stress are at epidemic levels. Her gesture reminds us that divine protection is always extended toward us; we need only open ourselves to receive it. The Sri Chakra, representing the geometric structure of consciousness, echoes modern discoveries about the mathematical patterns underlying all of creation, bridging spirituality and science.",
+      "modern_context_hi": "जब परीक्षा, इंटरव्यू या किसी महत्वपूर्ण काम का डर सताता है, तब मीनाक्षी देवी की अभय मुद्रा का ध्यान करने से भीतर से साहस उभरता है। देवी का पाश हमें याद दिलाता है कि गलत राह पर जाने से बचाने वाली एक दिव्य शक्ति हमेशा हमारे साथ है। श्रीचक्र की गणितीय संरचना विज्ञान और अध्यात्म के बीच की कड़ी को दर्शाती है।"
+    },
+    {
+      "verse_number": 5,
+      "section": "stuti",
+      "hindi_text": "शृङ्गारवेषां शिवशक्तिरूपां\nमहेश्वरीं वेदविलासिनीम् ।\nहेमाम्बरां हेमविभूषिताङ्गीं\nनमामि मीनाक्षिमनाथरक्षाम् ।।५।।",
+      "transliteration": "śṛṅgāravveṣāṃ śivaśaktirūpāṃ\nmaheśvarīṃ vedavilāsinīm |\nhemāmbarāṃ hemavibhūṣitāṅgīṃ\nnamāmi mīnākṣimanātharakṣām ||5||",
+      "word_by_word": {
+        "शृङ्गारवेषाम्": "adorned in the garb of romance and beauty",
+        "शिवशक्तिरूपाम्": "embodiment of Shiva's power",
+        "महेश्वरीम्": "the great goddess",
+        "वेदविलासिनीम्": "she who delights in the Vedas",
+        "हेमाम्बराम्": "clothed in golden garments",
+        "हेमविभूषिताङ्गीम्": "body decorated with gold",
+        "नमामि": "I bow to",
+        "मीनाक्षिम्": "Goddess Meenakshi",
+        "अनाथरक्षाम्": "protector of the helpless"
+      },
+      "meaning_en": "I bow to Goddess Meenakshi, who is adorned in the enchanting garb of divine romance and beauty, and who is the very embodiment of Shiva's cosmic power. She is the great goddess Maheshwari who delights in the Vedas, robed in golden garments with her divine body adorned entirely in gold. She is the supreme protector of the helpless and the abandoned, extending her shelter to all who have nowhere else to turn.",
+      "meaning_hi": "मैं मीनाक्षी देवी को नमस्कार करता हूँ, जो शृंगार वेष में सज्जित हैं और शिवशक्ति का साक्षात् स्वरूप हैं। वे महेश्वरी हैं जो वेदों में विहार करती हैं और स्वर्ण वस्त्र तथा स्वर्णाभूषणों से सुसज्जित हैं। वे अनाथों और असहायों की रक्षिका हैं, जो सबको अपनी शरण में लेती हैं।",
+      "modern_context_en": "In modern society where millions feel abandoned—by systems, by family, or by fortune—Meenakshi as the protector of the helpless (anātha rakṣā) speaks directly to those who feel they have no support. Her role as shelter for the vulnerable is an invitation for us too to extend help to those around us who are struggling, embodying the divine in our everyday social actions. She also embodies the Vedic wisdom that true beauty and power are unified—inner wisdom and outer grace are one.",
+      "modern_context_hi": "आज समाज में कई लोग अकेले और असहाय महसूस करते हैं—चाहे वे बुजुर्ग हों, बेरोजगार हों, या अवसाद से ग्रस्त हों। मीनाक्षी देवी का 'अनाथरक्षा' रूप हमें याद दिलाता है कि हर जरूरतमंद की मदद करना ईश्वर की सेवा है। देवी की कृपा उन्हें मिलती है जो दूसरों की मदद के लिए हाथ बढ़ाते हैं।"
+    },
+    {
+      "verse_number": 6,
+      "section": "stuti",
+      "hindi_text": "कदम्बवनवासिनीं विमलमूर्तिकां\nपद्मरागमणिकुण्डलाभरणाम् ।\nकृपानिधिं कोमलाङ्गीं\nमीनाक्षीं शरणमहं प्रपद्ये ।।६।।",
+      "transliteration": "kadambavana vāsinīṃ vimalamūrtikāṃ\npadmarāgamaṇikuṇḍalābharaṇām |\nkṛpānidhiṃ komalāṅgīṃ\nmīnākṣīṃ śaraṇamahaṃ prapadye ||6||",
+      "word_by_word": {
+        "कदम्बवनवासिनीम्": "dweller of the Kadamba forest",
+        "विमलमूर्तिकाम्": "of pure and spotless form",
+        "पद्मराग": "ruby, red like a lotus",
+        "मणिकुण्डल": "gem-studded earrings",
+        "आभरणाम्": "adorned with ornaments",
+        "कृपानिधिम्": "treasure of compassion",
+        "कोमलाङ्गीम्": "of tender, gentle limbs",
+        "मीनाक्षीम्": "Goddess Meenakshi",
+        "शरणम्": "refuge, shelter",
+        "प्रपद्ये": "I surrender, I seek refuge"
+      },
+      "meaning_en": "I take complete refuge in Goddess Meenakshi, who dwells in the sacred Kadamba forest, whose form is pure and immaculate, and who is adorned with ruby-red gem-studded earrings and other divine ornaments. She is a treasure house of compassion and her limbs are ever tender and gentle, radiating warmth to all who approach her. Surrendering to her grace, I seek her as my ultimate shelter in all situations of life.",
+      "meaning_hi": "मैं मीनाक्षी देवी की शरण लेता हूँ, जो कदम्बवन में निवास करती हैं, जिनकी मूर्ति विमल और निर्मल है, और जो पद्मराग मणि के कुण्डलों और आभरणों से सुसज्जित हैं। वे करुणा की खान हैं और उनके कोमल अंग सबको प्रेम और ऊष्मा प्रदान करते हैं। मैं सर्वस्व त्यागकर उनकी शरण में आता हूँ।",
+      "modern_context_en": "The Kadamba forest where Meenakshi dwells is a symbol of a sanctuary—a sacred space of peace and refuge. In modern life, we all need to create our own 'Kadamba forest,' a physical or mental space of stillness amidst the chaos of deadlines and digital noise. Seeking refuge in Meenakshi is also about the practice of surrender (prapatti), which psychologically means releasing the need to control everything and trusting a larger process—something increasingly difficult but vital in our hyper-controlled modern lives.",
+      "modern_context_hi": "आज की भागदौड़ भरी जिंदगी में हर किसी को एक शांत आश्रयस्थल की जरूरत है। मीनाक्षी देवी का कदम्बवन हमें अपने घर में या प्रकृति में ऐसा एक छोटा सा कोना बनाने की प्रेरणा देता है जहाँ हम रोज कुछ मिनट शांति से बैठ सकें। देवी की शरण लेना मानसिक स्तर पर 'छोड़ देने' की कला है—जो आज के तनाव प्रबंधन में सबसे जरूरी है।"
+    },
+    {
+      "verse_number": 7,
+      "section": "stuti",
+      "hindi_text": "कुमारीं त्रिपुरां देवीं\nसर्वाणीं सर्वमङ्गलाम् ।\nवामाक्षीं चण्डिकां दुर्गां\nमीनाक्षीं प्रणमाम्यहम् ।।७।।",
+      "transliteration": "kumārīṃ tripurāṃ devīṃ\nsarvāṇīṃ sarvamaṅgalām |\nvāmākṣīṃ caṇḍikāṃ durgāṃ\nmīnākṣīṃ praṇamāmyaham ||7||",
+      "word_by_word": {
+        "कुमारीम्": "the eternal virgin goddess",
+        "त्रिपुराम्": "goddess of the three cities",
+        "देवीम्": "the divine goddess",
+        "सर्वाणीम्": "the all-encompassing one",
+        "सर्वमङ्गलाम्": "bestower of all auspiciousness",
+        "वामाक्षीम्": "she with beautiful, tender eyes",
+        "चण्डिकाम्": "the fierce Chandika",
+        "दुर्गाम्": "the inaccessible Durga",
+        "मीनाक्षीम्": "the fish-eyed Meenakshi",
+        "प्रणमामि": "I offer my obeisance",
+        "अहम्": "I"
+      },
+      "meaning_en": "I offer my reverent obeisance to Meenakshi, who is simultaneously the eternal virgin Kumari, the goddess of the three worlds Tripura, the all-encompassing Sarvani, and the bestower of all auspiciousness Sarva Mangala. She is Vamakshi the beautiful-eyed, the fierce Chandika, the invincible Durga, and yet through all these forms she is one and the same Meenakshi. This verse reveals that all goddesses are manifestations of the one supreme mother.",
+      "meaning_hi": "मैं मीनाक्षी देवी को प्रणाम करता हूँ जो कुमारी, त्रिपुरा, देवी, सर्वाणी और सर्वमंगला हैं। वे ही वामाक्षी, चण्डिका और दुर्गा हैं—सभी रूपों में एक ही परमशक्ति विद्यमान है। यह श्लोक सिखाता है कि सभी देवियाँ उस एक परम माँ की ही विभिन्न अभिव्यक्तियाँ हैं।",
+      "modern_context_en": "This verse speaks powerfully to the modern movement toward embracing the multifaceted nature of womanhood—a woman can be nurturing and fierce, gentle and powerful, youthful and wise all at once. Just as Meenakshi embodies Kumari's innocence and Durga's strength simultaneously, modern women and men are learning to honor all aspects of themselves without feeling contradictory. This understanding also breaks down sectarian barriers, reminding us that the divine transcends all labels and names.",
+      "modern_context_hi": "यह श्लोक आज की नारी के बहुआयामी स्वरूप को सुंदर ढंग से व्यक्त करता है—एक महिला एक साथ कोमल माँ भी हो सकती है और दृढ़ निर्णय लेने वाली पेशेवर भी। मीनाक्षी के इन अनेक रूपों का ध्यान करने से हमें अपने भीतर की विविध क्षमताओं को स्वीकार करने की प्रेरणा मिलती है। यह श्लोक यह भी बताता है कि ईश्वर किसी एक नाम या सम्प्रदाय में सीमित नहीं है।"
+    },
+    {
+      "verse_number": 8,
+      "section": "phala-shruti",
+      "hindi_text": "इत्येतन्मीनाक्षीस्तोत्रं\nशङ्कराचार्यसद्गुरोः ।\nयः पठेत् प्रातरुत्थाय\nसर्वान् कामानवाप्नुयात् ।।८।।",
+      "transliteration": "ityetanmīnākṣīstotraṃ\nśaṅkarācāryasadguroḥ |\nyaḥ paṭhet prātarutthāya\nsarvān kāmānavāpnuyāt ||8||",
+      "word_by_word": {
+        "इति": "thus",
+        "एतत्": "this",
+        "मीनाक्षीस्तोत्रम्": "hymn to Meenakshi",
+        "शङ्कराचार्य": "Shankaracharya",
+        "सद्गुरोः": "of the true and holy guru",
+        "यः": "whoever",
+        "पठेत्": "recites",
+        "प्रातः": "in the morning",
+        "उत्थाय": "upon rising",
+        "सर्वान्": "all",
+        "कामान्": "desires and wishes",
+        "अवाप्नुयात्": "shall obtain, shall be fulfilled"
+      },
+      "meaning_en": "Thus concludes this sacred hymn to Goddess Meenakshi, composed by the great sadguru Shankaracharya, the revered teacher of Advaita wisdom. Whoever rises early in the morning and recites these verses with devotion and sincerity shall have all their desires and aspirations fulfilled by the grace of the goddess. This phalashruti seals the power of the ashtakam and promises divine blessings to sincere seekers.",
+      "meaning_hi": "इस प्रकार सद्गुरु शङ्कराचार्य द्वारा रचित यह मीनाक्षी स्तोत्र सम्पूर्ण होता है। जो भी भक्त प्रातःकाल उठकर श्रद्धा और भक्तिभाव से इन श्लोकों का पाठ करेगा, उसकी सभी इच्छाएँ और मनोकामनाएँ देवी की कृपा से पूर्ण होंगी। यह फलश्रुति इस अष्टकम् की दिव्य शक्ति का प्रमाण है।",
+      "modern_context_en": "The phalashruti—the declaration of benefits—is not a superstitious promise but a testimony to the transformative power of consistent devotional practice. Modern neuroscience confirms that morning routines involving positive affirmation and focused meditation rewire the brain toward optimism, clarity, and goal achievement. Reciting this ashtakam daily upon waking is a complete practice: it combines sound therapy, focused attention, devotional emotion, and the intention-setting power of sacred language—all tools that modern wellness science now validates.",
+      "modern_context_hi": "आधुनिक विज्ञान भी यह मानता है कि सुबह की सकारात्मक दिनचर्या—जैसे ध्यान, प्रार्थना और मंत्र पाठ—मस्तिष्क को सकारात्मकता और लक्ष्यप्राप्ति के लिए प्रशिक्षित करती है। इस अष्टकम् का प्रतिदिन प्रातःकाल पाठ करना एक सम्पूर्ण साधना है जिसमें ध्वनि चिकित्सा, ध्यान और भक्तिभाव का समन्वय है। मीनाक्षी देवी की कृपा से जीवन के हर क्षेत्र में सफलता और शांति प्राप्त होती है।"
+    }
+  ]
+}

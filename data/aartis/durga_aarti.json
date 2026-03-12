@@ -1,0 +1,261 @@
+{
+  "id": "durga_aarti",
+  "title_en": "Durga Aarti — Jai Ambe Gauri",
+  "title_hi": "जय अम्बे गौरी",
+  "deity": "durga",
+  "author": "Traditional",
+  "type": "aarti",
+  "total_verses": 6,
+  "sections": [
+    "chorus",
+    "verse"
+  ],
+  "verses": [
+    {
+      "verse_number": 1,
+      "section": "chorus",
+      "hindi_text": "जय अम्बे गौरी, मैया जय श्यामा गौरी।\nतुमको निशदिन ध्यावत, हरि ब्रह्मा शिवरी॥\nजय अम्बे गौरी॥",
+      "transliteration": "Jaya ambe gaurī, maiyā jaya śyāmā gaurī.\nTumako niśadina dhyāvata, hari brahmā śivarī.\nJaya ambe gaurī.",
+      "word_by_word": {
+        "jaya": "glory, victory",
+        "ambe": "O Mother Ambā",
+        "gaurī": "the fair-complexioned goddess, Gaurī",
+        "maiyā": "mother",
+        "śyāmā": "the dark-complexioned one",
+        "niśadina": "night and day",
+        "dhyāvata": "meditate upon",
+        "hari": "Lord Viṣṇu",
+        "brahmā": "Lord Brahmā",
+        "śivarī": "Lord Śiva"
+      },
+      "meaning_en": "Glory to you, O Mother Ambā Gaurī, glory to the one who is both dark and fair. Lord Viṣṇu, Brahmā, and Śiva meditate upon you night and day.",
+      "meaning_hi": "हे माँ अम्बे गौरी, आपकी जय हो। विष्णु, ब्रह्मा और शिव भी रात-दिन आपका ध्यान करते हैं।",
+      "modern_context_en": "When even the highest powers in the universe bow before the Divine Mother, we too can turn to her in our most overwhelming moments — whether facing career setbacks or family crises far from home.",
+      "modern_context_hi": "जब सृष्टि की सबसे बड़ी शक्तियाँ भी माँ के आगे नतमस्तक हैं, तो हम भी अपने कठिन समय में — चाहे करियर की चुनौती हो या परिवार से दूरी का दर्द — माँ का सहारा ले सकते हैं।"
+    },
+    {
+      "verse_number": 2,
+      "section": "verse",
+      "hindi_text": "माँग सिन्दूर विराजत, टीको मृगमद को।\nउज्ज्वल से दो पाटन, और रत्नन को॥\nजय अम्बे गौरी॥",
+      "transliteration": "Māṅga sindūra virājata, ṭīko mṛgamada ko.\nUjjvala se do pāṭana, aura ratanana ko.\nJaya ambe gaurī.",
+      "word_by_word": {
+        "māṅga": "parting of the hair",
+        "sindūra": "vermilion",
+        "virājata": "shines, adorns",
+        "ṭīko": "tilak mark on forehead",
+        "mṛgamada": "musk (from deer)",
+        "ujjvala": "bright, radiant",
+        "pāṭana": "sides, cheeks",
+        "ratanana": "jewels, gems"
+      },
+      "meaning_en": "Vermilion adorns the parting of your hair, and a musk tilak graces your forehead. Your radiant cheeks shine on both sides, decorated with precious jewels.",
+      "meaning_hi": "आपकी माँग में सिन्दूर सुशोभित है और मस्तक पर कस्तूरी का टीका है। आपके दोनों गाल उज्ज्वल हैं और रत्नों से सजे हैं।",
+      "modern_context_en": "The Mother's adornment symbolizes completeness and auspiciousness. During Navratri, even far from India, decorating the home altar and dressing in festive colors reconnects us with this sacred beauty.",
+      "modern_context_hi": "माँ का श्रृंगार पूर्णता और शुभता का प्रतीक है। नवरात्रि में भारत से दूर रहकर भी घर में पूजा-स्थान सजाना और रंग-बिरंगे वस्त्र पहनना इसी पवित्र सौन्दर्य से जोड़ता है।"
+    },
+    {
+      "verse_number": 3,
+      "section": "verse",
+      "hindi_text": "केहरि वाहन राजत, खड्ग खप्पर धारी।\nसुर नर मुनिजन सेवत, तिनके दुखहारी॥\nजय अम्बे गौरी॥",
+      "transliteration": "Kehari vāhana rājata, khaḍga khappara dhārī.\nSura nara munijana sevata, tinake dukhahārī.\nJaya ambe gaurī.",
+      "word_by_word": {
+        "kehari": "lion",
+        "vāhana": "vehicle, mount",
+        "rājata": "looks majestic",
+        "khaḍga": "sword",
+        "khappara": "skull-cup",
+        "dhārī": "one who holds",
+        "sura": "gods, celestial beings",
+        "nara": "humans",
+        "munijana": "sages",
+        "sevata": "serve, worship",
+        "dukhahārī": "remover of sorrows"
+      },
+      "meaning_en": "You look majestic seated upon your lion, holding a sword and skull-cup. Gods, humans, and sages worship you, for you are the remover of all their sorrows.",
+      "meaning_hi": "आप सिंह पर विराजमान हैं और खड्ग तथा खप्पर धारण किये हुई हैं। देवता, मनुष्य और मुनि सभी आपकी सेवा करते हैं क्योंकि आप सबके दुःख हरने वाली हैं।",
+      "modern_context_en": "The lion represents fearless courage and the sword represents the power to cut through injustice. When you must stand up against workplace discrimination or protect your family's well-being, invoke this fierce maternal energy.",
+      "modern_context_hi": "सिंह निर्भय साहस का और खड्ग अन्याय को काटने की शक्ति का प्रतीक है। जब कार्यस्थल पर भेदभाव का सामना हो या परिवार की रक्षा करनी हो, तो माँ की इसी उग्र शक्ति का आह्वान करें।"
+    },
+    {
+      "verse_number": 4,
+      "section": "verse",
+      "hindi_text": "कानन कुण्डल शोभित, नासाग्रे मोती।\nकोटिक चन्द्र दिवाकर, सम राजत ज्योती॥\nजय अम्बे गौरी॥",
+      "transliteration": "Kānana kuṇḍala śobhita, nāsāgre motī.\nKoṭika candra divākara, sama rājata jyotī.\nJaya ambe gaurī.",
+      "word_by_word": {
+        "kānana": "ears",
+        "kuṇḍala": "earrings",
+        "śobhita": "look beautiful",
+        "nāsāgre": "tip of the nose",
+        "motī": "pearl",
+        "koṭika": "millions, countless",
+        "candra": "moons",
+        "divākara": "suns",
+        "sama": "equal to, like",
+        "rājata": "shines",
+        "jyotī": "radiance, light"
+      },
+      "meaning_en": "Beautiful earrings adorn your ears and a pearl graces the tip of your nose. Your radiance shines like millions of moons and suns together.",
+      "meaning_hi": "आपके कानों में कुण्डल शोभायमान हैं और नाक पर मोती सुशोभित है। आपकी ज्योति करोड़ों चन्द्रमा और सूर्य के समान है।",
+      "modern_context_en": "The Mother's light outshines countless suns and moons — a reminder that inner radiance matters more than external appearances. In a culture obsessed with social media and image, true beauty is the light of compassion and strength within.",
+      "modern_context_hi": "माँ की ज्योति करोड़ों सूर्य-चन्द्र से भी अधिक है — यह याद दिलाता है कि आन्तरिक तेज बाहरी दिखावे से कहीं अधिक महत्वपूर्ण है। सोशल मीडिया के युग में सच्चा सौन्दर्य करुणा और शक्ति का आन्तरिक प्रकाश है।"
+    },
+    {
+      "verse_number": 5,
+      "section": "verse",
+      "hindi_text": "शुम्भ निशुम्भ विदारे, महिषासुर घाती।\nधूम्र विलोचन नैना, निशुम्भ दैत्य घाती॥\nजय अम्बे गौरी॥",
+      "transliteration": "Śumbha niśumbha vidāre, mahiṣāsura ghātī.\nDhūmra vilocana nainā, niśumbha daitya ghātī.\nJaya ambe gaurī.",
+      "word_by_word": {
+        "śumbha": "demon Śumbha",
+        "niśumbha": "demon Niśumbha",
+        "vidāre": "destroyed, tore apart",
+        "mahiṣāsura": "buffalo-demon Mahiṣāsura",
+        "ghātī": "slayer",
+        "dhūmra": "smoky",
+        "vilocana": "eyes",
+        "nainā": "eyes",
+        "daitya": "demon"
+      },
+      "meaning_en": "You tore apart the demons Śumbha and Niśumbha and slayed the buffalo-demon Mahiṣāsura. You destroyed the smoke-eyed demon Dhūmralocana and slayed the demon Niśumbha.",
+      "meaning_hi": "आपने शुम्भ-निशुम्भ को विदीर्ण किया और महिषासुर का वध किया। आपने धूम्रलोचन दैत्य का भी नाश किया।",
+      "modern_context_en": "Each demon represents a different inner enemy — arrogance, ignorance, and delusion. Navratri reminds us that the feminine power within can conquer the demons of self-doubt, toxic relationships, and fear that hold us back from living fully.",
+      "modern_context_hi": "प्रत्येक दैत्य एक आन्तरिक शत्रु का प्रतीक है — अहंकार, अज्ञान और मोह। नवरात्रि हमें याद दिलाती है कि भीतर की स्त्री-शक्ति आत्म-संदेह, विषाक्त सम्बन्धों और भय जैसे राक्षसों को पराजित कर सकती है।"
+    },
+    {
+      "verse_number": 6,
+      "section": "verse",
+      "hindi_text": "ब्रह्माणी रुद्राणी, तुम कमला रानी।\nआगम निगम बखानी, तुम शिव पटरानी॥\nजय अम्बे गौरी॥",
+      "transliteration": "Brahmāṇī rudrāṇī, tuma kamalā rānī.\nĀgama nigama bakhānī, tuma śiva paṭarānī.\nJaya ambe gaurī.",
+      "word_by_word": {
+        "brahmāṇī": "consort of Brahmā, creative power",
+        "rudrāṇī": "consort of Rudra (Śiva), destructive power",
+        "kamalā": "Lakṣmī, lotus goddess",
+        "rānī": "queen",
+        "āgama": "Tantric scriptures",
+        "nigama": "Vedic scriptures",
+        "bakhānī": "praised, described",
+        "śiva": "Lord Śiva",
+        "paṭarānī": "chief queen"
+      },
+      "meaning_en": "You are Brahmāṇī, Rudrāṇī, and Queen Kamalā (Lakṣmī). The Āgamas and Vedas sing your praises, for you are the chief queen of Lord Śiva.",
+      "meaning_hi": "आप ब्रह्माणी हैं, रुद्राणी हैं और कमला रानी (लक्ष्मी) हैं। आगम और वेद आपका गुणगान करते हैं, आप शिव की पटरानी हैं।",
+      "modern_context_en": "The Mother embodies creation, preservation, and transformation all at once. As NRI women and men juggle careers, parenting, and eldercare across continents, remembering this all-encompassing divine feminine energy reminds us that we too carry multitudes within.",
+      "modern_context_hi": "माँ सृजन, पालन और रूपान्तरण तीनों शक्तियों की एकरूप हैं। जब प्रवासी भारतीय करियर, बच्चों की परवरिश और बुज़ुर्गों की सेवा एक साथ सँभालते हैं, तो यह याद रखें कि माँ की तरह हम में भी अनेक शक्तियाँ समाहित हैं।"
+    },
+    {
+      "verse_number": 7,
+      "section": "verse",
+      "hindi_text": "चौंसठ योगिनी गावत, नृत्य करत भैरों।\nबाजत ताल मृदंगा, और बाजत डमरू॥\nजय अम्बे गौरी॥",
+      "transliteration": "Cauṃsaṭha yoginī gāvata, nṛtya karata bhairauṃ.\nBājata tāla mṛdaṅgā, aura bājata ḍamarū.\nJaya ambe gaurī.",
+      "word_by_word": {
+        "cauṃsaṭha": "sixty-four",
+        "yoginī": "yoginīs, divine female attendants",
+        "gāvata": "sing",
+        "nṛtya": "dance",
+        "karata": "perform",
+        "bhairauṃ": "Bhairava (fierce form of Śiva)",
+        "bājata": "resounds, plays",
+        "tāla": "cymbals, rhythm",
+        "mṛdaṅgā": "mṛdaṅga drum",
+        "ḍamarū": "Śiva's hand-drum"
+      },
+      "meaning_en": "Sixty-four yoginīs sing your glory and Bhairava dances in ecstasy. Cymbals and mṛdaṅga drums resound, and the ḍamarū beats in your honor.",
+      "meaning_hi": "चौंसठ योगिनियाँ आपका गुणगान करती हैं और भैरव नृत्य करते हैं। ताल और मृदंग बजते हैं तथा डमरू की ध्वनि गूँजती है।",
+      "modern_context_en": "The cosmic celebration around the Mother reminds us of the power of community and music in worship. Gathering for Navratri garba or aarti with friends abroad recreates this divine celebration and heals the loneliness of living far from home.",
+      "modern_context_hi": "माँ के चारों ओर ब्रह्माण्डीय उत्सव हमें सामूहिक पूजा और संगीत की शक्ति की याद दिलाता है। विदेश में मित्रों के साथ नवरात्रि गरबा या आरती का आयोजन इसी दिव्य उत्सव को पुनर्जीवित करता है और घर से दूर रहने के अकेलेपन को दूर करता है।"
+    },
+    {
+      "verse_number": 8,
+      "section": "verse",
+      "hindi_text": "तुम हो जग की माता, तुम ही हो भरता।\nभक्तन की दुख हरता, सुख सम्पत्ति करता॥\nजय अम्बे गौरी॥",
+      "transliteration": "Tuma ho jaga kī mātā, tuma hī ho bharatā.\nBhaktana kī dukha haratā, sukha sampatti karatā.\nJaya ambe gaurī.",
+      "word_by_word": {
+        "tuma": "you",
+        "jaga": "world",
+        "mātā": "mother",
+        "bharatā": "sustainer, nourisher",
+        "bhaktana": "devotees",
+        "dukha": "sorrow",
+        "haratā": "remover",
+        "sukha": "happiness",
+        "sampatti": "prosperity, wealth",
+        "karatā": "bestower, giver"
+      },
+      "meaning_en": "You are the Mother of the entire world and its sustainer. You remove the sorrows of your devotees and bless them with happiness and prosperity.",
+      "meaning_hi": "आप समस्त जगत की माता हैं और इसका भरण-पोषण करने वाली हैं। आप भक्तों के दुःख हरती हैं और सुख-सम्पत्ति प्रदान करती हैं।",
+      "modern_context_en": "For those managing financial pressures, health scares, or the emotional toll of raising children in a different culture, this verse assures that the universal Mother sustains and nourishes all — no prayer goes unheard.",
+      "modern_context_hi": "जो लोग आर्थिक दबाव, स्वास्थ्य चिन्ताओं या भिन्न संस्कृति में बच्चों के पालन-पोषण के तनाव से जूझ रहे हैं, यह पद आश्वासन देता है कि विश्व-माता सबका पोषण करती हैं — कोई प्रार्थना अनसुनी नहीं जाती।"
+    },
+    {
+      "verse_number": 9,
+      "section": "verse",
+      "hindi_text": "भुजा चार अति शोभित, वर मुद्रा धारी।\nमनवांछित फल पावत, सेवत नर नारी॥\nजय अम्बे गौरी॥",
+      "transliteration": "Bhujā cāra ati śobhita, vara mudrā dhārī.\nManavāñchita phala pāvata, sevata nara nārī.\nJaya ambe gaurī.",
+      "word_by_word": {
+        "bhujā": "arms",
+        "cāra": "four",
+        "ati": "very, extremely",
+        "śobhita": "beautiful, resplendent",
+        "vara": "boon-granting",
+        "mudrā": "gesture",
+        "dhārī": "one who holds",
+        "manavāñchita": "heart's desire",
+        "phala": "fruit, result",
+        "pāvata": "attain, receive",
+        "sevata": "serve, worship",
+        "nara": "men",
+        "nārī": "women"
+      },
+      "meaning_en": "Your four beautiful arms hold the boon-granting gesture. Men and women who serve you attain the fruits of their heart's desires.",
+      "meaning_hi": "आपकी चार भुजाएँ अत्यन्त शोभायमान हैं और वर मुद्रा धारण किये हुई हैं। जो नर-नारी आपकी सेवा करते हैं, वे मनवांछित फल प्राप्त करते हैं।",
+      "modern_context_en": "The vara mudrā — the gesture of granting boons — reminds us that divine grace flows toward sincere effort. Whether you are striving for a promotion, a green card, or peace within your family, devoted effort aligned with dharma brings fulfillment.",
+      "modern_context_hi": "वर मुद्रा — वरदान देने का संकेत — हमें बताती है कि ईश्वरीय कृपा सच्चे प्रयास की ओर बहती है। चाहे पदोन्नति हो, ग्रीन कार्ड हो या परिवार में शान्ति — धर्म के अनुसार समर्पित प्रयास अवश्य फल देता है।"
+    },
+    {
+      "verse_number": 10,
+      "section": "verse",
+      "hindi_text": "कंचन थाल विराजत, अगर कपूर बाती।\nमालकेतु में राजत, कोटि रतन ज्योती॥\nजय अम्बे गौरी॥",
+      "transliteration": "Kañcana thāla virājata, agara kapūra bātī.\nMālaketū meṃ rājata, koṭi ratana jyotī.\nJaya ambe gaurī.",
+      "word_by_word": {
+        "kañcana": "golden",
+        "thāla": "plate, platter",
+        "virājata": "is placed, shines",
+        "agara": "aloe wood, agarbatti (incense)",
+        "kapūra": "camphor",
+        "bātī": "wick, flame",
+        "mālaketū": "garland of light, flame of the lamp",
+        "koṭi": "millions, countless",
+        "ratana": "jewels",
+        "jyotī": "light, radiance"
+      },
+      "meaning_en": "A golden plate is placed before you with incense and camphor wicks burning. The flame of the aarti lamp shines with the radiance of millions of jewels.",
+      "meaning_hi": "सोने का थाल सजा है, अगरबत्ती और कपूर की बाती जल रही है। आरती की ज्योति करोड़ों रत्नों के समान प्रकाशमान है।",
+      "modern_context_en": "Even a small aarti performed in a tiny apartment abroad carries the same sacred power as one performed in a grand temple. The sincerity of the flame matters more than the size of the offering.",
+      "modern_context_hi": "विदेश में छोटे से फ्लैट में की गई आरती में भी उतनी ही पवित्र शक्ति है जितनी किसी भव्य मन्दिर में। दीपक की ज्योति की सच्चाई अर्पण के आकार से कहीं अधिक महत्वपूर्ण है।"
+    },
+    {
+      "verse_number": 11,
+      "section": "verse",
+      "hindi_text": "श्री अम्बेजी की आरती, जो कोई नर गावै।\nकहत शिवानन्द स्वामी, सुख सम्पत्ति पावै॥\nजय अम्बे गौरी॥",
+      "transliteration": "Śrī ambejī kī āratī, jo koī nara gāvai.\nKahata śivānanda svāmī, sukha sampatti pāvai.\nJaya ambe gaurī.",
+      "word_by_word": {
+        "śrī": "revered, auspicious",
+        "ambejī": "Mother Ambā",
+        "āratī": "aarti, devotional song of praise",
+        "jo": "whoever",
+        "koī": "any",
+        "nara": "person",
+        "gāvai": "sings",
+        "kahata": "says",
+        "śivānanda": "Swami Śivānanda (the composer's signature)",
+        "svāmī": "master, swami",
+        "sukha": "happiness",
+        "sampatti": "prosperity",
+        "pāvai": "attains"
+      },
+      "meaning_en": "Whoever sings this aarti of Śrī Ambā Mā shall attain happiness and prosperity — so declares Swami Śivānanda.",
+      "meaning_hi": "श्री अम्बे जी की इस आरती को जो कोई भी गाता है, स्वामी शिवानन्द कहते हैं कि वह सुख और सम्पत्ति प्राप्त करता है।",
+      "modern_context_en": "This closing verse is a phala-śruti — a promise of the fruit of devotion. In the rush of modern life, taking even five minutes to sing this aarti with your family during Navratri plants seeds of courage, unity, and feminine strength that bless the entire household.",
+      "modern_context_hi": "यह अन्तिम पद फलश्रुति है — भक्ति के फल का वचन। आधुनिक जीवन की भागदौड़ में नवरात्रि के दौरान परिवार के साथ पाँच मिनट भी यह आरती गाना साहस, एकता और स्त्री-शक्ति के बीज बोता है जो पूरे घर को आशीर्वाद देते हैं।"
+    }
+  ]
+}

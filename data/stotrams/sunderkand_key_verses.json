@@ -1,0 +1,749 @@
+{
+  "id": "sunderkand_key_verses",
+  "title_en": "Sunderkand — Key Verses",
+  "title_hi": "सुन्दरकाण्ड — प्रमुख छंद",
+  "deity": "hanuman",
+  "author": "Tulsidas",
+  "type": "stotra",
+  "sections": [
+    {
+      "section_name_en": "Hanuman's Leap to Lanka",
+      "section_name_hi": "हनुमान की लंका को छलांग",
+      "summary_en": "Hanuman prepares to cross the vast ocean to reach Lanka in search of Sita. He grows to a massive size, takes the name of Lord Ram, and leaps from Mount Mahendra with unstoppable force. This section embodies faith, courage, and the power of devotion.",
+      "summary_hi": "हनुमान सीता की खोज में विशाल समुद्र पार करने के लिए तैयार होते हैं। वे विराट रूप धारण कर, श्रीराम का नाम लेकर महेन्द्र पर्वत से अदम्य बल के साथ छलांग लगाते हैं। यह खंड विश्वास, साहस और भक्ति की शक्ति का प्रतीक है।",
+      "key_verses": [
+        {
+          "verse_number": 1,
+          "section": "hanumans_leap",
+          "hindi_text": "जामवंत के बचन सुहाए। सुनि हनुमंत हृदय अति भाए॥\nतब लगि मोहि परिखेहु तुम्ह भाई। सहि दुख कंद मूल फल खाई॥",
+          "transliteration": "Jāmavaṃta ke bacana suhāe. Suni Hanumanta hṛdaya ati bhāe.\nTaba lagi mohi parikhahu tumha bhāī. Sahi dukha kaṃda mūla phala khāī.",
+          "word_by_word": {
+            "जामवंत": "Jambavan (the bear king)",
+            "बचन": "words",
+            "सुहाए": "pleasant",
+            "हनुमंत": "Hanuman",
+            "हृदय": "heart",
+            "भाए": "were pleasing",
+            "परिखेहु": "wait for me",
+            "कंद मूल फल": "tubers, roots, and fruits"
+          },
+          "meaning_en": "Jambavan's encouraging words deeply pleased Hanuman's heart. Hanuman asked the other monkeys to wait for him, surviving on roots, tubers, and fruits, bearing hardship patiently.",
+          "meaning_hi": "जामवंत के सुंदर वचन सुनकर हनुमान के हृदय को अत्यंत प्रसन्नता हुई। उन्होंने अन्य वानरों से कहा कि कंद-मूल-फल खाकर दुख सहते हुए मेरी प्रतीक्षा करें।",
+          "modern_context_en": "Sometimes we need someone to remind us of our own potential. Like Jambavan awakened Hanuman's dormant strength, a mentor or friend can help us see abilities we have forgotten.",
+          "modern_context_hi": "कभी-कभी हमें किसी की आवश्यकता होती है जो हमें हमारी अपनी क्षमता याद दिलाए। जैसे जामवंत ने हनुमान की सुप्त शक्ति जगाई, वैसे ही एक गुरु या मित्र हमें हमारी भूली हुई क्षमताएँ दिखा सकते हैं।"
+        },
+        {
+          "verse_number": 2,
+          "section": "hanumans_leap",
+          "hindi_text": "कनक बरन तन तेज बिराजा। मानहु अपर गिरिन्ह कर राजा॥\nसिंहनाद करि बारहिं बारा। लीलहिं नाघउँ जलनिधि खारा॥",
+          "transliteration": "Kanaka barana tana teja birājā. Mānahu apara girinha kara rājā.\nSiṃhanāda kari bārahiṃ bārā. Līlahiṃ nāghauṃ jalanidhi khārā.",
+          "word_by_word": {
+            "कनक": "gold",
+            "बरन": "color",
+            "तन": "body",
+            "तेज": "radiance",
+            "गिरिन्ह": "mountains",
+            "राजा": "king",
+            "सिंहनाद": "lion's roar",
+            "जलनिधि": "ocean",
+            "खारा": "salty"
+          },
+          "meaning_en": "Hanuman's golden body blazed with radiance as if he were the king of all mountains. Roaring like a lion again and again, he declared he would cross the salty ocean with ease.",
+          "meaning_hi": "हनुमान का स्वर्ण वर्ण शरीर तेज से जगमगा रहा था, मानो वे पर्वतों के राजा हों। बार-बार सिंहनाद करते हुए उन्होंने कहा कि वे खारे समुद्र को खेल में ही लाँघ जाएँगे।",
+          "modern_context_en": "When you finally commit to a goal with full conviction, your energy and confidence become magnetic. Hanuman's roar teaches us to own our strengths boldly before taking on life's biggest challenges.",
+          "modern_context_hi": "जब आप पूरे विश्वास के साथ किसी लक्ष्य के प्रति समर्पित होते हैं, तो आपकी ऊर्जा और आत्मविश्वास आकर्षक बन जाते हैं। हनुमान की गर्जना हमें सिखाती है कि जीवन की बड़ी चुनौतियों से पहले अपनी शक्तियों को निर्भीकता से स्वीकार करें।"
+        },
+        {
+          "verse_number": 3,
+          "section": "hanumans_leap",
+          "hindi_text": "सहित सहाय रावनहि मारी। आनउँ इहाँ त्रिकूट उपारी॥\nजामवंत मैं पूछउँ तोही। उचित सिखावनु दीजहु मोही॥",
+          "transliteration": "Sahita sahāya Rāvanahiṃ mārī. Ānauṃ ihāṃ Trikūṭa upārī.\nJāmavaṃta maiṃ pūchauṃ tohī. Ucita sikhāvanu dījahu mohī.",
+          "word_by_word": {
+            "सहित": "along with",
+            "सहाय": "helpers",
+            "रावन": "Ravana",
+            "मारी": "kill",
+            "त्रिकूट": "Trikut mountain (Lanka's mountain)",
+            "उपारी": "uproot",
+            "सिखावनु": "teaching, guidance",
+            "उचित": "proper"
+          },
+          "meaning_en": "Hanuman declared he could kill Ravana along with his army and uproot the entire Trikut mountain and bring it here. But humbly, he asked Jambavan for proper guidance on what he should actually do.",
+          "meaning_hi": "हनुमान ने कहा कि वे रावण को उसके सहायकों सहित मार सकते हैं और त्रिकूट पर्वत को उखाड़कर यहाँ ला सकते हैं। परंतु विनम्रतापूर्वक उन्होंने जामवंत से उचित मार्गदर्शन माँगा।",
+          "modern_context_en": "True strength is matched with humility. Even with immense capability, Hanuman sought guidance — reminding us that consulting elders or mentors before big decisions is wisdom, not weakness.",
+          "modern_context_hi": "सच्ची शक्ति विनम्रता के साथ होती है। अपार सामर्थ्य होने पर भी हनुमान ने मार्गदर्शन माँगा — यह सिखाता है कि बड़े निर्णयों से पहले बड़ों या गुरुओं से सलाह लेना बुद्धिमानी है, कमज़ोरी नहीं।"
+        },
+        {
+          "verse_number": 4,
+          "section": "hanumans_leap",
+          "hindi_text": "प्रभु मुद्रिका मेलि मुख माहीं। जलधि लाँघि गए अचरज नाहीं॥\nदुर्गम काज जगत के जेते। सुगम अनुग्रह तुम्हरे तेते॥",
+          "transliteration": "Prabhu mudrikā meli mukha māhīṃ. Jaladhi lāṅghi gae acaraja nāhīṃ.\nDurgama kāja jagata ke jete. Sugama anugraha tumhare tete.",
+          "word_by_word": {
+            "मुद्रिका": "ring",
+            "मुख माहीं": "in the mouth",
+            "जलधि": "ocean",
+            "लाँघि": "crossed",
+            "अचरज": "wonder",
+            "दुर्गम": "difficult",
+            "काज": "tasks",
+            "सुगम": "easy",
+            "अनुग्रह": "grace"
+          },
+          "meaning_en": "Placing Lord Ram's ring in his mouth, Hanuman leaped across the ocean — this is no surprise. All the difficult tasks of the world become easy by your grace, O Hanuman.",
+          "meaning_hi": "प्रभु की मुद्रिका मुख में रखकर हनुमान ने समुद्र लाँघ लिया — इसमें कोई आश्चर्य नहीं। संसार के जितने भी कठिन कार्य हैं, हनुमान की कृपा से वे सब सुगम हो जाते हैं।",
+          "modern_context_en": "Carrying a symbol of your purpose — whether a value, a promise, or a prayer — can make even the most daunting journey feel possible. Keep your 'why' close and obstacles shrink.",
+          "modern_context_hi": "अपने उद्देश्य का प्रतीक — चाहे कोई मूल्य हो, वचन हो, या प्रार्थना — साथ रखने से कठिन से कठिन यात्रा भी संभव लगती है। अपना 'क्यों' पास रखें और बाधाएँ छोटी हो जाएँगी।"
+        },
+        {
+          "verse_number": 5,
+          "section": "hanumans_leap",
+          "hindi_text": "जलनिधि रघुपति दूत बिचारी। तैं मैनाक होहि श्रम हारी॥",
+          "transliteration": "Jalanidhi Raghupati dūta bicārī. Taiṃ Maināka hohi śrama hārī.",
+          "word_by_word": {
+            "जलनिधि": "ocean",
+            "रघुपति": "Lord Ram",
+            "दूत": "messenger",
+            "बिचारी": "considering",
+            "मैनाक": "Mount Mainaka",
+            "श्रम हारी": "relieve fatigue"
+          },
+          "meaning_en": "The ocean, recognizing Hanuman as Lord Ram's messenger, asked Mount Mainaka to rise up and offer him a resting place to relieve his fatigue during the great leap.",
+          "meaning_hi": "समुद्र ने हनुमान को रघुपति का दूत जानकर मैनाक पर्वत से कहा कि वे उठकर हनुमान को विश्राम प्रदान करें ताकि उनकी थकान दूर हो सके।",
+          "modern_context_en": "When you are on a righteous mission, the universe often provides unexpected support. Colleagues, strangers, or circumstances align to help those who work with sincere purpose.",
+          "modern_context_hi": "जब आप सच्चे उद्देश्य के लिए कार्य करते हैं, तो ब्रह्मांड अक्सर अप्रत्याशित सहायता प्रदान करता है। सहकर्मी, अजनबी या परिस्थितियाँ उनकी मदद के लिए जुट जाती हैं जो निष्ठा से काम करते हैं।"
+        }
+      ]
+    },
+    {
+      "section_name_en": "Entering Lanka",
+      "section_name_hi": "लंका में प्रवेश",
+      "summary_en": "Hanuman arrives at Lanka and encounters its guardian deity, Lankini. He defeats her with a single blow and enters the magnificent golden city. This section illustrates that obstacles yield before divine purpose and that even guardians of evil recognize the power of righteousness.",
+      "summary_hi": "हनुमान लंका पहुँचते हैं और उसकी रक्षिका लंकिनी का सामना करते हैं। एक ही प्रहार से उसे पराजित कर वे भव्य स्वर्ण नगरी में प्रवेश करते हैं। यह खंड दर्शाता है कि दिव्य उद्देश्य के समक्ष बाधाएँ झुक जाती हैं और अधर्म के रक्षक भी धर्म की शक्ति को पहचान लेते हैं।",
+      "key_verses": [
+        {
+          "verse_number": 1,
+          "section": "entering_lanka",
+          "hindi_text": "लंका निसिचर निकर निवासा। इहाँ कहाँ सज्जन कर बासा॥\nमन महुँ तरक करै कपि लागा। तेहीं समय बिभीषनु जागा॥",
+          "transliteration": "Laṅkā nisicara nikara nivāsā. Ihāṃ kahāṃ sajjana kara bāsā.\nMana mahuṃ taraka karai kapi lāgā. Tehīṃ samaya Bibhīṣanu jāgā.",
+          "word_by_word": {
+            "लंका": "Lanka",
+            "निसिचर": "demons (night-wanderers)",
+            "निकर": "multitude",
+            "निवासा": "dwelling",
+            "सज्जन": "good people",
+            "तरक": "deliberation",
+            "कपि": "monkey (Hanuman)",
+            "बिभीषन": "Vibhishan"
+          },
+          "meaning_en": "Hanuman wondered: Lanka is the dwelling of hordes of demons — where could a righteous soul live here? Just as he deliberated in his mind, Vibhishan happened to awaken at that very moment.",
+          "meaning_hi": "हनुमान ने सोचा कि लंका तो राक्षसों के समूह का निवास है — यहाँ सज्जन कहाँ रहते होंगे? जैसे ही उन्होंने मन में विचार किया, उसी समय विभीषण जाग गए।",
+          "modern_context_en": "Even in the most toxic environments — a cutthroat workplace or a hostile neighborhood — good-hearted people exist. Seeking them out can change the course of your journey.",
+          "modern_context_hi": "सबसे विषैले वातावरण में भी — चाहे कठोर कार्यस्थल हो या प्रतिकूल माहौल — अच्छे हृदय के लोग होते हैं। उन्हें खोजना आपकी यात्रा की दिशा बदल सकता है।"
+        },
+        {
+          "verse_number": 2,
+          "section": "entering_lanka",
+          "hindi_text": "रामदूत मैं मातु जानकी। खोज काज आयउँ सब थानकी॥\nमन संतोष भयउ सुनि बानी। बोली बिगत त्रास हरषानी॥",
+          "transliteration": "Rāmadūta maiṃ mātu Jānakī. Khoja kāja āyauṃ saba thānakī.\nMana saṃtoṣa bhayau suni bānī. Bolī bigata trāsa haraṣānī.",
+          "word_by_word": {
+            "रामदूत": "Ram's messenger",
+            "मातु": "mother",
+            "जानकी": "Sita (Janaki)",
+            "खोज": "search",
+            "काज": "purpose",
+            "थानकी": "every place",
+            "संतोष": "satisfaction",
+            "त्रास": "fear",
+            "हरषानी": "overjoyed"
+          },
+          "meaning_en": "Hanuman identified himself as Ram's messenger, saying he had come searching every place for Mother Sita. Hearing his words, the listener's heart was satisfied and, freed from fear, she spoke with great joy.",
+          "meaning_hi": "हनुमान ने अपना परिचय रामदूत के रूप में दिया और कहा कि वे माता जानकी की खोज में हर स्थान पर आए हैं। उनकी वाणी सुनकर मन में संतोष हुआ और भय दूर होकर प्रसन्नता से बोली।",
+          "modern_context_en": "Introducing yourself with clarity of purpose opens doors. Whether in a job interview or a new community, stating who you are and why you are there creates trust instantly.",
+          "modern_context_hi": "स्पष्ट उद्देश्य के साथ अपना परिचय देना दरवाज़े खोलता है। चाहे नौकरी का साक्षात्कार हो या नया समुदाय, यह बताना कि आप कौन हैं और क्यों आए हैं, तुरंत विश्वास उत्पन्न करता है।"
+        },
+        {
+          "verse_number": 3,
+          "section": "entering_lanka",
+          "hindi_text": "लंकिनी एक रहै सो लंका। जब तेहि बल बिलोकि हनु संका॥\nमारेसि लात गई सुरसारी। पुनि संभारि बहुत बिलपारी॥",
+          "transliteration": "Laṅkinī eka rahai so Laṅkā. Jaba tehi bala biloki hanu saṅkā.\nMāresi lāta gaī Surasārī. Puni saṃbhāri bahuta bilapārī.",
+          "word_by_word": {
+            "लंकिनी": "Lankini (guardian deity of Lanka)",
+            "बल": "strength",
+            "हनु": "Hanuman",
+            "संका": "doubt/fear",
+            "लात": "kick",
+            "मारेसि": "struck",
+            "संभारि": "recovering",
+            "बिलपारी": "lamented"
+          },
+          "meaning_en": "Lankini, the guardian spirit of Lanka, stood guard. When she saw Hanuman's strength, she was frightened. Hanuman struck her with a mere kick and she fell; upon recovering, she lamented greatly and recognized his divine mission.",
+          "meaning_hi": "लंकिनी लंका की रक्षक बनकर खड़ी थी। जब उसने हनुमान का बल देखा तो भयभीत हो गई। हनुमान ने एक लात मारी तो वह गिर पड़ी; फिर सँभलकर उसने बहुत विलाप किया और उनके दिव्य मिशन को पहचान लिया।",
+          "modern_context_en": "The first barrier to any new venture is often a gatekeeper — a skeptic, a regulation, or self-doubt. Face it with confidence and it often turns out to be less formidable than it appeared.",
+          "modern_context_hi": "किसी भी नए कार्य की पहली बाधा अक्सर एक द्वारपाल होती है — संशयी व्यक्ति, नियम, या आत्म-संदेह। आत्मविश्वास से सामना करें तो वह उतनी कठिन नहीं रहती जितनी दिखती है।"
+        },
+        {
+          "verse_number": 4,
+          "section": "entering_lanka",
+          "hindi_text": "मसक समान रूप कपि धरी। लंकहि चलेउ सुमिरि नरहरी॥\nनाम लंकिनी एक निसिचरी। सो कह चलेसि मोहि निंदरी॥",
+          "transliteration": "Masaka samāna rūpa kapi dharī. Laṅkahi caleu sumiri Naraharī.\nNāma Laṅkinī eka nisicarī. So kaha calesi mohi niṃdarī.",
+          "word_by_word": {
+            "मसक": "mosquito",
+            "समान": "equal/like",
+            "रूप": "form",
+            "कपि": "monkey (Hanuman)",
+            "धरी": "assumed",
+            "सुमिरि": "remembering",
+            "नरहरी": "Lord Vishnu (Narhari)",
+            "निसिचरी": "demoness",
+            "निंदरी": "disrespecting"
+          },
+          "meaning_en": "Hanuman assumed a form as tiny as a mosquito and proceeded toward Lanka, remembering Lord Narhari (Vishnu). The demoness named Lankini challenged him, asking how he dared to pass her by with such disrespect.",
+          "meaning_hi": "हनुमान ने मच्छर जैसा सूक्ष्म रूप धारण किया और नरहरी (विष्णु) का स्मरण करते हुए लंका की ओर चल दिए। लंकिनी नाम की राक्षसी ने उन्हें ललकारा कि वे उसकी अवहेलना करके कैसे जा रहे हैं।",
+          "modern_context_en": "Adaptability is a superpower. Hanuman knew when to be massive and when to be tiny. In professional life, knowing when to make a bold move and when to be subtle determines success.",
+          "modern_context_hi": "अनुकूलता एक महाशक्ति है। हनुमान जानते थे कब विशाल होना है और कब सूक्ष्म। व्यावसायिक जीवन में, कब साहसिक कदम उठाना है और कब सूक्ष्मता बरतनी है — यह जानना सफलता तय करता है।"
+        }
+      ]
+    },
+    {
+      "section_name_en": "Meeting Sita",
+      "section_name_hi": "सीता से भेंट",
+      "summary_en": "Hanuman finally discovers Sita in the Ashoka Vatika, surrounded by demonesses. He reveals Ram's ring to her, gives her hope, and conveys Ram's message of love. Sita gives Hanuman her Chudamani (crest-jewel) as a token for Ram. This is one of the most emotionally powerful sections of the Sunderkand.",
+      "summary_hi": "हनुमान अंततः अशोक वाटिका में सीता को राक्षसियों से घिरा हुआ पाते हैं। वे राम की मुद्रिका दिखाकर उन्हें आशा देते हैं और राम का प्रेम संदेश सुनाते हैं। सीता राम के लिए चिन्ह के रूप में चूड़ामणि देती हैं। यह सुन्दरकाण्ड के सबसे भावनात्मक खंडों में से एक है।",
+      "key_verses": [
+        {
+          "verse_number": 1,
+          "section": "meeting_sita",
+          "hindi_text": "तब हनुमंत निकट चलि गयऊ। फिरि बैठहीं मन बिसमय भयऊ॥\nराम नाम रटि सुमिरि सुहाई। भगति प्रताप बल बरनि न जाई॥",
+          "transliteration": "Taba Hanumanta nikaṭa cali gayaū. Phiri baiṭhahīṃ mana bisamaya bhayaū.\nRāma nāma raṭi sumiri suhāī. Bhagati pratāpa bala barani na jāī.",
+          "word_by_word": {
+            "हनुमंत": "Hanuman",
+            "निकट": "near",
+            "चलि गयऊ": "went",
+            "बैठहीं": "sat",
+            "बिसमय": "wonder/amazement",
+            "राम नाम": "Ram's name",
+            "रटि": "chanting",
+            "भगति": "devotion",
+            "प्रताप": "glory",
+            "बरनि": "described"
+          },
+          "meaning_en": "Hanuman quietly approached Sita and sat nearby, his mind filled with amazement. Chanting and remembering the beautiful name of Ram, the glory and power of devotion cannot be described in words.",
+          "meaning_hi": "हनुमान धीरे से सीता के निकट गए और बैठ गए, उनका मन विस्मय से भर गया। राम के सुंदर नाम का जाप और स्मरण करते हुए — भक्ति के प्रताप और बल का वर्णन नहीं किया जा सकता।",
+          "modern_context_en": "Approaching someone in distress requires sensitivity and patience. Hanuman didn't rush in; he observed first. When supporting a loved one going through hardship, sometimes quiet presence matters more than words.",
+          "modern_context_hi": "दुखी व्यक्ति के पास जाने में संवेदनशीलता और धैर्य चाहिए। हनुमान ने जल्दबाज़ी नहीं की; पहले देखा-समझा। जब कोई प्रियजन कठिनाई में हो, तो कभी-कभी मौन उपस्थिति शब्दों से अधिक मायने रखती है।"
+        },
+        {
+          "verse_number": 2,
+          "section": "meeting_sita",
+          "hindi_text": "रामचंद्र के दूत मैं बलिहारी तव जाउँ। नाम राम को कहत अचरज होत न काउँ॥",
+          "transliteration": "Rāmacandra ke dūta maiṃ balihārī tava jāuṃ. Nāma Rāma ko kahata acaraja hota na kāuṃ.",
+          "word_by_word": {
+            "रामचंद्र": "Lord Ramchandra",
+            "दूत": "messenger",
+            "बलिहारी": "I sacrifice myself (expression of devotion)",
+            "तव": "to you",
+            "जाउँ": "I go",
+            "नाम": "name",
+            "अचरज": "wonder"
+          },
+          "meaning_en": "Hanuman declared: I am the messenger of Lord Ramchandra, and I am devoted to you, O Mother! When one utters the name of Ram, no wonder is impossible.",
+          "meaning_hi": "हनुमान ने कहा: मैं रामचंद्र जी का दूत हूँ और आपके प्रति समर्पित हूँ, हे माता! राम का नाम लेने पर कोई भी चमत्कार असंभव नहीं।",
+          "modern_context_en": "Delivering good news to someone who has been waiting in despair is one of life's greatest privileges. Be that person who brings hope — a call to aging parents, a message to a friend in need.",
+          "modern_context_hi": "निराशा में प्रतीक्षारत किसी को शुभ समाचार देना जीवन का सबसे बड़ा सौभाग्य है। वह व्यक्ति बनें जो आशा लाए — वृद्ध माता-पिता को फ़ोन, ज़रूरतमंद मित्र को संदेश।"
+        },
+        {
+          "verse_number": 3,
+          "section": "meeting_sita",
+          "hindi_text": "मुद्रिका डारि तब सीता आगें। जनकसुता बिसमय अति पागें॥\nतब देखी मुद्रिका मनोहर। राम नाम अंकित अति सुंदर॥",
+          "transliteration": "Mudrikā ḍāri taba Sītā āgeṃ. Janakasutā bisamaya ati pāgeṃ.\nTaba dekhī mudrikā manohara. Rāma nāma aṃkita ati suṃdara.",
+          "word_by_word": {
+            "मुद्रिका": "ring",
+            "डारि": "dropped/placed",
+            "सीता": "Sita",
+            "आगें": "in front of",
+            "जनकसुता": "daughter of Janaka (Sita)",
+            "बिसमय": "wonder",
+            "मनोहर": "beautiful",
+            "अंकित": "inscribed"
+          },
+          "meaning_en": "Hanuman gently placed the ring before Sita. The daughter of King Janaka was overcome with amazement. When she saw the beautiful ring inscribed with Ram's name, her heart was filled with joy and wonder.",
+          "meaning_hi": "हनुमान ने सीता के सामने मुद्रिका रख दी। जनक की पुत्री अत्यंत विस्मित हो गईं। जब उन्होंने राम नाम अंकित उस सुंदर मुद्रिका को देखा, उनका हृदय आनंद और आश्चर्य से भर गया।",
+          "modern_context_en": "A small, personal token from a loved one can carry immense emotional weight. A letter, a keepsake, or even a voice message from home can transform the darkest day for someone living far from family.",
+          "modern_context_hi": "प्रियजन की एक छोटी सी व्यक्तिगत निशानी में अपार भावनात्मक शक्ति होती है। घर से एक पत्र, कोई स्मृति-चिन्ह, या वॉइस मैसेज परिवार से दूर रहने वाले के सबसे अंधेरे दिन को उजला बना सकता है।"
+        },
+        {
+          "verse_number": 4,
+          "section": "meeting_sita",
+          "hindi_text": "कहु कपि कोसलपति कुसलाई। कहत सप्रेम गदगद भाई॥\nसब प्रकार कोसलपति कुसलाती। करुनानिधि सुमिरत सब राती॥",
+          "transliteration": "Kahu kapi Kosalapati kusalāī. Kahata saprema gadagada bhāī.\nSaba prakāra Kosalapati kusalātī. Karunānidhi sumirata saba rātī.",
+          "word_by_word": {
+            "कपि": "monkey (Hanuman)",
+            "कोसलपति": "Lord of Kosala (Ram)",
+            "कुसलाई": "well-being",
+            "सप्रेम": "with love",
+            "गदगद": "choked with emotion",
+            "करुनानिधि": "ocean of compassion",
+            "सुमिरत": "remembering",
+            "राती": "night"
+          },
+          "meaning_en": "Sita asked: Tell me, O Hanuman, about the well-being of Lord Ram, the King of Kosala. Hanuman, choked with love and emotion, replied that the Lord of Kosala is well in all ways, though the ocean of compassion remembers you through every night.",
+          "meaning_hi": "सीता ने पूछा: हे कपि, कोसलपति राम की कुशलता बताओ। हनुमान ने सप्रेम गदगद होकर कहा कि कोसलपति सब प्रकार से कुशल हैं, किंतु करुणानिधि प्रभु सारी रात आपको स्मरण करते रहते हैं।",
+          "modern_context_en": "Long-distance relationships test love deeply. Whether it's a spouse working abroad or parents back home, knowing someone remembers you through the night brings comfort that no video call can fully capture.",
+          "modern_context_hi": "दूर रहकर रिश्ते प्रेम की गहरी परीक्षा लेते हैं। चाहे विदेश में काम करने वाले जीवनसाथी हों या घर पर माता-पिता, यह जानना कि कोई रात भर आपको याद करता है — ऐसी सांत्वना है जो कोई वीडियो कॉल पूरी तरह नहीं दे सकता।"
+        },
+        {
+          "verse_number": 5,
+          "section": "meeting_sita",
+          "hindi_text": "नयन नीर मुख बचन कठोरा। बोलेहु तात सो बचन निठोरा॥\nनिसिचरि बिकल करहिं जब जाही। तब रघुनाथ कहेहु मन माहीं॥",
+          "transliteration": "Nayana nīra mukha bacana kaṭhorā. Bolehu tāta so bacana niṭhorā.\nNisicarī bikala karahiṃ jaba jāhī. Taba Raghunātha kahehu mana māhīṃ.",
+          "word_by_word": {
+            "नयन": "eyes",
+            "नीर": "tears",
+            "बचन": "words",
+            "कठोरा": "harsh",
+            "तात": "dear one",
+            "निठोरा": "hard-hearted",
+            "निसिचरि": "demonesses",
+            "बिकल": "distressed",
+            "रघुनाथ": "Lord Ram"
+          },
+          "meaning_en": "With tears in her eyes but firm words, Sita said: Dear one, you speak harshly but truthfully. When the demonesses torment me, I remember Lord Raghunath in my heart and that sustains me.",
+          "meaning_hi": "आँखों में आँसू और मुख पर कठोर वचन के साथ सीता ने कहा: तात, तुम निठुर वचन बोलते हो। जब राक्षसियाँ मुझे विकल करती हैं, तब मैं मन में रघुनाथ का स्मरण करती हूँ — वही मेरा सहारा है।",
+          "modern_context_en": "In moments of deepest isolation — whether battling illness alone abroad or enduring workplace hostility — holding onto faith and inner strength becomes the ultimate survival tool.",
+          "modern_context_hi": "सबसे गहरे अकेलेपन में — चाहे विदेश में अकेले बीमारी से जूझना हो या कार्यस्थल की शत्रुता सहना — विश्वास और आंतरिक शक्ति को पकड़े रखना सबसे बड़ा जीवनरक्षक साधन बन जाता है।"
+        }
+      ]
+    },
+    {
+      "section_name_en": "Burning Lanka",
+      "section_name_hi": "लंका दहन",
+      "summary_en": "After being captured by Meghanad (Indrajit) and brought before Ravana, Hanuman delivers Ram's message fearlessly. Ravana orders Hanuman's tail to be set on fire, but Hanuman uses the fire to burn down all of Lanka. This section showcases how an insult meant to humiliate can become a tool of divine justice.",
+      "summary_hi": "मेघनाद (इंद्रजीत) द्वारा पकड़े जाने और रावण के सामने लाए जाने पर हनुमान निर्भय होकर राम का संदेश देते हैं। रावण हनुमान की पूँछ में आग लगवाता है, परंतु हनुमान उस आग से पूरी लंका जला देते हैं। यह खंड दिखाता है कि अपमान का प्रयास कैसे दिव्य न्याय का साधन बन सकता है।",
+      "key_verses": [
+        {
+          "verse_number": 1,
+          "section": "burning_lanka",
+          "hindi_text": "खल तोहि निकट नयन कहुँ जाही। श्रवन सुनहि जो राम दोहाई॥\nमर्म बचन सुनि रावन जागा। सब सभासदन्ह समेत बिलागा॥",
+          "transliteration": "Khala tohi nikaṭa nayana kahuṃ jāhī. Śravana sunahi jo Rāma dohāī.\nMarma bacana suni Rāvana jāgā. Saba sabhāsadanha sameta bilāgā.",
+          "word_by_word": {
+            "खल": "wicked one",
+            "निकट": "near",
+            "नयन": "eyes",
+            "श्रवन": "ears",
+            "राम दोहाई": "oath of Ram / Ram's warning",
+            "मर्म": "piercing / cutting",
+            "बचन": "words",
+            "रावन": "Ravana",
+            "सभासद": "courtiers"
+          },
+          "meaning_en": "Hanuman boldly addressed Ravana: O wicked one, your eyes do not see what is near, and your ears refuse to hear the warning of Ram. Hearing these piercing words, Ravana was stung, and all his courtiers were shaken.",
+          "meaning_hi": "हनुमान ने निर्भय होकर रावण से कहा: हे दुष्ट, तेरी आँखें पास की चीज़ नहीं देखतीं और कान राम की दोहाई नहीं सुनते। ये मर्मभेदी वचन सुनकर रावण तिलमिला गया और सभी सभासद काँप उठे।",
+          "modern_context_en": "Speaking truth to power is difficult but necessary. Hanuman's courage in Ravana's court reminds us that integrity means delivering honest feedback even when the audience doesn't want to hear it.",
+          "modern_context_hi": "सत्ता के सामने सच बोलना कठिन है पर आवश्यक है। रावण की सभा में हनुमान का साहस याद दिलाता है कि ईमानदारी का अर्थ है सच्ची प्रतिक्रिया देना, भले ही सुनने वाला न चाहे।"
+        },
+        {
+          "verse_number": 2,
+          "section": "burning_lanka",
+          "hindi_text": "काटहु नाक कान दुइ तासू। आगि देहु पूँछहि पट बासू॥\nपूँछहीन बानर तहँ जाई। तब सठ निज मुख कहिहि बड़ाई॥",
+          "transliteration": "Kāṭahu nāka kāna dui tāsū. Āgi dehu pūṃchahi paṭa bāsū.\nPūṃchahīna bānara tahaṃ jāī. Taba saṭha nija mukha kahihi baḍāī.",
+          "word_by_word": {
+            "काटहु": "cut off",
+            "नाक": "nose",
+            "कान": "ears",
+            "आगि": "fire",
+            "पूँछ": "tail",
+            "पट": "cloth",
+            "बासू": "wrap",
+            "पूँछहीन": "tailless",
+            "बानर": "monkey",
+            "सठ": "fool"
+          },
+          "meaning_en": "Ravana ordered: Cut off his nose and ears, wrap cloth soaked in oil around his tail and set it on fire! Let this tailless monkey go back and then the fool can boast about himself.",
+          "meaning_hi": "रावण ने आदेश दिया: इसकी नाक-कान काट दो, पूँछ में तेल लगे कपड़े लपेटकर आग लगा दो! पूँछ कटा बंदर वापस जाकर अपनी बड़ाई करेगा।",
+          "modern_context_en": "Arrogant people often underestimate those they consider beneath them. Ravana's mockery became his undoing. Never let someone's dismissal of you define your potential.",
+          "modern_context_hi": "अहंकारी लोग अक्सर उन्हें कम आँकते हैं जिन्हें वे अपने से नीचा समझते हैं। रावण का उपहास उसके विनाश का कारण बना। किसी की अवहेलना को कभी अपनी क्षमता की परिभाषा न बनने दें।"
+        },
+        {
+          "verse_number": 3,
+          "section": "burning_lanka",
+          "hindi_text": "पावक जरत पूँछ पर भारी। जरें सकल लंका पुर बारी॥\nकोउ न बुझाव सो देखत जागा। महा बिपद् दसकंधर पागा॥",
+          "transliteration": "Pāvaka jarata pūṃcha para bhārī. Jareṃ sakala Laṅkā pura bārī.\nKou na bujhāva so dekhata jāgā. Mahā bipad Dasakandhara pāgā.",
+          "word_by_word": {
+            "पावक": "fire",
+            "जरत": "burning",
+            "पूँछ": "tail",
+            "भारी": "great",
+            "जरें": "burned",
+            "सकल": "entire",
+            "लंका": "Lanka",
+            "पुर": "city",
+            "बुझाव": "extinguish",
+            "दसकंधर": "ten-headed (Ravana)",
+            "बिपद्": "calamity"
+          },
+          "meaning_en": "The great fire burning on Hanuman's tail spread to burn down the entire city of Lanka. No one could extinguish it, and Ravana watched helplessly as massive calamity engulfed his kingdom.",
+          "meaning_hi": "हनुमान की पूँछ पर भारी अग्नि जल रही थी जिसने समस्त लंका नगरी को जला डाला। कोई बुझा नहीं सका और दशानन रावण ने असहाय होकर अपने राज्य पर महा विपदा देखी।",
+          "modern_context_en": "What others design as your punishment can become the spark for transformation. Job loss, public failure, or betrayal can fuel a comeback story that rewrites your entire narrative.",
+          "modern_context_hi": "जो दूसरे आपकी सज़ा के रूप में डिज़ाइन करते हैं, वह परिवर्तन की चिंगारी बन सकता है। नौकरी छूटना, सार्वजनिक असफलता, या विश्वासघात एक ऐसी वापसी को प्रेरित कर सकता है जो आपकी पूरी कहानी बदल दे।"
+        },
+        {
+          "verse_number": 4,
+          "section": "burning_lanka",
+          "hindi_text": "हरि प्रेरित तेहि अवसर चले मरुत उनचास। अट्टहास करि गर्जा कपि बढ़ि लाग अकास॥",
+          "transliteration": "Hari prerita tehi avasara cale maruta unacāsa. Aṭṭahāsa kari garjā kapi baḍhi lāga akāsa.",
+          "word_by_word": {
+            "हरि": "Lord Vishnu",
+            "प्रेरित": "inspired/directed",
+            "मरुत": "winds",
+            "उनचास": "forty-nine",
+            "अट्टहास": "great laughter",
+            "गर्जा": "roared",
+            "कपि": "Hanuman",
+            "बढ़ि": "grew",
+            "अकास": "sky"
+          },
+          "meaning_en": "At that moment, inspired by Lord Vishnu, all forty-nine winds began to blow. Hanuman laughed thunderously, roared, and grew so large that he touched the sky, spreading fire across all of Lanka.",
+          "meaning_hi": "उसी समय हरि की प्रेरणा से उनचास वायु चलने लगीं। हनुमान ने अट्टहास करके गर्जना की और इतने बड़े हो गए कि आकाश को छूने लगे, सारी लंका में आग फैला दी।",
+          "modern_context_en": "When divine timing and human effort align, the results are extraordinary. Trust that when you act with righteous intent, forces beyond your control will amplify your impact.",
+          "modern_context_hi": "जब दैवी समय और मानव प्रयास मिल जाते हैं, परिणाम असाधारण होते हैं। विश्वास रखें कि जब आप धर्मपूर्ण नीयत से कार्य करते हैं, तो आपके नियंत्रण से परे शक्तियाँ आपके प्रभाव को बढ़ा देती हैं।"
+        },
+        {
+          "verse_number": 5,
+          "section": "burning_lanka",
+          "hindi_text": "तब हनुमंत महाप्रभ धावा। बिभीषन को गृह न जरावा॥\nता कर दूत अनल जेहिं सिरिजा। जरा न सो तेहि काल कजिरिजा॥",
+          "transliteration": "Taba Hanumanta mahāprabha dhāvā. Bibhīṣana ko gṛha na jarāvā.\nTā kara dūta anala jehiṃ sirijā. Jarā na so tehiṃ kāla kajirijā.",
+          "word_by_word": {
+            "हनुमंत": "Hanuman",
+            "महाप्रभ": "of great radiance",
+            "धावा": "rushed",
+            "बिभीषन": "Vibhishan",
+            "गृह": "house",
+            "जरावा": "burned",
+            "दूत": "messenger",
+            "अनल": "fire"
+          },
+          "meaning_en": "The radiant Hanuman rushed across Lanka but carefully ensured that Vibhishan's house was not burned. The fire created by Lord Ram's own messenger could not harm a devotee — that is the nature of divine justice.",
+          "meaning_hi": "तेजस्वी हनुमान पूरी लंका में दौड़े किंतु विभीषण के घर को नहीं जलाया। राम के दूत की अग्नि भक्त को नहीं जला सकती — यही दिव्य न्याय का स्वभाव है।",
+          "modern_context_en": "True justice is precise — it punishes wrongdoing without harming the innocent. In leadership roles, delivering consequences while protecting sincere team members is the mark of wisdom.",
+          "modern_context_hi": "सच्चा न्याय सटीक होता है — वह दुराचार को दंड देता है बिना निर्दोषों को नुकसान पहुँचाए। नेतृत्व में, परिणाम देते हुए ईमानदार सहयोगियों की रक्षा करना बुद्धिमत्ता की निशानी है।"
+        }
+      ]
+    },
+    {
+      "section_name_en": "Return to Ram",
+      "section_name_hi": "श्रीराम के पास वापसी",
+      "summary_en": "After burning Lanka, Hanuman extinguishes his tail in the ocean, takes Sita's blessings, and flies back to the waiting monkey army. He then travels to Lord Ram and delivers the joyous news that Sita has been found. Ram embraces Hanuman with overwhelming love and gratitude.",
+      "summary_hi": "लंका दहन के पश्चात हनुमान समुद्र में पूँछ बुझाकर सीता का आशीर्वाद लेते हैं और प्रतीक्षारत वानर सेना के पास उड़कर लौटते हैं। फिर श्रीराम के पास जाकर सीता मिलने का शुभ समाचार देते हैं। राम अपार प्रेम और कृतज्ञता से हनुमान को गले लगाते हैं।",
+      "key_verses": [
+        {
+          "verse_number": 1,
+          "section": "return_to_ram",
+          "hindi_text": "जलनिधि बूड़ि पूँछ दमि पावक। उतरि आयउ कपि अति भावक॥\nकह कपि जय जय श्रीरघुनंदन। कहि कथा सब सज्जन बंदन॥",
+          "transliteration": "Jalanidhi būḍi pūṃcha dami pāvaka. Utari āyau kapi ati bhāvaka.\nKaha kapi jaya jaya Śrī Raghunandana. Kahi kathā saba sajjana baṃdana.",
+          "word_by_word": {
+            "जलनिधि": "ocean",
+            "बूड़ि": "dipping",
+            "पूँछ": "tail",
+            "दमि": "extinguished",
+            "पावक": "fire",
+            "कपि": "Hanuman",
+            "भावक": "charming/delightful",
+            "जय जय": "victory",
+            "रघुनंदन": "joy of Raghu clan (Ram)",
+            "सज्जन": "noble ones"
+          },
+          "meaning_en": "Hanuman dipped his tail in the ocean and extinguished the fire, then descended back gracefully. He chanted 'Victory, victory to Lord Raghunandan!' and narrated the entire story to the noble assembly.",
+          "meaning_hi": "हनुमान ने समुद्र में पूँछ डुबोकर आग बुझाई और फिर सुंदर रूप से उतरे। 'जय जय श्रीरघुनंदन' का उद्घोष करते हुए उन्होंने सभी सज्जनों को पूरी कथा सुनाई।",
+          "modern_context_en": "Completing a mission is only half the task — reporting back and sharing results with your team builds collective morale. Hanuman's first words were of praise for Ram, not himself.",
+          "modern_context_hi": "कार्य पूरा करना आधा काम है — लौटकर अपनी टीम को परिणाम बताना सामूहिक मनोबल बढ़ाता है। हनुमान के पहले शब्द राम की जय के थे, अपनी प्रशंसा के नहीं।"
+        },
+        {
+          "verse_number": 2,
+          "section": "return_to_ram",
+          "hindi_text": "सुनत बिहँसि बोले रघुबीरा। तुम्ह प्रिय मोहि भरत सम भ्राता। प्रेम प्रताप जगत बिख्याता॥",
+          "transliteration": "Sunata bihaṃsi bole Raghubīrā. Tumha priya mohi Bharata sama bhrātā. Prema pratāpa jagata bikhyātā.",
+          "word_by_word": {
+            "सुनत": "hearing",
+            "बिहँसि": "smiling",
+            "रघुबीरा": "Lord Ram (hero of Raghu dynasty)",
+            "प्रिय": "dear",
+            "भरत": "Bharat (Ram's beloved brother)",
+            "भ्राता": "brother",
+            "प्रेम": "love",
+            "प्रताप": "glory",
+            "बिख्याता": "renowned"
+          },
+          "meaning_en": "Hearing Hanuman's account, Lord Ram smiled and said: You are as dear to me as my brother Bharat. Your love and glory are renowned across the world.",
+          "meaning_hi": "हनुमान का वृत्तांत सुनकर श्रीराम मुस्कुराए और बोले: तुम मुझे भरत के समान प्रिय हो। तुम्हारा प्रेम और प्रताप सारे जगत में विख्यात है।",
+          "modern_context_en": "Genuine appreciation from someone you respect is worth more than any salary or trophy. Ram's words to Hanuman remind leaders to express heartfelt gratitude to loyal team members.",
+          "modern_context_hi": "जिनका आप सम्मान करते हैं, उनकी सच्ची सराहना किसी भी वेतन या पुरस्कार से अधिक मूल्यवान है। राम के हनुमान से ये शब्द नेताओं को याद दिलाते हैं कि वफ़ादार सहयोगियों के प्रति हार्दिक कृतज्ञता व्यक्त करें।"
+        },
+        {
+          "verse_number": 3,
+          "section": "return_to_ram",
+          "hindi_text": "सुनहु नाथ रघुनाथ कृपाला। कपि के कछु न होइ असिबाला॥\nतव प्रताप सुग्रीवहि रामा। मिला राज कपि कुल बिश्रामा॥",
+          "transliteration": "Sunahu nātha Raghunātha kṛpālā. Kapi ke kachu na hoi asibālā.\nTava pratāpa Sugrīvahi Rāmā. Milā rāja kapi kula biśrāmā.",
+          "word_by_word": {
+            "नाथ": "Lord",
+            "कृपाला": "merciful one",
+            "कपि": "monkey (Hanuman)",
+            "असिबाला": "such power",
+            "प्रताप": "glory/might",
+            "सुग्रीव": "Sugriva",
+            "राज": "kingdom",
+            "बिश्रामा": "resting place/refuge"
+          },
+          "meaning_en": "Hanuman humbly said: Listen, O merciful Lord, a monkey has no such power of his own. It is only by your glory that Sugriva received his kingdom, and you are the refuge of the entire monkey clan.",
+          "meaning_hi": "हनुमान ने विनम्रतापूर्वक कहा: सुनिए कृपालु नाथ, वानर में ऐसी शक्ति नहीं होती। आपके प्रताप से ही सुग्रीव को राज्य मिला और आप समस्त वानर कुल के आश्रय हैं।",
+          "modern_context_en": "Attributing your success to divine grace, mentors, and team effort rather than claiming sole credit — this is Hanuman's model of humble leadership that builds lasting trust and loyalty.",
+          "modern_context_hi": "अपनी सफलता का श्रेय ईश्वरीय कृपा, गुरुओं और टीम के प्रयास को देना — अकेले श्रेय लेने के बजाय — यह हनुमान का विनम्र नेतृत्व मॉडल है जो स्थायी विश्वास और वफ़ादारी बनाता है।"
+        },
+        {
+          "verse_number": 4,
+          "section": "return_to_ram",
+          "hindi_text": "सीतहि देखि जातुधानी माँझा। तब मोरे मन बहुत रिस लाजा॥\nमन रहेउ अस करउँ अपारा। काटि सीस दसकंधर डारा॥",
+          "transliteration": "Sītahi dekhi jātudhānī māṃjhā. Taba more mana bahuta risa lājā.\nMana raheu asa karauṃ apārā. Kāṭi sīsa Dasakandhara ḍārā.",
+          "word_by_word": {
+            "सीता": "Sita",
+            "जातुधानी": "demonesses",
+            "माँझा": "among",
+            "रिस": "anger",
+            "लाजा": "shame",
+            "सीस": "head",
+            "दसकंधर": "Ravana (ten-headed)",
+            "डारा": "throw"
+          },
+          "meaning_en": "Hanuman described seeing Sita surrounded by demonesses and confessed that his heart burned with anger and shame. He felt the impulse to cut off Ravana's ten heads right then and there.",
+          "meaning_hi": "हनुमान ने बताया कि सीता को राक्षसियों के बीच देखकर उनके मन में बहुत क्रोध और लज्जा हुई। उनका मन हुआ कि अभी रावण के दस सिर काटकर फेंक दें।",
+          "modern_context_en": "Righteous anger at injustice is natural and even healthy. The key is channeling it — Hanuman reported to Ram instead of acting impulsively. Processing emotions before reacting is a sign of emotional maturity.",
+          "modern_context_hi": "अन्याय पर धार्मिक क्रोध स्वाभाविक और स्वस्थ भी है। मूल बात है उसे सही दिशा देना — हनुमान ने आवेग में काम करने के बजाय राम को बताया। प्रतिक्रिया से पहले भावनाओं को संसाधित करना भावनात्मक परिपक्वता की निशानी है।"
+        }
+      ]
+    },
+    {
+      "section_name_en": "Vibhishan's Surrender",
+      "section_name_hi": "विभीषण की शरणागति",
+      "summary_en": "Vibhishan, Ravana's righteous brother, renounces Lanka and seeks refuge with Lord Ram. Despite suspicion from some in Ram's army, Hanuman advocates for Vibhishan, and Ram accepts him with open arms, declaring that he never turns away anyone who comes with a sincere heart.",
+      "summary_hi": "रावण के धार्मिक भाई विभीषण लंका त्यागकर श्रीराम की शरण में आते हैं। राम की सेना में कुछ लोगों के संदेह के बावजूद, हनुमान विभीषण का पक्ष लेते हैं और राम उन्हें खुले हृदय से स्वीकार करते हैं — यह घोषणा करते हुए कि वे सच्चे हृदय से आने वाले को कभी नहीं लौटाते।",
+      "key_verses": [
+        {
+          "verse_number": 1,
+          "section": "vibhishans_surrender",
+          "hindi_text": "रहा एक दिन अवधि अब बीतत आज न काल। कपिन्ह सँग लै जाहुँ प्रभु प्राण रहैं सुखसाल॥",
+          "transliteration": "Rahā eka dina avadhi aba bītata āja na kāla. Kapinha saṃga lai jāhuṃ Prabhu prāṇa rahaiṃ sukhasāla.",
+          "word_by_word": {
+            "एक दिन": "one day",
+            "अवधि": "time limit",
+            "बीतत": "passing",
+            "कपिन्ह": "monkeys",
+            "संग": "with",
+            "प्रभु": "Lord",
+            "प्राण": "life",
+            "सुखसाल": "happiness"
+          },
+          "meaning_en": "The deadline of one day remains and is passing away. O Lord, take the monkeys with you — may life remain filled with happiness and purpose.",
+          "meaning_hi": "एक दिन की अवधि शेष रह गई है और बीती जा रही है। हे प्रभु, वानरों को साथ लेकर चलिए — प्राण सुखपूर्वक बने रहें।",
+          "modern_context_en": "Deadlines create urgency and focus. In professional and spiritual life, recognizing that time is finite motivates decisive action rather than endless deliberation.",
+          "modern_context_hi": "समय सीमाएँ तात्कालिकता और एकाग्रता उत्पन्न करती हैं। व्यावसायिक और आध्यात्मिक जीवन में, समय की सीमितता को पहचानना अंतहीन विचार-विमर्श के बजाय निर्णायक कार्यवाही को प्रेरित करता है।"
+        },
+        {
+          "verse_number": 2,
+          "section": "vibhishans_surrender",
+          "hindi_text": "जो सभय आवा सरन तजि माया। मैं जानउँ निज दास की माया॥\nतजि बंधु बंधू विषयुक्त जाई। आयउ सरन मोर अधिकाई॥",
+          "transliteration": "Jo sabhaya āvā sarana taji māyā. Maiṃ jānauṃ nija dāsa kī māyā.\nTaji baṃdhu baṃdhū viṣayukta jāī. Āyau sarana mora adhikāī.",
+          "word_by_word": {
+            "सभय": "with fear",
+            "सरन": "refuge",
+            "माया": "illusion/deception",
+            "दास": "servant",
+            "बंधु": "brother/relatives",
+            "विषयुक्त": "attached to worldly pleasures",
+            "अधिकाई": "claim/right"
+          },
+          "meaning_en": "Lord Ram declared: One who comes to my shelter fearfully, renouncing illusion — I recognize the truth of my servant's heart. Vibhishan has left his brother and all worldly ties; he has a rightful claim upon my protection.",
+          "meaning_hi": "श्रीराम ने कहा: जो भयपूर्ण होकर माया त्यागकर मेरी शरण में आता है — मैं अपने दास के हृदय को जानता हूँ। विभीषण ने बंधु और सांसारिक बंधन त्यागे हैं; मेरी शरण पर उनका अधिकार है।",
+          "modern_context_en": "Leaving a toxic environment — whether family business politics, a harmful relationship, or a corrupt system — takes immense courage. Those who do deserve support, not suspicion.",
+          "modern_context_hi": "विषैले वातावरण को छोड़ना — चाहे पारिवारिक व्यापार की राजनीति हो, हानिकारक रिश्ता हो, या भ्रष्ट व्यवस्था — अपार साहस लेता है। जो ऐसा करते हैं वे सहायता के पात्र हैं, संदेह के नहीं।"
+        },
+        {
+          "verse_number": 3,
+          "section": "vibhishans_surrender",
+          "hindi_text": "सरनागत कहुँ जे तजहिं निज अनहित अनुमानि। ते नर पामर पापमय तिन्हहि बिलोकत हानि॥",
+          "transliteration": "Saranāgata kahuṃ je tajahiṃ nija anahita anumāni. Te nara pāmara pāpamaya tinahahi bilōkata hāni.",
+          "word_by_word": {
+            "सरनागत": "one who has taken refuge",
+            "तजहिं": "abandon",
+            "अनहित": "harm to self",
+            "अनुमानि": "assuming",
+            "नर": "men",
+            "पामर": "lowly",
+            "पापमय": "sinful",
+            "बिलोकत": "seeing",
+            "हानि": "loss/harm"
+          },
+          "meaning_en": "Those who abandon someone who has sought their refuge, assuming it will harm them — such people are lowly and sinful. Even looking at them brings loss and misfortune.",
+          "meaning_hi": "जो शरणागत को यह सोचकर त्याग देते हैं कि इससे उन्हें हानि होगी — ऐसे मनुष्य पामर और पापमय हैं। उन्हें देखने मात्र से हानि होती है।",
+          "modern_context_en": "Ram's principle is clear: never betray someone who trusts you. In the immigrant experience, community members who help newcomers embody this value; those who exploit them betray it.",
+          "modern_context_hi": "राम का सिद्धांत स्पष्ट है: जो आप पर भरोसा करे, उसके साथ विश्वासघात न करें। प्रवासी जीवन में, नए लोगों की मदद करने वाले सामुदायिक सदस्य इस मूल्य को जीते हैं; शोषण करने वाले इसे तोड़ते हैं।"
+        },
+        {
+          "verse_number": 4,
+          "section": "vibhishans_surrender",
+          "hindi_text": "सुनहु सखा कह कृपानिधाना। जेहि के जेहि पर सत्य सनेहा॥\nसो तेहि मिलइ न कछु संदेहा॥",
+          "transliteration": "Sunahu sakhā kaha Kṛpānidhānā. Jehi ke jehi para satya sanehā.\nSo tehi milai na kachu saṃdehā.",
+          "word_by_word": {
+            "सखा": "friend",
+            "कृपानिधाना": "treasure of mercy (Ram)",
+            "सत्य": "true",
+            "सनेहा": "love/affection",
+            "मिलइ": "will meet/unite",
+            "संदेहा": "doubt"
+          },
+          "meaning_en": "The treasure of mercy, Lord Ram, said: Listen, friend — whoever has true love for another will certainly unite with them. There is no doubt about this.",
+          "meaning_hi": "कृपानिधान श्रीराम ने कहा: सुनो मित्र — जिसका जिसके प्रति सच्चा स्नेह है, वह उससे अवश्य मिलता है। इसमें कोई संदेह नहीं।",
+          "modern_context_en": "True connections transcend distance. Ram's assurance applies to every NRI missing family: genuine love always finds a way to reunion, whether through visits, calls, or the unbreakable bond of the heart.",
+          "modern_context_hi": "सच्चे संबंध दूरी से परे होते हैं। राम का यह आश्वासन हर उस प्रवासी पर लागू होता है जो परिवार को याद करता है: सच्चा प्रेम हमेशा मिलन का रास्ता खोज लेता है — चाहे यात्रा से, फ़ोन से, या हृदय के अटूट बंधन से।"
+        },
+        {
+          "verse_number": 5,
+          "section": "vibhishans_surrender",
+          "hindi_text": "उभय समाज समुद्र सब टारहुँ बिलम बिहाइ। प्रभु प्रताप बल कोसलेस रजनीचर रावण जिताइ॥",
+          "transliteration": "Ubhaya samāja samudra saba ṭārahuṃ bilama bihāi. Prabhu pratāpa bala Kosaleśa rajanīcara Rāvaṇa jitāi.",
+          "word_by_word": {
+            "उभय": "both",
+            "समाज": "armies",
+            "समुद्र": "ocean",
+            "टारहुँ": "cross",
+            "बिलम": "delay",
+            "बिहाइ": "abandon",
+            "प्रताप": "glory",
+            "कोसलेस": "Lord of Kosala (Ram)",
+            "रजनीचर": "night-wanderer (demon)",
+            "जिताइ": "defeat"
+          },
+          "meaning_en": "With both armies assembled, Ram declared that they should cross the ocean without delay. By the glory and strength of the Lord of Kosala, the demon Ravana shall be defeated.",
+          "meaning_hi": "दोनों सेनाओं को एकत्रित करके राम ने कहा कि बिना विलंब समुद्र पार करें। कोसलेश के प्रताप और बल से रजनीचर रावण पराजित होगा।",
+          "modern_context_en": "Once you've gathered your resources and allies, don't delay. Analysis paralysis kills more dreams than failure ever could. Ram teaches decisive action after thoughtful preparation.",
+          "modern_context_hi": "एक बार संसाधन और साथी जुटा लें, तो विलंब न करें। अत्यधिक विश्लेषण असफलता से भी अधिक सपनों को मारता है। राम सिखाते हैं कि सोच-समझकर तैयारी के बाद निर्णायक कार्यवाही करें।"
+        }
+      ]
+    },
+    {
+      "section_name_en": "Victory Celebration",
+      "section_name_hi": "विजय उत्सव",
+      "summary_en": "The final section celebrates the divine victory over Ravana and the reunion of Ram and Sita. The monkey army rejoices, celestial beings shower flowers, and the entire creation sings praise. Ram's coronation at Ayodhya is foretold, and the blessings of reading the Sunderkand are described — it destroys all sorrows and obstacles.",
+      "summary_hi": "अंतिम खंड रावण पर दिव्य विजय और राम-सीता के मिलन का उत्सव मनाता है। वानर सेना आनंदित होती है, देवता पुष्प वर्षा करते हैं और समस्त सृष्टि गुणगान करती है। अयोध्या में राम के राज्याभिषेक की भविष्यवाणी होती है और सुन्दरकाण्ड पढ़ने के फलों का वर्णन होता है — यह सभी दुखों और बाधाओं का नाश करता है।",
+      "key_verses": [
+        {
+          "verse_number": 1,
+          "section": "victory_celebration",
+          "hindi_text": "कीन्हि राम प्रभु त्रिलोक पावनि। मंगल भवन अमंगल हारी॥\nद्रवहु सो दशरथ अजिर बिहारी॥",
+          "transliteration": "Kīnhi Rāma Prabhu triloka pāvani. Maṅgala bhavana amaṅgala hārī.\nDravahu so Daśaratha ajira bihārī.",
+          "word_by_word": {
+            "राम": "Lord Ram",
+            "त्रिलोक": "three worlds",
+            "पावनि": "purifier",
+            "मंगल": "auspiciousness",
+            "भवन": "abode",
+            "अमंगल": "inauspiciousness",
+            "हारी": "remover",
+            "दशरथ": "Dashrath (Ram's father)",
+            "अजिर": "courtyard",
+            "बिहारी": "one who plays"
+          },
+          "meaning_en": "Lord Ram purified all three worlds. He is the abode of auspiciousness and the destroyer of all inauspiciousness. May that Lord who played in Dashrath's courtyard melt with compassion for us.",
+          "meaning_hi": "प्रभु राम ने तीनों लोकों को पवित्र किया। वे मंगल के भवन और अमंगल के हारी हैं। वे दशरथ के आँगन में खेलने वाले प्रभु हम पर कृपा करें।",
+          "modern_context_en": "After every struggle — a difficult immigration process, a health battle, or family separation — there comes a moment of grace and restoration. Trust that auspicious outcomes are possible.",
+          "modern_context_hi": "हर संघर्ष के बाद — कठिन प्रवास प्रक्रिया, स्वास्थ्य लड़ाई, या पारिवारिक बिछड़ना — कृपा और पुनर्स्थापना का क्षण आता है। विश्वास रखें कि शुभ परिणाम संभव हैं।"
+        },
+        {
+          "verse_number": 2,
+          "section": "victory_celebration",
+          "hindi_text": "राम काज कीन्हें बिनु मोहि कहाँ बिश्राम। संकट कटै मिटै सब भ्रम मंगल धाम राम॥",
+          "transliteration": "Rāma kāja kīnheṃ binu mohi kahāṃ biśrāma. Saṃkaṭa kaṭai miṭai saba bhrama Maṅgala dhāma Rāma.",
+          "word_by_word": {
+            "राम काज": "Ram's work",
+            "कीन्हें": "doing",
+            "बिनु": "without",
+            "बिश्राम": "rest",
+            "संकट": "troubles",
+            "कटै": "are cut",
+            "भ्रम": "confusion/illusion",
+            "मंगल": "auspicious",
+            "धाम": "abode"
+          },
+          "meaning_en": "Without doing Ram's work, where can I find rest? All troubles are cut away and all confusion is destroyed — Ram is the abode of all auspiciousness.",
+          "meaning_hi": "राम का काज किए बिना मुझे कहाँ विश्राम? सभी संकट कट जाते हैं, सभी भ्रम मिट जाते हैं — राम मंगल के धाम हैं।",
+          "modern_context_en": "Purpose-driven work provides the deepest rest. The professional who serves a higher mission — family welfare, community uplift, or dharmic values — finds peace even in exhaustion.",
+          "modern_context_hi": "उद्देश्यपूर्ण कार्य सबसे गहरा विश्राम देता है। जो व्यक्ति उच्चतर मिशन — परिवार कल्याण, सामुदायिक उत्थान, या धार्मिक मूल्यों — की सेवा करता है, वह थकान में भी शांति पाता है।"
+        },
+        {
+          "verse_number": 3,
+          "section": "victory_celebration",
+          "hindi_text": "सुंदरकांड सब भवन सुखदाई। संतत सुनहिं जे नर अरु नारी॥\nतिन्ह कर सकल मनोरथ सिद्धि। करहिं कृपा सब बिधि रघुबीरा॥",
+          "transliteration": "Suṃdarakāṃḍa saba bhavana sukhadāī. Saṃtata sunahiṃ je nara aru nārī.\nTinha kara sakala manoratha siddhi. Karahiṃ kṛpā saba bidhi Raghubīrā.",
+          "word_by_word": {
+            "सुंदरकांड": "Sunderkand",
+            "भवन": "home",
+            "सुखदाई": "giver of happiness",
+            "संतत": "always/constantly",
+            "नर": "men",
+            "नारी": "women",
+            "मनोरथ": "desires",
+            "सिद्धि": "fulfillment",
+            "कृपा": "grace",
+            "रघुबीरा": "Lord Ram"
+          },
+          "meaning_en": "The Sunderkand brings happiness to every home. Men and women who listen to it regularly will have all their wishes fulfilled. Lord Raghubir showers his grace upon them in every way.",
+          "meaning_hi": "सुंदरकाण्ड सभी घरों को सुख देने वाला है। जो पुरुष और स्त्री इसे नित्य सुनते हैं, उनके सभी मनोरथ सिद्ध होते हैं। रघुबीर सर्वप्रकार से उन पर कृपा करते हैं।",
+          "modern_context_en": "Regular spiritual practice — even fifteen minutes of devotional reading — creates a foundation of mental peace. The Sunderkand tradition in NRI homes keeps families connected to their cultural roots.",
+          "modern_context_hi": "नियमित आध्यात्मिक अभ्यास — भले ही पंद्रह मिनट का भक्ति पाठ — मानसिक शांति की नींव रखता है। प्रवासी घरों में सुंदरकाण्ड की परंपरा परिवारों को सांस्कृतिक जड़ों से जोड़े रखती है।"
+        },
+        {
+          "verse_number": 4,
+          "section": "victory_celebration",
+          "hindi_text": "मंगल भवन अमंगल हारी। उमा सहित जेहि जपत पुरारी॥\nभय प्रगट कृपाला दीनदयाला कौसल्या हितकारी॥",
+          "transliteration": "Maṅgala bhavana amaṅgala hārī. Umā sahita jehi japata Purārī.\nBhaya pragaṭa Kṛpālā Dīnadayālā Kausalyā hitakārī.",
+          "word_by_word": {
+            "मंगल भवन": "abode of auspiciousness",
+            "अमंगल हारी": "destroyer of inauspiciousness",
+            "उमा": "Parvati",
+            "पुरारी": "Lord Shiva (destroyer of cities)",
+            "जपत": "chants",
+            "कृपाला": "merciful",
+            "दीनदयाला": "compassionate to the humble",
+            "कौसल्या": "Kausalya (Ram's mother)",
+            "हितकारी": "benefactor"
+          },
+          "meaning_en": "He is the abode of auspiciousness and the destroyer of all evil. Even Lord Shiva along with Parvati chants His name. That merciful Lord, compassionate to the humble, appeared for the welfare of Mother Kausalya.",
+          "meaning_hi": "वे मंगल के भवन और अमंगल के हारी हैं। उमा सहित शिव जिनका जप करते हैं। वे कृपालु, दीनदयालु प्रभु कौसल्या के हित के लिए प्रकट हुए।",
+          "modern_context_en": "Even the greatest spiritual figures — like Shiva — practice devotion. No one is beyond the need for spiritual anchoring. Regular practice keeps even the strongest souls grounded.",
+          "modern_context_hi": "महानतम आध्यात्मिक विभूतियाँ भी — जैसे शिव — भक्ति करती हैं। कोई भी आध्यात्मिक आश्रय से परे नहीं है। नियमित अभ्यास सबसे सशक्त आत्माओं को भी स्थिर रखता है।"
+        },
+        {
+          "verse_number": 5,
+          "section": "victory_celebration",
+          "hindi_text": "पवनतनय संकट हरन मंगल मूरति रूप। राम लखन सीता सहित हृदय बसहु सुर भूप॥",
+          "transliteration": "Pavanatanaya saṃkaṭa harana maṅgala mūrati rūpa. Rāma Lakhana Sītā sahita hṛdaya basahu sura bhūpa.",
+          "word_by_word": {
+            "पवनतनय": "son of wind (Hanuman)",
+            "संकट हरन": "remover of troubles",
+            "मंगल": "auspicious",
+            "मूरति": "form/embodiment",
+            "रूप": "form",
+            "राम": "Lord Ram",
+            "लखन": "Lakshman",
+            "सीता": "Sita",
+            "हृदय": "heart",
+            "बसहु": "reside",
+            "सुर भूप": "king of gods"
+          },
+          "meaning_en": "O Hanuman, son of the Wind, remover of all troubles, you are the very embodiment of auspiciousness. Along with Ram, Lakshman, and Sita, please reside forever in my heart, O king of the gods.",
+          "meaning_hi": "हे पवनतनय हनुमान, संकट हरने वाले, मंगल मूर्ति स्वरूप! राम, लक्ष्मण और सीता सहित मेरे हृदय में सदा निवास करें, हे देवराज।",
+          "modern_context_en": "This closing prayer encapsulates the essence of Sunderkand: invite the divine into your heart daily. Whether through morning prayer, meditation, or a family puja, keeping God close is the ultimate victory celebration.",
+          "modern_context_hi": "यह समापन प्रार्थना सुंदरकाण्ड का सार है: प्रतिदिन ईश्वर को अपने हृदय में आमंत्रित करें। चाहे सुबह की प्रार्थना हो, ध्यान हो, या पारिवारिक पूजा — भगवान को निकट रखना ही सच्चा विजय उत्सव है।"
+        }
+      ]
+    }
+  ]
+}

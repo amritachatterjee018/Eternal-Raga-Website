@@ -1,0 +1,874 @@
+{
+  "id": "gayatri_chalisa",
+  "title_en": "Gayatri Chalisa",
+  "title_hi": "गायत्री चालीसा",
+  "deity": "gayatri",
+  "author": "Traditional",
+  "type": "chalisa",
+  "total_verses": 44,
+  "sections": [
+    "doha_opening",
+    "chaupai",
+    "doha_closing"
+  ],
+  "verses": [
+    {
+      "verse_number": 1,
+      "section": "doha_opening",
+      "hindi_text": "हृदयकमल के मध्य में, माता गायत्री धाम।\nब्रह्मरूपिणी माँ तुझे, सादर शत-शत प्रणाम॥",
+      "transliteration": "Hṛdayakamal ke madhya meṃ, mātā Gāyatrī dhām.\nBrahmarūpiṇī māṃ tujhe, sādar śat-śat praṇām.",
+      "word_by_word": {
+        "हृदयकमल": "the lotus of the heart",
+        "मध्य": "center",
+        "गायत्री": "Goddess Gayatri",
+        "धाम": "abode",
+        "ब्रह्मरूपिणी": "embodiment of Brahman",
+        "शत-शत": "hundreds and hundreds",
+        "प्रणाम": "salutations"
+      },
+      "meaning_en": "Mother Gayatri resides in the lotus of my heart. O Mother, embodiment of Brahman, I offer you hundreds of salutations with deepest reverence.",
+      "meaning_hi": "माता गायत्री मेरे हृदयकमल के मध्य में विराजती हैं। हे ब्रह्मस्वरूपिणी माँ, मैं आपको शत-शत प्रणाम करता हूँ।",
+      "modern_context_en": "Before any big decision at work or in family life, centering your awareness in the heart — where divine wisdom already lives — can bring remarkable clarity.",
+      "modern_context_hi": "काम या परिवार के किसी बड़े निर्णय से पहले हृदय में स्थित दैवी ज्ञान पर ध्यान केन्द्रित करने से अद्भुत स्पष्टता मिलती है।"
+    },
+    {
+      "verse_number": 2,
+      "section": "doha_opening",
+      "hindi_text": "बुद्धि प्रदायिनी माँ तेरी, शरण गही अब आय।\nगायत्री चालीस पढ़, कुमति दूर कर जाय॥",
+      "transliteration": "Buddhi pradāyinī māṃ terī, śaraṇ gahī ab āy.\nGāyatrī cālīs paḍh, kumati dūr kar jāy.",
+      "word_by_word": {
+        "बुद्धि": "intellect",
+        "प्रदायिनी": "bestower",
+        "शरण": "refuge",
+        "गही": "taken",
+        "चालीस": "chalisa (forty verses)",
+        "कुमति": "evil/ignorant thoughts",
+        "दूर": "far away"
+      },
+      "meaning_en": "O Mother, bestower of divine intellect, I have come to take your refuge. By reading this Gayatri Chalisa, may all ignorance and wrong thinking be removed.",
+      "meaning_hi": "हे बुद्धि प्रदान करने वाली माँ, मैं आपकी शरण में आया हूँ। गायत्री चालीसा पढ़ने से सब कुमति दूर हो जाए।",
+      "modern_context_en": "When you feel overwhelmed by conflicting advice — from LinkedIn, family WhatsApp groups, or corporate politics — seeking the refuge of inner wisdom clears the noise.",
+      "modern_context_hi": "जब लिंक्डइन, परिवार के व्हाट्सएप ग्रुप या ऑफिस की राजनीति से दिमाग भ्रमित हो, तब आंतरिक ज्ञान की शरण लेने से शोर शांत होता है।"
+    },
+    {
+      "verse_number": 3,
+      "section": "chaupai",
+      "hindi_text": "जय गायत्री माता जय जय, जय प्रकाश की दाता जय जय।\nअज्ञानता का नाश करो, ज्ञान का उजियारा भर दो॥",
+      "transliteration": "Jay Gāyatrī mātā jay jay, jay prakāś kī dātā jay jay.\nAjñānatā kā nāś karo, jñān kā ujiyārā bhar do.",
+      "word_by_word": {
+        "जय": "glory/victory",
+        "गायत्री": "Goddess Gayatri",
+        "प्रकाश": "light",
+        "दाता": "giver",
+        "अज्ञानता": "ignorance",
+        "नाश": "destruction",
+        "ज्ञान": "knowledge",
+        "उजियारा": "radiance/light"
+      },
+      "meaning_en": "Glory to Mother Gayatri, glory to the giver of divine light! Destroy all ignorance and fill our lives with the radiance of true knowledge.",
+      "meaning_hi": "जय हो माता गायत्री, जय हो प्रकाश की दाता! सारी अज्ञानता का नाश करो और ज्ञान का उजाला भर दो।",
+      "modern_context_en": "In a world of information overload, true knowledge is not data — it is discernment. Gayatri Mata illuminates the difference between knowing facts and understanding truth.",
+      "modern_context_hi": "सूचनाओं की भरमार वाली दुनिया में सच्चा ज्ञान डेटा नहीं बल्कि विवेक है। गायत्री माता तथ्य जानने और सत्य समझने का अंतर स्पष्ट करती हैं।"
+    },
+    {
+      "verse_number": 4,
+      "section": "chaupai",
+      "hindi_text": "तीन लोक की माता तुम हो, तीन काल की ज्ञाता तुम हो।\nतीन ताप हर लेती माता, सब सुख देती जगत विधाता॥",
+      "transliteration": "Tīn lok kī mātā tum ho, tīn kāl kī jñātā tum ho.\nTīn tāp har letī mātā, sab sukh detī jagat vidhātā.",
+      "word_by_word": {
+        "तीन लोक": "three worlds",
+        "माता": "mother",
+        "तीन काल": "three times (past, present, future)",
+        "ज्ञाता": "knower",
+        "तीन ताप": "three afflictions (physical, mental, spiritual)",
+        "हर लेती": "removes",
+        "जगत विधाता": "creator of the world"
+      },
+      "meaning_en": "You are the mother of all three worlds and the knower of all three times — past, present, and future. O Mother, creator of the universe, you remove all three kinds of suffering and bestow all happiness.",
+      "meaning_hi": "आप तीनों लोकों की माता और तीनों कालों की ज्ञाता हैं। हे जगत विधाता माँ, आप तीनों तापों को हर लेती हैं और सब सुख देती हैं।",
+      "modern_context_en": "Whether it is physical burnout from long hours, mental stress from immigration worries, or a spiritual emptiness from being far from roots — Gayatri addresses all three layers of human suffering.",
+      "modern_context_hi": "चाहे लंबे काम से शारीरिक थकान हो, इमिग्रेशन की चिंता से मानसिक तनाव हो, या जड़ों से दूर होने की आत्मिक खालीपन — गायत्री तीनों स्तरों के दुख दूर करती हैं।"
+    },
+    {
+      "verse_number": 5,
+      "section": "chaupai",
+      "hindi_text": "ब्रह्मा विष्णु महेश की शक्ति, तुमसे मिलती सबकी भक्ति।\nसरस्वती लक्ष्मी पार्वती, तुम्हीं हो माता गायत्री॥",
+      "transliteration": "Brahmā Viṣṇu Maheś kī śakti, tumse miltī sabkī bhakti.\nSarasvatī Lakṣmī Pārvatī, tumhīṃ ho mātā Gāyatrī.",
+      "word_by_word": {
+        "ब्रह्मा": "Lord Brahma",
+        "विष्णु": "Lord Vishnu",
+        "महेश": "Lord Shiva",
+        "शक्ति": "power/energy",
+        "भक्ति": "devotion",
+        "सरस्वती": "Goddess of knowledge",
+        "लक्ष्मी": "Goddess of wealth",
+        "पार्वती": "Goddess of strength"
+      },
+      "meaning_en": "You are the divine power behind Brahma, Vishnu, and Shiva. Saraswati, Lakshmi, and Parvati — all are your manifestations, O Mother Gayatri.",
+      "meaning_hi": "आप ब्रह्मा, विष्णु और महेश की शक्ति हैं। सरस्वती, लक्ष्मी और पार्वती — सब आपके ही रूप हैं, हे माता गायत्री।",
+      "modern_context_en": "Knowledge for career growth, prosperity for the family, and strength to face life's challenges — Gayatri encompasses all three divine feminine energies that modern life demands.",
+      "modern_context_hi": "करियर के लिए ज्ञान, परिवार के लिए समृद्धि और जीवन की चुनौतियों के लिए शक्ति — गायत्री तीनों दैवी शक्तियों को समाहित करती हैं।"
+    },
+    {
+      "verse_number": 6,
+      "section": "chaupai",
+      "hindi_text": "चारों वेद की सार तुम्हीं हो, संसार की आधार तुम्हीं हो।\nपंच मुख पर ज्ञान विराजे, दस भुजा में शक्ति बिराजे॥",
+      "transliteration": "Cāroṃ Ved kī sār tumhīṃ ho, saṃsār kī ādhār tumhīṃ ho.\nPañc mukh par jñān virāje, das bhujā meṃ śakti birāje.",
+      "word_by_word": {
+        "चारों वेद": "four Vedas",
+        "सार": "essence",
+        "संसार": "world",
+        "आधार": "foundation",
+        "पंच मुख": "five faces",
+        "दस भुजा": "ten arms",
+        "शक्ति": "power"
+      },
+      "meaning_en": "You are the essence of all four Vedas and the very foundation of this world. Knowledge radiates from your five faces, and divine power resides in your ten arms.",
+      "meaning_hi": "आप चारों वेदों का सार और संसार का आधार हैं। आपके पाँच मुखों पर ज्ञान और दस भुजाओं में शक्ति विराजती है।",
+      "modern_context_en": "Just as Gayatri is the foundation of all Vedic wisdom, building a daily meditation or mantra practice becomes the foundation on which all professional and personal success rests.",
+      "modern_context_hi": "जैसे गायत्री सम्पूर्ण वैदिक ज्ञान का आधार हैं, वैसे ही प्रतिदिन ध्यान या मंत्र जाप की आदत पेशेवर और व्यक्तिगत सफलता का आधार बनती है।"
+    },
+    {
+      "verse_number": 7,
+      "section": "chaupai",
+      "hindi_text": "हंस वाहिनी श्वेत अम्बर धारी, स्वर्ण कान्ति शुभ ज्योति उजारी।\nपुस्तक कमण्डल कर धारे, भय हर वर अभय विचारे॥",
+      "transliteration": "Haṃs vāhinī śvet ambar dhārī, svarṇ kānti śubh jyoti ujārī.\nPustak kamaṇḍal kar dhāre, bhay har var abhay vicāre.",
+      "word_by_word": {
+        "हंस वाहिनी": "swan as vehicle",
+        "श्वेत अम्बर": "white garments",
+        "स्वर्ण कान्ति": "golden radiance",
+        "ज्योति": "light",
+        "पुस्तक": "book of knowledge",
+        "कमण्डल": "water pot",
+        "अभय": "fearlessness"
+      },
+      "meaning_en": "She rides the graceful swan, wears white garments, and glows with golden radiance. In her hands she holds the book of wisdom and the sacred water pot, granting fearlessness and removing all fear.",
+      "meaning_hi": "हंस पर विराजमान, श्वेत वस्त्र धारण किए, स्वर्णिम कांति से प्रकाशित माँ अपने हाथों में पुस्तक और कमण्डल धारण करती हैं और अभय का वर देती हैं।",
+      "modern_context_en": "The swan symbolizes the ability to separate right from wrong — like filtering genuine career advice from noise. The book reminds us that continuous learning is a spiritual act.",
+      "modern_context_hi": "हंस सही और गलत को अलग करने की क्षमता का प्रतीक है — जैसे सही करियर सलाह को शोर से अलग करना। पुस्तक याद दिलाती है कि निरंतर सीखना एक आध्यात्मिक कार्य है।"
+    },
+    {
+      "verse_number": 8,
+      "section": "chaupai",
+      "hindi_text": "त्रिकाल संध्या जो ध्यावे, सोई परम पद को पावे।\nसुखसागर में वो बस जावे, दुख दारिद्र निकट नहीं आवे॥",
+      "transliteration": "Trikāl sandhyā jo dhyāve, soī param pad ko pāve.\nSukh-sāgar meṃ vo bas jāve, dukh dāridra nikaṭ nahīṃ āve.",
+      "word_by_word": {
+        "त्रिकाल": "three times of day",
+        "संध्या": "meditation/worship",
+        "ध्यावे": "meditates",
+        "परम पद": "supreme state",
+        "सुखसागर": "ocean of happiness",
+        "दुख": "sorrow",
+        "दारिद्र": "poverty"
+      },
+      "meaning_en": "One who meditates at the three junctions of the day — dawn, noon, and dusk — attains the supreme state. Such a person dwells in an ocean of happiness, and sorrow and poverty never come near.",
+      "meaning_hi": "जो त्रिकाल संध्या में ध्यान करता है, वह परम पद पाता है। वह सुखसागर में बसता है और दुख-दारिद्र उसके पास नहीं आते।",
+      "modern_context_en": "Even short morning meditation before logging in, a midday pause, and an evening gratitude practice can transform your mental health and productivity over time.",
+      "modern_context_hi": "सुबह लॉग-इन से पहले छोटा ध्यान, दोपहर में एक विराम और शाम की कृतज्ञता की प्रथा — ये समय के साथ मानसिक स्वास्थ्य और उत्पादकता को बदल सकते हैं।"
+    },
+    {
+      "verse_number": 9,
+      "section": "chaupai",
+      "hindi_text": "गायत्री मंत्र जो जपता जाई, उसके सब दुख होत नशाई।\nचौबीस अक्षर परम पुनीता, जिनमें बसी रहे सब गीता॥",
+      "transliteration": "Gāyatrī mantra jo japtā jāī, uske sab dukh hot naśāī.\nCaubīs akṣar param punītā, jinmeṃ basī rahe sab Gītā.",
+      "word_by_word": {
+        "गायत्री मंत्र": "Gayatri mantra",
+        "जपता": "chants",
+        "दुख": "sorrows",
+        "नशाई": "destroyed",
+        "चौबीस अक्षर": "twenty-four syllables",
+        "परम पुनीता": "supremely sacred",
+        "गीता": "Bhagavad Gita"
+      },
+      "meaning_en": "One who continuously chants the Gayatri mantra sees all sorrows destroyed. The twenty-four supremely sacred syllables contain within them the entire essence of the Gita.",
+      "meaning_hi": "जो गायत्री मंत्र का निरंतर जप करता है, उसके सब दुख नष्ट हो जाते हैं। चौबीस अत्यंत पवित्र अक्षरों में सम्पूर्ण गीता का सार समाहित है।",
+      "modern_context_en": "You don't need to read a hundred self-help books — the 24 syllables of the Gayatri mantra, chanted daily with focus, carry the distilled wisdom of thousands of years.",
+      "modern_context_hi": "सौ सेल्फ-हेल्प किताबें पढ़ने की जरूरत नहीं — गायत्री मंत्र के 24 अक्षर, प्रतिदिन ध्यानपूर्वक जपे जाएँ, तो हजारों वर्षों का ज्ञान सार रूप में मिलता है।"
+    },
+    {
+      "verse_number": 10,
+      "section": "chaupai",
+      "hindi_text": "शिव विरंचि नारद मुनि गावें, शेष सहस मुख गुण नहीं पावें।\nतुम्हरी महिमा अगम अपारा, कैसे करूँ वर्णन माँ न्यारा॥",
+      "transliteration": "Śiv Virañci Nārad muni gāveṃ, Śeṣ sahas mukh guṇ nahīṃ pāveṃ.\nTumhrī mahimā agam apārā, kaise karūṃ varṇan māṃ nyārā.",
+      "word_by_word": {
+        "शिव": "Lord Shiva",
+        "विरंचि": "Lord Brahma",
+        "नारद": "Sage Narada",
+        "गावें": "sing praises",
+        "शेष": "Shesha Naga",
+        "सहस मुख": "thousand mouths",
+        "महिमा": "glory",
+        "अगम": "unfathomable",
+        "अपारा": "limitless"
+      },
+      "meaning_en": "Shiva, Brahma, and Sage Narada sing your praises, yet even Shesha with a thousand mouths cannot fully describe your qualities. Your glory is unfathomable and limitless — how can I possibly describe you, O unique Mother?",
+      "meaning_hi": "शिव, ब्रह्मा और नारद मुनि आपका गुणगान करते हैं, फिर भी सहस्रमुखी शेषनाग भी आपके गुण पूरे नहीं बता सकते। आपकी महिमा अगम और अपार है — माँ, मैं कैसे वर्णन करूँ?",
+      "modern_context_en": "When even the greatest beings cannot fully grasp the divine, it is okay for us to admit we do not have all the answers. Humility before the infinite is the beginning of true wisdom.",
+      "modern_context_hi": "जब महानतम देवता भी ईश्वरीय महिमा को पूरी तरह नहीं समझ पाते, तो हमारा यह स्वीकार करना ठीक है कि हमारे पास सभी उत्तर नहीं हैं। असीम के समक्ष विनम्रता सच्चे ज्ञान की शुरुआत है।"
+    },
+    {
+      "verse_number": 11,
+      "section": "chaupai",
+      "hindi_text": "भक्ति मुक्ति फल देने हारी, कामधेनु तुम सबसे प्यारी।\nमणिमय सिंहासन पर विराजो, भक्तन के सब काज संवारो॥",
+      "transliteration": "Bhakti mukti phal dene hārī, kāmadhenu tum sabse pyārī.\nMaṇimay siṃhāsan par virājo, bhaktan ke sab kāj saṃvāro.",
+      "word_by_word": {
+        "भक्ति": "devotion",
+        "मुक्ति": "liberation",
+        "फल": "fruit/result",
+        "कामधेनु": "wish-fulfilling cow",
+        "मणिमय": "jewel-studded",
+        "सिंहासन": "throne",
+        "भक्तन": "devotees",
+        "काज संवारो": "set right tasks/works"
+      },
+      "meaning_en": "You are the giver of the fruits of devotion and liberation, dearer than the wish-fulfilling Kamadhenu. Seated on your jewel-studded throne, please set right all the affairs of your devotees.",
+      "meaning_hi": "आप भक्ति और मुक्ति का फल देने वाली, कामधेनु से भी प्रिय हैं। मणिमय सिंहासन पर विराजकर, हे माँ, भक्तों के सब काज सँवार दो।",
+      "modern_context_en": "When projects pile up and deadlines loom, surrendering your work to a higher purpose — like Gayatri Mata — transforms stress into sacred service and brings unexpected solutions.",
+      "modern_context_hi": "जब प्रोजेक्ट बढ़ जाएँ और डेडलाइन सिर पर हो, तो अपने काम को गायत्री माता जैसी उच्च शक्ति को समर्पित करने से तनाव पवित्र सेवा में बदलता है और अप्रत्याशित समाधान मिलते हैं।"
+    },
+    {
+      "verse_number": 12,
+      "section": "chaupai",
+      "hindi_text": "ऋषि मुनि तुम्हरो यश गावें, वेद पुराण शरण में आवें।\nतुम बिन कोई और न दूजा, माँ गायत्री तुम्हें मैं पूजा॥",
+      "transliteration": "Ṛṣi muni tumhro yaś gāveṃ, Ved Purāṇ śaraṇ meṃ āveṃ.\nTum bin koī aur na dūjā, māṃ Gāyatrī tumheṃ maiṃ pūjā.",
+      "word_by_word": {
+        "ऋषि मुनि": "sages and seers",
+        "यश": "glory/fame",
+        "वेद पुराण": "Vedas and Puranas",
+        "शरण": "refuge",
+        "दूजा": "another/second",
+        "पूजा": "worship"
+      },
+      "meaning_en": "Sages and seers sing your glory, and the Vedas and Puranas all take refuge in you. There is no other deity like you — O Mother Gayatri, I worship you alone.",
+      "meaning_hi": "ऋषि-मुनि आपका यश गाते हैं, वेद और पुराण आपकी शरण में आते हैं। आपके बिना कोई दूसरा नहीं — हे माँ गायत्री, मैं केवल आपकी पूजा करता हूँ।",
+      "modern_context_en": "In an age of countless gurus, podcasts, and philosophies, committing to one daily practice — like the Gayatri mantra — with full devotion often yields deeper results than chasing many paths.",
+      "modern_context_hi": "अनगिनत गुरुओं, पॉडकास्ट और दर्शनों के युग में, एक दैनिक साधना — जैसे गायत्री मंत्र — में पूर्ण श्रद्धा से जुड़ना कई रास्तों पर भटकने से बेहतर परिणाम देता है।"
+    },
+    {
+      "verse_number": 13,
+      "section": "chaupai",
+      "hindi_text": "धूप दीप नैवेद्य चढ़ावें, शंख घण्ट ध्वनि मंगल गावें।\nपूजा अर्चना नित जो करही, सो भवसागर बहुर न तरही॥",
+      "transliteration": "Dhūp dīp naivedya caḍhāveṃ, śaṅkh ghaṇṭ dhvani maṅgal gāveṃ.\nPūjā arcanā nit jo karahī, so bhavasāgar bahur na tarahī.",
+      "word_by_word": {
+        "धूप": "incense",
+        "दीप": "lamp",
+        "नैवेद्य": "food offering",
+        "शंख": "conch",
+        "घण्ट": "bell",
+        "मंगल": "auspicious",
+        "पूजा अर्चना": "worship and adoration",
+        "भवसागर": "ocean of worldly existence"
+      },
+      "meaning_en": "Those who offer incense, lamp, and sacred food, who ring the conch and bell singing auspicious hymns — those who worship daily never have to cross the ocean of worldly suffering again.",
+      "meaning_hi": "जो धूप, दीप और नैवेद्य चढ़ाते हैं, शंख और घण्टे बजाकर मंगल गाते हैं — जो नित्य पूजा-अर्चना करते हैं, उन्हें भवसागर फिर नहीं पार करना पड़ता।",
+      "modern_context_en": "Even a small daily ritual — lighting a diya before your home altar, even in a small apartment abroad — creates a sacred anchor that steadies you through life's turbulence.",
+      "modern_context_hi": "छोटी सी दैनिक रीति — विदेश के छोटे अपार्टमेंट में भी घर की वेदी पर दीया जलाना — एक पवित्र लंगर बनाती है जो जीवन के उतार-चढ़ाव में स्थिर रखती है।"
+    },
+    {
+      "verse_number": 14,
+      "section": "chaupai",
+      "hindi_text": "मात पिता तुम मेरे, तुम्हीं हो भाई बहन हमारे।\nतुम्हीं हो बन्धु सखा सब साथी, तुम्हीं हो गुरु तुम्हीं परमाथी॥",
+      "transliteration": "Māt pitā tum mere, tumhīṃ ho bhāī bahan hamāre.\nTumhīṃ ho bandhu sakhā sab sāthī, tumhīṃ ho guru tumhīṃ paramārthī.",
+      "word_by_word": {
+        "मात पिता": "mother and father",
+        "भाई बहन": "brother and sister",
+        "बन्धु": "relative",
+        "सखा": "friend",
+        "गुरु": "teacher",
+        "परमाथी": "supreme benefactor"
+      },
+      "meaning_en": "You are my mother and father, my brother and sister. You are my relative, friend, and companion; you are my guru and supreme benefactor.",
+      "meaning_hi": "आप मेरी माता-पिता हैं, आप ही भाई-बहन हैं। आप ही बन्धु, सखा, साथी, गुरु और परम हितकारी हैं।",
+      "modern_context_en": "Living thousands of miles from family, the divine Mother fills every role that distance has emptied — parent, sibling, friend, and guide, all accessible through sincere prayer.",
+      "modern_context_hi": "परिवार से हजारों मील दूर रहते हुए, दैवी माँ उन सभी भूमिकाओं को भरती हैं जो दूरी ने खाली कर दी हैं — माता-पिता, भाई-बहन, मित्र और मार्गदर्शक, सभी सच्ची प्रार्थना से सुलभ।"
+    },
+    {
+      "verse_number": 15,
+      "section": "chaupai",
+      "hindi_text": "शरणागत को तुम रखवारी, जगत जननी महिमा तुम्हारी।\nजो तुम्हें प्रेम से नित ध्यावे, सो नर सकल सिद्धि को पावे॥",
+      "transliteration": "Śaraṇāgat ko tum rakhvārī, jagat jananī mahimā tumhārī.\nJo tumheṃ prem se nit dhyāve, so nar sakal siddhi ko pāve.",
+      "word_by_word": {
+        "शरणागत": "one who takes refuge",
+        "रखवारी": "protector",
+        "जगत जननी": "mother of the world",
+        "महिमा": "glory",
+        "प्रेम": "love",
+        "ध्यावे": "meditates",
+        "सकल सिद्धि": "all accomplishments"
+      },
+      "meaning_en": "You are the protector of all who take your refuge, O Mother of the universe. Whoever meditates on you daily with love attains all accomplishments and spiritual powers.",
+      "meaning_hi": "आप शरणागतों की रक्षक हैं, हे जगत जननी। जो प्रेम से नित्य आपका ध्यान करता है, वह सकल सिद्धियाँ प्राप्त करता है।",
+      "modern_context_en": "Consistency in daily practice — even five minutes of loving meditation — compounds over time like interest, eventually granting breakthroughs in clarity and inner peace that seemed impossible.",
+      "modern_context_hi": "दैनिक साधना में निरंतरता — पाँच मिनट का प्रेमपूर्ण ध्यान भी — ब्याज की तरह समय के साथ बढ़ता है और स्पष्टता व शांति में वो सफलता देता है जो असंभव लगती थी।"
+    },
+    {
+      "verse_number": 16,
+      "section": "chaupai",
+      "hindi_text": "विप्र जाति को तुम वरदानी, मंत्रशक्ति को तुम अधिष्ठानी।\nसब पापन को तुम हरनेहारी, भवबन्धन से मोचनकारी॥",
+      "transliteration": "Vipr jāti ko tum vardānī, mantra-śakti ko tum adhiṣṭhānī.\nSab pāpan ko tum harnehārī, bhav-bandhan se mocan-kārī.",
+      "word_by_word": {
+        "विप्र": "learned/seeker",
+        "वरदानी": "boon giver",
+        "मंत्रशक्ति": "power of mantra",
+        "अधिष्ठानी": "presiding deity",
+        "पापन": "sins",
+        "हरनेहारी": "remover",
+        "भवबन्धन": "bonds of worldly existence",
+        "मोचनकारी": "liberator"
+      },
+      "meaning_en": "You grant boons to the learned and seekers, and you preside over the power of all mantras. You remove all sins and liberate beings from the bonds of worldly existence.",
+      "meaning_hi": "आप विद्वानों और साधकों को वरदान देती हैं, मंत्रशक्ति की अधिष्ठात्री हैं। आप सब पापों को हरने वाली और भवबन्धन से मुक्ति देने वाली हैं।",
+      "modern_context_en": "The 'sins' of modern life — toxic habits, unhealthy attachments to social media, anger, jealousy — are also bonds. Gayatri sadhana gradually loosens these chains and liberates the mind.",
+      "modern_context_hi": "आधुनिक जीवन के 'पाप' — विषैली आदतें, सोशल मीडिया की अस्वस्थ लत, क्रोध, ईर्ष्या — भी बन्धन हैं। गायत्री साधना धीरे-धीरे इन बेड़ियों को ढीला करती है और मन को मुक्त करती है।"
+    },
+    {
+      "verse_number": 17,
+      "section": "chaupai",
+      "hindi_text": "ग्रह बाधा भय दूर नसावो, मन की इच्छा मन में लावो।\nबिगड़ी बात बना दो माता, तुम समान नहीं कोई दाता॥",
+      "transliteration": "Grah bādhā bhay dūr nasāvo, man kī icchā man meṃ lāvo.\nBigḍī bāt banā do mātā, tum samān nahīṃ koī dātā.",
+      "word_by_word": {
+        "ग्रह बाधा": "planetary afflictions",
+        "भय": "fear",
+        "दूर नसावो": "drive far away",
+        "मन की इच्छा": "heart's desire",
+        "बिगड़ी बात": "spoiled matter",
+        "बना दो": "set right",
+        "दाता": "giver/benefactor"
+      },
+      "meaning_en": "Drive away all planetary afflictions and fears, and bring the heart's desires to fulfillment. O Mother, you set right even that which has gone wrong — there is no benefactor equal to you.",
+      "meaning_hi": "ग्रह बाधाओं और भय को दूर भगाओ, मन की इच्छा पूरी करो। हे माता, बिगड़ी बात भी बना दो — आपके समान कोई दाता नहीं।",
+      "modern_context_en": "When visa applications get rejected, deals fall through, or relationships sour, praying to set things right is not superstition — it is a way of aligning your intention with grace.",
+      "modern_context_hi": "जब वीजा अर्जी रिजेक्ट हो, सौदा टूट जाए या रिश्ते खराब हों, तो बात बनाने की प्रार्थना अंधविश्वास नहीं — यह अपने संकल्प को कृपा से जोड़ने का तरीका है।"
+    },
+    {
+      "verse_number": 18,
+      "section": "chaupai",
+      "hindi_text": "कष्ट निवारो हे जगदम्बा, तुम बिन कोई न हमरो अम्बा।\nमूर्ख को तुम देहु प्रभा मात, अन्धकार से निकलें प्रभात॥",
+      "transliteration": "Kaṣṭ nivāro he Jagadambā, tum bin koī na hamro Ambā.\nMūrkh ko tum dehu prabhā māt, andhakār se nikleṃ prabhāt.",
+      "word_by_word": {
+        "कष्ट": "suffering",
+        "निवारो": "remove",
+        "जगदम्बा": "Mother of the universe",
+        "अम्बा": "mother",
+        "मूर्ख": "the ignorant",
+        "प्रभा": "light/radiance",
+        "अन्धकार": "darkness",
+        "प्रभात": "dawn"
+      },
+      "meaning_en": "Remove our sufferings, O Mother of the universe — there is no other mother for us but you. Grant light even to the ignorant, so that dawn may emerge from their darkness.",
+      "meaning_hi": "हे जगदम्बा, कष्ट निवारो — आपके बिना हमारी कोई माँ नहीं। मूर्ख को भी प्रभा दो, माँ, ताकि अन्धकार से प्रभात निकले।",
+      "modern_context_en": "We all have areas of ignorance — about health, relationships, finances. Praying for illumination is really praying for the courage to learn what we have been avoiding.",
+      "modern_context_hi": "हम सबके जीवन में अज्ञान के क्षेत्र हैं — स्वास्थ्य, रिश्ते, वित्त। प्रकाश की प्रार्थना वास्तव में उस साहस की प्रार्थना है जो हम टालते रहे हैं।"
+    },
+    {
+      "verse_number": 19,
+      "section": "chaupai",
+      "hindi_text": "सूर्यमुखी कमलासन वाली, महाविद्या कामित फलदाली।\nतुम्हरो तेज अमित अवधारा, ललित ललाम कान्ति उजियारा॥",
+      "transliteration": "Sūryamukhī kamalāsan vālī, mahāvidyā kāmit phaldālī.\nTumhro tej amit avadhārā, lalit lalām kānti ujiyārā.",
+      "word_by_word": {
+        "सूर्यमुखी": "sun-faced",
+        "कमलासन": "seated on lotus",
+        "महाविद्या": "great knowledge/wisdom",
+        "कामित": "desired",
+        "फलदाली": "fruit-bearing",
+        "तेज": "radiance",
+        "अमित": "immeasurable",
+        "ललित": "beautiful",
+        "कान्ति": "glow"
+      },
+      "meaning_en": "O sun-faced one seated on the lotus, supreme knowledge that bears the fruit of all desires! Your radiance is immeasurable, and your beautiful glow illuminates everything.",
+      "meaning_hi": "हे सूर्यमुखी कमलासन वाली, महाविद्या जो सभी कामनाओं का फल देती हैं! आपका तेज अमित है और आपकी ललित कान्ति सब कुछ प्रकाशित करती है।",
+      "modern_context_en": "Like the sun that does not discriminate where it shines, Gayatri's wisdom is available to all — regardless of which country you live in, what degree you hold, or what language you speak.",
+      "modern_context_hi": "जैसे सूर्य भेदभाव नहीं करता कि कहाँ चमके, वैसे ही गायत्री का ज्ञान सबके लिए उपलब्ध है — चाहे आप किसी भी देश में रहें, कोई भी डिग्री हो या कोई भी भाषा बोलें।"
+    },
+    {
+      "verse_number": 20,
+      "section": "chaupai",
+      "hindi_text": "सावित्री सतरूपा माता, सन्ध्या गायत्री विख्याता।\nऋग यजुर साम अथर्ववेदा, तुमसे निकले सब शुभ भेदा॥",
+      "transliteration": "Sāvitrī Satarūpā mātā, Sandhyā Gāyatrī vikhyātā.\nṚg Yajur Sām Atharvavedā, tumse nikle sab śubh bhedā.",
+      "word_by_word": {
+        "सावित्री": "Savitri (form of Gayatri)",
+        "सतरूपा": "Sataroopa (primordial woman)",
+        "सन्ध्या": "twilight worship",
+        "विख्याता": "renowned",
+        "ऋग": "Rig Veda",
+        "यजुर": "Yajur Veda",
+        "साम": "Sama Veda",
+        "अथर्ववेदा": "Atharva Veda",
+        "शुभ भेदा": "auspicious secrets"
+      },
+      "meaning_en": "You are known as Savitri, Sataroopa, Sandhya, and Gayatri. From you emerged all auspicious secrets of the Rig, Yajur, Sama, and Atharva Vedas.",
+      "meaning_hi": "आप सावित्री, सतरूपा, सन्ध्या और गायत्री के नाम से विख्यात हैं। ऋग, यजुर, साम और अथर्ववेद के सभी शुभ रहस्य आपसे ही निकले हैं।",
+      "modern_context_en": "Just as one person plays many roles — professional, parent, spouse, child — Gayatri takes many forms to serve different needs, reminding us that versatility is divine.",
+      "modern_context_hi": "जैसे एक व्यक्ति कई भूमिकाएँ निभाता है — पेशेवर, माता-पिता, जीवनसाथी, संतान — वैसे ही गायत्री विभिन्न आवश्यकताओं के लिए अनेक रूप धारण करती हैं, यह याद दिलाते हुए कि बहुमुखी प्रतिभा दैवी है।"
+    },
+    {
+      "verse_number": 21,
+      "section": "chaupai",
+      "hindi_text": "ब्रह्मतेज प्रकटे जग माही, गायत्री से बड़ कोउ नाहीं।\nत्रिगुण रूप त्रिदेवी नारी, सृष्टि बीज तुम विश्व पसारी॥",
+      "transliteration": "Brahmatej prakaṭe jag māhī, Gāyatrī se baḍ kou nāhīṃ.\nTriguṇ rūp tridevī nārī, sṛṣṭi bīj tum viśva pasārī.",
+      "word_by_word": {
+        "ब्रह्मतेज": "divine radiance of Brahman",
+        "प्रकटे": "manifests",
+        "जग": "world",
+        "त्रिगुण": "three gunas (qualities)",
+        "त्रिदेवी": "three goddesses",
+        "सृष्टि बीज": "seed of creation",
+        "विश्व पसारी": "one who expands the universe"
+      },
+      "meaning_en": "The divine radiance of Brahman manifests in this world through you — there is none greater than Gayatri. You are the three Gunas, the three Goddesses, the seed of creation who expanded the entire universe.",
+      "meaning_hi": "ब्रह्मतेज आपके द्वारा ही जगत में प्रकट होता है — गायत्री से बड़ा कोई नहीं। आप त्रिगुण रूपा, त्रिदेवी हैं, सृष्टि का बीज जिसने विश्व का विस्तार किया।",
+      "modern_context_en": "Every startup, every family, every creative project begins with a seed idea illuminated by clarity — that first spark of insight is Gayatri energy at work.",
+      "modern_context_hi": "हर स्टार्टअप, हर परिवार, हर रचनात्मक परियोजना एक बीज विचार से शुरू होती है जो स्पष्टता से प्रकाशित होता है — वह पहली अंतर्दृष्टि की चिनगारी गायत्री शक्ति है।"
+    },
+    {
+      "verse_number": 22,
+      "section": "chaupai",
+      "hindi_text": "गायत्री की शरण में आवो, आत्मशुद्धि का पथ अपनावो।\nनित्य स्नान करि जप करो भाई, गायत्री तुम पर कृपा कराई॥",
+      "transliteration": "Gāyatrī kī śaraṇ meṃ āvo, ātmaśuddhi kā path apnāvo.\nNitya snān kari jap karo bhāī, Gāyatrī tum par kṛpā karāī.",
+      "word_by_word": {
+        "शरण": "refuge",
+        "आत्मशुद्धि": "self-purification",
+        "पथ": "path",
+        "नित्य": "daily",
+        "स्नान": "bath/purification",
+        "जप": "chanting",
+        "कृपा": "grace"
+      },
+      "meaning_en": "Come into the refuge of Gayatri and adopt the path of self-purification. Purify yourself daily and chant — Gayatri will shower her grace upon you.",
+      "meaning_hi": "गायत्री की शरण में आओ और आत्मशुद्धि का मार्ग अपनाओ। प्रतिदिन स्नान करके जप करो — गायत्री तुम पर कृपा करेंगी।",
+      "modern_context_en": "Self-purification is not just about rituals — it means clearing mental clutter, forgiving grudges, and letting go of ego before starting each day with intention.",
+      "modern_context_hi": "आत्मशुद्धि केवल अनुष्ठान नहीं — इसका अर्थ है मानसिक अव्यवस्था साफ करना, शिकायतें माफ करना, और अहंकार छोड़कर हर दिन संकल्प के साथ शुरू करना।"
+    },
+    {
+      "verse_number": 23,
+      "section": "chaupai",
+      "hindi_text": "सन्ध्या वन्दन नित्य करो तुम, गायत्री का ध्यान धरो तुम।\nजीवन में संयम अपनाओ, सत्य मार्ग पर सदा सिधाओ॥",
+      "transliteration": "Sandhyā vandan nitya karo tum, Gāyatrī kā dhyān dharo tum.\nJīvan meṃ saṃyam apnāo, satya mārg par sadā sidhāo.",
+      "word_by_word": {
+        "सन्ध्या वन्दन": "twilight prayer",
+        "नित्य": "daily",
+        "ध्यान": "meditation",
+        "संयम": "self-discipline",
+        "सत्य मार्ग": "path of truth",
+        "सिधाओ": "walk/proceed"
+      },
+      "meaning_en": "Perform your twilight prayers daily and meditate upon Gayatri. Adopt self-discipline in life and always walk the path of truth.",
+      "meaning_hi": "नित्य सन्ध्या वन्दन करो और गायत्री का ध्यान धरो। जीवन में संयम अपनाओ और सदा सत्य मार्ग पर चलो।",
+      "modern_context_en": "Self-discipline is the superpower of the modern age — waking early, eating mindfully, limiting screen time, and honoring commitments are the new tapasya for NRI professionals.",
+      "modern_context_hi": "आत्म-अनुशासन आधुनिक युग की महाशक्ति है — जल्दी उठना, सोच-समझकर खाना, स्क्रीन टाइम सीमित करना और वचन निभाना NRI पेशेवरों की नई तपस्या है।"
+    },
+    {
+      "verse_number": 24,
+      "section": "chaupai",
+      "hindi_text": "गायत्री माता की आरती, करत सदा हो भव निवृत्ति।\nपंचभूत में व्याप्त तुम्हारी, तत्त्व शक्ति सब जग उजियारी॥",
+      "transliteration": "Gāyatrī mātā kī ārtī, karat sadā ho bhav nivṛtti.\nPañcabhūt meṃ vyāpt tumhārī, tattva śakti sab jag ujiyārī.",
+      "word_by_word": {
+        "आरती": "worship with lamp",
+        "भव निवृत्ति": "freedom from worldly cycle",
+        "पंचभूत": "five elements",
+        "व्याप्त": "pervading",
+        "तत्त्व शक्ति": "elemental power",
+        "उजियारी": "illuminating"
+      },
+      "meaning_en": "Performing the aarti of Mother Gayatri always brings liberation from the worldly cycle. Your elemental power pervades the five elements and illuminates the entire world.",
+      "meaning_hi": "गायत्री माता की आरती करने से सदा भवबन्धन से मुक्ति मिलती है। आपकी तत्त्व शक्ति पंचभूतों में व्याप्त है और सारे जग को प्रकाशित करती है।",
+      "modern_context_en": "Aarti is not just a ritual — it is a moment of total focus, a 'digital detox' where phone, email, and worries are paused, and pure presence takes over.",
+      "modern_context_hi": "आरती केवल अनुष्ठान नहीं — यह पूर्ण एकाग्रता का क्षण है, एक 'डिजिटल डीटॉक्स' जहाँ फोन, ईमेल और चिंताएँ रुक जाती हैं और शुद्ध उपस्थिति हावी होती है।"
+    },
+    {
+      "verse_number": 25,
+      "section": "chaupai",
+      "hindi_text": "अणु-अणु में तुम व्याप्त हो माता, तुम्हीं हो जगत की सूत्रधार विधाता।\nतुम्हरे बिना ये जग ना चले, तुम्हरी कृपा बिन कुछ न फले॥",
+      "transliteration": "Aṇu-aṇu meṃ tum vyāpt ho mātā, tumhīṃ ho jagat kī sūtradhār vidhātā.\nTumhre binā ye jag nā cale, tumhrī kṛpā bin kuch na phale.",
+      "word_by_word": {
+        "अणु-अणु": "every atom",
+        "व्याप्त": "pervading",
+        "सूत्रधार": "director/orchestrator",
+        "विधाता": "creator",
+        "कृपा": "grace",
+        "फले": "bears fruit"
+      },
+      "meaning_en": "O Mother, you pervade every atom of existence — you are the orchestrator and creator of this world. Without you this world cannot function, and without your grace nothing bears fruit.",
+      "meaning_hi": "हे माता, आप अणु-अणु में व्याप्त हैं — आप ही जगत की सूत्रधार और विधाता हैं। आपके बिना यह जग नहीं चले और आपकी कृपा बिना कुछ फलित नहीं होता।",
+      "modern_context_en": "No matter how skilled you are, grace plays a role in every success — the right interview timing, a chance meeting, an unexpected opportunity. Acknowledging this keeps ego in check.",
+      "modern_context_hi": "आप कितने भी कुशल हों, हर सफलता में कृपा की भूमिका होती है — सही समय पर इंटरव्यू, अचानक मुलाकात, अप्रत्याशित अवसर। इसे स्वीकारना अहंकार को काबू रखता है।"
+    },
+    {
+      "verse_number": 26,
+      "section": "chaupai",
+      "hindi_text": "राम कृष्ण ने तुम्हें आराधा, तुमने सबकी विपत्ति संवारा।\nहनुमान ने तुम्हें मनाया, संकट मोचन नाम कमाया॥",
+      "transliteration": "Rām Kṛṣṇa ne tumheṃ ārādhā, tumne sabkī vipatti saṃvārā.\nHanumān ne tumheṃ manāyā, saṅkaṭ mocan nām kamāyā.",
+      "word_by_word": {
+        "राम": "Lord Rama",
+        "कृष्ण": "Lord Krishna",
+        "आराधा": "worshipped",
+        "विपत्ति": "calamity",
+        "संवारा": "set right",
+        "हनुमान": "Lord Hanuman",
+        "मनाया": "propitiated",
+        "संकट मोचन": "remover of difficulties"
+      },
+      "meaning_en": "Rama and Krishna worshipped you, and you resolved everyone's calamities. Hanuman too propitiated you, and thus earned the name 'Remover of Difficulties.'",
+      "meaning_hi": "राम और कृष्ण ने आपकी आराधना की, आपने सबकी विपत्तियाँ सँवारीं। हनुमान ने भी आपको मनाया और 'संकट मोचन' का नाम कमाया।",
+      "modern_context_en": "If the avatars themselves relied on divine wisdom, surely we can humbly seek guidance before making life-changing decisions about career moves, relocation, or family.",
+      "modern_context_hi": "जब अवतारों ने भी दैवी ज्ञान पर भरोसा किया, तो करियर, स्थानांतरण या परिवार के बड़े निर्णयों से पहले विनम्रता से मार्गदर्शन माँगना उचित ही है।"
+    },
+    {
+      "verse_number": 27,
+      "section": "chaupai",
+      "hindi_text": "योगी यति तपस्वी ध्यावें, गायत्री मन्त्र सदा जो गावें।\nध्यान योग की शक्ति बढ़ावें, परम सिद्धि को सहज ही पावें॥",
+      "transliteration": "Yogī yati tapasvī dhyāveṃ, Gāyatrī mantra sadā jo gāveṃ.\nDhyān yog kī śakti baḍhāveṃ, param siddhi ko sahaj hī pāveṃ.",
+      "word_by_word": {
+        "योगी": "yogi",
+        "यति": "ascetic",
+        "तपस्वी": "one who performs austerities",
+        "ध्यावें": "meditate",
+        "ध्यान योग": "meditation and yoga",
+        "शक्ति": "power",
+        "बढ़ावें": "increase",
+        "परम सिद्धि": "supreme attainment",
+        "सहज": "easily/naturally"
+      },
+      "meaning_en": "Yogis, ascetics, and those who practice austerities meditate on you and always chant the Gayatri mantra. This increases their power of meditation and yoga, and they naturally attain supreme spiritual accomplishment.",
+      "meaning_hi": "योगी, यति और तपस्वी आपका ध्यान करते हैं और सदा गायत्री मंत्र गाते हैं। इससे उनकी ध्यान-योग की शक्ति बढ़ती है और वे सहज ही परम सिद्धि पाते हैं।",
+      "modern_context_en": "You do not need to be a monk — combining Gayatri chanting with your morning yoga or meditation routine amplifies both practices and brings noticeable mental clarity within weeks.",
+      "modern_context_hi": "संन्यासी होने की जरूरत नहीं — गायत्री जप को सुबह के योग या ध्यान के साथ जोड़ने से दोनों साधनाएँ प्रबल होती हैं और हफ्तों में मानसिक स्पष्टता दिखने लगती है।"
+    },
+    {
+      "verse_number": 28,
+      "section": "chaupai",
+      "hindi_text": "विद्या बुद्धि प्रदान करो माँ, अन्तर्ज्योति जगा दो माँ।\nसत्संकल्प हृदय में भर दो, विवेक का दीपक जला दो॥",
+      "transliteration": "Vidyā buddhi pradān karo māṃ, antarjyoti jagā do māṃ.\nSatsaṅkalp hṛday meṃ bhar do, vivek kā dīpak jalā do.",
+      "word_by_word": {
+        "विद्या": "knowledge",
+        "बुद्धि": "intellect",
+        "प्रदान": "bestow",
+        "अन्तर्ज्योति": "inner light",
+        "जगा दो": "awaken",
+        "सत्संकल्प": "noble resolution",
+        "विवेक": "discernment",
+        "दीपक": "lamp"
+      },
+      "meaning_en": "O Mother, bestow knowledge and intellect upon us, awaken the inner light. Fill our hearts with noble resolutions and light the lamp of discernment.",
+      "meaning_hi": "हे माँ, विद्या और बुद्धि प्रदान करो, अन्तर्ज्योति जगा दो। हृदय में सत्संकल्प भर दो और विवेक का दीपक जला दो।",
+      "modern_context_en": "Discernment — knowing which job offer to take, which relationship to invest in, when to speak up and when to stay silent — is the most practical spiritual gift for modern life.",
+      "modern_context_hi": "विवेक — कौन सी नौकरी लेनी है, किस रिश्ते में निवेश करना है, कब बोलना है और कब चुप रहना है — यह आधुनिक जीवन का सबसे व्यावहारिक आध्यात्मिक उपहार है।"
+    },
+    {
+      "verse_number": 29,
+      "section": "chaupai",
+      "hindi_text": "तन रोगन को तुम दूर भगावो, मन की पीड़ा तुम मिटावो।\nआत्मा की शुद्धि करो माता, तन मन धन हो सुख विधाता॥",
+      "transliteration": "Tan rogan ko tum dūr bhagāvo, man kī pīḍā tum miṭāvo.\nĀtmā kī śuddhi karo mātā, tan man dhan ho sukh vidhātā.",
+      "word_by_word": {
+        "तन": "body",
+        "रोगन": "diseases",
+        "दूर भगावो": "drive away",
+        "मन": "mind",
+        "पीड़ा": "pain/suffering",
+        "आत्मा": "soul",
+        "शुद्धि": "purification",
+        "धन": "wealth"
+      },
+      "meaning_en": "Drive away diseases from the body, remove the pain of the mind. Purify the soul, O Mother, and grant well-being of body, mind, and wealth.",
+      "meaning_hi": "शरीर के रोगों को दूर भगाओ, मन की पीड़ा मिटाओ। हे माता, आत्मा की शुद्धि करो और तन-मन-धन सुखी करो।",
+      "modern_context_en": "Holistic health — physical exercise, mental peace, and financial stability — is exactly what the Gayatri prayer encompasses. It is not just spiritual; it is a complete wellness mantra.",
+      "modern_context_hi": "समग्र स्वास्थ्य — शारीरिक व्यायाम, मानसिक शांति और आर्थिक स्थिरता — यही गायत्री प्रार्थना समेटती है। यह केवल आध्यात्मिक नहीं, बल्कि सम्पूर्ण कल्याण मंत्र है।"
+    },
+    {
+      "verse_number": 30,
+      "section": "chaupai",
+      "hindi_text": "सत्य अहिंसा धर्म बढ़ावो, प्रेम भाव सब में जगावो।\nपरहित सेवा नित सिखलावो, सद्गुण भक्तन के मन लावो॥",
+      "transliteration": "Satya ahiṃsā dharm baḍhāvo, prem bhāv sab meṃ jagāvo.\nParhit sevā nit sikhlāvo, sadguṇ bhaktan ke man lāvo.",
+      "word_by_word": {
+        "सत्य": "truth",
+        "अहिंसा": "non-violence",
+        "धर्म": "righteousness",
+        "प्रेम भाव": "feeling of love",
+        "परहित": "welfare of others",
+        "सेवा": "service",
+        "सद्गुण": "virtues"
+      },
+      "meaning_en": "Increase truth, non-violence, and righteousness in the world. Awaken love in all hearts, teach us daily service to others, and instill virtues in the hearts of your devotees.",
+      "meaning_hi": "सत्य, अहिंसा और धर्म बढ़ाओ, सबमें प्रेम भाव जगाओ। नित्य परहित सेवा सिखाओ और भक्तों के मन में सद्गुण स्थापित करो।",
+      "modern_context_en": "Volunteering at a local food bank, mentoring a junior colleague, or simply being kind in traffic — these everyday acts of service are the modern expression of the values Gayatri teaches.",
+      "modern_context_hi": "स्थानीय फूड बैंक में सेवा, जूनियर सहकर्मी को मार्गदर्शन, या ट्रैफिक में सिर्फ शालीन होना — ये दैनिक सेवा कार्य गायत्री की सिखाई गई कीमतों की आधुनिक अभिव्यक्ति हैं।"
+    },
+    {
+      "verse_number": 31,
+      "section": "chaupai",
+      "hindi_text": "गायत्री हवन जो करे भाई, पापन की राशि जरत नशाई।\nसुगन्ध फैले दिशा विदिशा, पवित्र होवे सब भूमि दिशा॥",
+      "transliteration": "Gāyatrī havan jo kare bhāī, pāpan kī rāśi jarat naśāī.\nSugandh phaile diśā vidiśā, pavitra hove sab bhūmi diśā.",
+      "word_by_word": {
+        "हवन": "fire ceremony",
+        "पापन": "sins",
+        "राशि": "heap",
+        "जरत": "burns",
+        "नशाई": "destroyed",
+        "सुगन्ध": "fragrance",
+        "दिशा विदिशा": "all directions",
+        "पवित्र": "purified",
+        "भूमि": "earth"
+      },
+      "meaning_en": "One who performs the Gayatri havan sees heaps of sins burned to nothing. Sweet fragrance spreads in all directions, and the entire land becomes purified.",
+      "meaning_hi": "जो गायत्री हवन करता है, उसके पापों की राशि जलकर नष्ट हो जाती है। सुगन्ध सब दिशाओं में फैलती है और सम्पूर्ण भूमि पवित्र हो जाती है।",
+      "modern_context_en": "Even a simple havan at home on weekends — with family gathered around the fire — purifies the atmosphere, brings togetherness, and reconnects children with their heritage.",
+      "modern_context_hi": "सप्ताहांत पर घर पर साधारण हवन भी — परिवार अग्नि के चारों ओर — वातावरण शुद्ध करता है, एकता लाता है और बच्चों को अपनी विरासत से जोड़ता है।"
+    },
+    {
+      "verse_number": 32,
+      "section": "chaupai",
+      "hindi_text": "जो नर गायत्री गुण गावें, सो नर भवसागर तर जावें।\nगायत्री का यश जो सुनावें, सब सुख भोग मोक्ष को पावें॥",
+      "transliteration": "Jo nar Gāyatrī guṇ gāveṃ, so nar bhavasāgar tar jāveṃ.\nGāyatrī kā yaś jo sunāveṃ, sab sukh bhog mokṣ ko pāveṃ.",
+      "word_by_word": {
+        "नर": "person",
+        "गुण": "virtues/qualities",
+        "गावें": "sing",
+        "भवसागर": "ocean of worldly existence",
+        "तर जावें": "cross over",
+        "यश": "glory",
+        "सुनावें": "narrate/share",
+        "सुख भोग": "enjoyment of happiness",
+        "मोक्ष": "liberation"
+      },
+      "meaning_en": "Those who sing the glories of Gayatri cross the ocean of worldly existence. Those who share the glory of Gayatri with others enjoy all happiness and attain liberation.",
+      "meaning_hi": "जो गायत्री के गुण गाते हैं, वे भवसागर पार कर जाते हैं। जो गायत्री का यश दूसरों को सुनाते हैं, वे सब सुख भोगकर मोक्ष पाते हैं।",
+      "modern_context_en": "Sharing spiritual knowledge — sending a mantra recording to a stressed friend, teaching your child a shloka — multiplies the benefit. Spiritual wisdom grows by giving it away.",
+      "modern_context_hi": "आध्यात्मिक ज्ञान बाँटना — तनावग्रस्त मित्र को मंत्र रिकॉर्डिंग भेजना, बच्चे को श्लोक सिखाना — लाभ को कई गुना बढ़ाता है। आध्यात्मिक ज्ञान बाँटने से बढ़ता है।"
+    },
+    {
+      "verse_number": 33,
+      "section": "chaupai",
+      "hindi_text": "चारों वर्ण गायत्री ध्यावें, सब मिल एक समान सुख पावें।\nजाति पाँति कुछ भेद न कोई, गायत्री की कृपा सब होई॥",
+      "transliteration": "Cāroṃ varṇ Gāyatrī dhyāveṃ, sab mil ek samān sukh pāveṃ.\nJāti pāṃti kuch bhed na koī, Gāyatrī kī kṛpā sab hoī.",
+      "word_by_word": {
+        "चारों वर्ण": "all four sections of society",
+        "ध्यावें": "meditate",
+        "एक समान": "equally",
+        "जाति पाँति": "caste and class",
+        "भेद": "discrimination",
+        "कृपा": "grace"
+      },
+      "meaning_en": "All four sections of society may meditate on Gayatri and all receive equal happiness. There is no discrimination of caste or class — Gayatri's grace falls upon everyone.",
+      "meaning_hi": "चारों वर्ण गायत्री का ध्यान करें और सब समान सुख पाएँ। जाति-पाँति का कोई भेद नहीं — गायत्री की कृपा सब पर समान होती है।",
+      "modern_context_en": "In diverse workplaces abroad, respecting everyone equally regardless of background is a core Gayatri teaching. Divine wisdom does not discriminate — and neither should we.",
+      "modern_context_hi": "विदेश में विविध कार्यस्थलों पर, पृष्ठभूमि की परवाह किए बिना सबका समान सम्मान करना गायत्री की मूल शिक्षा है। दैवी ज्ञान भेदभाव नहीं करता — और हमें भी नहीं करना चाहिए।"
+    },
+    {
+      "verse_number": 34,
+      "section": "chaupai",
+      "hindi_text": "गायत्री से बुद्धि बल पावो, सत्कर्मों में चित्त लगावो।\nभ्रम जाल से बाहर आवो, सत्य ज्ञान का भोग लगावो॥",
+      "transliteration": "Gāyatrī se buddhi bal pāvo, satkarmōṃ meṃ citt lagāvo.\nBhram jāl se bāhar āvo, satya jñān kā bhog lagāvo.",
+      "word_by_word": {
+        "बुद्धि बल": "power of intellect",
+        "सत्कर्मों": "good deeds",
+        "चित्त": "mind/consciousness",
+        "भ्रम जाल": "web of illusion",
+        "बाहर आवो": "come out",
+        "सत्य ज्ञान": "true knowledge",
+        "भोग लगावो": "partake/offer"
+      },
+      "meaning_en": "Gain the power of intellect from Gayatri and apply your mind to good deeds. Come out of the web of illusion and partake of the feast of true knowledge.",
+      "meaning_hi": "गायत्री से बुद्धि बल पाओ और सत्कर्मों में चित्त लगाओ। भ्रमजाल से बाहर आओ और सत्य ज्ञान का आनंद लो।",
+      "modern_context_en": "The 'web of illusion' today includes comparison culture on Instagram, keeping up appearances, and chasing metrics over meaning. Gayatri helps cut through these modern māyā traps.",
+      "modern_context_hi": "आज का 'भ्रमजाल' इंस्टाग्राम पर तुलना, दिखावा बनाए रखना और अर्थ की जगह आँकड़ों के पीछे भागना है। गायत्री इन आधुनिक माया के जालों को काटने में मदद करती हैं।"
+    },
+    {
+      "verse_number": 35,
+      "section": "chaupai",
+      "hindi_text": "चौबीस अक्षर मन्त्र महाना, गायत्री है सबका खजाना।\nमन को शुद्ध करे पल माहीं, इससे बड़ मन्त्र कोउ नाहीं॥",
+      "transliteration": "Caubīs akṣar mantra mahānā, Gāyatrī hai sabkā khajānā.\nMan ko śuddh kare pal māhīṃ, isse baḍ mantra kou nāhīṃ.",
+      "word_by_word": {
+        "चौबीस अक्षर": "twenty-four syllables",
+        "मन्त्र": "mantra",
+        "महाना": "great",
+        "खजाना": "treasure",
+        "मन": "mind",
+        "शुद्ध": "purify",
+        "पल": "moment"
+      },
+      "meaning_en": "The great twenty-four-syllable mantra is everyone's treasure. It purifies the mind in an instant — there is no mantra greater than this.",
+      "meaning_hi": "चौबीस अक्षरों का यह महामंत्र सबका खजाना है। यह पल भर में मन को शुद्ध कर देता है — इससे बड़ा कोई मंत्र नहीं।",
+      "modern_context_en": "When anxiety spikes before a presentation or interview, silently chanting the Gayatri mantra even three times can ground you and restore calm — it works like an instant reset button.",
+      "modern_context_hi": "प्रेजेंटेशन या इंटरव्यू से पहले जब चिंता बढ़े, तो मन ही मन तीन बार गायत्री मंत्र का जाप तुरंत शांति लौटा सकता है — यह रीसेट बटन की तरह काम करता है।"
+    },
+    {
+      "verse_number": 36,
+      "section": "chaupai",
+      "hindi_text": "प्रातःकाल उठ जो जन ध्यावें, दिव्य प्रकाश हृदय में पावें।\nसायंकाल फिर ध्यान लगावें, रात्रि सुखद निद्रा को पावें॥",
+      "transliteration": "Prātaḥkāl uṭh jo jan dhyāveṃ, divya prakāś hṛday meṃ pāveṃ.\nSāyaṃkāl phir dhyān lagāveṃ, rātri sukhad nidrā ko pāveṃ.",
+      "word_by_word": {
+        "प्रातःकाल": "early morning",
+        "उठ": "rise",
+        "दिव्य प्रकाश": "divine light",
+        "हृदय": "heart",
+        "सायंकाल": "evening",
+        "ध्यान": "meditation",
+        "रात्रि": "night",
+        "सुखद निद्रा": "peaceful sleep"
+      },
+      "meaning_en": "Those who rise early and meditate receive divine light in their hearts. Those who meditate again in the evening receive peaceful and blissful sleep at night.",
+      "meaning_hi": "जो प्रातःकाल उठकर ध्यान करते हैं, उन्हें हृदय में दिव्य प्रकाश मिलता है। सायंकाल फिर ध्यान लगाने से रात्रि में सुखद निद्रा प्राप्त होती है।",
+      "modern_context_en": "Sleep disorders plague modern professionals. A simple morning-and-evening Gayatri meditation bookends your day with calm, dramatically improving sleep quality without medication.",
+      "modern_context_hi": "नींद की समस्या आधुनिक पेशेवरों को परेशान करती है। सुबह-शाम का सरल गायत्री ध्यान दिन के दोनों छोरों पर शांति देता है और बिना दवा नींद की गुणवत्ता बहुत सुधारता है।"
+    },
+    {
+      "verse_number": 37,
+      "section": "chaupai",
+      "hindi_text": "धन सम्पत्ति की रक्षा करती, संतान को सुख सम्पत्ति भरती।\nगृहस्थ जीवन सुखमय करती, भक्तन की सब कामना पूर्ती॥",
+      "transliteration": "Dhan sampatti kī rakṣā kartī, santān ko sukh sampatti bhartī.\nGṛhasth jīvan sukhmay kartī, bhaktan kī sab kāmnā pūrtī.",
+      "word_by_word": {
+        "धन सम्पत्ति": "wealth and assets",
+        "रक्षा": "protection",
+        "संतान": "children",
+        "सुख": "happiness",
+        "गृहस्थ जीवन": "household life",
+        "सुखमय": "blissful",
+        "कामना पूर्ती": "fulfillment of desires"
+      },
+      "meaning_en": "She protects wealth and assets, and fills children's lives with happiness and prosperity. She makes household life blissful and fulfills all the wishes of her devotees.",
+      "meaning_hi": "वह धन-सम्पत्ति की रक्षा करती हैं, संतान को सुख-समृद्धि देती हैं। गृहस्थ जीवन को सुखमय बनाती हैं और भक्तों की सब कामनाएँ पूर्ण करती हैं।",
+      "modern_context_en": "Financial security, children's well-being, and a harmonious home — these are not 'worldly' concerns to feel guilty about. Gayatri blesses the householder's life as a sacred path in itself.",
+      "modern_context_hi": "आर्थिक सुरक्षा, बच्चों की भलाई और सामंजस्यपूर्ण घर — ये 'सांसारिक' चिंताएँ नहीं जिनसे अपराधबोध हो। गायत्री गृहस्थ जीवन को अपने आप में एक पवित्र मार्ग के रूप में आशीर्वाद देती हैं।"
+    },
+    {
+      "verse_number": 38,
+      "section": "chaupai",
+      "hindi_text": "रोग शोक भय दूर नसावें, दुःस्वप्न से भक्तन बचावें।\nशत्रु बाधा को नष्ट करावें, मंगल ही मंगल बरसावें॥",
+      "transliteration": "Rog śok bhay dūr nasāveṃ, duḥsvapn se bhaktan bacāveṃ.\nŚatru bādhā ko naṣṭ karāveṃ, maṅgal hī maṅgal barsāveṃ.",
+      "word_by_word": {
+        "रोग": "disease",
+        "शोक": "grief",
+        "भय": "fear",
+        "दूर नसावें": "drive far away",
+        "दुःस्वप्न": "nightmares/bad dreams",
+        "शत्रु बाधा": "obstacles from enemies",
+        "नष्ट": "destroy",
+        "मंगल": "auspiciousness"
+      },
+      "meaning_en": "She drives away disease, grief, and fear, and protects devotees from nightmares. She destroys obstacles created by enemies and showers nothing but auspiciousness.",
+      "meaning_hi": "रोग, शोक और भय दूर भगाती हैं, दुःस्वप्नों से भक्तों को बचाती हैं। शत्रु बाधाओं को नष्ट करती हैं और मंगल ही मंगल बरसाती हैं।",
+      "modern_context_en": "The 'enemies' of modern life are not people — they are anxiety, self-doubt, procrastination, and burnout. Gayatri's protection works against these inner adversaries just as powerfully.",
+      "modern_context_hi": "आधुनिक जीवन के 'शत्रु' लोग नहीं — चिंता, आत्म-संदेह, टालमटोल और बर्नआउट हैं। गायत्री की सुरक्षा इन आंतरिक शत्रुओं के विरुद्ध भी उतनी ही शक्तिशाली है।"
+    },
+    {
+      "verse_number": 39,
+      "section": "chaupai",
+      "hindi_text": "सुमिरन करत सुखी सब भाई, ध्यान धरत मन में शुचि आई।\nगायत्री का पाठ जो करही, सो जन भवसागर से तरही॥",
+      "transliteration": "Sumiran karat sukhī sab bhāī, dhyān dharat man meṃ śuci āī.\nGāyatrī kā pāṭh jo karahī, so jan bhavasāgar se tarahī.",
+      "word_by_word": {
+        "सुमिरन": "remembrance/recitation",
+        "सुखी": "happy",
+        "ध्यान": "meditation",
+        "शुचि": "purity",
+        "पाठ": "recitation",
+        "भवसागर": "ocean of worldly existence",
+        "तरही": "crosses"
+      },
+      "meaning_en": "All who practice remembrance become happy; all who meditate find purity entering their minds. Those who recite the Gayatri text cross the ocean of worldly existence.",
+      "meaning_hi": "सुमिरन करने से सब सुखी होते हैं, ध्यान लगाने से मन में शुचिता आती है। जो गायत्री का पाठ करते हैं, वे भवसागर पार कर जाते हैं।",
+      "modern_context_en": "The ocean you need to cross is not mythical — it is the daily grind of commutes, deadlines, and domestic duties. Daily recitation makes that ocean feel navigable and even meaningful.",
+      "modern_context_hi": "जो सागर पार करना है वह पौराणिक नहीं — यह रोज़मर्रा की आवाजाही, डेडलाइन और घरेलू कर्तव्यों की भागदौड़ है। दैनिक पाठ इस सागर को सुगम और अर्थपूर्ण बना देता है।"
+    },
+    {
+      "verse_number": 40,
+      "section": "chaupai",
+      "hindi_text": "गायत्री तुम्हारी शरण में आया, पतित पावनी तुमने अपनाया।\nचालीसा गायत्री का गाऊँ, जन्म-जन्म का पाप नशाऊँ॥",
+      "transliteration": "Gāyatrī tumhārī śaraṇ meṃ āyā, patit pāvanī tumne apnāyā.\nCālīsā Gāyatrī kā gāūṃ, janma-janma kā pāp naśāūṃ.",
+      "word_by_word": {
+        "शरण": "refuge",
+        "पतित पावनी": "purifier of the fallen",
+        "अपनाया": "accepted/embraced",
+        "चालीसा": "forty verses",
+        "गाऊँ": "I sing",
+        "जन्म-जन्म": "birth after birth",
+        "पाप": "sins",
+        "नशाऊँ": "destroy"
+      },
+      "meaning_en": "I have come to your refuge, O Gayatri, and you, the purifier of the fallen, have embraced me. I sing this Chalisa of Gayatri to destroy the sins accumulated over many lifetimes.",
+      "meaning_hi": "हे गायत्री, मैं आपकी शरण में आया हूँ और पतित पावनी आपने मुझे अपना लिया। मैं गायत्री चालीसा गाता हूँ ताकि जन्म-जन्मान्तर के पाप नष्ट हों।",
+      "modern_context_en": "You do not have to be perfect to begin a spiritual practice — Gayatri embraces the fallen. Start where you are, with whatever baggage you carry, and she meets you there.",
+      "modern_context_hi": "आध्यात्मिक साधना शुरू करने के लिए परिपूर्ण होना जरूरी नहीं — गायत्री पतितों को भी अपनाती हैं। जहाँ हैं वहीं से शुरू करें, जो भी बोझ हो, वह वहीं मिलती हैं।"
+    },
+    {
+      "verse_number": 41,
+      "section": "chaupai",
+      "hindi_text": "नित्य प्रेम से जो यह गावें, जीवन में सब सुख पावें।\nगायत्री व्रत नेम से कीजे, सकल मनोरथ पूर्ण हो लीजे॥",
+      "transliteration": "Nitya prem se jo yah gāveṃ, jīvan meṃ sab sukh pāveṃ.\nGāyatrī vrat nem se kīje, sakal manorath pūrṇ ho līje.",
+      "word_by_word": {
+        "नित्य": "daily",
+        "प्रेम": "love",
+        "गावें": "sing",
+        "सुख": "happiness",
+        "व्रत": "vow/observance",
+        "नेम": "discipline/regularity",
+        "सकल मनोरथ": "all heart's desires",
+        "पूर्ण": "fulfilled"
+      },
+      "meaning_en": "Those who sing this daily with love attain all happiness in life. Observe the Gayatri vow with discipline and regularity, and all heart's desires shall be fulfilled.",
+      "meaning_hi": "जो इसे नित्य प्रेम से गाते हैं, वे जीवन में सब सुख पाते हैं। गायत्री व्रत नियम से करें और सकल मनोरथ पूर्ण हों।",
+      "modern_context_en": "The secret is not intensity but consistency — singing this chalisa daily for even 40 days with love creates a spiritual momentum that transforms habits and outlook.",
+      "modern_context_hi": "रहस्य तीव्रता नहीं बल्कि निरंतरता है — इस चालीसा को 40 दिन प्रेम से रोज गाने से एक आध्यात्मिक गति बनती है जो आदतें और दृष्टिकोण बदल देती है।"
+    },
+    {
+      "verse_number": 42,
+      "section": "chaupai",
+      "hindi_text": "यह चालीसा गायत्री केरी, करो सदा जय जयकार घनेरी।\nगायत्री माँ तेरी जय हो, सबके जीवन में सुख भय हो॥",
+      "transliteration": "Yah cālīsā Gāyatrī kerī, karo sadā jay jaykār ghanerī.\nGāyatrī māṃ terī jay ho, sabke jīvan meṃ sukh abhay ho.",
+      "word_by_word": {
+        "चालीसा": "forty verses",
+        "केरी": "of",
+        "जय जयकार": "victory cries",
+        "घनेरी": "abundant",
+        "जय": "glory",
+        "सुख": "happiness",
+        "अभय": "fearlessness"
+      },
+      "meaning_en": "This is the Chalisa of Gayatri — always raise abundant cries of victory! Glory to you, Mother Gayatri — may happiness and fearlessness fill everyone's life.",
+      "meaning_hi": "यह गायत्री चालीसा है — सदा उनकी जय-जयकार करो! गायत्री माँ की जय हो — सबके जीवन में सुख और अभय हो।",
+      "modern_context_en": "Fearlessness is not the absence of fear — it is the confidence that you are guided. With Gayatri's grace, you can face visa renewals, job changes, and health scares with steady courage.",
+      "modern_context_hi": "अभय का अर्थ भय का न होना नहीं — यह विश्वास है कि आपका मार्गदर्शन हो रहा है। गायत्री कृपा से वीजा नवीनीकरण, नौकरी बदलना और स्वास्थ्य चिंताओं का सामना स्थिर साहस से किया जा सकता है।"
+    },
+    {
+      "verse_number": 43,
+      "section": "doha_closing",
+      "hindi_text": "गायत्री चालीसा पढ़, करे मन में विचार।\nभक्ति ज्ञान वैराग्य सब, मिले जन्म जन्म उपकार॥",
+      "transliteration": "Gāyatrī cālīsā paḍh, kare man meṃ vicār.\nBhakti jñān vairāgya sab, mile janma janma upkār.",
+      "word_by_word": {
+        "चालीसा": "chalisa",
+        "पढ़": "read",
+        "मन": "mind",
+        "विचार": "reflection/contemplation",
+        "भक्ति": "devotion",
+        "ज्ञान": "knowledge",
+        "वैराग्य": "detachment",
+        "जन्म जन्म": "birth after birth",
+        "उपकार": "benefit"
+      },
+      "meaning_en": "Read the Gayatri Chalisa and contemplate its meaning in your mind. You shall receive devotion, knowledge, and detachment — blessings that benefit you across lifetimes.",
+      "meaning_hi": "गायत्री चालीसा पढ़कर मन में विचार करो। भक्ति, ज्ञान और वैराग्य सब मिलेंगे — जन्म-जन्मान्तर का उपकार होगा।",
+      "modern_context_en": "Reading is step one — but reflection is the real practice. After recitation, sit quietly for even two minutes and let the words settle. That is where transformation begins.",
+      "modern_context_hi": "पढ़ना पहला कदम है — लेकिन चिंतन ही वास्तविक साधना है। पाठ के बाद दो मिनट शांत बैठें और शब्दों को मन में उतरने दें। वहीं से बदलाव शुरू होता है।"
+    },
+    {
+      "verse_number": 44,
+      "section": "doha_closing",
+      "hindi_text": "गायत्री माता की जय, बुद्धि दात्री अम्बे माय।\nचालीसा जो नित्य पढ़े, कष्ट सकल मिट जाय॥",
+      "transliteration": "Gāyatrī mātā kī jay, buddhi dātrī Ambe māy.\nCālīsā jo nitya paḍhe, kaṣṭ sakal miṭ jāy.",
+      "word_by_word": {
+        "जय": "glory/victory",
+        "बुद्धि दात्री": "bestower of intellect",
+        "अम्बे माय": "Mother Amba",
+        "नित्य": "daily",
+        "पढ़े": "reads",
+        "कष्ट": "sufferings",
+        "सकल": "all",
+        "मिट जाय": "are erased"
+      },
+      "meaning_en": "Glory to Mother Gayatri, the bestower of intellect, O Mother Amba! Whoever reads this Chalisa daily — all their sufferings are completely erased.",
+      "meaning_hi": "गायत्री माता की जय हो, बुद्धि देने वाली अम्बे माँ की जय! जो नित्य यह चालीसा पढ़ता है, उसके सकल कष्ट मिट जाते हैं।",
+      "modern_context_en": "This is the final promise and the simplest instruction: read it daily, with faith and love. The intellect sharpens, suffering diminishes, and clarity — the greatest gift — becomes your daily companion.",
+      "modern_context_hi": "यह अंतिम वचन और सबसे सरल निर्देश है: रोज पढ़ें, श्रद्धा और प्रेम से। बुद्धि तेज होती है, कष्ट कम होते हैं, और स्पष्टता — सबसे बड़ा उपहार — आपकी दैनिक साथी बन जाती है।"
+    }
+  ]
+}

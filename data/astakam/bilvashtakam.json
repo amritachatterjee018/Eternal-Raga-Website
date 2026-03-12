@@ -1,0 +1,218 @@
+{
+  "id": "bilvashtakam",
+  "title_en": "Bilvashtakam",
+  "title_hi": "बिल्वाष्टकम्",
+  "deity": "shiva",
+  "author": "Adi Shankaracharya",
+  "author_hi": "आदि शंकराचार्य",
+  "type": "ashtakam",
+  "language": "sanskrit",
+  "total_verses": 8,
+  "sections": [
+    "stuti"
+  ],
+  "description_en": "Eight-verse hymn on the glory of Bilva leaves offered to the Shiva Lingam. Extols bilva patra as the most sacred offering and the liberation it grants.",
+  "description_hi": "शिवलिंग पर बेलपत्र अर्पण की महिमा का आठ श्लोकों का स्तोत्र।",
+  "recitation_benefits": [
+    "Purifies all sins",
+    "Pleases Lord Shiva",
+    "Grants merit of all Shiva worship",
+    "Bestows liberation",
+    "Removes obstacles"
+  ],
+  "best_time_to_recite": [
+    "Monday",
+    "Maha Shivaratri",
+    "Pradosh Vrat",
+    "During Shiva Puja",
+    "Shravan month"
+  ],
+  "verses": [
+    {
+      "verse_number": 1,
+      "section": "stuti",
+      "hindi_text": "त्रिदलं त्रिगुणाकारं त्रिनेत्रं च त्रयायुधम्।\nत्रिजन्मपापसंहारं एकबिल्वं शिवार्पणम्।।१।।",
+      "transliteration": "tridalaṃ triguṇākāraṃ trinetraṃ ca trayāyudham।\ntrijenmasāpasaṃhāraṃ ekabilvaṃ śivārpaṇam।।1।।",
+      "word_by_word": {
+        "tridalam": "three-leafed",
+        "triguṇākāram": "representing the three guṇas (sattva, rajas, tamas)",
+        "trinetraṃ": "three-eyed (like Shiva)",
+        "trayāyudham": "three weapons",
+        "trijenma": "three births",
+        "pāpa": "sins",
+        "saṃhāram": "destroyer",
+        "eka": "one / single",
+        "bilvam": "bilva leaf",
+        "śivārpaṇam": "offered to Shiva"
+      },
+      "meaning_en": "The three-leafed bilva represents the three guṇas of nature, the three eyes of Shiva, and His trident weapon. Offering even a single such leaf destroys the accumulated sins of three lifetimes. This one act of devotion with a bilva leaf is the highest offering to Lord Shiva.",
+      "meaning_hi": "तीन पत्तियों वाला बिल्व पत्र त्रिगुण, त्रिनेत्र और त्रिशूल का प्रतीक है। एक भी बिल्व पत्र शिव को अर्पित करने से तीन जन्मों के पाप नष्ट हो जाते हैं। यह एकमात्र अर्पण भगवान शिव को अत्यंत प्रिय है।",
+      "modern_context_en": "In today's busy world, we often feel weighed down by guilt, regret, and the accumulated stress of years of wrong choices. The bilva leaf reminds us that a single sincere act of surrender to the divine can dissolve burdens far greater than we imagine. Even during a morning commute or lunch break, pausing to mentally offer one's actions to Shiva carries this transformative power.",
+      "modern_context_hi": "आज की भागदौड़ भरी जिंदगी में हम अक्सर पुराने पछतावे और गलतियों के बोझ तले दबे रहते हैं। बिल्व पत्र हमें यह याद दिलाता है कि एक सच्चे समर्पण से कई जन्मों के बोझ भी हल्के हो सकते हैं। सुबह मंदिर जाते वक्त या घर पर ही एक बिल्व पत्र शिव को अर्पित करना हमारे दिन को सकारात्मक ऊर्जा से भर देता है।"
+    },
+    {
+      "verse_number": 2,
+      "section": "stuti",
+      "hindi_text": "त्रिशाखैः बिल्वपत्रैश्च अच्छिद्रैः कोमलैः शुभैः।\nशिवपूजां करिष्यामि एकबिल्वं शिवार्पणम्।।२।।",
+      "transliteration": "triśākhaiḥ bilvapatraiśca acchidhraiḥ komalaiḥ śubhaiḥ।\nśivapūjāṃ kariṣyāmi ekabilvaṃ śivārpaṇam।।2।।",
+      "word_by_word": {
+        "triśākhaiḥ": "with three branches/stems",
+        "bilvapatraiḥ": "with bilva leaves",
+        "acchidhraiḥ": "without holes or blemishes",
+        "komalaiḥ": "tender, soft",
+        "śubhaiḥ": "auspicious",
+        "śiva": "Shiva",
+        "pūjām": "worship",
+        "kariṣyāmi": "I shall perform",
+        "ekam": "one",
+        "bilvam": "bilva leaf",
+        "śivārpaṇam": "offered to Shiva"
+      },
+      "meaning_en": "With three-branched bilva leaves that are unblemished, tender, and auspicious, I shall perform the worship of Lord Shiva. Such perfect leaves, whole and untorn, represent the purity of heart one brings to devotion. Even a single such offering made with sincerity becomes the supreme act of Shiva's worship.",
+      "meaning_hi": "तीन शाखाओं वाले, बिना छेद के, कोमल और शुभ बिल्व पत्रों से मैं शिव की पूजा करूँगा। ऐसे निर्दोष पत्र भक्त के शुद्ध हृदय का प्रतीक हैं। इस प्रकार का एक भी बिल्व पत्र शिव को अर्पित करना सर्वोत्तम पूजा है।",
+      "modern_context_en": "Just as we carefully select the best ingredients when cooking for a loved one, this verse teaches us to bring our finest attention and care into our spiritual practice. In an age of distracted, hurried rituals performed while scrolling phones, the emphasis on choosing an unblemished leaf calls us back to mindful, intentional worship. The quality of our inner attention matters far more than the grandeur of any outward offering.",
+      "modern_context_hi": "जैसे हम किसी प्रिय के लिए खाना बनाते समय सबसे अच्छी सामग्री चुनते हैं, वैसे ही पूजा में भी हमें सर्वोत्तम ध्यान और भाव लाना चाहिए। आजकल मोबाइल देखते हुए जल्दी-जल्दी पूजा करने की आदत से बचना जरूरी है। बिना दोष के बिल्व पत्र का चुनाव हमें सिखाता है कि ईश्वर को हमारा पूरा और एकाग्र ध्यान चाहिए।"
+    },
+    {
+      "verse_number": 3,
+      "section": "stuti",
+      "hindi_text": "कोटिकन्याप्रदानस्य सम्प्राप्तस्य फलं लभेत्।\nकाशीक्षेत्रे निवासस्य एकबिल्वं शिवार्पणम्।।३।।",
+      "transliteration": "koṭikanyāpradānasya samprāptasya phalaṃ labhet।\nkāśīkṣetre nivāsasya ekabilvaṃ śivārpaṇam।।3।।",
+      "word_by_word": {
+        "koṭi": "crore / ten million",
+        "kanyā": "maidens / daughters",
+        "pradānasya": "of the act of giving in charity",
+        "samprāptasya": "fully obtained",
+        "phalam": "fruit / merit",
+        "labhet": "one obtains",
+        "kāśī": "Varanasi, the holy city",
+        "kṣetre": "in the sacred field / region",
+        "nivāsasya": "of residing",
+        "ekam": "one",
+        "bilvam": "bilva leaf",
+        "śivārpaṇam": "offered to Shiva"
+      },
+      "meaning_en": "The merit equivalent to donating ten million maidens in charity, and the merit of residing in the holy city of Kashi — all of this is obtained by offering a single bilva leaf to Lord Shiva. The sacred power of the bilva thus surpasses even the most exalted acts of worldly charity and pilgrimage. No pilgrimage or donation can match this simplest of devotional acts.",
+      "meaning_hi": "करोड़ों कन्यादान करने का फल और काशी क्षेत्र में निवास करने का पुण्य — ये सब एक बिल्व पत्र शिव को अर्पित करने से प्राप्त होते हैं। बिल्व की पवित्रता सभी दान और तीर्थयात्राओं से बढ़कर है। इतना सरल कार्य करने से इतना महान फल मिलता है।",
+      "modern_context_en": "We often feel that genuine spiritual merit requires grand gestures — large donations, expensive pilgrimages, or elaborate rituals that are out of reach for ordinary people. This verse democratizes devotion, assuring us that a simple, heartfelt offering available to anyone carries immeasurable spiritual weight. Whether you are a student with limited means or a professional with little time, the bilva leaf levels the spiritual playing field completely.",
+      "modern_context_hi": "हम अक्सर सोचते हैं कि असली पुण्य के लिए बड़े दान या महंगी तीर्थयात्राएँ जरूरी हैं जो हर किसी के बस की बात नहीं। यह श्लोक हमें बताता है कि एक सरल बिल्व पत्र की भक्ति सबसे बड़े दान से भी ज्यादा फलदायी है। चाहे आप कॉलेज के छात्र हों या कामकाजी व्यक्ति, शिव की भक्ति सबके लिए समान रूप से उपलब्ध है।"
+    },
+    {
+      "verse_number": 4,
+      "section": "stuti",
+      "hindi_text": "दन्तिकोटिसहस्रेषु अश्वमेधशतेषु च।\nकोटिकन्याप्रदानेन एकबिल्वं शिवार्पणम्।।४।।",
+      "transliteration": "dantīkoṭisahasreṣu aśvamedhaśateṣu ca।\nkoṭikanyāpradānena ekabilvaṃ śivārpaṇam।।4।।",
+      "word_by_word": {
+        "dantī": "elephant",
+        "koṭi": "crore",
+        "sahasreṣu": "in thousands",
+        "aśvamedha": "horse sacrifice (Vedic ritual)",
+        "śateṣu": "in hundreds",
+        "ca": "and",
+        "kanyā": "maidens",
+        "pradānena": "by the act of gifting",
+        "ekam": "one",
+        "bilvam": "bilva leaf",
+        "śivārpaṇam": "offered to Shiva"
+      },
+      "meaning_en": "The merit of gifting thousands of crores of elephants, performing hundreds of Ashvamedha horse sacrifices, and donating crores of maidens in charity — all this is equaled by offering a single bilva leaf to Lord Shiva. The most powerful Vedic rituals and the most lavish royal donations pale before this humble leaf. Such is the incomparable glory of the bilva offered with devotion.",
+      "meaning_hi": "हजारों करोड़ हाथियों के दान का, सैकड़ों अश्वमेध यज्ञों का और करोड़ों कन्यादान का पुण्य — ये सब एक बिल्व पत्र शिव को अर्पित करने के बराबर हैं। सबसे शक्तिशाली वैदिक अनुष्ठान भी इस साधारण पत्ते के सामने फीके पड़ जाते हैं। भक्ति से अर्पित एक बिल्व की महिमा अतुलनीय है।",
+      "modern_context_en": "In today's world of social media, we often measure our spiritual worth by how much we publicly donate, how many temples we build, or how many religious events we sponsor. This verse gently deflates the ego of performance-based spirituality, reminding us that inner sincerity expressed through the humblest means outweighs all outward spectacle. True devotion is not about the size of your Instagram donation post but the depth of your surrender.",
+      "modern_context_hi": "आज सोशल मीडिया के युग में हम अपनी आध्यात्मिकता को दान की रसीदों या मंदिर निर्माण की तस्वीरों से मापते हैं। यह श्लोक दिखावे की भक्ति को विनम्रता से चुनौती देता है और कहता है कि सच्ची श्रद्धा से चढ़ाया गया एक बिल्व पत्र सब दिखावे से बढ़कर है। असली भक्ति Instagram पर नहीं, दिल की गहराई में होती है।"
+    },
+    {
+      "verse_number": 5,
+      "section": "stuti",
+      "hindi_text": "लक्ष्म्यास्तनुतसंभूतं महादेवस्य च प्रियम्।\nबिल्ववृक्षं प्रयच्छामि एकबिल्वं शिवार्पणम्।।५।।",
+      "transliteration": "lakṣmyāstanutasaṃbhūtaṃ mahādevasya ca priyam।\nbilvavṛkṣaṃ prayacchāmi ekabilvaṃ śivārpaṇam।।5।।",
+      "word_by_word": {
+        "lakṣmyāḥ": "of Goddess Lakshmi",
+        "tanu": "body",
+        "sambhūtam": "born from / originated from",
+        "mahādevasya": "of Mahadeva (Shiva)",
+        "ca": "and",
+        "priyam": "dear / beloved",
+        "bilva": "bilva",
+        "vṛkṣam": "tree",
+        "prayacchāmi": "I offer / I give",
+        "ekam": "one",
+        "bilvam": "bilva leaf",
+        "śivārpaṇam": "offered to Shiva"
+      },
+      "meaning_en": "The bilva tree is said to have originated from the body of Goddess Lakshmi herself, and it is most beloved of Lord Mahadeva Shiva. By offering this sacred tree's leaf, one connects the divine energies of both Lakshmi and Shiva in a single act of worship. I offer this bilva leaf, born of divine grace and dear to the Supreme Lord.",
+      "meaning_hi": "बिल्व वृक्ष स्वयं देवी लक्ष्मी के शरीर से उत्पन्न हुआ है और महादेव शिव को अत्यंत प्रिय है। इस पवित्र वृक्ष के पत्ते अर्पित करने से लक्ष्मी और शिव दोनों की दिव्य शक्तियाँ एक साथ आह्वान होती हैं। मैं यह बिल्व पत्र, जो दिव्य कृपा से जन्मा है, शिव को अर्पित करता हूँ।",
+      "modern_context_en": "The bilva tree being born of Lakshmi and dear to Shiva reminds us that prosperity and spiritual liberation are not opposites but complementary gifts from the divine. Many modern professionals feel torn between pursuing material success and seeking inner peace, as if one cancels out the other. This verse assures us that the same divine grace that brings abundance also leads us to Shiva's feet of liberation.",
+      "modern_context_hi": "बिल्व का लक्ष्मी से जन्म और शिव को प्रिय होना हमें बताता है कि समृद्धि और मोक्ष विरोधी नहीं बल्कि एक-दूसरे के पूरक हैं। आज कई लोग सोचते हैं कि पैसा कमाना और आध्यात्मिक होना साथ-साथ नहीं चल सकते। यह श्लोक हमें भरोसा दिलाता है कि जो शक्ति हमें समृद्धि देती है, वही हमें मुक्ति के मार्ग पर भी ले जाती है।"
+    },
+    {
+      "verse_number": 6,
+      "section": "stuti",
+      "hindi_text": "दर्शनं बिल्ववृक्षस्य स्पर्शनं पापनाशनम्।\nअघोरपापसंहारं एकबिल्वं शिवार्पणम्।।६।।",
+      "transliteration": "darśanaṃ bilvavṛkṣasya sparśanaṃ pāpanāśanam।\naghorapāpasaṃhāraṃ ekabilvaṃ śivārpaṇam।।6।।",
+      "word_by_word": {
+        "darśanam": "sight / beholding",
+        "bilva": "bilva",
+        "vṛkṣasya": "of the tree",
+        "sparśanam": "touching",
+        "pāpa": "sin",
+        "nāśanam": "destruction / remover",
+        "aghora": "terrible / fierce",
+        "saṃhāram": "destroyer",
+        "ekam": "one",
+        "bilvam": "bilva leaf",
+        "śivārpaṇam": "offered to Shiva"
+      },
+      "meaning_en": "The mere sight of the bilva tree is purifying, and its touch destroys sin completely. Even the gravest and most terrible sins are annihilated by offering a single bilva leaf to Lord Shiva. Such is the infinite compassion of Shiva that He accepts this simplest gift and grants the greatest liberation in return.",
+      "meaning_hi": "बिल्व वृक्ष को केवल देखना पवित्र करता है और उसे छूना पाप नष्ट करता है। सबसे भयंकर पाप भी शिव को एक बिल्व पत्र अर्पित करने से नष्ट हो जाते हैं। शिव की असीम करुणा है कि वे इस सरल भेंट को स्वीकार कर सबसे बड़ी मुक्ति प्रदान करते हैं।",
+      "modern_context_en": "We carry invisible emotional and moral burdens from years of hurt we have caused others, ethical compromises we have made under pressure, and choices we deeply regret. This verse offers genuine spiritual reassurance — not as a bypass of accountability, but as a reminder that divine grace is always greater than our accumulated wrongdoing. Simply walking near a bilva tree in a temple garden or park with mindful awareness can begin the process of inner healing.",
+      "modern_context_hi": "हम सभी वर्षों के पछतावे, किसी को पहुँचाई तकलीफ और मजबूरी में किए समझौतों का बोझ अपने मन में लिए चलते हैं। यह श्लोक हमें सच्चा आध्यात्मिक आश्वासन देता है कि ईश्वर की कृपा हमारी सभी गलतियों से बड़ी है। मंदिर में या बगीचे में बिल्व वृक्ष को सचेतन मन से देखना और छूना भी हमारी आंतरिक शुद्धि शुरू कर देता है।"
+    },
+    {
+      "verse_number": 7,
+      "section": "stuti",
+      "hindi_text": "काशीक्षेत्रनिवासश्च कालभैरवदर्शनम्।\nप्रयागमाधवं दृष्ट्वा एकबिल्वं शिवार्पणम्।।७।।",
+      "transliteration": "kāśīkṣetraniavāsaśca kālabhairavadaṛśanam।\nprayāgamādhavaṃ dṛṣṭvā ekabilvaṃ śivārpaṇam।।7।।",
+      "word_by_word": {
+        "kāśī": "Varanasi / Kashi",
+        "kṣetra": "sacred field / holy region",
+        "nivāsaḥ": "residence / dwelling",
+        "ca": "and",
+        "kālabhairava": "Kala Bhairava (fierce form of Shiva)",
+        "darśanam": "beholding / vision",
+        "prayāga": "Prayag (Allahabad)",
+        "mādhavam": "Madhava (Vishnu at Prayag)",
+        "dṛṣṭvā": "having seen",
+        "ekam": "one",
+        "bilvam": "bilva leaf",
+        "śivārpaṇam": "offered to Shiva"
+      },
+      "meaning_en": "The merit of residing in the holy city of Kashi, beholding the fierce and liberating form of Kala Bhairava, and having the blessed vision of Lord Madhava at Prayaga — all this spiritual wealth is contained in the offering of a single bilva leaf to Shiva. The sacred geography of the entire subcontinent is compressed into this one humble leaf. Wherever one stands, this offering connects them to every holy site simultaneously.",
+      "meaning_hi": "काशी क्षेत्र में रहने का पुण्य, काल भैरव के दर्शन का फल और प्रयाग में माधव के दर्शन की कृपा — ये सारा आध्यात्मिक वैभव एक बिल्व पत्र शिव को अर्पित करने में समाया हुआ है। समस्त भारत की पवित्र भूमि का सार इस एक पत्ते में है। जहाँ भी हों, यह अर्पण हमें सभी तीर्थों से एक साथ जोड़ देता है।",
+      "modern_context_en": "In an era of packed schedules, expensive travel, and demanding responsibilities, most of us cannot simply pack up and move to Kashi or embark on extended pilgrimages to Prayag. This verse is profoundly liberating for the modern seeker — it confirms that the divine grace of all sacred spaces is accessible from your own home, office, or apartment, through the sincere offering of a bilva leaf. Geography need never be a barrier to the deepest spiritual merit.",
+      "modern_context_hi": "आज की व्यस्त जीवनशैली में काशी में रहना या प्रयाग की तीर्थयात्रा करना हर किसी के लिए संभव नहीं है। यह श्लोक आधुनिक साधक के लिए गहरी राहत लेकर आता है — यह बताता है कि अपने घर, दफ्तर या अपार्टमेंट से भी एक बिल्व पत्र की सच्ची भेंट से सभी तीर्थों का पुण्य मिल सकता है। तीर्थयात्रा न कर पाना अब आध्यात्मिक उन्नति की राह में बाधा नहीं है।"
+    },
+    {
+      "verse_number": 8,
+      "section": "phalaśruti",
+      "hindi_text": "मूलतो ब्रह्मरूपाय मध्यतो विष्णुरूपिणे।\nअग्रतः शिवरूपाय एकबिल्वं शिवार्पणम्।।८।।",
+      "transliteration": "mūlato brahmarūpāya madhyato viṣṇurūpiṇe।\nagrataḥ śivarūpāya ekabilvaṃ śivārpaṇam।।8।।",
+      "word_by_word": {
+        "mūlataḥ": "at the root",
+        "brahmarūpāya": "in the form of Brahma",
+        "madhyataḥ": "in the middle",
+        "viṣṇurūpiṇe": "in the form of Vishnu",
+        "agrataḥ": "at the tip",
+        "śivarūpāya": "in the form of Shiva",
+        "ekam": "one",
+        "bilvam": "bilva leaf",
+        "śivārpaṇam": "offered to Shiva",
+        "ca": "and",
+        "tridevāya": "to the three gods collectively"
+      },
+      "meaning_en": "The root of the bilva leaf embodies Lord Brahma the Creator, its middle portion embodies Lord Vishnu the Sustainer, and its tip embodies Lord Shiva the Destroyer. Thus, a single three-petalled bilva leaf contains within it the entire Trimurti — the complete divine trinity that governs the cosmos. By offering one bilva leaf to Shiva, one simultaneously worships all three cosmic powers, completing the cycle of creation, preservation, and liberation.",
+      "meaning_hi": "बिल्व पत्र की जड़ में ब्रह्मा, मध्य में विष्णु और अग्र भाग में शिव विराजमान हैं। इस प्रकार एक तीन पत्तियों वाले बिल्व पत्र में सम्पूर्ण त्रिमूर्ति समाई हुई है। शिव को एक बिल्व पत्र अर्पित करने से तीनों देवों की एक साथ पूजा होती है और सृष्टि, पालन और मोक्ष का चक्र पूर्ण होता है।",
+      "modern_context_en": "This final verse reveals the ultimate cosmic secret of the bilva leaf — it is not merely a plant but a living symbol of the entire universe's divine governance. For modern seekers who feel overwhelmed by the complexity of Hindu theology with its many deities and traditions, this verse offers a beautiful simplification: one leaf, one offering, three cosmic powers honored, all of existence embraced. In a single humble act of placing a bilva leaf before the Shiva lingam, we participate consciously in the grand rhythm of creation, sustenance, and transcendence that underlies all of life.",
+      "modern_context_hi": "यह अंतिम श्लोक बिल्व पत्र का परम रहस्य उद्घाटित करता है — यह केवल एक पत्ता नहीं, बल्कि पूरे ब्रह्मांड की दिव्य व्यवस्था का जीवित प्रतीक है। जो आधुनिक साधक हिंदू देवताओं की बहुलता से भ्रमित होते हैं, उनके लिए यह श्लोक एक सुंदर सरलीकरण है — एक पत्ता, एक अर्पण, तीनों देव एक साथ। शिव लिंग पर बिल्व पत्र रखने के इस छोटे से कार्य में हम सृष्टि, पालन और मोक्ष के विराट चक्र में सचेतन रूप से भाग लेते हैं।"
+    }
+  ]
+}

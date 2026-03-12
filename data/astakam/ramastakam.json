@@ -1,0 +1,212 @@
+{
+  "id": "ramastakam",
+  "title_en": "Ramastakam",
+  "title_hi": "रामाष्टकम्",
+  "deity": "rama",
+  "author": "Traditional",
+  "author_hi": "पारंपरिक",
+  "language": "sanskrit",
+  "total_verses": 8,
+  "sections": [
+    "stuti"
+  ],
+  "description_en": "Eight auspicious verses glorifying the divine form, virtues, and boundless compassion of Lord Rama. A beloved morning prayer celebrating the beauty, valor, and grace of Shri Rama, son of Dasharatha.",
+  "description_hi": "श्री राम की दिव्य छवि और गुणों का आठ श्लोकों में वर्णन।",
+  "recitation_benefits": [
+    "Grants Rama blessings",
+    "Removes all sins",
+    "Bestows victory",
+    "Brings peace of mind",
+    "Fulfills righteous desires"
+  ],
+  "best_time_to_recite": [
+    "Ram Navami",
+    "Morning prayer",
+    "Sundays",
+    "During Ramayana recitation",
+    "Hanuman Jayanti"
+  ],
+  "verses": [
+    {
+      "verse_number": 1,
+      "section": "stuti",
+      "hindi_text": "॥१॥\nभजे विशेषसुन्दरं समस्तपापखण्डनम्।\nस्वभक्तचित्तरञ्जनं सदैव रामचन्द्रकम्॥",
+      "transliteration": "॥1॥\nbhaje viśeṣasundaraṃ samastapāpakhaṇḍanam।\nsvabhaktacittarañjanaṃ sadaiva rāmacandrakam॥",
+      "word_by_word": {
+        "भजे": "I worship",
+        "विशेष": "especially, uniquely",
+        "सुन्दरम्": "beautiful",
+        "समस्त": "all, entire",
+        "पाप": "sins",
+        "खण्डनम्": "destroyer",
+        "स्वभक्त": "own devotees",
+        "चित्त": "mind, heart",
+        "रञ्जनम्": "one who delights",
+        "सदैव": "always, ever",
+        "रामचन्द्रकम्": "Lord Ramachandra"
+      },
+      "meaning_en": "I worship Ramachandra, who is supremely and uniquely beautiful, who destroys all accumulated sins of those who take refuge in Him. He is the one who perpetually delights and gladdens the hearts of His devoted devotees.",
+      "meaning_hi": "मैं उन रामचन्द्र की वन्दना करता हूँ जो अत्यंत अनुपम सुंदर हैं और जो अपने शरणागतों के समस्त पापों का नाश करते हैं। वे सदा अपने भक्तों के हृदय को आनन्दित एवं प्रफुल्लित करते रहते हैं।",
+      "modern_context_en": "In a world filled with stress and the weight of past mistakes, turning to Rama's remembrance each morning can dissolve guilt and renew the mind. Just as we charge our devices daily, this verse invites us to recharge our inner life with divine beauty and peace. Rama's delight in His devotees reminds us that we are never alone in our struggles.",
+      "modern_context_hi": "आज की भागदौड़ भरी ज़िंदगी में जब पुराने गलतियों का बोझ मन पर भारी लगे, तो राम का स्मरण उस बोझ को हल्का कर देता है। जैसे हम हर सुबह अपना फ़ोन चार्ज करते हैं, वैसे ही यह श्लोक हमें अपने मन को दिव्य ऊर्जा से भरने की प्रेरणा देता है। राम अपने भक्तों में सदा प्रसन्नता देते हैं — यह याद दिलाता है कि हम कभी अकेले नहीं हैं।"
+    },
+    {
+      "verse_number": 2,
+      "section": "stuti",
+      "hindi_text": "॥२॥\nभजे सदा सजानकिं सुरेन्द्रवन्दितं विभुम्।\nचराचरैकनायकं श्रिये सदा रघूद्वहम्॥",
+      "transliteration": "॥2॥\nbhaje sadā sajānakiṃ surendravandataṃ vibhum।\ncarācaraikanāyakaṃ śriye sadā raghūdvaham॥",
+      "word_by_word": {
+        "भजे": "I worship",
+        "सदा": "always",
+        "सजानकिम्": "accompanied by Janaki (Sita)",
+        "सुरेन्द्र": "king of gods (Indra)",
+        "वन्दितम्": "worshipped by",
+        "विभुम्": "all-pervading Lord",
+        "चराचर": "moving and unmoving creation",
+        "एक": "sole, one",
+        "नायकम्": "master, leader",
+        "श्रिये": "for auspiciousness, prosperity",
+        "रघूद्वहम्": "the exalted one of Raghu dynasty"
+      },
+      "meaning_en": "I ever worship the all-pervading Lord Rama, who is always accompanied by Janaki (Sita), who is adored even by the king of the gods, and who is the sole master and protector of all moving and unmoving creation. May the exalted scion of the Raghu dynasty always grant us auspiciousness and prosperity.",
+      "meaning_hi": "मैं सदा उन सर्वव्यापी प्रभु राम की भक्ति करता हूँ जो सदा जानकी के साथ विराजते हैं, जिनकी देवराज इन्द्र भी वन्दना करते हैं। वे समस्त चराचर जगत के एकमात्र स्वामी और रक्षक हैं — रघुकुल के वे श्रेष्ठ सदा हमें मंगल और समृद्धि प्रदान करें।",
+      "modern_context_en": "Rama's presence alongside Sita symbolizes the ideal partnership of strength and compassion working together. In our professional and personal lives, we thrive when we balance power with sensitivity, just as Rama and Sita complement each other perfectly. Recognizing Rama as the sovereign of all creation encourages us to treat the natural world with reverence and responsibility.",
+      "modern_context_hi": "राम और सीता का साथ हमें सिखाता है कि जीवन में शक्ति और करुणा का संतुलन ज़रूरी है। चाहे घर हो या ऑफ़िस, जब हम ताकत को संवेदनशीलता के साथ जोड़ते हैं, तो रिश्ते और काम दोनों बेहतर होते हैं। चराचर के स्वामी राम यह भी याद दिलाते हैं कि प्रकृति का सम्मान करना हमारी ज़िम्मेदारी है।"
+    },
+    {
+      "verse_number": 3,
+      "section": "stuti",
+      "hindi_text": "॥३॥\nभजे विशुद्धबोधकं परं परात्परं हरिम्।\nहरन्तमेव तापकं सुरेश्वरं नताश्रयम्॥",
+      "transliteration": "॥3॥\nbhaje viśuddhabodhakaṃ paraṃ parātparaṃ harim।\nharantameva tāpakaṃ sureśvaraṃ natāśrayam॥",
+      "word_by_word": {
+        "भजे": "I worship",
+        "विशुद्ध": "pure, untainted",
+        "बोधकम्": "one who awakens knowledge",
+        "परम्": "supreme",
+        "परात्परम्": "beyond the beyond",
+        "हरिम्": "Hari (Vishnu-Rama)",
+        "हरन्तम्": "one who removes",
+        "एव": "indeed",
+        "तापकम्": "afflictions, threefold suffering",
+        "सुरेश्वरम्": "lord of the gods",
+        "नताश्रयम्": "refuge of those who bow"
+      },
+      "meaning_en": "I worship Hari (Rama), who is the awakener of pure and untainted knowledge, who is supreme and transcends even the beyond, and who indeed removes all afflictions and threefold sufferings. He is the lord of the gods and the ultimate refuge for all those who humbly bow before Him.",
+      "meaning_hi": "मैं उन हरि (राम) की भक्ति करता हूँ जो शुद्ध ज्ञान के जागरणकर्ता हैं, जो परम और परात्पर हैं, और जो हमारे समस्त तापों को दूर करते हैं। वे देवताओं के भी स्वामी हैं और जो उनके सामने नम्रतापूर्वक झुकते हैं, उन सबके परम आश्रय हैं।",
+      "modern_context_en": "In an era of information overload, we often mistake data for wisdom; Rama as the awakener of pure knowledge points us toward true clarity and discernment. When life's threefold pressures — physical, mental, and circumstantial — weigh us down, surrendering to a higher power brings genuine relief that no productivity hack can offer. Bowing in humility, whether literally or metaphorically, is one of the most powerful antidotes to the ego-driven anxiety of modern life.",
+      "modern_context_hi": "आज हम जानकारियों के समुद्र में डूबे हैं, लेकिन असली ज्ञान — यानी विवेक — की कमी है। राम उसी शुद्ध बोध के जागरणकर्ता हैं जो हमें सही निर्णय लेने की शक्ति देता है। जब शारीरिक, मानसिक और परिस्थितिजन्य तनाव एकसाथ घेर लें, तो राम के शरण में जाना — बस पाँच मिनट का ध्यान भी — वास्तविक राहत देता है।"
+    },
+    {
+      "verse_number": 4,
+      "section": "stuti",
+      "hindi_text": "॥४॥\nभजे भवाब्धितारकं रणे रणे जयप्रदम्।\nमुनीन्द्रसेवितं विभुं मनोरमं रघूद्वहम्॥",
+      "transliteration": "॥4॥\nbhaje bhavābdhitārakaṃ raṇe raṇe jayapradam।\nmunīndrasevitaṃ vibhuṃ manoramaṃ raghūdvaham॥",
+      "word_by_word": {
+        "भजे": "I worship",
+        "भवाब्धि": "ocean of worldly existence (samsara)",
+        "तारकम्": "one who carries across, liberator",
+        "रणे रणे": "in battle after battle",
+        "जयप्रदम्": "bestower of victory",
+        "मुनीन्द्र": "greatest of sages",
+        "सेवितम्": "served, worshipped by",
+        "विभुम्": "all-pervading",
+        "मनोरमम्": "captivator of the mind, enchanting",
+        "रघूद्वहम्": "the great one of Raghu lineage"
+      },
+      "meaning_en": "I worship the great scion of the Raghu dynasty, who carries us across the boundless ocean of worldly existence, who bestows victory in every battle and every trial, and who is worshipped and served by the greatest of sages. He is all-pervading and enchantingly captivates the mind of all who behold Him.",
+      "meaning_hi": "मैं रघुवंश के उस महान विभु की भक्ति करता हूँ जो हमें संसार-सागर से पार ले जाते हैं और प्रत्येक युद्ध एवं कठिनाई में विजय प्रदान करते हैं। जो महामुनियों द्वारा भी सेवित हैं और जो अपने दर्शनमात्र से मन को मोह लेते हैं।",
+      "modern_context_en": "Life is often described as an ocean of challenges — career setbacks, relationship struggles, health crises — and Rama's quality of being the 'ocean-crosser' offers profound reassurance. Every Monday morning meeting, every difficult conversation, every exam becomes a small battlefield where invoking Rama's name can shift our inner state from fear to focus. The fact that even great sages relied on Rama's grace reminds us that seeking help and guidance is a sign of wisdom, not weakness.",
+      "modern_context_hi": "ज़िंदगी की हर मुश्किल — चाहे वो नौकरी की टेंशन हो, रिश्तों की परेशानी हो या स्वास्थ्य की चिंता — उस संसार-सागर जैसी है जिसे पार करना अकेले मुश्किल लगता है। राम उस नाव की तरह हैं जो हमें उस पार ले जाते हैं — बस उनका नाम लेकर काम शुरू करें। बड़े-बड़े ऋषि भी उनकी शरण में थे, तो मदद माँगना कमज़ोरी नहीं, समझदारी है।"
+    },
+    {
+      "verse_number": 5,
+      "section": "stuti",
+      "hindi_text": "॥५॥\nभजे दशाननान्तकं स्वभक्तपुञ्जपालकम्।\nनिजात्मकं निरामयं परात्मकं परंतपम्॥",
+      "transliteration": "॥5॥\nbhaje daśānanāntakaṃ svabhaktapuñjapālakam।\nnijātmakaṃ nirāmayaṃ parātmakaṃ paraṃtapam॥",
+      "word_by_word": {
+        "भजे": "I worship",
+        "दशानन": "ten-headed (Ravana)",
+        "अन्तकम्": "destroyer, end-bringer",
+        "स्वभक्त": "own devotees",
+        "पुञ्ज": "multitude, host",
+        "पालकम्": "protector, nourisher",
+        "निजात्मकम्": "one who is the very Self",
+        "निरामयम्": "free from all disease and defect",
+        "परात्मकम्": "the Supreme Self",
+        "परंतपम्": "scorcher of enemies, the supreme ascetic"
+      },
+      "meaning_en": "I worship Rama, the destroyer of the ten-headed Ravana and the nourishing protector of the entire host of His devoted devotees. He is the very inner Self of all beings, flawless and free from all imperfection, the Supreme Self and the one who scorches all that is inimical to righteousness.",
+      "meaning_hi": "मैं उन राम की भक्ति करता हूँ जिन्होंने दशमुख रावण का संहार किया और जो अपने समस्त भक्तों की रक्षा और पालना करते हैं। वे सभी प्राणियों के अन्तरात्मा हैं, निर्दोष और परम शुद्ध — वे परमात्मा स्वरूप और अधर्म के दाहक हैं।",
+      "modern_context_en": "Ravana with his ten heads symbolizes the ten distracting faces of ego — pride, lust, greed, anger, and others — that Rama, the inner Self, is always ready to destroy within us. When we face our own 'inner Ravanas' — addictions, toxic patterns, self-destructive habits — remembering that the divine is our very own Self gives us the courage to confront and transform them. Rama as the flawless Supreme Self reminds us that beneath all our flaws, there is a pure, untouched core waiting to be discovered.",
+      "modern_context_hi": "रावण के दस सिर हमारे भीतर के दस विकारों — अहंकार, क्रोध, लोभ, मोह — का प्रतीक हैं। राम जो हमारे भीतर की आत्मा हैं, वे इन विकारों को नष्ट करने में हमारी मदद करते हैं। अपनी बुरी आदतों से लड़ते समय यह याद रखें कि राम परमात्मा रूप में आपके ही भीतर हैं — यह विचार आपको ताकत देगा।"
+    },
+    {
+      "verse_number": 6,
+      "section": "stuti",
+      "hindi_text": "॥६॥\nभजे सदा सचापिणं सशक्तिकं सकुण्डलम्।\nसपद्मपत्रलोचनं सहर्षमिन्दिरापतिम्॥",
+      "transliteration": "॥6॥\nbhaje sadā sacāpiṇaṃ saśaktikaṃ sakuṇḍalam।\nsapadmapatralocalnaṃ saharṣamindirāpatim॥",
+      "word_by_word": {
+        "भजे": "I worship",
+        "सदा": "always",
+        "सचापिणम्": "bearing the bow",
+        "सशक्तिकम्": "endowed with divine power/shakti",
+        "सकुण्डलम्": "adorned with earrings",
+        "सपद्मपत्र": "like lotus petals",
+        "लोचनम्": "having eyes",
+        "सहर्षम्": "with joy, blissful",
+        "इन्दिरापतिम्": "lord of Indira (Lakshmi), i.e., Vishnu-Rama"
+      },
+      "meaning_en": "I always worship Lord Rama, the lord of Indira (Lakshmi), who bears His magnificent bow and is endowed with supreme divine power, adorned with beautiful earrings, whose lotus-petal eyes radiate divine grace, and whose entire being overflows with joy and bliss.",
+      "meaning_hi": "मैं सदा उन इन्दिरापति (श्री राम) की भक्ति करता हूँ जो अपना दिव्य धनुष धारण किए, परम शक्तिशाली, कुण्डल-सुशोभित और कमल की पंखुड़ियों जैसे नेत्रों वाले हैं। उनका सम्पूर्ण स्वरूप आनन्द और दिव्य तेज से परिपूर्ण है।",
+      "modern_context_en": "This verse invites us to visualize Rama's divine form as a meditative anchor — his bow representing readiness, his eyes representing compassionate attention, and his joy representing the natural state of the awakened soul. In a culture that often equates power with harshness, Rama's simultaneous embodiment of strength (the bow) and beauty (lotus eyes, earrings, joy) teaches us that true power is graceful and joyful, never grim. Starting the day with this visualization can set a tone of dignified, joyful confidence.",
+      "modern_context_hi": "इस श्लोक में राम के दिव्य स्वरूप का जो वर्णन है — धनुष, कुण्डल, कमल-नेत्र, आनन्द — वह एक सुंदर ध्यान-चित्र है। आज की दुनिया में शक्ति को अक्सर कठोरता से जोड़ा जाता है, लेकिन राम दिखाते हैं कि असली शक्ति सौम्यता और आनन्द के साथ आती है। सुबह उठकर राम के इस रूप का ध्यान करें — यह आपके दिन को आत्मविश्वास और प्रसन्नता से भर देगा।"
+    },
+    {
+      "verse_number": 7,
+      "section": "stuti",
+      "hindi_text": "॥७॥\nभजे सदा सहानुजं सलक्ष्मणं सहनूमतम्।\nनताखिलेष्टदायकं कृपालयं रघूद्वहम्॥",
+      "transliteration": "॥7॥\nbhaje sadā sahānujaṃ salakṣmaṇaṃ sahānumatam।\nnatākhileṣṭadāyakaṃ kṛpālayaṃ raghūdvaham॥",
+      "word_by_word": {
+        "भजे": "I worship",
+        "सदा": "always",
+        "सहानुजम्": "together with younger brothers",
+        "सलक्ष्मणम्": "with Lakshmana",
+        "सहनूमतम्": "with Hanuman",
+        "नत": "those who bow, devotees",
+        "अखिल": "all",
+        "इष्ट": "desired, cherished",
+        "दायकम्": "bestower, giver",
+        "कृपालयम्": "abode of compassion",
+        "रघूद्वहम्": "the great bearer of Raghu lineage"
+      },
+      "meaning_en": "I always worship the great Rama of the Raghu lineage, who is ever surrounded by His younger brother Lakshmana and the devoted Hanuman, who grants all desired blessings to those who humbly bow before Him, and who is Himself the very abode and embodiment of compassion.",
+      "meaning_hi": "मैं सदा उन रघुकुलभूषण राम की भक्ति करता हूँ जो सदा लक्ष्मण और हनुमान से घिरे रहते हैं, जो अपने सामने नम्रतापूर्वक झुकने वाले भक्तों की समस्त मनोकामनाएँ पूर्ण करते हैं और स्वयं करुणा के परम आगार हैं।",
+      "modern_context_en": "Rama is never alone — He is always depicted with Lakshmana's loyal support and Hanuman's selfless service, reminding us that even the divine works through community and relationships. In our own lives, building a circle of loyal, virtuous companions — like our own personal Lakshmana and Hanuman — is one of the most important investments we can make. Rama as the 'abode of compassion' challenges us to make our own homes and workplaces centres of genuine empathy and care.",
+      "modern_context_hi": "राम अकेले नहीं हैं — लक्ष्मण की निष्ठा और हनुमान की सेवा उनके साथ है। यह हमें सिखाता है कि अच्छे साथी — चाहे मित्र हों, परिवार हो या सहकर्मी — जीवन की सबसे बड़ी पूँजी हैं। अपने जीवन में ऐसे 'लक्ष्मण और हनुमान' खोजें जो आपके साथ खड़े रहें, और खुद भी दूसरों के लिए वैसे बनें। राम की करुणा हमें प्रेरित करती है कि हम अपने घर और कार्यस्थल को संवेदनशीलता का केंद्र बनाएँ।"
+    },
+    {
+      "verse_number": 8,
+      "section": "phala-shruti",
+      "hindi_text": "॥८॥\nइदं रामाष्टकं पुण्यं प्रातःकाले पठेद्यदि।\nसर्वपापविनिर्मुक्तः परं ब्रह्म स गच्छति॥",
+      "transliteration": "॥8॥\nidaṃ rāmāṣṭakaṃ puṇyaṃ prātaḥkāle paṭhedyadi।\nsarvapāpavinirmuktaḥ paraṃ brahma sa gacchati॥",
+      "word_by_word": {
+        "इदम्": "this",
+        "रामाष्टकम्": "Ramaashtakam (eight verses on Rama)",
+        "पुण्यम्": "meritorious, sacred",
+        "प्रातःकाले": "in the early morning",
+        "पठेत्": "one who recites, reads",
+        "यदि": "if",
+        "सर्वपाप": "all sins",
+        "विनिर्मुक्तः": "completely liberated from",
+        "परम्": "supreme",
+        "ब्रह्म": "Brahman, the Absolute",
+        "सः": "that person",
+        "गच्छति": "attains, reaches"
+      },
+      "meaning_en": "Whoever recites this sacred and meritorious Ramaashtakam in the early morning hours will be completely liberated from all sins and will ultimately attain the Supreme Brahman. This is the solemn promise of the fruit of this blessed prayer.",
+      "meaning_hi": "जो भी इस पुण्यमय रामाष्टकम् का प्रतिदिन प्रातःकाल पाठ करता है, वह समस्त पापों से पूर्णतः मुक्त हो जाता है और अंत में परम ब्रह्म को प्राप्त होता है। यह इस पावन स्तोत्र के फल की घोषणा है।",
+      "modern_context_en": "The phala-shruti — the declaration of benefits — is not mere superstition but a motivational seal: consistency in sacred practice genuinely transforms character, habits, and ultimately one's consciousness. Reciting these eight verses each morning takes less than five minutes, yet it plants seeds of Rama's qualities — courage, compassion, loyalty, and joy — into the soil of our daily awareness. Over time, what begins as a morning ritual becomes a living orientation, guiding every decision toward the light of the Supreme.",
+      "modern_context_hi": "फलश्रुति केवल पुरानी मान्यता नहीं है — यह एक प्रेरणादायक वचन है कि नियमित साधना से चरित्र, आदतें और चेतना सच में बदलती हैं। इन आठ श्लोकों को पढ़ने में मुश्किल से पाँच मिनट लगते हैं, लेकिन यह छोटी-सी आदत आपके पूरे दिन को राम के गुणों — साहस, करुणा, निष्ठा, आनन्द — से रंग देती है। धीरे-धीरे यह सुबह की दिनचर्या जीवन का एक दिशा-सूत्र बन जाती है।"
+    }
+  ]
+}

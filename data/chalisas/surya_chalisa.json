@@ -1,0 +1,878 @@
+{
+  "id": "surya_chalisa",
+  "title_en": "Surya Chalisa",
+  "title_hi": "सूर्य चालीसा",
+  "deity": "surya",
+  "author": "Traditional",
+  "type": "chalisa",
+  "total_verses": 44,
+  "sections": [
+    "doha_opening",
+    "chaupai",
+    "doha_closing"
+  ],
+  "verses": [
+    {
+      "verse_number": 1,
+      "section": "doha_opening",
+      "hindi_text": "जय सवित्र सूरज दयानिधि, जय कमलापति अरुणा।\nजय सप्ताश्व रथी प्रभो, जय प्रभाकर तरुणा॥",
+      "transliteration": "Jaya savitr sūraja dayānidhi, jaya kamalāpati aruṇā.\nJaya saptāśva rathī prabho, jaya prabhākara taruṇā.",
+      "word_by_word": {
+        "सवित्र": "the creator sun",
+        "दयानिधि": "treasure of compassion",
+        "कमलापति": "lord of the lotus",
+        "अरुणा": "the crimson dawn",
+        "सप्ताश्व": "seven horses",
+        "रथी": "charioteer",
+        "प्रभाकर": "light-maker",
+        "तरुणा": "ever youthful"
+      },
+      "meaning_en": "Glory to Sun God Savitri, the treasure of compassion, lord of the lotus and the crimson dawn. Glory to the one whose chariot is drawn by seven horses, the youthful creator of light.",
+      "meaning_hi": "सूर्य देव सवित्र की जय, जो दया के सागर और कमलों के स्वामी हैं। सात अश्वों के रथ पर विराजमान प्रकाश रचने वाले सदा तरुण प्रभु की जय हो।",
+      "modern_context_en": "Starting your day by honoring the sun is the oldest morning routine — it reminds us that each dawn is a fresh gift of compassion and energy.",
+      "modern_context_hi": "सूर्य को नमन करना सबसे प्राचीन सुबह की दिनचर्या है — यह याद दिलाता है कि हर नई सुबह दया और ऊर्जा का ताजा उपहार है।"
+    },
+    {
+      "verse_number": 2,
+      "section": "doha_opening",
+      "hindi_text": "कनक बदन कुण्डल मकर, मुकुट मणि रंजित भाल।\nकर कमल में कमल शोभित, सूरज दीन दयाल॥",
+      "transliteration": "Kanaka badana kuṇḍala makara, mukuṭa maṇi rañjita bhāla.\nKara kamala meṃ kamala śobhita, sūraja dīna dayāla.",
+      "word_by_word": {
+        "कनक": "golden",
+        "बदन": "body/face",
+        "कुण्डल": "earrings",
+        "मकर": "crocodile-shaped",
+        "मुकुट": "crown",
+        "मणि": "jewel",
+        "भाल": "forehead",
+        "कर कमल": "lotus hands",
+        "दीन दयाल": "compassionate to the humble"
+      },
+      "meaning_en": "His body shines like gold, he wears crocodile-shaped earrings, and his forehead glows with a jeweled crown. He holds a lotus in his lotus-like hands — the Sun God is merciful to the humble.",
+      "meaning_hi": "उनका शरीर स्वर्ण जैसा चमकता है, मकर कुण्डल धारण करते हैं, और मणिजड़ित मुकुट से उनका भाल शोभित है। कमल हाथों में कमल शोभा पाता है — सूर्य देव दीनों पर दया करने वाले हैं।",
+      "modern_context_en": "Just as the sun shines equally on everyone without discrimination, true leadership at work means uplifting every team member, especially those who feel overlooked.",
+      "modern_context_hi": "जैसे सूर्य सब पर समान रूप से चमकता है, वैसे ही सच्चा नेतृत्व हर सहकर्मी को ऊपर उठाना है, विशेषकर जो उपेक्षित महसूस करते हैं।"
+    },
+    {
+      "verse_number": 3,
+      "section": "chaupai",
+      "hindi_text": "जय जय जय रवि जय जय जय रवि।\nजय जय जय रवि जय जय जय रवि॥\nतुम्हरो तेज प्रतापी भारी।\nकरत सदा जग सब हितकारी॥",
+      "transliteration": "Jaya jaya jaya ravi jaya jaya jaya ravi.\nJaya jaya jaya ravi jaya jaya jaya ravi.\nTumharo teja pratāpī bhārī.\nKarata sadā jaga saba hitakārī.",
+      "word_by_word": {
+        "रवि": "sun",
+        "तेज": "radiance",
+        "प्रतापी": "glorious",
+        "भारी": "immense",
+        "हितकारी": "benefactor"
+      },
+      "meaning_en": "Victory, victory, victory to the Sun! Your radiance is immensely glorious. You always work for the welfare of the entire world.",
+      "meaning_hi": "सूर्य देव की जय हो! आपका तेज अत्यंत प्रतापी है। आप सदा संसार के कल्याण में लगे रहते हैं।",
+      "modern_context_en": "Showing up every single day at work or for family — consistently and without complaint — is its own form of radiance that benefits everyone around you.",
+      "modern_context_hi": "हर दिन बिना शिकायत के काम पर या परिवार के लिए उपस्थित रहना — यह अपने आप में एक तेज है जो आसपास सबका भला करता है।"
+    },
+    {
+      "verse_number": 4,
+      "section": "chaupai",
+      "hindi_text": "अगम अनादि अनन्त अपारा।\nवेद पुरान नहिं मिलत निवारा॥\nतिमिर नाश कर जग उजियारा।\nसूर्य तुम्हीं हो प्राण हमारा॥",
+      "transliteration": "Agama anādi ananta apārā.\nVeda purāna nahiṃ milata nivārā.\nTimira nāśa kara jaga ujiyārā.\nSūrya tumhīṃ ho prāṇa hamārā.",
+      "word_by_word": {
+        "अगम": "unreachable",
+        "अनादि": "without beginning",
+        "अनन्त": "infinite",
+        "अपारा": "boundless",
+        "तिमिर": "darkness",
+        "नाश": "destruction",
+        "उजियारा": "light",
+        "प्राण": "life-breath"
+      },
+      "meaning_en": "You are unreachable, beginningless, infinite, and boundless — even the Vedas and Puranas cannot fully describe you. You destroy darkness and fill the world with light. O Sun, you are our very life-breath.",
+      "meaning_hi": "आप अगम, अनादि, अनंत और अपार हैं — वेद-पुराण भी आपका पूर्ण वर्णन नहीं कर सकते। आप अंधकार मिटाकर जग में उजाला करते हैं। हे सूर्य, आप ही हमारे प्राण हैं।",
+      "modern_context_en": "When anxiety or depression clouds your mind, even a short walk in the morning sunlight can begin to destroy that inner darkness — the sun literally sustains our vitality through Vitamin D and circadian rhythm.",
+      "modern_context_hi": "जब चिंता या उदासी मन पर छा जाए, तो सुबह की धूप में थोड़ा टहलना भी भीतरी अंधकार मिटाने लगता है — सूर्य विटामिन D और जैविक लय से हमारी जीवन-शक्ति बनाए रखता है।"
+    },
+    {
+      "verse_number": 5,
+      "section": "chaupai",
+      "hindi_text": "सकल लोक तुम्हीं सों उजागर।\nहरहु मोह भ्रम भव भय सागर॥\nतुम्हरो नाम सकल जन गावैं।\nभव के रोग सकल कट जावैं॥",
+      "transliteration": "Sakala loka tumhīṃ soṃ ujāgara.\nHarahu moha bhrama bhava bhaya sāgara.\nTumharo nāma sakala jana gāvaiṃ.\nBhava ke roga sakala kaṭa jāvaiṃ.",
+      "word_by_word": {
+        "सकल": "all",
+        "लोक": "worlds",
+        "उजागर": "illuminated",
+        "मोह": "delusion",
+        "भ्रम": "confusion",
+        "भव": "worldly existence",
+        "भय": "fear",
+        "रोग": "diseases"
+      },
+      "meaning_en": "All the worlds are illuminated by you alone. Please remove delusion, confusion, and the ocean of worldly fear. Whoever sings your name — all the diseases of worldly existence are cut away.",
+      "meaning_hi": "सारे लोक आपसे ही प्रकाशित हैं। मोह, भ्रम और भवसागर के भय को हर लीजिए। जो आपका नाम गाते हैं, उनके संसार के सभी रोग कट जाते हैं।",
+      "modern_context_en": "Chronic stress from juggling careers and family overseas can feel like an ocean of fear — a disciplined morning spiritual practice can systematically cut through that fog.",
+      "modern_context_hi": "विदेश में करियर और परिवार को संभालने का तनाव भय का सागर बन सकता है — अनुशासित सुबह की साधना उस धुंध को व्यवस्थित रूप से काट सकती है।"
+    },
+    {
+      "verse_number": 6,
+      "section": "chaupai",
+      "hindi_text": "काश्यप पुत्र दिवाकर नामा।\nदिनकर भानु प्रभाकर कामा॥\nसप्तलोक की जोत तुम्हारी।\nउदय होत अंधकार निवारी॥",
+      "transliteration": "Kāśyapa putra divākara nāmā.\nDinakara bhānu prabhākara kāmā.\nSaptaloka kī jota tumhārī.\nUdaya hota andhakāra nivārī.",
+      "word_by_word": {
+        "काश्यप पुत्र": "son of Kashyapa",
+        "दिवाकर": "maker of day",
+        "दिनकर": "day-maker",
+        "भानु": "shining one",
+        "सप्तलोक": "seven worlds",
+        "जोत": "light",
+        "उदय": "rising",
+        "अंधकार": "darkness"
+      },
+      "meaning_en": "You are the son of sage Kashyapa, known as Divakara — the maker of day. You are Dinakara, Bhanu, and Prabhakara. Your light illuminates the seven worlds; when you rise, all darkness is dispelled.",
+      "meaning_hi": "आप कश्यप ऋषि के पुत्र दिवाकर हैं — दिनकर, भानु, प्रभाकर नाम से जाने जाते हैं। सात लोकों में आपकी ज्योति फैली है; आपके उदय होते ही सारा अंधकार दूर हो जाता है।",
+      "modern_context_en": "Just like the sun has many names but one purpose — to give light — you too can wear many hats (parent, professional, caregiver) while staying anchored in your core purpose.",
+      "modern_context_hi": "जैसे सूर्य के अनेक नाम हैं पर उद्देश्य एक है — प्रकाश देना — वैसे ही आप भी अनेक भूमिकाएँ (माता-पिता, पेशेवर, देखभालकर्ता) निभाते हुए अपने मूल उद्देश्य से जुड़े रह सकते हैं।"
+    },
+    {
+      "verse_number": 7,
+      "section": "chaupai",
+      "hindi_text": "ग्रह गणों के राज तुम्हारे।\nदश दिशा में तेज तुम्हारे॥\nआदित्य हरिद्वार विभूषित।\nमुख मण्डल श्री ब्रह्म प्रकाशित॥",
+      "transliteration": "Graha gaṇoṃ ke rāja tumhāre.\nDaśa diśā meṃ teja tumhāre.\nĀditya haridvāra vibhūṣita.\nMukha maṇḍala śrī brahma prakāśita.",
+      "word_by_word": {
+        "ग्रह": "planets",
+        "गण": "groups",
+        "राज": "king",
+        "दश दिशा": "ten directions",
+        "आदित्य": "son of Aditi",
+        "विभूषित": "adorned",
+        "मुख मण्डल": "face/disc",
+        "ब्रह्म": "supreme reality"
+      },
+      "meaning_en": "You are the king of all the planetary bodies. Your radiance shines in all ten directions. As Aditya, you are adorned at the gateway of the divine, and in your luminous disc, the supreme Brahman is manifested.",
+      "meaning_hi": "आप सभी ग्रहों के राजा हैं। दसों दिशाओं में आपका तेज व्याप्त है। आदित्य रूप में आप हरिद्वार पर शोभित हैं, और आपके मुख मण्डल में परब्रह्म प्रकाशित हैं।",
+      "modern_context_en": "In astrology-conscious families, Surya is considered the king of planets governing health and authority — honoring the sun daily can be a mindful anchor for those navigating leadership roles.",
+      "modern_context_hi": "ज्योतिष-जागरूक परिवारों में सूर्य स्वास्थ्य और अधिकार के राजा माने जाते हैं — प्रतिदिन सूर्य को सम्मान देना नेतृत्व की भूमिका निभाने वालों के लिए सचेतन सहारा बन सकता है।"
+    },
+    {
+      "verse_number": 8,
+      "section": "chaupai",
+      "hindi_text": "द्वादश रूप अपार तुम्हारा।\nवर्ण गैर अरु तेज अपारा॥\nधाम त्रिलोक तिमिर को हरता।\nमानव सुर मुनि सब को तरता॥",
+      "transliteration": "Dvādaśa rūpa apāra tumhārā.\nVarṇa gaira aru teja apārā.\nDhāma triloka timira ko haratā.\nMānava sura muni saba ko taratā.",
+      "word_by_word": {
+        "द्वादश": "twelve",
+        "रूप": "forms",
+        "वर्ण": "color/complexion",
+        "तेज": "radiance",
+        "त्रिलोक": "three worlds",
+        "तिमिर": "darkness",
+        "हरता": "removes",
+        "तरता": "helps cross over"
+      },
+      "meaning_en": "You have twelve boundless forms, with incomparable complexion and infinite radiance. You remove the darkness of all three worlds and help humans, gods, and sages cross the ocean of existence.",
+      "meaning_hi": "आपके बारह अपार रूप हैं, अतुलनीय वर्ण और अनंत तेज है। आप तीनों लोकों का अंधकार हरते हैं और मनुष्य, देवता, मुनि — सबको भवसागर से पार कराते हैं।",
+      "modern_context_en": "The twelve forms of Surya correspond to twelve months — a reminder that wellness is not a one-time fix but a year-round, consistent practice of showing up for your health.",
+      "modern_context_hi": "सूर्य के बारह रूप बारह महीनों से जुड़े हैं — यह याद दिलाता है कि स्वास्थ्य एक बार की बात नहीं, बल्कि साल भर लगातार अपने स्वास्थ्य के लिए उपस्थित रहने का अभ्यास है।"
+    },
+    {
+      "verse_number": 9,
+      "section": "chaupai",
+      "hindi_text": "सारथि अरुण हरित अश्व सात।\nचक्र सुदर्शन सम जग विख्यात॥\nमेरु पर्वत प्रदक्षिणा करता।\nसृष्टि का तुम पालन करता॥",
+      "transliteration": "Sārathi aruṇa harita aśva sāta.\nCakra sudarśana sama jaga vikhyāta.\nMeru parvata pradakṣiṇā karatā.\nSṛṣṭi kā tuma pālana karatā.",
+      "word_by_word": {
+        "सारथि": "charioteer",
+        "अरुण": "Aruna (dawn deity)",
+        "हरित": "green",
+        "अश्व": "horses",
+        "सात": "seven",
+        "चक्र": "wheel/disc",
+        "सुदर्शन": "beautiful to behold",
+        "मेरु": "Mount Meru",
+        "प्रदक्षिणा": "circumambulation",
+        "पालन": "sustenance"
+      },
+      "meaning_en": "Your charioteer is Aruna and your chariot is drawn by seven green horses. Your wheel is famous in the world like the Sudarshana Chakra. You circumambulate Mount Meru and sustain all creation.",
+      "meaning_hi": "आपके सारथि अरुण हैं और सात हरित अश्व आपका रथ खींचते हैं। आपका चक्र सुदर्शन सम जग में विख्यात है। आप मेरु पर्वत की प्रदक्षिणा करते हैं और सृष्टि का पालन करते हैं।",
+      "modern_context_en": "The sun's unfailing daily orbit around the cosmic axis is nature's ultimate lesson in discipline — showing up every single day without fail, just as we must for our families and commitments.",
+      "modern_context_hi": "सूर्य का प्रतिदिन बिना चूक अपनी कक्षा में चलना अनुशासन का प्रकृति का सर्वोत्तम पाठ है — जैसे हमें अपने परिवार और कर्तव्यों के लिए हर दिन उपस्थित रहना चाहिए।"
+    },
+    {
+      "verse_number": 10,
+      "section": "chaupai",
+      "hindi_text": "उदय अस्त सब तुम्हरे अधीना।\nबिना तुम्हारे जग है दीना॥\nषट ऋतु तुम्हीं से आवत जावत।\nसस्य फूल फल तुम्हीं से पावत॥",
+      "transliteration": "Udaya asta saba tumhare adhīnā.\nBinā tumhāre jaga hai dīnā.\nṢaṭ ṛtu tumhīṃ se āvata jāvata.\nSasya phūla phala tumhīṃ se pāvata.",
+      "word_by_word": {
+        "उदय": "rising",
+        "अस्त": "setting",
+        "अधीना": "under control",
+        "दीना": "helpless/poor",
+        "षट": "six",
+        "ऋतु": "seasons",
+        "सस्य": "crops",
+        "फूल": "flowers",
+        "फल": "fruits"
+      },
+      "meaning_en": "Sunrise and sunset are both under your control. Without you, the world is helpless. The six seasons come and go because of you, and all crops, flowers, and fruits are received from you.",
+      "meaning_hi": "उदय और अस्त सब आपके अधीन हैं। आपके बिना संसार दीन है। छह ऋतुएँ आपसे ही आती-जाती हैं, और सारी फसल, फूल, फल आपसे ही मिलते हैं।",
+      "modern_context_en": "Our entire food chain — from the farm to our dinner table — depends on sunlight. Gratitude for a simple meal is really gratitude to the sun.",
+      "modern_context_hi": "हमारी पूरी खाद्य शृंखला — खेत से लेकर हमारी थाली तक — सूर्य के प्रकाश पर निर्भर है। एक सादे भोजन के लिए कृतज्ञता वास्तव में सूर्य के प्रति कृतज्ञता है।"
+    },
+    {
+      "verse_number": 11,
+      "section": "chaupai",
+      "hindi_text": "प्राणी मात्र का पालन करता।\nतुम बिन कोई न जीवन धरता॥\nचन्द्र प्रकाशक तुम्हरे करना।\nतुम ही प्रभु हो सृष्टि का सरना॥",
+      "transliteration": "Prāṇī mātra kā pālana karatā.\nTuma bina koī na jīvana dharatā.\nCandra prakāśaka tumhare karanā.\nTumahī prabhu ho sṛṣṭi kā saranā.",
+      "word_by_word": {
+        "प्राणी": "living beings",
+        "मात्र": "all",
+        "पालन": "nourishment",
+        "जीवन": "life",
+        "चन्द्र": "moon",
+        "प्रकाशक": "illuminator",
+        "सृष्टि": "creation",
+        "सरना": "refuge"
+      },
+      "meaning_en": "You nourish every living being. Without you, no one can sustain life. Even the moon shines only because of you. You alone, O Lord, are the refuge of all creation.",
+      "meaning_hi": "आप प्रत्येक प्राणी का पालन करते हैं। आपके बिना कोई जीवन नहीं धर सकता। चन्द्रमा भी आपके कारण ही प्रकाशित होता है। हे प्रभु, आप ही सृष्टि की शरण हैं।",
+      "modern_context_en": "Even the moon's gentle light is borrowed from the sun — a reminder that the calm and peace we feel at night was earned by the energy we invested during the day.",
+      "modern_context_hi": "चन्द्रमा की शीतल रोशनी भी सूर्य से उधार ली हुई है — यह याद दिलाता है कि रात को जो शांति मिलती है वह दिनभर लगाई गई ऊर्जा से अर्जित होती है।"
+    },
+    {
+      "verse_number": 12,
+      "section": "chaupai",
+      "hindi_text": "नमो नमो रवि नमो नमो रवि।\nनमो नमो रवि नमो नमो रवि॥\nतुम्हरी कृपा से सब सुख होई।\nतुम्हरे बिन सुख पावे न कोई॥",
+      "transliteration": "Namo namo ravi namo namo ravi.\nNamo namo ravi namo namo ravi.\nTumharī kṛpā se saba sukha hoī.\nTumhare bina sukha pāve na koī.",
+      "word_by_word": {
+        "नमो": "salutations",
+        "रवि": "sun",
+        "कृपा": "grace",
+        "सुख": "happiness",
+        "कोई": "anyone"
+      },
+      "meaning_en": "Salutations again and again to the Sun! By your grace, all happiness comes. Without you, no one can find true happiness.",
+      "meaning_hi": "सूर्य देव को बारम्बार नमस्कार! आपकी कृपा से सब सुख प्राप्त होते हैं। आपके बिना कोई सच्चा सुख नहीं पा सकता।",
+      "modern_context_en": "Research shows that regular sunlight exposure boosts serotonin — the happiness hormone. Our ancestors intuitively knew what science now confirms.",
+      "modern_context_hi": "शोध बताते हैं कि नियमित धूप सेरोटोनिन — खुशी का हार्मोन — बढ़ाती है। हमारे पूर्वज सहज ज्ञान से वह जानते थे जो विज्ञान अब प्रमाणित करता है।"
+    },
+    {
+      "verse_number": 13,
+      "section": "chaupai",
+      "hindi_text": "कुष्ठ रोग हरे सब ताई।\nग्रहों के क्लेश मिटावन हारी॥\nहृदय रोग सब दूर करत हो।\nनेत्र ज्योति प्रदान करत हो॥",
+      "transliteration": "Kuṣṭha roga hare saba tāī.\nGrahoṃ ke kleśa miṭāvana hārī.\nHṛdaya roga saba dūra karata ho.\nNetra jyoti pradāna karata ho.",
+      "word_by_word": {
+        "कुष्ठ": "leprosy/skin diseases",
+        "रोग": "disease",
+        "हरे": "removes",
+        "ग्रह": "planets",
+        "क्लेश": "afflictions",
+        "हृदय": "heart",
+        "नेत्र": "eyes",
+        "ज्योति": "light/vision"
+      },
+      "meaning_en": "You cure all skin diseases and remove the afflictions caused by planetary positions. You heal all heart ailments and bestow the gift of eyesight.",
+      "meaning_hi": "आप सब त्वचा रोग दूर करते हैं और ग्रहों के क्लेश मिटाते हैं। आप हृदय के सब रोग दूर करते हैं और नेत्र ज्योति प्रदान करते हैं।",
+      "modern_context_en": "Sunlight genuinely helps with skin conditions like psoriasis, supports heart health through Vitamin D, and regulates eye health — physical wellness and spiritual practice align beautifully here.",
+      "modern_context_hi": "सूर्य का प्रकाश वास्तव में सोरायसिस जैसी त्वचा की समस्याओं में सहायक है, विटामिन D से हृदय स्वास्थ्य बनाता है, और नेत्र स्वास्थ्य को नियंत्रित करता है — शारीरिक कल्याण और आध्यात्मिक साधना यहाँ सुंदर रूप से मिलती हैं।"
+    },
+    {
+      "verse_number": 14,
+      "section": "chaupai",
+      "hindi_text": "तुम्हरो ध्यान धरे जो कोई।\nताके सकल विपत नहिं होई॥\nभानु दयाल सदा सुखदाता।\nरोग शोक दारिद्र विधाता॥",
+      "transliteration": "Tumharo dhyāna dhare jo koī.\nTāke sakala vipata nahiṃ hoī.\nBhānu dayāla sadā sukhadātā.\nRoga śoka dāridra vidhātā.",
+      "word_by_word": {
+        "ध्यान": "meditation",
+        "धरे": "holds/practices",
+        "विपत": "calamity",
+        "दयाल": "merciful",
+        "सुखदाता": "giver of happiness",
+        "शोक": "grief",
+        "दारिद्र": "poverty",
+        "विधाता": "controller/remover"
+      },
+      "meaning_en": "Whoever meditates upon you will never face calamities. O merciful Bhanu, you are the eternal giver of happiness and the one who removes disease, grief, and poverty.",
+      "meaning_hi": "जो आपका ध्यान करता है, उसे कभी विपत्ति नहीं आती। हे दयालु भानु, आप सदा सुख देने वाले और रोग, शोक तथा दरिद्रता मिटाने वाले हैं।",
+      "modern_context_en": "A daily meditation practice — even five minutes facing the morning sun — can measurably reduce stress hormones and build resilience against life's unpredictable challenges.",
+      "modern_context_hi": "प्रतिदिन ध्यान का अभ्यास — भले ही सुबह की धूप में पाँच मिनट ही — तनाव हार्मोन को कम करता है और जीवन की अप्रत्याशित चुनौतियों से लड़ने की क्षमता बढ़ाता है।"
+    },
+    {
+      "verse_number": 15,
+      "section": "chaupai",
+      "hindi_text": "कालिन्दी जमुना की धारा।\nतुम्हरी सुता जगत में न्यारा॥\nयम राजा के तुम पितु दाता।\nशनि देव तुम्हरे हैं लाता॥",
+      "transliteration": "Kālindī Yamunā kī dhārā.\nTumharī sutā jagata meṃ nyārā.\nYama rājā ke tuma pitu dātā.\nŚani deva tumhare haiṃ lātā.",
+      "word_by_word": {
+        "कालिन्दी": "Kalindi (Yamuna)",
+        "सुता": "daughter",
+        "न्यारा": "unique/special",
+        "यम": "god of death/dharma",
+        "पितु": "father",
+        "शनि": "Saturn",
+        "लाता": "son"
+      },
+      "meaning_en": "The sacred river Yamuna, also known as Kalindi, is your daughter — unique in the world. You are the father of Yama, the king of dharma, and Shani Dev is also your son.",
+      "meaning_hi": "पवित्र यमुना नदी (कालिन्दी) आपकी पुत्री हैं — जगत में अनूठी। आप धर्मराज यम के पिता हैं और शनिदेव भी आपके पुत्र हैं।",
+      "modern_context_en": "Even Shani — feared by many — is the Sun's own child. This teaches us that discipline and consequences (Saturn's domain) are born from the same source as light and warmth.",
+      "modern_context_hi": "शनि — जिनसे बहुत लोग डरते हैं — सूर्य की ही संतान हैं। यह सिखाता है कि अनुशासन और परिणाम (शनि का क्षेत्र) उसी स्रोत से जन्मे हैं जिससे प्रकाश और ऊष्मा।"
+    },
+    {
+      "verse_number": 16,
+      "section": "chaupai",
+      "hindi_text": "तपत सदा तुम सबके कारण।\nभक्तन को नित करत उद्धारण॥\nतुम्हरो भक्त एक जो होई।\nताको कभी न सतावे कोई॥",
+      "transliteration": "Tapata sadā tuma sabake kāraṇa.\nBhaktana ko nita karata uddhāraṇa.\nTumharo bhakta eka jo hoī.\nTāko kabhī na satāve koī.",
+      "word_by_word": {
+        "तपत": "radiate heat/practice austerity",
+        "कारण": "for the sake of",
+        "भक्तन": "devotees",
+        "उद्धारण": "upliftment/salvation",
+        "सतावे": "torment"
+      },
+      "meaning_en": "You shine and radiate constantly for the benefit of all. You perpetually uplift your devotees. Whoever becomes your true devotee — no one can ever torment them.",
+      "meaning_hi": "आप सदा सबके लिए तपते हैं और भक्तों का सदा उद्धार करते हैं। जो आपका सच्चा भक्त हो जाए, उसे कोई कभी नहीं सता सकता।",
+      "modern_context_en": "Consistency is protection. When you consistently show up — at the gym, in your prayers, for your family — you build a fortress of resilience that no external force can easily breach.",
+      "modern_context_hi": "निरंतरता ही सुरक्षा है। जब आप लगातार उपस्थित रहते हैं — व्यायाम में, प्रार्थना में, परिवार के लिए — तो एक ऐसा कवच बनता है जिसे कोई बाहरी शक्ति आसानी से नहीं तोड़ सकती।"
+    },
+    {
+      "verse_number": 17,
+      "section": "chaupai",
+      "hindi_text": "सूर्य नमस्कार जो नर करई।\nताकर तन मन निरोग रहई॥\nबल बुद्धि विद्या प्रकाश पावे।\nघर में सदा लक्ष्मी आवे॥",
+      "transliteration": "Sūrya namaskāra jo nara karaī.\nTākara tana mana niroga rahaī.\nBala buddhi vidyā prakāśa pāve.\nGhara meṃ sadā lakṣmī āve.",
+      "word_by_word": {
+        "सूर्य नमस्कार": "sun salutation",
+        "तन": "body",
+        "मन": "mind",
+        "निरोग": "disease-free",
+        "बल": "strength",
+        "बुद्धि": "intellect",
+        "विद्या": "knowledge",
+        "लक्ष्मी": "prosperity"
+      },
+      "meaning_en": "Whoever performs Surya Namaskar — their body and mind remain free of disease. They gain strength, intelligence, and the light of knowledge, and prosperity always enters their home.",
+      "meaning_hi": "जो व्यक्ति सूर्य नमस्कार करता है, उसका तन-मन निरोग रहता है। उसे बल, बुद्धि, विद्या का प्रकाश मिलता है और उसके घर में सदा लक्ष्मी का वास होता है।",
+      "modern_context_en": "Surya Namaskar is a complete workout — 12 poses that stretch every muscle group, boost cardiovascular health, and calm the mind. It's the original full-body morning routine, validated by modern fitness science.",
+      "modern_context_hi": "सूर्य नमस्कार एक पूर्ण व्यायाम है — 12 आसन जो हर मांसपेशी समूह को खींचते हैं, हृदय स्वास्थ्य बढ़ाते हैं, और मन शांत करते हैं। यह मूल सम्पूर्ण शारीरिक सुबह की दिनचर्या है।"
+    },
+    {
+      "verse_number": 18,
+      "section": "chaupai",
+      "hindi_text": "कनकधारा बरसत नित जब ही।\nजब सूरज की पूजा तब ही॥\nअर्घ्य देत जो भानु को भाई।\nताकी सब विपदा कट जाई॥",
+      "transliteration": "Kanakadhārā barasata nita jaba hī.\nJaba sūraja kī pūjā taba hī.\nArghya deta jo bhānu ko bhāī.\nTākī saba vipadā kaṭa jāī.",
+      "word_by_word": {
+        "कनकधारा": "stream of gold/prosperity",
+        "बरसत": "rains",
+        "पूजा": "worship",
+        "अर्घ्य": "water offering",
+        "भानु": "sun",
+        "विपदा": "calamity"
+      },
+      "meaning_en": "A golden stream of prosperity rains down whenever the Sun is worshipped. Whoever offers arghya (water oblation) to the Sun — all their calamities are cut away.",
+      "meaning_hi": "जब भी सूर्य की पूजा होती है, सोने की धारा बरसती है। जो भानु को अर्घ्य देता है, उसकी सब विपदाएँ कट जाती हैं।",
+      "modern_context_en": "The ancient ritual of offering water to the sun at sunrise is a powerful grounding practice — it forces you to wake early, step outside, and begin your day with intention rather than scrolling your phone.",
+      "modern_context_hi": "सूर्योदय पर सूर्य को जल अर्पित करने की प्राचीन परंपरा एक शक्तिशाली ग्राउंडिंग अभ्यास है — यह आपको जल्दी उठने, बाहर जाने और फोन स्क्रॉल करने की बजाय संकल्प से दिन शुरू करने को बाध्य करती है।"
+    },
+    {
+      "verse_number": 19,
+      "section": "chaupai",
+      "hindi_text": "सूर्य गायत्री जपे जो कोई।\nताको अक्षय पुण्य फल होई॥\nआदित्य हृदय जो नर पढ़ लेवे।\nशत्रु विजय बल बुद्धि तन देवे॥",
+      "transliteration": "Sūrya gāyatrī jape jo koī.\nTāko akṣaya puṇya phala hoī.\nĀditya hṛdaya jo nara paḍha leve.\nŚatru vijaya bala buddhi tana deve.",
+      "word_by_word": {
+        "गायत्री": "Gayatri mantra",
+        "जपे": "chants",
+        "अक्षय": "imperishable",
+        "पुण्य": "merit",
+        "आदित्य हृदय": "Aditya Hridayam (stotra)",
+        "शत्रु": "enemy",
+        "विजय": "victory"
+      },
+      "meaning_en": "Whoever chants the Surya Gayatri mantra earns imperishable spiritual merit. Whoever recites the Aditya Hridayam gains victory over enemies and is blessed with strength, intellect, and a healthy body.",
+      "meaning_hi": "जो सूर्य गायत्री का जाप करता है, उसे अक्षय पुण्य फल मिलता है। जो आदित्य हृदय पढ़ता है, उसे शत्रुओं पर विजय, बल, बुद्धि और स्वस्थ शरीर प्राप्त होता है।",
+      "modern_context_en": "Agastya gave Rama the Aditya Hridayam before his final battle — think of it as the original pep talk. Before your big presentation or interview, chanting a solar mantra can center your mind and boost confidence.",
+      "modern_context_hi": "अगस्त्य ने राम को अंतिम युद्ध से पहले आदित्य हृदय दिया था — इसे मूल प्रेरणा वार्ता समझिए। किसी बड़ी प्रस्तुति या साक्षात्कार से पहले सूर्य मंत्र का जाप मन को केंद्रित और आत्मविश्वास बढ़ा सकता है।"
+    },
+    {
+      "verse_number": 20,
+      "section": "chaupai",
+      "hindi_text": "संकट में जो सुमिरे भानू।\nराखे उनकी सदा मान मानू॥\nमकर राशि जब तुम विराजो।\nपर्व उत्सव सब शुभ समाजो॥",
+      "transliteration": "Saṅkaṭa meṃ jo sumire bhānū.\nRākhe unakī sadā māna mānū.\nMakara rāśi jaba tuma virājo.\nParva utsava saba śubha samājo.",
+      "word_by_word": {
+        "संकट": "trouble",
+        "सुमिरे": "remembers",
+        "भानू": "sun",
+        "मान": "honor",
+        "मकर": "Capricorn",
+        "राशि": "zodiac sign",
+        "पर्व": "festival",
+        "उत्सव": "celebration"
+      },
+      "meaning_en": "Whoever remembers the Sun in times of trouble — their honor is always protected. When you enter the sign of Capricorn (Makar Sankranti), all festivals and gatherings become auspicious.",
+      "meaning_hi": "संकट में जो भानु को स्मरण करता है, उसकी मान-मर्यादा सदा रक्षित रहती है। जब आप मकर राशि में प्रवेश करते हैं, तब सभी पर्व-उत्सव शुभ हो जाते हैं।",
+      "modern_context_en": "Makar Sankranti, Pongal, Lohri — these festivals celebrate the sun's northward journey. For NRIs, celebrating these festivals maintains cultural roots and brings the family together across time zones.",
+      "modern_context_hi": "मकर संक्रांति, पोंगल, लोहड़ी — ये त्योहार सूर्य की उत्तरायण यात्रा का उत्सव हैं। प्रवासी भारतीयों के लिए ये त्योहार सांस्कृतिक जड़ों को बनाए रखते हैं और समय क्षेत्रों के पार परिवार को जोड़ते हैं।"
+    },
+    {
+      "verse_number": 21,
+      "section": "chaupai",
+      "hindi_text": "छठ पूजा में तुम्हें मनावें।\nसब मनवांछित फल जन पावें॥\nव्रत करें तुम्हरो शुभ नारी।\nपुत्र पति सुख सम्पत भारी॥",
+      "transliteration": "Chaṭha pūjā meṃ tumheṃ manāveṃ.\nSaba manavāñchita phala jana pāveṃ.\nVrata kareṃ tumharo śubha nārī.\nPutra pati sukha sampata bhārī.",
+      "word_by_word": {
+        "छठ": "Chhath (sun worship festival)",
+        "पूजा": "worship",
+        "मनवांछित": "desired",
+        "फल": "fruit/result",
+        "व्रत": "fasting/vow",
+        "नारी": "women",
+        "पुत्र": "son/children",
+        "सम्पत": "prosperity"
+      },
+      "meaning_en": "Those who worship you during Chhath Puja receive all their heart's desires. Women who observe your auspicious fast are blessed with the happiness of children, spouse, and abundant prosperity.",
+      "meaning_hi": "छठ पूजा में जो आपकी अराधना करते हैं, उन्हें सब मनवांछित फल मिलते हैं। जो स्त्रियाँ आपका शुभ व्रत करती हैं, उन्हें पुत्र, पति सुख और अपार समृद्धि मिलती है।",
+      "modern_context_en": "Chhath Puja — standing in water at dawn and dusk offering arghya — is one of the most disciplined and physically demanding festivals. It models the grit and devotion that define strong family women everywhere.",
+      "modern_context_hi": "छठ पूजा — सुबह और शाम पानी में खड़े होकर अर्घ्य देना — सबसे अनुशासित और शारीरिक रूप से कठिन त्योहारों में से एक है। यह उस दृढ़ता और भक्ति का प्रतीक है जो हर जगह मजबूत परिवार की महिलाओं को परिभाषित करती है।"
+    },
+    {
+      "verse_number": 22,
+      "section": "chaupai",
+      "hindi_text": "रविवार व्रत जो नर करई।\nताकी सकल मनोरथ भरई॥\nगुड़ गेहूँ का भोग लगाई।\nसूर्य देव को करे मनाई॥",
+      "transliteration": "Ravivāra vrata jo nara karaī.\nTākī sakala manoratha bharaī.\nGuḍa gehūṃ kā bhoga lagāī.\nSūrya deva ko kare manāī.",
+      "word_by_word": {
+        "रविवार": "Sunday",
+        "व्रत": "fast/vow",
+        "मनोरथ": "desires",
+        "गुड़": "jaggery",
+        "गेहूँ": "wheat",
+        "भोग": "offering"
+      },
+      "meaning_en": "Whoever observes a fast on Sunday — all their desires are fulfilled. Offering jaggery and wheat to the Sun God and worshipping him brings all blessings.",
+      "meaning_hi": "जो व्यक्ति रविवार का व्रत करता है, उसके सब मनोरथ पूर्ण होते हैं। गुड़ और गेहूँ का भोग लगाकर सूर्य देव की अराधना करने से सब कल्याण होता है।",
+      "modern_context_en": "Having a dedicated weekly rest-and-reflection day (like Sunday fasting) is the ancient equivalent of a weekly digital detox — it resets your mind and body for the week ahead.",
+      "modern_context_hi": "एक नियमित साप्ताहिक विश्राम-और-चिंतन दिवस (जैसे रविवार व्रत) डिजिटल डिटॉक्स का प्राचीन संस्करण है — यह आगे के सप्ताह के लिए मन और शरीर को रीसेट करता है।"
+    },
+    {
+      "verse_number": 23,
+      "section": "chaupai",
+      "hindi_text": "कोणार्क का मंदिर सुहावन।\nतुम्हरो धाम बड़ो मन भावन॥\nमार्तण्ड रूप धरो जब तुम ही।\nदनुज विनाशक होहु तब तुम ही॥",
+      "transliteration": "Koṇārka kā mandira suhāvana.\nTumharo dhāma baḍo mana bhāvana.\nMārtaṇḍa rūpa dharo jaba tumahī.\nDanuja vināśaka hohu taba tumahī.",
+      "word_by_word": {
+        "कोणार्क": "Konark",
+        "मंदिर": "temple",
+        "सुहावन": "beautiful",
+        "धाम": "abode",
+        "मार्तण्ड": "form of fiery sun",
+        "दनुज": "demons",
+        "विनाशक": "destroyer"
+      },
+      "meaning_en": "The Konark temple is your beautiful abode — a place that delights the heart. When you assume the fierce form of Martanda, you become the destroyer of all demons.",
+      "meaning_hi": "कोणार्क का मंदिर आपका सुहावना धाम है — अत्यंत मनभावन। जब आप मार्तण्ड रूप धारण करते हैं, तब दानवों के विनाशक बन जाते हैं।",
+      "modern_context_en": "The Konark Sun Temple is a UNESCO World Heritage site and a marvel of ancient engineering — visiting or even studying it reminds us that our ancestors mastered both science and devotion simultaneously.",
+      "modern_context_hi": "कोणार्क सूर्य मंदिर यूनेस्को विश्व धरोहर और प्राचीन इंजीनियरिंग का चमत्कार है — इसे देखना या इसके बारे में जानना याद दिलाता है कि हमारे पूर्वजों ने विज्ञान और भक्ति दोनों में एक साथ महारत हासिल की।"
+    },
+    {
+      "verse_number": 24,
+      "section": "chaupai",
+      "hindi_text": "सम्भ नरकासुर को मारा।\nकर सुग्रीव का किया उबारा॥\nकर्ण पुत्र तव अति बलवाना।\nदानवीर जग में जस माना॥",
+      "transliteration": "Sambha Narakāsura ko mārā.\nKara Sugrīva kā kiyā ubārā.\nKarṇa putra tava ati balavānā.\nDānavīra jaga meṃ jasa mānā.",
+      "word_by_word": {
+        "सम्भ": "Samba (Krishna's son healed by Surya)",
+        "नरकासुर": "demon Narakasura",
+        "मारा": "killed",
+        "सुग्रीव": "Sugriva",
+        "उबारा": "rescued",
+        "कर्ण": "Karna",
+        "पुत्र": "son",
+        "दानवीर": "great donor"
+      },
+      "meaning_en": "You destroyed the demon Narakasura and healed Samba. You rescued Sugriva. Your son Karna was immensely powerful — celebrated in the world as the greatest donor.",
+      "meaning_hi": "आपने नरकासुर का वध किया और सम्भ को स्वस्थ किया। आपने सुग्रीव का उद्धार किया। आपके पुत्र कर्ण अत्यंत बलवान थे — संसार में दानवीर के रूप में प्रसिद्ध।",
+      "modern_context_en": "Karna's legendary generosity came from the Sun's bloodline — it reminds us that true strength is measured not by what you accumulate but by what you give away.",
+      "modern_context_hi": "कर्ण की अद्वितीय उदारता सूर्य वंश से आई — यह याद दिलाता है कि सच्ची ताकत इस बात से नापी जाती है कि आप कितना देते हैं, न कि कितना जोड़ते हैं।"
+    },
+    {
+      "verse_number": 25,
+      "section": "chaupai",
+      "hindi_text": "सूर्यवंश में राम अवतारा।\nजिनने किया रावण संहारा॥\nभगवान राम तुम्हारे कुल के।\nउद्धारक त्रिभुवन सब पुल के॥",
+      "transliteration": "Sūryavaṃśa meṃ Rāma avatārā.\nJinane kiyā Rāvaṇa saṃhārā.\nBhagavāna Rāma tumhāre kula ke.\nUddhāraka tribhuvana saba pula ke.",
+      "word_by_word": {
+        "सूर्यवंश": "Solar dynasty",
+        "राम": "Lord Rama",
+        "अवतारा": "incarnation",
+        "रावण": "Ravana",
+        "संहारा": "destruction",
+        "कुल": "lineage",
+        "उद्धारक": "redeemer",
+        "त्रिभुवन": "three worlds"
+      },
+      "meaning_en": "Lord Rama incarnated in the Solar dynasty and destroyed Ravana. Lord Rama belongs to your lineage — the redeemer of all three worlds.",
+      "meaning_hi": "सूर्यवंश में भगवान राम ने अवतार लिया और रावण का संहार किया। भगवान राम आपके कुल के हैं — तीनों लोकों के उद्धारक।",
+      "modern_context_en": "Knowing that Rama descends from the Sun's lineage connects two of Hinduism's greatest devotional streams. It reminds NRI families that their spiritual heritage is vast, interconnected, and worth passing on.",
+      "modern_context_hi": "यह जानना कि राम सूर्यवंश से हैं, हिन्दू धर्म की दो महान भक्ति धाराओं को जोड़ता है। यह प्रवासी परिवारों को याद दिलाता है कि उनकी आध्यात्मिक विरासत विशाल, परस्पर जुड़ी और आगे बढ़ाने योग्य है।"
+    },
+    {
+      "verse_number": 26,
+      "section": "chaupai",
+      "hindi_text": "सत्यनारायण कुन्ती को दीन्हा।\nकर्ण जैसा बलवान पुत्र कीन्हा॥\nद्रौपदी को अक्षय पात्र दीन्हा।\nभक्तों पर सदा उपकार कीन्हा॥",
+      "transliteration": "Satyanārāyaṇa Kuntī ko dīnhā.\nKarṇa jaisā balavāna putra kīnhā.\nDraupadī ko akṣaya pātra dīnhā.\nBhaktoṃ para sadā upakāra kīnhā.",
+      "word_by_word": {
+        "सत्यनारायण": "true lord/sun god",
+        "कुन्ती": "Kunti",
+        "कर्ण": "Karna",
+        "बलवान": "mighty",
+        "द्रौपदी": "Draupadi",
+        "अक्षय पात्र": "inexhaustible vessel",
+        "उपकार": "benevolence"
+      },
+      "meaning_en": "The Sun God blessed Kunti with a mighty son like Karna. He gave Draupadi the Akshaya Patra — an inexhaustible vessel of food. He has always been benevolent to his devotees.",
+      "meaning_hi": "सूर्य देव ने कुन्ती को कर्ण जैसा बलवान पुत्र दिया। द्रौपदी को अक्षय पात्र प्रदान किया। भक्तों पर सदा उपकार किया है।",
+      "modern_context_en": "The Akshaya Patra — a vessel that never runs empty — symbolizes the abundance that comes when we serve others. Many NRIs support charities named after this very concept, feeding millions of children in India.",
+      "modern_context_hi": "अक्षय पात्र — जो कभी खाली न हो — उस प्रचुरता का प्रतीक है जो दूसरों की सेवा से आती है। कई प्रवासी भारतीय इसी अवधारणा पर आधारित संस्थाओं का समर्थन करते हैं जो भारत में लाखों बच्चों को भोजन कराती हैं।"
+    },
+    {
+      "verse_number": 27,
+      "section": "chaupai",
+      "hindi_text": "तुम्हरो ध्यान योगी नर धरई।\nजन्म मृत्यु भव पार परई॥\nज्ञान ज्योति जग में तुम फैलाओ।\nअज्ञानी जन को समझाओ॥",
+      "transliteration": "Tumharo dhyāna yogī nara dharaī.\nJanma mṛtyu bhava pāra paraī.\nJñāna jyoti jaga meṃ tuma phailāo.\nAjñānī jana ko samajhāo.",
+      "word_by_word": {
+        "ध्यान": "meditation",
+        "योगी": "yogi",
+        "जन्म": "birth",
+        "मृत्यु": "death",
+        "पार": "across/beyond",
+        "ज्ञान": "knowledge",
+        "ज्योति": "light",
+        "अज्ञानी": "ignorant"
+      },
+      "meaning_en": "The yogi who meditates upon you crosses beyond the cycle of birth and death. Please spread the light of knowledge in the world and enlighten those who are in ignorance.",
+      "meaning_hi": "जो योगी आपका ध्यान करता है, वह जन्म-मृत्यु के चक्र से पार हो जाता है। जग में ज्ञान की ज्योति फैलाइए और अज्ञानियों को मार्ग दिखाइए।",
+      "modern_context_en": "Meditation isn't just for monks in caves — modern neuroscience shows that even 10 minutes of focused meditation daily can rewire the brain for clarity, calm, and better decision-making.",
+      "modern_context_hi": "ध्यान केवल गुफाओं में साधुओं के लिए नहीं है — आधुनिक न्यूरोसाइंस दिखाता है कि प्रतिदिन 10 मिनट का ध्यान भी मस्तिष्क को स्पष्टता, शांति और बेहतर निर्णय के लिए पुनर्गठित कर सकता है।"
+    },
+    {
+      "verse_number": 28,
+      "section": "chaupai",
+      "hindi_text": "अन्नदाता तुम जग पालक।\nशरणागत तुम सदा रखवालक॥\nतुम्हरी ऊर्जा से जग चलता।\nबिन तुम्हरे कछु नहिं फलता॥",
+      "transliteration": "Annadātā tuma jaga pālaka.\nŚaraṇāgata tuma sadā rakhavālaka.\nTumharī ūrjā se jaga calatā.\nBina tumhare kachu nahiṃ phalatā.",
+      "word_by_word": {
+        "अन्नदाता": "giver of food",
+        "पालक": "sustainer",
+        "शरणागत": "those who take refuge",
+        "रखवालक": "protector",
+        "ऊर्जा": "energy",
+        "फलता": "bears fruit"
+      },
+      "meaning_en": "You are the giver of food and the sustainer of the world. You are ever the protector of those who take refuge in you. The world runs on your energy — without you, nothing bears fruit.",
+      "meaning_hi": "आप अन्नदाता और जगत के पालक हैं। शरणागतों के सदा रक्षक हैं। आपकी ऊर्जा से संसार चलता है — आपके बिना कुछ भी फलता नहीं।",
+      "modern_context_en": "Solar energy now powers homes, offices, and entire cities — the sun is literally the original and ultimate source of all energy on earth, from food to fossil fuels to photovoltaics.",
+      "modern_context_hi": "सौर ऊर्जा अब घरों, कार्यालयों और पूरे शहरों को बिजली दे रही है — सूर्य शाब्दिक रूप से पृथ्वी पर सारी ऊर्जा का मूल और अंतिम स्रोत है, भोजन से लेकर जीवाश्म ईंधन से लेकर सोलर पैनल तक।"
+    },
+    {
+      "verse_number": 29,
+      "section": "chaupai",
+      "hindi_text": "प्रातःकाल तुम्हें जो ध्यावे।\nदिवस भर सुख शांति पावे॥\nसायंकाल तुम्हें प्रणाम करे जो।\nनिशा सुखद शुभ नींद लहे सो॥",
+      "transliteration": "Prātaḥkāla tumheṃ jo dhyāve.\nDivasa bhara sukha śānti pāve.\nSāyaṃkāla tumheṃ praṇāma kare jo.\nNiśā sukhada śubha nīnda lahe so.",
+      "word_by_word": {
+        "प्रातःकाल": "morning",
+        "ध्यावे": "meditates",
+        "दिवस": "day",
+        "शांति": "peace",
+        "सायंकाल": "evening",
+        "प्रणाम": "salutation",
+        "निशा": "night",
+        "नींद": "sleep"
+      },
+      "meaning_en": "Whoever meditates upon you in the morning finds happiness and peace throughout the day. Whoever salutes you in the evening enjoys a restful and blissful night's sleep.",
+      "meaning_hi": "जो प्रातःकाल आपका ध्यान करता है, वह दिनभर सुख-शांति पाता है। जो सायंकाल आपको प्रणाम करता है, उसे रात्रि में सुखद शुभ नींद मिलती है।",
+      "modern_context_en": "Bookending your day with intention — a morning meditation and an evening gratitude moment — is the most evidence-backed routine for better sleep quality and reduced anxiety.",
+      "modern_context_hi": "अपने दिन को संकल्प से शुरू और समाप्त करना — सुबह का ध्यान और शाम का कृतज्ञता क्षण — बेहतर नींद और कम चिंता के लिए सबसे प्रमाणित दिनचर्या है।"
+    },
+    {
+      "verse_number": 30,
+      "section": "chaupai",
+      "hindi_text": "माघ मास की सुन्दर बेला।\nसूर्य स्नान शुभ पावन मेला॥\nगंगा यमुना तट पर जाई।\nसूर्य देव को शीश नवाई॥",
+      "transliteration": "Māgha māsa kī sundara belā.\nSūrya snāna śubha pāvana melā.\nGaṅgā Yamunā taṭa para jāī.\nSūrya deva ko śīśa navāī.",
+      "word_by_word": {
+        "माघ": "month of Magha (Jan-Feb)",
+        "स्नान": "bathing",
+        "पावन": "sacred",
+        "मेला": "fair/gathering",
+        "गंगा": "Ganges",
+        "तट": "bank",
+        "शीश": "head",
+        "नवाई": "bowed"
+      },
+      "meaning_en": "The beautiful month of Magha is the sacred time for sun-bathing rituals and holy gatherings. People go to the banks of the Ganga and Yamuna and bow their heads to the Sun God.",
+      "meaning_hi": "माघ मास की सुंदर बेला में सूर्य स्नान और पावन मेला होता है। लोग गंगा-यमुना तट पर जाकर सूर्य देव को शीश नवाते हैं।",
+      "modern_context_en": "Even if you live thousands of miles from the Ganga, stepping outside on a cold winter morning to feel the sun on your face connects you to the same ancient Magha tradition of solar reverence.",
+      "modern_context_hi": "भले ही आप गंगा से हजारों मील दूर रहते हों, सर्दियों की ठंडी सुबह बाहर निकलकर चेहरे पर धूप महसूस करना आपको उसी प्राचीन माघ सूर्य-पूजन परंपरा से जोड़ता है।"
+    },
+    {
+      "verse_number": 31,
+      "section": "chaupai",
+      "hindi_text": "तन को निरोग मन को सुधारो।\nबुद्धि विवेक हमें प्रभु धारो॥\nआलस प्रमाद दूर करो हमसे।\nउत्साह भरो हर दिन नव दमसे॥",
+      "transliteration": "Tana ko niroga mana ko sudhāro.\nBuddhi viveka hameṃ prabhu dhāro.\nĀlasa pramāda dūra karo hamase.\nUtsāha bharo hara dina nava damase.",
+      "word_by_word": {
+        "तन": "body",
+        "निरोग": "healthy",
+        "मन": "mind",
+        "सुधारो": "improve",
+        "बुद्धि": "intellect",
+        "विवेक": "discernment",
+        "आलस": "laziness",
+        "प्रमाद": "carelessness",
+        "उत्साह": "enthusiasm",
+        "दम": "vitality"
+      },
+      "meaning_en": "O Lord, make our body healthy and our mind pure. Bless us with intellect and discernment. Remove laziness and carelessness from us. Fill us with fresh enthusiasm and vitality each new day.",
+      "meaning_hi": "हे प्रभु, हमारा तन निरोग और मन शुद्ध करो। हमें बुद्धि और विवेक प्रदान करो। आलस और प्रमाद हमसे दूर करो। हर दिन नई ऊर्जा और उत्साह से भर दो।",
+      "modern_context_en": "This verse is basically a prayer for what every high-performer seeks — a healthy body, sharp mind, no procrastination, and daily renewed energy. It's the ancient blueprint for peak performance.",
+      "modern_context_hi": "यह चौपाई वही माँग रही है जो हर सफल व्यक्ति चाहता है — स्वस्थ शरीर, तेज दिमाग, कोई टालमटोल नहीं, और प्रतिदिन नई ऊर्जा। यह सर्वोत्तम प्रदर्शन का प्राचीन ब्लूप्रिंट है।"
+    },
+    {
+      "verse_number": 32,
+      "section": "chaupai",
+      "hindi_text": "दुष्ट ग्रहों की पीड़ा हरियो।\nशुभ ग्रहों को बल अति करियो॥\nमांगलिक दोष निवारण कीजै।\nसब ग्रह शान्ति हमें प्रभु दीजै॥",
+      "transliteration": "Duṣṭa grahoṃ kī pīḍā hariyo.\nŚubha grahoṃ ko bala ati kariyo.\nMāṅgalika doṣa nivāraṇa kījai.\nSaba graha śānti hameṃ prabhu dījai.",
+      "word_by_word": {
+        "दुष्ट": "malefic",
+        "ग्रह": "planets",
+        "पीड़ा": "suffering",
+        "शुभ": "benefic",
+        "बल": "strength",
+        "मांगलिक": "Mars-related affliction",
+        "दोष": "defect",
+        "निवारण": "removal",
+        "शान्ति": "peace"
+      },
+      "meaning_en": "Please remove the suffering caused by malefic planets and strengthen the benefic ones. Remove Mangalik dosha and grant us peace from all planetary afflictions, O Lord.",
+      "meaning_hi": "दुष्ट ग्रहों की पीड़ा हर लीजिए और शुभ ग्रहों को बल दीजिए। मांगलिक दोष का निवारण कीजिए और सब ग्रहों की शांति हमें प्रदान कीजिए।",
+      "modern_context_en": "Many families worry about Mangalik dosha and planetary afflictions in horoscopes. Praying to Surya — the king of planets — is considered the master remedy that harmonizes all other planetary influences.",
+      "modern_context_hi": "कई परिवार कुंडली में मांगलिक दोष और ग्रह पीड़ा से चिंतित रहते हैं। सूर्य — ग्रहों के राजा — की प्रार्थना वह मूल उपाय माना जाता है जो सभी ग्रहों के प्रभाव को संतुलित करता है।"
+    },
+    {
+      "verse_number": 33,
+      "section": "chaupai",
+      "hindi_text": "जो बालक ग्रस्त हो ग्रह से।\nरक्षा करो प्रभु हर विग्रह से॥\nनवग्रह शान्ति स्वयं ही करियो।\nभक्तन की सब पीड़ा हरियो॥",
+      "transliteration": "Jo bālaka grasta ho graha se.\nRakṣā karo prabhu hara vigraha se.\nNavagraha śānti svayaṃ hī kariyo.\nBhaktana kī saba pīḍā hariyo.",
+      "word_by_word": {
+        "बालक": "child",
+        "ग्रस्त": "afflicted",
+        "रक्षा": "protection",
+        "विग्रह": "conflict/affliction",
+        "नवग्रह": "nine planets",
+        "स्वयं": "yourself",
+        "पीड़ा": "suffering"
+      },
+      "meaning_en": "If any child is afflicted by planetary influences, O Lord, protect them from every affliction. Please bring peace to all nine planets yourself and remove all the suffering of your devotees.",
+      "meaning_hi": "जो बालक ग्रह पीड़ा से ग्रस्त हो, हे प्रभु, हर विपत्ति से उनकी रक्षा कीजिए। स्वयं नवग्रह शांति कीजिए और भक्तों की सब पीड़ा हर लीजिए।",
+      "modern_context_en": "Parents often worry about their children's health and future. This verse reminds us that beyond doctor visits and school planning, holding our children in prayer adds a dimension of protection that transcends the material.",
+      "modern_context_hi": "माता-पिता अक्सर अपने बच्चों के स्वास्थ्य और भविष्य की चिंता करते हैं। यह चौपाई याद दिलाती है कि डॉक्टर और स्कूल की योजना से परे, बच्चों के लिए प्रार्थना सुरक्षा का एक ऐसा आयाम जोड़ती है जो भौतिक से परे है।"
+    },
+    {
+      "verse_number": 34,
+      "section": "chaupai",
+      "hindi_text": "दृष्टि दोष जो होय किसी को।\nमिटे दोष सूरज गुण रस को॥\nहड्डी रोग सब दूर करीजै।\nआरोग्य का वरदान हमें दीजै॥",
+      "transliteration": "Dṛṣṭi doṣa jo hoya kisī ko.\nMiṭe doṣa sūraja guṇa rasa ko.\nHaḍḍī roga saba dūra karījai.\nĀrogya kā varadāna hameṃ dījai.",
+      "word_by_word": {
+        "दृष्टि": "eyesight",
+        "दोष": "defect",
+        "गुण": "qualities",
+        "रस": "essence",
+        "हड्डी": "bone",
+        "रोग": "disease",
+        "आरोग्य": "good health",
+        "वरदान": "blessing"
+      },
+      "meaning_en": "If anyone has defects of eyesight, they are cured by the essence of the Sun's qualities. Please remove all bone diseases and bless us with the gift of complete health.",
+      "meaning_hi": "जिसे भी दृष्टि दोष हो, सूर्य के गुण-रस से वह दोष मिटता है। सभी हड्डी के रोग दूर कीजिए और हमें आरोग्य का वरदान दीजिए।",
+      "modern_context_en": "Vitamin D from sunlight is essential for calcium absorption and bone health — osteoporosis and bone density issues, common among South Asians, are directly linked to insufficient sun exposure.",
+      "modern_context_hi": "सूर्य प्रकाश से विटामिन D कैल्शियम अवशोषण और हड्डी स्वास्थ्य के लिए आवश्यक है — ऑस्टियोपोरोसिस और अस्थि घनत्व की समस्याएँ, जो दक्षिण एशियाइयों में आम हैं, सीधे अपर्याप्त धूप से जुड़ी हैं।"
+    },
+    {
+      "verse_number": 35,
+      "section": "chaupai",
+      "hindi_text": "तुम्हरो तेज सकल जग जाने।\nब्रह्मा विष्णु महेश बखाने॥\nसब देवन में श्रेष्ठ तुम्हारा।\nप्रत्यक्ष देव यही उपचारा॥",
+      "transliteration": "Tumharo teja sakala jaga jāne.\nBrahmā Viṣṇu Maheśa bakhāne.\nSaba devana meṃ śreṣṭha tumhārā.\nPratyakṣa deva yahī upacārā.",
+      "word_by_word": {
+        "तेज": "radiance",
+        "ब्रह्मा": "Brahma",
+        "विष्णु": "Vishnu",
+        "महेश": "Shiva",
+        "बखाने": "described/praised",
+        "श्रेष्ठ": "supreme",
+        "प्रत्यक्ष": "visible/manifest",
+        "उपचारा": "remedy"
+      },
+      "meaning_en": "The whole world knows your radiance — even Brahma, Vishnu, and Shiva praise you. Among all deities, you are supreme because you are the visible God — the direct, manifest remedy.",
+      "meaning_hi": "सारा जग आपके तेज को जानता है — ब्रह्मा, विष्णु, महेश भी आपकी प्रशंसा करते हैं। सब देवताओं में आप श्रेष्ठ हैं क्योंकि आप प्रत्यक्ष देव हैं — साक्षात् उपचार।",
+      "modern_context_en": "Surya is called 'Pratyaksha Deva' — the one God you can see with your own eyes every morning. For those who struggle with abstract faith, the sun offers tangible, visible divinity.",
+      "modern_context_hi": "सूर्य को 'प्रत्यक्ष देव' कहा जाता है — वह भगवान जिन्हें आप हर सुबह अपनी आँखों से देख सकते हैं। जिन्हें अमूर्त आस्था से कठिनाई होती है, उनके लिए सूर्य स्पर्शनीय, दृश्य देवत्व प्रदान करता है।"
+    },
+    {
+      "verse_number": 36,
+      "section": "chaupai",
+      "hindi_text": "करहु कृपा प्रभु दीन दयाला।\nसेवक पर जनि होहु कृपाला॥\nहम पर कृपा नित्य ही कीजै।\nमन वांछित वर हमको दीजै॥",
+      "transliteration": "Karahu kṛpā prabhu dīna dayālā.\nSevaka para jani hohu kṛpālā.\nHama para kṛpā nitya hī kījai.\nMana vāñchita vara hamako dījai.",
+      "word_by_word": {
+        "कृपा": "grace",
+        "दीन": "humble",
+        "दयाला": "compassionate",
+        "सेवक": "servant/devotee",
+        "कृपाला": "gracious",
+        "नित्य": "daily/always",
+        "वांछित": "desired",
+        "वर": "boon"
+      },
+      "meaning_en": "O Lord, compassionate to the humble, please be gracious to your servants. Shower your grace upon us daily and grant us the boons our hearts desire.",
+      "meaning_hi": "हे दीन दयालु प्रभु, कृपा कीजिए। सेवकों पर कृपालु होइए। हम पर नित्य कृपा कीजिए और मन वांछित वर दीजिए।",
+      "modern_context_en": "Asking for grace daily — not just in emergencies — builds a relationship with the divine. Like any relationship, consistency is what deepens it, not just crisis calls.",
+      "modern_context_hi": "प्रतिदिन कृपा माँगना — केवल संकट में नहीं — परमात्मा के साथ रिश्ता बनाता है। किसी भी रिश्ते की तरह, गहराई नियमितता से आती है, केवल संकट की पुकार से नहीं।"
+    },
+    {
+      "verse_number": 37,
+      "section": "chaupai",
+      "hindi_text": "धन धान्य से भरो खजाना।\nसुख सम्पत दो अमित निधाना॥\nपुत्र पौत्र सुख सौभाग्य भारी।\nसूरज देव करो हितकारी॥",
+      "transliteration": "Dhana dhānya se bharo khajānā.\nSukha sampata do amita nidhānā.\nPutra pautra sukha saubhāgya bhārī.\nSūraja deva karo hitakārī.",
+      "word_by_word": {
+        "धन": "wealth",
+        "धान्य": "grain",
+        "खजाना": "treasury",
+        "अमित": "limitless",
+        "निधाना": "treasure",
+        "पुत्र": "sons",
+        "पौत्र": "grandsons",
+        "सौभाग्य": "good fortune"
+      },
+      "meaning_en": "Fill our treasury with wealth and grain. Grant us limitless treasure of happiness and prosperity. Bless us with the joy of children and grandchildren and great good fortune. O Sun God, be our benefactor.",
+      "meaning_hi": "धन-धान्य से खजाना भर दीजिए। अमित सुख-सम्पत्ति की निधि दीजिए। पुत्र-पौत्र का सुख और अपार सौभाग्य दीजिए। हे सूर्य देव, हमारा हित कीजिए।",
+      "modern_context_en": "For NRIs, 'putra pautra sukh' often means hoping your children and grandchildren stay connected to their roots — financial prosperity means little if the next generation feels culturally uprooted.",
+      "modern_context_hi": "प्रवासियों के लिए 'पुत्र पौत्र सुख' का अर्थ अक्सर यह होता है कि बच्चे और पोते-पोतियाँ अपनी जड़ों से जुड़े रहें — आर्थिक समृद्धि तब अर्थहीन है जब अगली पीढ़ी सांस्कृतिक रूप से उखड़ी हुई महसूस करे।"
+    },
+    {
+      "verse_number": 38,
+      "section": "chaupai",
+      "hindi_text": "अन्त समय प्रभु मोहि उबारो।\nकर्म बंधन के बंध निवारो॥\nनिज धाम में स्थान हमें दो।\nभक्ति मुक्ति वर दान हमें दो॥",
+      "transliteration": "Anta samaya prabhu mohi ubāro.\nKarma bandhana ke bandha nivāro.\nNija dhāma meṃ sthāna hameṃ do.\nBhakti mukti vara dāna hameṃ do.",
+      "word_by_word": {
+        "अन्त": "final",
+        "समय": "time",
+        "उबारो": "save",
+        "कर्म": "action/karma",
+        "बंधन": "bondage",
+        "निवारो": "remove",
+        "धाम": "abode",
+        "भक्ति": "devotion",
+        "मुक्ति": "liberation"
+      },
+      "meaning_en": "At the final hour, O Lord, please save me. Break the bonds of karma that bind me. Give me a place in your divine abode. Grant me the boons of devotion and liberation.",
+      "meaning_hi": "अंत समय में हे प्रभु, मुझे उबारिए। कर्म बंधन के बंधन निवारण कीजिए। अपने धाम में स्थान दीजिए। भक्ति और मुक्ति का वरदान दीजिए।",
+      "modern_context_en": "Planning for end-of-life — both spiritually and practically — is an act of love, not fear. This verse encourages us to live so that when the end comes, we are at peace, not in panic.",
+      "modern_context_hi": "जीवन के अंत की तैयारी — आध्यात्मिक और व्यावहारिक दोनों — प्रेम का कार्य है, भय का नहीं। यह चौपाई प्रेरित करती है कि ऐसा जीवन जिएँ कि जब अंत आए तो शांति हो, घबराहट नहीं।"
+    },
+    {
+      "verse_number": 39,
+      "section": "chaupai",
+      "hindi_text": "पठे चालीसा सूर्य का जो नर।\nहोय सिद्धि सकल मनभावन वर॥\nभक्ति भाव से पाठ करे जो।\nसुख शांति सम्पत सब लहे सो॥",
+      "transliteration": "Paṭhe cālīsā sūrya kā jo nara.\nHoya siddhi sakala manabhāvana vara.\nBhakti bhāva se pāṭha kare jo.\nSukha śānti sampata saba lahe so.",
+      "word_by_word": {
+        "पठे": "reads/recites",
+        "चालीसा": "forty verses",
+        "सिद्धि": "spiritual attainment",
+        "मनभावन": "heart-pleasing",
+        "भक्ति": "devotion",
+        "भाव": "feeling/emotion",
+        "पाठ": "recitation"
+      },
+      "meaning_en": "Whoever recites this Surya Chalisa attains all accomplishments and heart-pleasing boons. Whoever reads it with true devotion and feeling — they receive happiness, peace, and all prosperity.",
+      "meaning_hi": "जो व्यक्ति सूर्य चालीसा का पाठ करता है, उसे सभी सिद्धियाँ और मनभावन वर मिलते हैं। जो भक्ति भाव से पाठ करे, उसे सुख, शांति और सम्पत्ति सब प्राप्त होती है।",
+      "modern_context_en": "The key word here is 'bhakti bhav' — feeling, not just recitation. Reading anything sacred mechanically helps less; reading it with genuine feeling transforms you from the inside out.",
+      "modern_context_hi": "यहाँ मुख्य शब्द है 'भक्ति भाव' — केवल पाठ नहीं, भावना। किसी भी पवित्र ग्रंथ को यंत्रवत पढ़ने से कम लाभ होता है; सच्ची भावना से पढ़ना आपको भीतर से बदल देता है।"
+    },
+    {
+      "verse_number": 40,
+      "section": "chaupai",
+      "hindi_text": "रविवार को पाठ जो करई।\nताकी सकल मनोकामना भरई॥\nसुख सम्पदा बढ़े दिन दूना।\nचालीसा सूर्य सब गुण सूना॥",
+      "transliteration": "Ravivāra ko pāṭha jo karaī.\nTākī sakala manokāmanā bharaī.\nSukha sampadā baḍhe dina dūnā.\nCālīsā sūrya saba guṇa sūnā.",
+      "word_by_word": {
+        "रविवार": "Sunday",
+        "पाठ": "recitation",
+        "मनोकामना": "heart's desires",
+        "सम्पदा": "wealth",
+        "दूना": "double",
+        "गुण": "virtues",
+        "सूना": "listened/described"
+      },
+      "meaning_en": "Whoever recites this on Sunday — all their heart's desires are fulfilled. Happiness and wealth increase double each day. This is the Surya Chalisa with all its virtues described.",
+      "meaning_hi": "जो रविवार को पाठ करे, उसकी सब मनोकामनाएँ पूर्ण हों। सुख-सम्पदा दिन-दूनी बढ़े। यह सूर्य चालीसा और इसके सब गुण सुने।",
+      "modern_context_en": "Dedicating one specific day a week — like Sunday for Surya — creates a sacred rhythm that turns sporadic spirituality into a sustainable lifestyle practice.",
+      "modern_context_hi": "सप्ताह का एक विशेष दिन — जैसे रविवार सूर्य के लिए — समर्पित करना एक पवित्र लय बनाता है जो छिटपुट आध्यात्मिकता को एक टिकाऊ जीवनशैली अभ्यास में बदलता है।"
+    },
+    {
+      "verse_number": 41,
+      "section": "chaupai",
+      "hindi_text": "लाल वस्त्र लाल चन्दन धारो।\nलाल पुष्प से सूर्य संवारो॥\nगुड़ अक्षत अरु जल की धारा।\nकरो अर्घ्य सूरज को प्यारा॥",
+      "transliteration": "Lāla vastra lāla candana dhāro.\nLāla puṣpa se sūrya saṃvāro.\nGuḍa akṣata aru jala kī dhārā.\nKaro arghya sūraja ko pyārā.",
+      "word_by_word": {
+        "लाल": "red",
+        "वस्त्र": "cloth",
+        "चन्दन": "sandalwood",
+        "पुष्प": "flowers",
+        "गुड़": "jaggery",
+        "अक्षत": "unbroken rice",
+        "जल": "water",
+        "अर्घ्य": "water oblation"
+      },
+      "meaning_en": "Wear red garments and apply red sandalwood. Adorn the Sun with red flowers. Offer jaggery, unbroken rice, and a stream of water — make your arghya offering dear to the Sun.",
+      "meaning_hi": "लाल वस्त्र और लाल चन्दन धारण करो। लाल पुष्पों से सूर्य को सजाओ। गुड़, अक्षत और जल की धारा से सूर्य को प्रिय अर्घ्य दो।",
+      "modern_context_en": "Even in a small apartment abroad, you can do a simple Surya puja with a copper vessel, water, a pinch of rice, and a red flower — the intention matters more than elaborate arrangements.",
+      "modern_context_hi": "विदेश में एक छोटे अपार्टमेंट में भी आप ताम्र पात्र, जल, चुटकी भर चावल और एक लाल फूल से सरल सूर्य पूजा कर सकते हैं — भावना बड़े आयोजनों से अधिक मायने रखती है।"
+    },
+    {
+      "verse_number": 42,
+      "section": "chaupai",
+      "hindi_text": "जय भास्कर जय जय भगवाना।\nतुम्हरो महिमा अगम अयाना॥\nदीन बन्धु दुख हरत तुम्हारे।\nजय जय जय प्रभु सूरज हमारे॥",
+      "transliteration": "Jaya bhāskara jaya jaya bhagavānā.\nTumharo mahimā agama ayānā.\nDīna bandhu dukha harata tumhāre.\nJaya jaya jaya prabhu sūraja hamāre.",
+      "word_by_word": {
+        "भास्कर": "light-maker/sun",
+        "भगवाना": "God",
+        "महिमा": "glory",
+        "अगम": "unfathomable",
+        "दीन बन्धु": "friend of the humble",
+        "दुख": "suffering",
+        "हरत": "removes"
+      },
+      "meaning_en": "Victory to Bhaskara, victory to the Lord! Your glory is unfathomable and beyond comprehension. You are the friend of the humble and the remover of all suffering. Victory, victory, victory to our Lord Sun!",
+      "meaning_hi": "भास्कर की जय, भगवान की जय! आपकी महिमा अगम और अज्ञेय है। आप दीनबन्धु हैं और सब दुख हरने वाले हैं। हमारे प्रभु सूर्य की जय-जय-जय हो!",
+      "modern_context_en": "Being a 'deen bandhu' — a friend of the humble — is the highest leadership quality. Whether you manage a team or a household, true greatness lies in lifting those who need it most.",
+      "modern_context_hi": "दीनबन्धु होना — दीनों का मित्र — सर्वोच्च नेतृत्व गुण है। चाहे आप एक टीम चलाते हों या घर, सच्ची महानता उन्हें उठाने में है जिन्हें सबसे अधिक आवश्यकता है।"
+    },
+    {
+      "verse_number": 43,
+      "section": "doha_closing",
+      "hindi_text": "सूर्य चालीसा पढ़े जो कोई।\nउस पर कृपा भानु की होई॥\nरोग शोक दुख दूर नसावे।\nमन वांछित फल अवश्य पावे॥",
+      "transliteration": "Sūrya cālīsā paḍhe jo koī.\nUsa para kṛpā bhānu kī hoī.\nRoga śoka dukha dūra nasāve.\nMana vāñchita phala avaśya pāve.",
+      "word_by_word": {
+        "पढ़े": "reads",
+        "कृपा": "grace",
+        "भानु": "sun",
+        "रोग": "disease",
+        "शोक": "grief",
+        "दुख": "sorrow",
+        "नसावे": "destroys",
+        "अवश्य": "certainly"
+      },
+      "meaning_en": "Whoever reads this Surya Chalisa receives the grace of the Sun God. All disease, grief, and sorrow are destroyed, and they certainly obtain the fruits their heart desires.",
+      "meaning_hi": "जो कोई सूर्य चालीसा पढ़े, उस पर भानु की कृपा होती है। रोग, शोक और दुख सब नष्ट हो जाते हैं और मन वांछित फल अवश्य प्राप्त होते हैं।",
+      "modern_context_en": "This closing promise is the same principle behind every consistent practice: show up daily, do the work with devotion, and results will follow — whether in prayer, fitness, or career.",
+      "modern_context_hi": "यह समापन वचन हर निरंतर अभ्यास का वही सिद्धांत है: प्रतिदिन उपस्थित रहो, भक्ति से कार्य करो, और परिणाम अवश्य आएँगे — चाहे प्रार्थना हो, स्वास्थ्य हो, या करियर।"
+    },
+    {
+      "verse_number": 44,
+      "section": "doha_closing",
+      "hindi_text": "सूर्य देव की आरती कीजै।\nघर में सुख सम्पत्ति दीजै॥\nजो यह पढ़े चालीसा भाई।\nताको सूर्य देव सुखदाई॥",
+      "transliteration": "Sūrya deva kī āratī kījai.\nGhara meṃ sukha sampatti dījai.\nJo yaha paḍhe cālīsā bhāī.\nTāko sūrya deva sukhadāī.",
+      "word_by_word": {
+        "आरती": "worship with lighted lamp",
+        "घर": "home",
+        "सम्पत्ति": "wealth",
+        "भाई": "brother/friend",
+        "सुखदाई": "giver of happiness"
+      },
+      "meaning_en": "Perform the aarti of Lord Surya and receive happiness and prosperity in your home. Whoever reads this Chalisa — to them, Lord Surya becomes the giver of all happiness.",
+      "meaning_hi": "सूर्य देव की आरती कीजिए और घर में सुख-सम्पत्ति प्राप्त कीजिए। जो यह चालीसा पढ़े, उसे सूर्य देव सुखदाई होते हैं।",
+      "modern_context_en": "Ending with aarti — circling light before the divine — is both a physical ritual and a metaphor: carry the light you've received from this practice into every room of your home and every corner of your life.",
+      "modern_context_hi": "आरती से समापन — दीपक से देव की परिक्रमा — एक शारीरिक अनुष्ठान भी है और रूपक भी: इस साधना से प्राप्त प्रकाश को अपने घर के हर कमरे और जीवन के हर कोने में ले जाइए।"
+    }
+  ]
+}

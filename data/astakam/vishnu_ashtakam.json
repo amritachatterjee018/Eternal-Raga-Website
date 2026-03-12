@@ -1,0 +1,205 @@
+{
+  "id": "vishnu_ashtakam",
+  "title_en": "Vishnu Ashtakam",
+  "title_hi": "विष्णु अष्टकम्",
+  "deity": "vishnu",
+  "author": "Traditional",
+  "author_hi": "पारंपरिक",
+  "type": "ashtakam",
+  "language": "sanskrit",
+  "total_verses": 8,
+  "sections": [
+    "stuti"
+  ],
+  "description_en": "The Vishnu Ashtakam is an eight-verse hymn glorifying Lord Vishnu, the preserver of the universe. It describes his four arms holding the conch, discus, mace, and lotus, his reclining on the cosmic serpent Shesha, and his role as the sustainer who incarnates to protect dharma.",
+  "description_hi": "विष्णु अष्टकम् सृष्टि के पालनकर्ता भगवान विष्णु की महिमा का आठ श्लोकों में गान है। शंख, चक्र, गदा, पद्म धारी, शेषनाग पर विराजमान, धर्म रक्षा हेतु अवतार लेने वाले विष्णु की स्तुति।",
+  "recitation_benefits": [
+    "Grants protection and preservation",
+    "Removes sins and karmic debts",
+    "Brings stability in life",
+    "Grants Vishnu's divine grace",
+    "Ensures spiritual progress"
+  ],
+  "best_time_to_recite": [
+    "Thursday",
+    "Ekadashi",
+    "Vishnu Puja",
+    "Dev Uthani Ekadashi",
+    "Kartik month"
+  ],
+  "verses": [
+    {
+      "verse_number": 1,
+      "section": "stuti",
+      "hindi_text": "शान्ताकारं भुजगशयनं पद्मनाभं सुरेशम्\nविश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम्।\nलक्ष्मीकान्तं कमलनयनं योगिभिर्ध्यानगम्यं\nवन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम्॥१॥",
+      "transliteration": "śāntākāraṃ bhujaśayanaṃ padmanābhaṃ sureśam\nviśvādhāraṃ gaganasadṛśaṃ meghavarṇaṃ śubhāṅgam|\nlakṣmīkāntaṃ kamalanayanaṃ yogibhirdhyānagamyaṃ\nvande viṣṇuṃ bhavabhayaharaṃ sarvalokaikanātham||1||",
+      "word_by_word": {
+        "śāntākāram": "one whose form is peace itself",
+        "bhujagaśayanam": "one who reclines on the serpent (Shesha)",
+        "padmanābham": "one with a lotus in the navel",
+        "sureśam": "lord of all gods",
+        "viśvādhāram": "the support/foundation of the universe",
+        "gaganasadṛśam": "vast and all-pervading like the sky",
+        "meghavarṇam": "cloud-colored, dark-hued",
+        "lakṣmīkāntam": "beloved of Lakshmi",
+        "kamalanavanam": "lotus-eyed",
+        "yogibhiḥ": "by the yogis",
+        "dhyānagamyam": "attainable through meditation",
+        "bhavabhayaharam": "remover of the fear of worldly existence",
+        "sarvalokaikanātham": "the one lord of all worlds"
+      },
+      "meaning_en": "I bow to Vishnu, whose very form is serene peace, who reclines on the cosmic serpent, from whose navel springs the lotus of creation. He is the foundation of all worlds, vast as the sky, dark and beautiful as a rain cloud, the beloved consort of Lakshmi, lotus-eyed, and attainable through the deep meditation of yogis. He is the remover of all fears of worldly existence and the singular lord of every realm.",
+      "meaning_hi": "मैं उन विष्णु को प्रणाम करता हूँ जिनका स्वरूप शांति का साक्षात् प्रतीक है, जो शेषनाग पर विश्राम करते हैं और जिनकी नाभि से कमल प्रकट हुआ। वे समस्त विश्व के आधार हैं, आकाश की भाँति व्यापक हैं, मेघ के समान श्यामवर्ण और सुंदर हैं। वे लक्ष्मी के प्रिय पति हैं, कमल-नेत्र वाले हैं, योगियों के ध्यान द्वारा प्राप्त होने वाले हैं और संसार के भय को हरने वाले सर्वलोकनाथ हैं।",
+      "modern_context_en": "When anxiety overwhelms you before a job interview or a high-stakes presentation, this verse reminds you to invoke Vishnu's śāntākāra — the energy of deep, unshakeable peace. Just as he reclines serenely even while holding up the entire cosmos, you too can find a calm centre within the storm of modern pressure. Close your eyes, breathe deeply, and remember: the one who sustains every galaxy is also sustaining you right now.",
+      "modern_context_hi": "जब कोई बड़ा इंटरव्यू हो या ऑफिस में प्रेजेंटेशन देनी हो और घबराहट होने लगे, तो विष्णु के शांत स्वरूप का ध्यान करो। जैसे वे पूरे ब्रह्मांड को संभालते हुए भी शांत लेटे रहते हैं, वैसे ही तुम भी अपने भीतर की शांति खोज सकते हो। एक गहरी सांस लो और याद रखो — जो पूरे जगत को थाम रहा है, वो तुम्हें भी संभाल लेगा।"
+    },
+    {
+      "verse_number": 2,
+      "section": "stuti",
+      "hindi_text": "क्षीरोदधौ शयनमिन्दिरया विलासं\nभक्तानुकम्पितमनन्तमजं पुराणम्।\nव्योमाधिनाथमखिलस्य परायणं तं\nवन्दे हरिं सकलपापहरं वरेण्यम्॥२॥",
+      "transliteration": "kṣīrodadhau śayanamiridayā vilāsaṃ\nbhaktānukampitamanantamajaṃ purāṇam|\nvyomādhināthamakhilasya parāyaṇaṃ taṃ\nvande hariṃ sakalapāpaharaṃ vareṇyam||2||",
+      "word_by_word": {
+        "kṣīrodadhau": "in the ocean of milk (Kshira Sagara)",
+        "śayanam": "one who reposes/reclines",
+        "indirāyā": "with Indira (Lakshmi)",
+        "vilāsam": "sporting, at divine play",
+        "bhaktānukampitam": "one who is moved by compassion for devotees",
+        "anantam": "infinite, endless",
+        "ajam": "unborn, without origin",
+        "purāṇam": "the ancient one, primordial",
+        "vyomādhinātham": "the supreme lord of the sky and heavens",
+        "akhilasya": "of all, of the entire universe",
+        "parāyaṇam": "the ultimate refuge, the highest goal",
+        "sakalapāpaharam": "remover of all sins",
+        "vareṇyam": "the most excellent, worthy of worship"
+      },
+      "meaning_en": "I bow to Hari, who reclines blissfully on the ocean of milk in divine sport with Lakshmi, who is infinitely compassionate toward his devotees, who is without birth or end, and who is the most ancient being. He is the lord sovereign of the heavens, the ultimate refuge of all existence, the remover of every sin, and most worthy of all worship.",
+      "meaning_hi": "मैं उन हरि को प्रणाम करता हूँ जो क्षीरसागर में लक्ष्मी के साथ विलास करते हुए शयन करते हैं और जो अपने भक्तों पर असीम करुणा रखते हैं। वे अनंत, अजन्मे और सबसे पुरातन हैं। वे आकाश के स्वामी, समस्त सृष्टि के परम आश्रय, सभी पापों के हरने वाले और सर्वश्रेष्ठ वंदनीय हैं।",
+      "modern_context_en": "When you feel weighed down by past mistakes — a financial decision you regret, a relationship you mishandled, words you wish you hadn't said — this verse speaks directly to your guilt. Vishnu is the remover of all sins not just ritually, but existentially: he holds compassion for the imperfect human being you are. Acknowledge your error, learn from it, and release the burden knowing that the ultimate refuge receives you as you are.",
+      "modern_context_hi": "जब पुरानी गलतियाँ याद आती हैं — कोई गलत निवेश, कोई रिश्ता जो बिगड़ गया, कोई बात जो नहीं कहनी थी — तब मन में जो अपराध-बोध होता है, यह श्लोक उसके लिए है। विष्णु सिर्फ पापों के हरने वाले नहीं हैं, बल्कि वे उस इंसान को भी अपनाते हैं जो गलतियाँ करता है। गलती स्वीकारो, सीखो और फिर उस बोझ को छोड़ दो।"
+    },
+    {
+      "verse_number": 3,
+      "section": "stuti",
+      "hindi_text": "वसुदेवसुतं देवं कंसचाणूरमर्दनम्\nदेवकीपरमानन्दं कृष्णं वन्दे जगद्गुरुम्॥३॥",
+      "transliteration": "vasudevasutaṃ devaṃ kaṃsacāṇūramardanam\ndevakīparamānandaṃ kṛṣṇaṃ vande jagadgurum||3||",
+      "word_by_word": {
+        "vasudevasutam": "son of Vasudeva",
+        "devam": "the divine one, the radiant lord",
+        "kaṃsacāṇūramardanam": "the one who destroyed Kamsa and Chanura",
+        "devakīparamānandam": "the supreme bliss of (mother) Devaki",
+        "kṛṣṇam": "Krishna, the dark-complexioned one",
+        "vande": "I bow to, I venerate",
+        "jagadgurum": "the teacher/guru of all the worlds"
+      },
+      "meaning_en": "I bow to Krishna, the divine son of Vasudeva, the destroyer of the tyrants Kamsa and Chanura, who is the supreme joy of his mother Devaki. He is the universal teacher, the Jagadguru, who guides all of creation toward righteousness and liberation.",
+      "meaning_hi": "मैं वसुदेव के पुत्र, कंस और चाणूर का वध करने वाले और माता देवकी के परम आनंद — कृष्ण को प्रणाम करता हूँ। वे जगत के गुरु हैं, जो सम्पूर्ण सृष्टि को धर्म और मोक्ष का मार्ग दिखाते हैं।",
+      "modern_context_en": "Every generation faces its own version of Kamsa — the toxic boss who suppresses talent, the manipulative system that crushes the vulnerable, the inner tyrant of self-sabotage. This verse celebrates Krishna as the one who dismantles oppressive forces and emerges from impossible circumstances — born in a prison, yet destined to transform the world. If you are navigating a toxic workplace or a suffocating environment, remember that even the most constrained birth can produce the greatest liberation.",
+      "modern_context_hi": "हर पीढ़ी का अपना कंस होता है — कोई जहरीला बॉस, कोई घुटन भरा माहौल, या खुद अपने भीतर का डर जो आगे बढ़ने से रोकता है। कृष्ण का जन्म कैद में हुआ था, फिर भी उन्होंने दुनिया बदल दी। अगर तुम किसी मुश्किल जगह या रिश्ते में फँसे हो, तो याद रखो — सबसे तंग जगह से भी बड़ी रोशनी निकल सकती है।"
+    },
+    {
+      "verse_number": 4,
+      "section": "stuti",
+      "hindi_text": "आत्मारामाय शान्ताय शाश्वताय सुखात्मने\nचतुर्भुजाय तस्मै श्री विष्णवे नम उत्तमम्॥४॥",
+      "transliteration": "ātmārāmāya śāntāya śāśvatāya sukhātmane\ncaturbhujāya tasmai śrī viṣṇave nama uttamam||4||",
+      "word_by_word": {
+        "ātmārāmāya": "one who rejoices in the Self alone",
+        "śāntāya": "to the peaceful one",
+        "śāśvatāya": "to the eternal, the everlasting",
+        "sukhātmane": "whose very nature is bliss",
+        "caturbhujāya": "the four-armed one",
+        "tasmai": "to that (great lord)",
+        "śrī viṣṇave": "to the auspicious Vishnu",
+        "namaḥ uttamam": "the highest/best salutation"
+      },
+      "meaning_en": "I offer the highest salutation to that Lord Vishnu — the four-armed one — who rejoices eternally within his own Self, who is the embodiment of perfect peace, who is everlasting, and whose very nature is pure bliss. This bow is not merely an act of ritual but the recognition of the supreme, self-sufficient truth that he embodies.",
+      "meaning_hi": "उन चतुर्भुज भगवान विष्णु को मेरा सर्वोत्तम नमस्कार है, जो अपने आत्मस्वरूप में ही आनंदमग्न रहते हैं, जो शाश्वत शांति के स्वरूप हैं, जो सनातन और अविनाशी हैं और जिनका स्वभाव ही आनंद है। यह नमस्कार केवल एक क्रिया नहीं, बल्कि परम सत्य की स्वीकृति है।",
+      "modern_context_en": "In an age of social media validation, where our sense of worth depends on likes, comments, and external approval, this verse points to something radical — ātmārāma, the one who finds joy entirely within the Self. Vishnu does not need anyone's applause to feel complete. This is the deepest invitation: to practice even five minutes daily of sitting with yourself, not scrolling, not seeking, just being — discovering the bliss that no notification can give or take away.",
+      "modern_context_hi": "सोशल मीडिया पर लाइक्स और कमेंट्स से खुशी ढूँढने के इस दौर में, यह श्लोक कुछ बड़ी बात कह रहा है — 'आत्माराम' यानी जो अपने भीतर ही खुश है। विष्णु को किसी की तारीफ की जरूरत नहीं। यही सबक हमारे लिए है — दिन में बस पाँच मिनट बिना फोन के, बिना कुछ ढूँढे, बस खुद के साथ बैठो और देखो — असली खुशी वहीं मिलती है।"
+    },
+    {
+      "verse_number": 5,
+      "section": "stuti",
+      "hindi_text": "शङ्खचक्रगदापद्मैर्विलसन्तं चतुर्भुजम्\nभक्तकामदुघं शान्तं विष्णुं वन्दे सुरार्चितम्॥५॥",
+      "transliteration": "śaṅkhacakragadāpadmairvilasantaṃ caturbhujam\nbhaktakāmadughaṃ śāntaṃ viṣṇuṃ vande surārcitam||5||",
+      "word_by_word": {
+        "śaṅkha": "conch shell (representing primordial sound, divine law)",
+        "cakra": "discus/wheel (representing the cosmic mind, destroyer of evil)",
+        "gadā": "mace (representing power, authority)",
+        "padma": "lotus (representing beauty, purity, creation)",
+        "vilasantam": "one who is radiant, who shines forth",
+        "caturbhujam": "four-armed",
+        "bhaktakāmadugham": "the wish-fulfilling cow for devotees, one who grants all desires of devotees",
+        "śāntam": "peaceful, serene",
+        "surārcitam": "worshipped by the gods themselves"
+      },
+      "meaning_en": "I bow to Vishnu, the four-armed lord who shines brilliantly with the conch, discus, mace, and lotus in his hands — each a symbol of a cosmic power he wields with effortless grace. He is the wish-fulfilling divine presence for all devotees, serene and unperturbed, and so magnificent that even the gods bow before him in worship.",
+      "meaning_hi": "मैं उन विष्णु को प्रणाम करता हूँ जो अपने चार हाथों में शंख, चक्र, गदा और पद्म धारण करके चमक रहे हैं। वे अपने भक्तों की समस्त कामनाएँ पूर्ण करने वाले कामधेनु के समान हैं, परम शांत हैं और इतने महान हैं कि स्वयं देवता भी उनकी पूजा करते हैं।",
+      "modern_context_en": "The four divine weapons Vishnu holds are deeply symbolic for modern life: the conch reminds us to speak truth clearly, the discus to cut through confusion and make decisive choices in career or relationships, the mace to stand firm against injustice, and the lotus to remain pure-hearted amid life's messiness. When you face a difficult decision — a career pivot, ending a toxic relationship, standing up to a bully — ask yourself which of these four powers you need most right now.",
+      "modern_context_hi": "विष्णु के चार हथियार आज की जिंदगी के लिए भी बेहद मतलबदार हैं: शंख — सच बोलने की हिम्मत, चक्र — उलझन काटकर सही फैसला लेने की ताकत, गदा — अन्याय के सामने डटे रहना, और कमल — कीचड़ में भी खुद को साफ रखना। जब भी जिंदगी में कोई बड़ा फैसला करना हो — नौकरी बदलनी हो, कोई रिश्ता छोड़ना हो — सोचो कि इनमें से आज तुम्हें किस शक्ति की सबसे ज्यादा जरूरत है।"
+    },
+    {
+      "verse_number": 6,
+      "section": "stuti",
+      "hindi_text": "श्रीवत्सलक्ष्मकं विष्णुं वरदाभयदायिनम्\nत्रिलोकनाथं देवेशं प्रणतोऽस्मि जनार्दनम्॥६॥",
+      "transliteration": "śrīvatsalakṣmakaṃ viṣṇuṃ varadābhayadāyinam\ntrilokhanāthaṃ deveśaṃ praṇato'smi janārdanam||6||",
+      "word_by_word": {
+        "śrīvatsalakṣmakam": "one bearing the Shrivatsa mark (the auspicious curl on his chest)",
+        "viṣṇum": "Vishnu, the all-pervading one",
+        "varadābhayadāyinam": "the giver of boons and the bestower of fearlessness",
+        "trilokhanātham": "the lord of all three worlds",
+        "deveśam": "the lord of all gods",
+        "praṇataḥ asmi": "I am bowed down, I prostrate myself",
+        "janārdanam": "Janardana — the one who is the refuge of all people, who stirs humanity"
+      },
+      "meaning_en": "I prostrate myself before Vishnu — Janardana — who bears the auspicious Shrivatsa mark upon his chest, who grants boons and bestows fearlessness with his divine hands, who is the master of all three worlds and the supreme lord of the gods. In bowing to him, I acknowledge that both material blessing and the gift of inner fearlessness come from the same divine source.",
+      "meaning_hi": "मैं उन विष्णु — जनार्दन — को प्रणाम करता हूँ जिनके वक्षस्थल पर श्रीवत्स का चिह्न है, जो अपने हाथों से वरदान और अभय प्रदान करते हैं, जो तीनों लोकों के नाथ और देवताओं के ईश हैं। उन्हें नमन करके मैं स्वीकार करता हूँ कि भौतिक आशीर्वाद और आंतरिक निर्भयता दोनों एक ही स्रोत से मिलती हैं।",
+      "modern_context_en": "The gesture of abhaya — the open palm raised in a gesture of 'do not fear' — is perhaps the most needed blessing in our anxiety-driven modern world. Whether you are facing a health scare, waiting for medical test results, or dealing with financial uncertainty, Vishnu's varada-abhaya gesture says: I see your need, and I say to you — be not afraid. This verse is a prayer you can return to in any waiting room, any sleepless night, any moment of dread.",
+      "modern_context_hi": "अभय मुद्रा — खुली हथेली जो कहती है 'डरो मत' — आज के इस तनाव भरे समय में शायद सबसे जरूरी आशीर्वाद है। चाहे मेडिकल रिपोर्ट का इंतजार हो, बैंक बैलेंस की चिंता हो, या कोई अनजाना डर हो — विष्णु की यह मुद्रा कहती है: मैं तुम्हारी जरूरत देख रहा हूँ, डरो मत। यह श्लोक किसी भी अस्पताल के वेटिंग रूम में, किसी भी रात की नींद न आने के पल में याद किया जा सकता है।"
+    },
+    {
+      "verse_number": 7,
+      "section": "stuti",
+      "hindi_text": "अव्यक्तं नित्यमव्यग्रं सर्वव्यापिनमव्ययम्\nयोगिनां परमं धाम विष्णुं वन्दे जगत्पतिम्॥७॥",
+      "transliteration": "avyaktaṃ nityamavyagraṃ sarvavyāpinamavyayam\nyoginām paramaṃ dhāma viṣṇuṃ vande jagatpatim||7||",
+      "word_by_word": {
+        "avyaktam": "the unmanifest, that which cannot be perceived by senses",
+        "nityam": "eternal, permanent",
+        "avyagram": "undisturbed, unagitated, unperturbed",
+        "sarvavyāpinam": "all-pervading, omnipresent",
+        "avyayam": "imperishable, inexhaustible",
+        "yoginām": "of the yogis",
+        "paramam dhāma": "the supreme abode, the highest state",
+        "jagatpatim": "the lord/master of the universe"
+      },
+      "meaning_en": "I bow to Vishnu, the lord of the universe — who is unmanifest and beyond the grasp of ordinary perception, who is eternal and without agitation, who pervades all of existence without exception, and who is imperishable and inexhaustible. He is the supreme abode toward which all yogis direct their highest meditative seeking.",
+      "meaning_hi": "मैं उन जगत्पति विष्णु को प्रणाम करता हूँ जो अव्यक्त हैं, जो इंद्रियों की पहुँच से परे हैं, जो नित्य और अविचल हैं, जो सर्वत्र व्याप्त हैं और जो अविनाशी हैं। वे समस्त योगियों का परम धाम हैं — वह अवस्था जिसे पाने के लिए सच्चे साधक अपना पूरा जीवन लगा देते हैं।",
+      "modern_context_en": "In a world that measures everything — your productivity, your follower count, your salary, your BMI — this verse describes a reality that cannot be measured, tracked, or optimized. The avyagram quality of Vishnu — his total unperturbedness — is the antidote to what modern psychology calls 'reactive living.' When your phone buzzes and your blood pressure rises, when one bad review ruins your day, this verse invites you to practice even a moment of avyagra awareness: undisturbed, watching, present.",
+      "modern_context_hi": "जब दुनिया हर चीज़ को मापती है — तुम्हारी सैलरी, फॉलोअर काउंट, प्रोडक्टिविटी — तो यह श्लोक एक ऐसी हकीकत बताता है जो न मापी जा सकती है, न ट्रैक। विष्णु का 'अव्यग्र' स्वरूप यानी पूरी तरह शांत और अविचल रहना — यही आज की 'रिएक्टिव लाइफ' का जवाब है। जब फोन की एक नोटिफिकेशन मूड खराब कर दे, तो एक पल रुको और सोचो — क्या मैं यहाँ, इस पल, शांत रह सकता हूँ?"
+    },
+    {
+      "verse_number": 8,
+      "section": "phalaśruti",
+      "hindi_text": "इदं विष्णुरविक्रमते त्रेधा निदधे पदम्\nसमूळ्हमस्य पांसुरे।\nयो अस्य स्तोत्रं पठेन्नित्यं विष्णोरष्टकमुत्तमम्\nस याति परमं स्थानं यत्र विष्णुः सदा वसेत्॥८॥",
+      "transliteration": "idaṃ viṣṇuravik ramate tredhā nidadhe padam\nsamūḷhamasya pāṃsure|\nyo asya stotraṃ paṭhennityaṃ viṣṇoraṣṭakamuttamam\nsa yāti paramaṃ sthānaṃ yatra viṣṇuḥ sadā vaset||8||",
+      "word_by_word": {
+        "idam": "this",
+        "viṣṇuḥ": "Vishnu, the all-pervading lord",
+        "tredha": "in three strides",
+        "nidadhe padam": "placed his footstep, strode",
+        "samūḷham": "gathered together, concentrated",
+        "pāṃsure": "in the dust, in the earthly realm",
+        "stotraṃ paṭhet": "one who recites/reads this hymn",
+        "nityam": "daily, always",
+        "aṣṭakam uttamam": "this excellent hymn of eight verses",
+        "sa yāti": "he goes, he attains",
+        "paramaṃ sthānam": "the supreme abode",
+        "sadā vaset": "where (Vishnu) ever dwells"
+      },
+      "meaning_en": "Vishnu strode across the three worlds in three mighty steps, gathering all of existence within his cosmic footfall. Whoever recites this excellent Vishnu Ashtakam — these eight verses of praise — daily and with devotion, will surely attain the supreme abode where Vishnu eternally dwells. The consistent practice of this hymn becomes the very path to liberation.",
+      "meaning_hi": "विष्णु ने तीन पग में तीनों लोकों को नाप लिया और सब कुछ अपने चरणों में समेट लिया। जो भी इस उत्तम विष्णु अष्टकम का नित्य प्रतिदिन पाठ करता है, वह उस परम धाम को प्राप्त होता है जहाँ विष्णु सदा विराजमान रहते हैं। इस स्तोत्र का नियमित पाठ स्वयं मुक्ति का मार्ग बन जाता है।",
+      "modern_context_en": "Consistency is the most underrated spiritual practice — and this final verse is essentially about the power of showing up every day. In the same way that a daily workout transforms the body over months or a daily journaling habit reshapes your thinking over years, the daily recitation of this ashtakam gradually rewires your inner world. You do not need to understand every Sanskrit word on day one; you need only to begin, and to return tomorrow. The 'supreme abode' it promises is not just a destination after death — it is the inner state of peace you build one daily recitation at a time.",
+      "modern_context_hi": "नियमितता सबसे कम आँकी जाने वाली आध्यात्मिक शक्ति है, और यह आखिरी श्लोक असल में यही कह रहा है — हर रोज़ आओ। जैसे रोज़ की कसरत से शरीर बदलता है या रोज़ की डायरी से सोच बदलती है, वैसे ही इस अष्टकम का रोज़ पाठ धीरे-धीरे भीतर से बदलता है। पहले दिन से सब संस्कृत समझनी जरूरी नहीं — बस शुरू करो और कल वापस आओ। यह 'परम स्थान' मरने के बाद नहीं, उस शांति में है जो तुम एक-एक दिन के पाठ से बनाते हो।"
+    }
+  ]
+}

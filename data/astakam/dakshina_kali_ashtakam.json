@@ -1,0 +1,208 @@
+{
+  "id": "dakshina_kali_ashtakam",
+  "title_en": "Dakshina Kali Ashtakam",
+  "title_hi": "दक्षिण काली अष्टकम्",
+  "deity": "kali",
+  "author": "Traditional",
+  "author_hi": "पारंपरिक",
+  "type": "ashtakam",
+  "language": "sanskrit",
+  "total_verses": 8,
+  "sections": [
+    "stuti"
+  ],
+  "description_en": "Eight-verse hymn to Dakshina Kali, the benevolent wish-fulfilling form of Kali who blesses devotees. Distinguished from fierce Smashana Kali by her compassionate grace toward sincere seekers.",
+  "description_hi": "दक्षिण काली की स्तुति जो कृपालु और वरदायिनी हैं। आते हो भक्तों का उद्धार करने वाली देवी।",
+  "recitation_benefits": [
+    "Fulfills heartfelt desires",
+    "Removes poverty and scarcity",
+    "Bestows protection",
+    "Grants spiritual power",
+    "Removes negative energies"
+  ],
+  "best_time_to_recite": [
+    "Kali Puja",
+    "Tuesday",
+    "Amavasya",
+    "Navaratri",
+    "Saturday"
+  ],
+  "verses": [
+    {
+      "verse_number": 1,
+      "section": "stuti",
+      "hindi_text": "करालवदनां घोरां मुक्तकेशीं चतुर्भुजाम्।\nकालिकां दक्षिणां दिव्यां मुण्डमालाविभूषिताम्।।१।।",
+      "transliteration": "karālavadanāṃ ghorāṃ muktakeśīṃ caturbhujām,\nkālikāṃ dakṣiṇāṃ divyāṃ muṇḍamālāvibhūṣitām.",
+      "word_by_word": {
+        "karālavadanām": "having a fierce, wide-open mouth",
+        "ghorām": "awesome, terrifying",
+        "muktakeśīm": "with disheveled, flowing hair",
+        "caturbhujām": "four-armed",
+        "kālikām": "Kali, the dark goddess",
+        "dakṣiṇām": "benevolent, gracious, southward-facing",
+        "divyām": "divine, celestial",
+        "muṇḍamālā": "garland of severed heads",
+        "vibhūṣitām": "adorned, decorated"
+      },
+      "meaning_en": "I invoke Dakshina Kali, the dark and awe-inspiring goddess with a wide, fierce countenance and flowing unbound hair, adorned with a garland of skulls and bearing four sacred arms. Though her form appears terrifying to the uninitialized eye, she is Dakshina—gracious and benevolent—a divine mother who bestows liberation. Her fearsome appearance is not cruelty but the dissolving fire that burns away all ignorance and attachment.",
+      "meaning_hi": "मैं दक्षिण काली की वंदना करता हूँ, जिनका मुख विशाल और भयंकर है, जिनके केश खुले हुए हैं, जो चतुर्भुज हैं और मुण्डमाला से विभूषित हैं। यद्यपि उनका स्वरूप भयावह प्रतीत होता है, तथापि वे 'दक्षिणा' हैं—अर्थात् करुणामयी और कल्याणकारी। उनका भयंकर रूप अज्ञान और आसक्ति को भस्म करने वाली दिव्य अग्नि का प्रतीक है।",
+      "modern_context_en": "In today's world, we often misread powerful, unconventional people as threatening—whether it is a strict mentor, a demanding parent, or a difficult truth that confronts us. Dakshina Kali's verse reminds us that what appears fierce on the surface may carry the deepest compassion within, like a surgeon whose knife ultimately heals. When life presents us with its most challenging and uncomfortable faces, we can remember that grace sometimes wears a terrifying mask.",
+      "modern_context_hi": "आज की जिंदगी में हम अक्सर कठोर दिखने वाले लोगों को—चाहे वो सख्त गुरु हो, माता-पिता हों या कड़वी सच्चाई—गलत समझ लेते हैं। दक्षिण काली का यह श्लोक याद दिलाता है कि जो बाहर से डरावना लगे, उसके भीतर करुणा छिपी हो सकती है। जब जिंदगी हमें कठिन परिस्थितियों में डालती है, तो समझें कि माँ की कृपा कभी-कभी कठोर रूप में आती है।"
+    },
+    {
+      "verse_number": 2,
+      "section": "stuti",
+      "hindi_text": "सद्यश्छिन्नशिरस्कं च वामहस्तेन धारिणीम्।\nवरदाभयदां दक्षैर्द्वाभ्यां च करयुग्मकैः।।२।।",
+      "transliteration": "sadyaśchinnashiraskaṃ ca vāmahastena dhāriṇīm,\nvaradābhayadāṃ dakṣairdvābhyāṃ ca karayugmakaiḥ.",
+      "word_by_word": {
+        "sadyaśchinna": "freshly severed",
+        "shiraskaṃ": "head",
+        "vāmahastena": "in the left hand",
+        "dhāriṇīm": "the one who holds",
+        "varadām": "bestower of boons",
+        "abhayadām": "bestower of fearlessness",
+        "dakṣaiḥ": "with the right hands",
+        "dvābhyām": "two",
+        "karayugmakaiḥ": "pair of hands"
+      },
+      "meaning_en": "In her left hands she holds a freshly severed head and a blood-dripping sword, while her two right hands offer the gestures of boon-giving and fearlessness to all who seek her refuge. This juxtaposition is the very heart of her mystery—the same hands that hold destruction also hold the promise of protection and liberation. She destroys only that which binds us, while her right hands eternally extend grace to the sincere seeker.",
+      "meaning_hi": "देवी के बाएँ हाथों में नवकटित मस्तक और खड्ग धारण किए हुए हैं, जबकि दाएँ हाथ वरद और अभय मुद्राओं में सुशोभित हैं। यही उनके स्वरूप का रहस्य है—जो हाथ विनाश धारण करते हैं, वही हाथ कृपा और अभय भी प्रदान करते हैं। वे केवल उसी का नाश करती हैं जो हमें बंधन में रखता है, और शरणागतों को सदा वरदान देती हैं।",
+      "modern_context_en": "Think of how a doctor holds a scalpel in one hand to cut away disease while the other hand soothes the patient—this is Kali's symbolic teaching for modern healers, therapists, and leaders. The executive who makes a painful but necessary decision to restructure a company is also holding destruction and blessing simultaneously. Dakshina Kali teaches us that true compassion sometimes requires the courage to cut away what is harmful before offering the gift of renewal.",
+      "modern_context_hi": "एक डॉक्टर एक हाथ में स्केलपेल पकड़कर बीमारी काटता है और दूसरे हाथ से रोगी को सांत्वना देता है—यही काली का प्रतीकात्मक संदेश है। किसी कंपनी में कठोर निर्णय लेने वाला नेता या किसी रिश्ते में कड़ी बात कहने वाला दोस्त—दोनों एक साथ विनाश और आशीर्वाद धारण करते हैं। माँ सिखाती हैं कि सच्ची करुणा के लिए कभी-कभी साहस के साथ बुरी चीज़ को काटना पड़ता है।"
+    },
+    {
+      "verse_number": 3,
+      "section": "stuti",
+      "hindi_text": "सुखप्रसन्नवदनां स्मेरानन सरोरुहाम्।\nएवं सञ्चिन्तयेत् काली सर्वकामार्थसिद्धये।।३।।",
+      "transliteration": "sukhaprasannavadanāṃ smerānana saroruhām,\nevaṃ sañcintayet kālī sarvakāmārthasiddhaye.",
+      "word_by_word": {
+        "sukha": "happiness, bliss",
+        "prasanna": "serene, pleased",
+        "vadanām": "face, countenance",
+        "smerānanam": "with a smiling face",
+        "saroruhām": "lotus-like",
+        "evaṃ": "thus, in this manner",
+        "sañcintayet": "one should meditate upon",
+        "kālī": "Goddess Kali",
+        "sarvakāma": "all desires",
+        "arthasiddhaye": "for the accomplishment of purposes"
+      },
+      "meaning_en": "One should meditate upon Dakshina Kali whose face radiates serene happiness and bliss, whose lotus-like countenance bears a gentle, reassuring smile—for such focused meditation fulfills all desires and purposes of life. Beneath the fearsome exterior that destroys evil lies this smiling face of a loving mother, always present for those who look beyond the surface. The devoted meditator who holds this blissful image in their heart receives the fulfillment of all righteous wishes.",
+      "meaning_hi": "साधक को दक्षिण काली का ध्यान उनके सुखमय, प्रसन्न और मुस्कुराते हुए कमल-सदृश मुख के साथ करना चाहिए, क्योंकि ऐसा ध्यान सभी मनोकामनाओं और उद्देश्यों को पूर्ण करता है। भयंकर बाहरी स्वरूप के पीछे एक स्नेहमयी माँ का यही प्रसन्न मुख छिपा है, जो अपने भक्तों के लिए सदा प्रकट होता है। जो साधक इस आनंदमय छवि को हृदय में धारण करता है, उसकी सभी उचित इच्छाएँ पूर्ण होती हैं।",
+      "modern_context_en": "Modern science confirms that what we visualize and hold steadily in our minds profoundly shapes our emotional state and our ability to achieve goals—this is essentially what this verse prescribes as meditation. Whether you are preparing for an important job interview, managing anxiety before a medical procedure, or working through grief, holding a compassionate, blissful image in your consciousness can transform your inner landscape. Dakshina Kali's smiling face is an invitation to discover that the universe's fundamental nature is not hostile but nurturing.",
+      "modern_context_hi": "आधुनिक मनोविज्ञान भी मानता है कि जो छवि हम मन में धारण करते हैं, वह हमारी भावनाओं और सफलता को गहराई से प्रभावित करती है—यही इस श्लोक का ध्यान-विज्ञान है। नौकरी के इंटरव्यू से पहले, किसी मुश्किल ऑपरेशन से पहले, या किसी दुख में—माँ के मुस्कुराते चेहरे का ध्यान मन को शांत कर देता है। दक्षिण काली का प्रसन्न मुख हमें याद दिलाता है कि इस सृष्टि का मूल स्वभाव करुणामय है, शत्रुतापूर्ण नहीं।"
+    },
+    {
+      "verse_number": 4,
+      "section": "stuti",
+      "hindi_text": "महाकाली महालक्ष्मी महासरस्वती स्वयम्।\nत्रिगुणात्मिकया शक्त्या त्रिभिर्भिन्ना प्रकीर्तिता।।४।।",
+      "transliteration": "mahākālī mahālakṣmī mahāsarasvatī svayam,\ntriguṇātmikayā śaktyā tribhirbhinnā prakīrtitā.",
+      "word_by_word": {
+        "mahākālī": "the great Kali, beyond time",
+        "mahālakṣmī": "the great Lakshmi, goddess of abundance",
+        "mahāsarasvatī": "the great Saraswati, goddess of wisdom",
+        "svayam": "herself, in her own form",
+        "triguṇātmikayā": "comprising the three qualities (tamas, rajas, sattva)",
+        "śaktyā": "by the power, through Shakti",
+        "tribhiḥ": "by three",
+        "bhinnā": "manifested as different",
+        "prakīrtitā": "celebrated, proclaimed"
+      },
+      "meaning_en": "Dakshina Kali herself is celebrated as Mahakali, Mahalakshmi, and Mahasaraswati simultaneously—the one supreme Shakti manifesting as three distinct powers through the three fundamental qualities of existence. She embodies tamas as the destroyer Mahakali, rajas as the energizing Mahalakshmi, and sattva as the illuminating Mahasaraswati, yet remains one indivisible consciousness. In understanding this, the devotee recognizes that all forces of destruction, prosperity, and wisdom are expressions of a single divine mother.",
+      "meaning_hi": "दक्षिण काली स्वयं ही महाकाली, महालक्ष्मी और महासरस्वती के रूप में विख्यात हैं—एक ही परम शक्ति जो त्रिगुणों के माध्यम से तीन रूपों में प्रकट होती हैं। वे तमोगुण से महाकाली, रजोगुण से महालक्ष्मी और सत्त्वगुण से महासरस्वती के रूप में प्रकट हैं, फिर भी मूलतः एक अविभाज्य चेतना हैं। इसे समझने से भक्त जान लेता है कि विनाश, समृद्धि और ज्ञान की सभी शक्तियाँ एक ही दिव्य माँ की अभिव्यक्तियाँ हैं।",
+      "modern_context_en": "In our fragmented modern world, we tend to compartmentalize life into separate domains—career success, creative expression, and spiritual depth—often feeling they are in conflict with one another. This verse reveals that a single underlying intelligence governs all three: the force that clears obstacles (Kali), builds wealth and relationships (Lakshmi), and cultivates learning (Saraswati) is one unified Shakti. The modern professional who seeks to integrate purpose, prosperity, and wisdom is unknowingly worshipping this trinitarian divine mother.",
+      "modern_context_hi": "आज हम जीवन को अलग-अलग खानों में बाँट देते हैं—करियर, रचनात्मकता और आध्यात्मिकता—और अक्सर लगता है कि ये एक-दूसरे के विरोध में हैं। यह श्लोक बताता है कि एक ही शक्ति इन तीनों को चलाती है—बाधाएँ हटाने वाली काली, समृद्धि देने वाली लक्ष्मी, और ज्ञान देने वाली सरस्वती एक ही हैं। जो आधुनिक इंसान उद्देश्य, समृद्धि और ज्ञान को एकसाथ साधना चाहता है, वह अनजाने में इसी त्रिरूपी माँ की आराधना कर रहा है।"
+    },
+    {
+      "verse_number": 5,
+      "section": "stuti",
+      "hindi_text": "कामाक्षी काली सर्वा सर्वमङ्गलमङ्गले।\nशिवे सर्वार्थसाधिके शरण्ये त्र्यम्बके गौरि नमोऽस्तु ते।।५।।",
+      "transliteration": "kāmākṣī kālī sarvā sarvamaṅgalamaṅgale,\nśive sarvārthasādhike śaraṇye tryambake gauri namo'stu te.",
+      "word_by_word": {
+        "kāmākṣī": "she whose eyes grant desires",
+        "kālī": "the dark goddess beyond time",
+        "sarvā": "all-pervading",
+        "sarvamaṅgala": "source of all auspiciousness",
+        "maṅgale": "O auspicious one",
+        "śive": "O benevolent one",
+        "sarvārthasādhike": "she who accomplishes all purposes",
+        "śaraṇye": "worthy of refuge",
+        "tryambake": "three-eyed one",
+        "gauri": "the fair one, luminous",
+        "namaḥ": "salutation, bow"
+      },
+      "meaning_en": "Salutations to you, O Dakshina Kali, who is Kamakshi—she whose very glance fulfills desires—and who is simultaneously all-pervading, the source of all auspiciousness, the benevolent Shiva-Shakti, the three-eyed one, and the luminous Gauri. In this verse the hymn encompasses all her names and forms, revealing that she is not one deity among many but the singular divine matrix from which all benevolent goddesses emerge. The seeker who takes refuge in her finds that they have taken refuge in the totality of divine grace itself.",
+      "meaning_hi": "हे दक्षिण काली, आपको नमस्कार है—आप कामाक्षी हैं जिनकी दृष्टि मात्र से कामनाएँ पूर्ण होती हैं, आप सर्वव्यापी हैं, सर्वमंगलकारी हैं, शिवस्वरूपिणी हैं, त्र्यम्बका हैं और गौरी भी हैं। यह श्लोक उनके सभी नामों और रूपों को एक साथ समेट लेता है, यह प्रकट करते हुए कि वे देवियों में से एक नहीं, बल्कि वह दिव्य आधार हैं जिससे सभी कल्याणकारी शक्तियाँ उत्पन्न होती हैं। जो उनकी शरण में आता है, वह समस्त दैवी कृपा की शरण में आ जाता है।",
+      "modern_context_en": "We live in an age of infinite options—different therapists, coaches, philosophies, and apps—each promising to fulfill a different need. This verse points to a unifying principle: beneath all these expressions of help and healing is one source of grace that simultaneously addresses our desire for beauty, our need for protection, and our longing for wisdom. Rather than hopping between solutions, the verse invites us to go deep into one comprehensive refuge—whether understood as the goddess, as love itself, or as the ground of being.",
+      "modern_context_hi": "आज हम हर ज़रूरत के लिए अलग-अलग थेरेपिस्ट, कोच, ऐप और दर्शन ढूँढते हैं। यह श्लोक एक एकीकृत सच्चाई की ओर इशारा करता है—सुंदरता, सुरक्षा और ज्ञान की सभी इच्छाओं का उत्तर एक ही स्रोत में है। अलग-अलग समाधानों के बीच भटकने की बजाय, माँ हमें एक गहरी शरण में जाने का आमंत्रण देती हैं—चाहे उसे देवी कहें, प्रेम कहें या अस्तित्व का आधार।"
+    },
+    {
+      "verse_number": 6,
+      "section": "stuti",
+      "hindi_text": "दक्षिणे कालिके देवि जगदानन्दकारिणि।\nभक्तेभ्यो वरदे नित्यं भवदुःखहरे नमः।।६।।",
+      "transliteration": "dakṣiṇe kālike devi jagadānandakāriṇi,\nbhaktebhyo varade nityaṃ bhavaduḥkhahare namaḥ.",
+      "word_by_word": {
+        "dakṣiṇe": "O gracious, benevolent one",
+        "kālike": "O Kali",
+        "devi": "O Goddess",
+        "jagadānanda": "bliss of the entire universe",
+        "kāriṇi": "the one who causes, creates",
+        "bhaktebhyaḥ": "to devotees",
+        "varade": "O giver of boons",
+        "nityam": "eternally, always",
+        "bhava": "the cycle of worldly existence",
+        "duḥkha": "sorrow, suffering",
+        "hare": "remover, destroyer"
+      },
+      "meaning_en": "Salutations to Dakshina Kali, the divine goddess who is the very cause of the universe's bliss, who eternally bestows boons upon her devoted seekers, and who removes the sorrow inherent in the cycle of worldly existence. She is not merely a local deity of personal wishes but the cosmic force that undergirds the bliss of all existence—jagadananda, the joy of the entire world. By invoking her as the remover of bhava-dukha, this verse addresses the deepest human suffering: the existential ache of feeling lost in the world.",
+      "meaning_hi": "दक्षिण काली देवी को नमस्कार, जो समस्त जगत के आनंद का कारण हैं, जो अपने भक्तों को सदा वरदान देती हैं, और जो संसार के दुःखों को हरती हैं। वे केवल व्यक्तिगत इच्छाओं की देवी नहीं हैं, बल्कि वह ब्रह्मांडीय शक्ति हैं जो सम्पूर्ण जगत के आनंद का आधार है। 'भवदुःखहरे' कहकर यह श्लोक मानव के सबसे गहरे दुःख को संबोधित करता है—संसार में खोया हुआ महसूस करने की अस्तित्वगत पीड़ा।",
+      "modern_context_en": "Millions of people today experience what psychologists call existential anxiety—a nameless suffering that persists even when external life seems fine, the sense that something fundamental is missing from one's life. This verse speaks directly to that condition by naming bhava-dukha, the sorrow of conditioned existence, and declaring that Dakshina Kali is its remover. Many modern seekers turn to meditation, therapy, or retreats for this relief, and this hymn assures them that the healing power they seek is not merely a technique but a living divine presence.",
+      "modern_context_hi": "आज करोड़ों लोग उस अस्तित्वगत चिंता से ग्रस्त हैं जिसे मनोवैज्ञानिक 'एग्जिस्टेंशियल एंग्जाइटी' कहते हैं—एक अनाम दुःख जो तब भी रहता है जब बाहरी जिंदगी ठीक हो। यह श्लोक सीधे उस 'भवदुःख' को संबोधित करता है और कहता है कि दक्षिण काली उसकी हरने वाली हैं। मेडिटेशन, थेरेपी या रिट्रीट में जो राहत खोजते हैं, यह श्लोक उन्हें याद दिलाता है कि वह उपचार-शक्ति केवल एक तकनीक नहीं, एक जीवित दैवी उपस्थिति है।"
+    },
+    {
+      "verse_number": 7,
+      "section": "stuti",
+      "hindi_text": "श्मशानालयमध्यस्थे शिवाभिः परिवेष्टिते।\nप्रेतासनसमासीने महाकाले नमोऽस्तु ते।।७।।",
+      "transliteration": "śmaśānālayamadhyasthe śivābhiḥ pariveṣṭite,\npretāsanasamāsīne mahākāle namo'stu te.",
+      "word_by_word": {
+        "śmaśānālaya": "the cremation ground, the abode of the dead",
+        "madhyasthe": "dwelling in the midst of",
+        "śivābhiḥ": "by jackals (śivā) or by Shiva-energies",
+        "pariveṣṭite": "surrounded, encircled",
+        "pretāsana": "seat of the dead, corpse-throne",
+        "samāsīne": "seated upon",
+        "mahākāle": "O great one who transcends time",
+        "namaḥ": "salutation",
+        "astu": "let there be",
+        "te": "to you"
+      },
+      "meaning_en": "Salutations to the great one beyond time who dwells in the center of the cremation ground, who is surrounded by jackals and Shiva-energies, and who is seated upon the throne of the dead—yet even here, this is Dakshina Kali whose fierce environment conceals her ultimate compassion. The cremation ground is not merely a place of horror but the space where all pretense ends, all ego is reduced to ash, and truth stands naked—it is the perfect dwelling for the goddess of liberation. By saluting her in this fearsome setting, the devotee affirms readiness to face even their deepest fears in pursuit of truth.",
+      "meaning_hi": "महाकाल-स्वरूपिणी देवी को नमस्कार, जो श्मशान के मध्य में निवास करती हैं, शिवाओं से घिरी हैं और प्रेतासन पर विराजमान हैं—फिर भी यही दक्षिण काली हैं, जिनके भयावह परिवेश में परम करुणा छिपी है। श्मशान केवल भय का स्थान नहीं है, बल्कि वह क्षेत्र है जहाँ सभी पाखंड समाप्त हो जाते हैं, अहंकार राख हो जाता है, और सत्य नग्न रूप में प्रकट होता है। इस भयावह परिवेश में उन्हें प्रणाम करके भक्त अपनी गहरी से गहरी भय का सामना करने की तत्परता व्यक्त करता है।",
+      "modern_context_en": "The cremation ground in our modern lives is any space where our usual defenses and identities collapse—the hospital waiting room, the moment of a painful diagnosis, the aftermath of a devastating loss or failure. It is precisely in these stripped-bare moments that the deepest spiritual encounters happen, when we stop performing and simply surrender. Dakshina Kali seated at the center of the cremation ground teaches us that the divine presence is most powerfully felt not in comfort zones but in our most vulnerable, honest moments.",
+      "modern_context_hi": "आज के जीवन में 'श्मशान' वह स्थान है जहाँ हमारे सारे आवरण गिर जाते हैं—अस्पताल का वेटिंग रूम, किसी कठिन बीमारी की खबर, किसी बड़े नुकसान के बाद का वक्त। ठीक इन्हीं नग्न क्षणों में सबसे गहरा आध्यात्मिक अनुभव होता है, जब हम दिखावा छोड़कर समर्पण करते हैं। श्मशान में विराजमान दक्षिण काली सिखाती हैं कि दैवी उपस्थिति सुख-सुविधा में नहीं, बल्कि हमारे सबसे कमजोर और ईमानदार क्षणों में सबसे शक्तिशाली होती है।"
+    },
+    {
+      "verse_number": 8,
+      "section": "phala-shruti",
+      "hindi_text": "इदं स्तोत्रं महापुण्यं यः पठेत् भक्तिसंयुतः।\nसर्वान् कामानवाप्नोति कालिकाप्रसादतः।।८।।",
+      "transliteration": "idaṃ stotraṃ mahāpuṇyaṃ yaḥ paṭhet bhaktisaṃyutaḥ,\nsarvān kāmānavāpnoti kālikāprasādataḥ.",
+      "word_by_word": {
+        "idam": "this",
+        "stotram": "hymn, praise-song",
+        "mahāpuṇyam": "of great spiritual merit",
+        "yaḥ": "whoever, one who",
+        "paṭhet": "recites, reads",
+        "bhaktisaṃyutaḥ": "endowed with devotion, with sincere feeling",
+        "sarvān": "all",
+        "kāmān": "desires, aspirations",
+        "avāpnoti": "obtains, achieves",
+        "kālikā": "of Goddess Kali",
+        "prasādataḥ": "by the grace, through the blessing"
+      },
+      "meaning_en": "Whoever recites this great and meritorious hymn with sincere devotion shall obtain all their desires through the boundless grace of Goddess Dakshina Kali—this is the promised fruit of this ashtakam. The qualifying word bhaktisaṃyutaḥ is crucial: the power lies not in mechanical repetition but in the sincerity and love with which the verses are offered. This final verse transforms the preceding seven from mere poetry into a living covenant between the goddess and the devoted seeker who approaches her with an open and humble heart.",
+      "meaning_hi": "जो भी इस महापुण्यकारी स्तोत्र का सच्ची भक्ति के साथ पाठ करता है, वह देवी काली की कृपा से अपनी सभी मनोकामनाएँ प्राप्त करता है—यही इस अष्टकम् का फलश्रुति है। 'भक्तिसंयुतः' शब्द अत्यंत महत्त्वपूर्ण है: शक्ति यांत्रिक जाप में नहीं, बल्कि उस प्रेम और निष्ठा में है जिसके साथ ये श्लोक अर्पित किए जाते हैं। यह अंतिम श्लोक पूर्ववर्ती सात श्लोकों को केवल काव्य नहीं, बल्कि देवी और उनके विनम्र भक्त के बीच एक जीवंत संधि में परिवर्तित कर देता है।",
+      "modern_context_en": "Research in psychology and neuroscience consistently confirms that the emotional quality we bring to any practice—meditation, journaling, even professional work—determines its transformative effect far more than the duration or frequency of the practice. The phala-shruti of this ashtakam recognized this truth millennia before modern science: devotion (bhakti) is not an add-on but the very mechanism of transformation. In an age where people consume spiritual content passively on screens, this verse is a call to engage fully—to bring your whole heart to your practice and watch how ordinary recitation becomes extraordinary grace.",
+      "modern_context_hi": "मनोविज्ञान और न्यूरोसाइंस बार-बार पुष्टि करते हैं कि किसी भी अभ्यास में हम जो भावनात्मक गुण लाते हैं—ध्यान, लेखन, यहाँ तक कि काम—वही उसके परिवर्तनकारी प्रभाव को निर्धारित करता है। यह फलश्रुति विज्ञान से हज़ारों साल पहले यही सत्य जानती थी: भक्ति कोई अतिरिक्त चीज़ नहीं, बल्कि रूपांतरण का वास्तविक माध्यम है। जिस युग में लोग मोबाइल पर आध्यात्मिक सामग्री निष्क्रिय रूप से देखते हैं, यह श्लोक पुकारता है—पूरे दिल से जुड़ो, और देखो कैसे साधारण पाठ असाधारण कृपा बन जाती है।"
+    }
+  ]
+}

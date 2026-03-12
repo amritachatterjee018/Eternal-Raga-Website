@@ -1,0 +1,161 @@
+{
+  "id": "shiva_aarti",
+  "title_en": "Shiva Aarti — Om Jai Shiv Omkara",
+  "title_hi": "ॐ जय शिव ओंकारा",
+  "deity": "shiva",
+  "author": "Traditional",
+  "type": "aarti",
+  "total_verses": 7,
+  "sections": [
+    "chorus",
+    "verse"
+  ],
+  "verses": [
+    {
+      "verse_number": 1,
+      "section": "chorus",
+      "hindi_text": "ॐ जय शिव ओंकारा, स्वामी जय शिव ओंकारा।\nब्रह्मा विष्णु सदाशिव, अर्द्धांगी धारा॥\nॐ जय शिव ओंकारा॥",
+      "transliteration": "Om jai Śiva Oṃkārā, Svāmī jai Śiva Oṃkārā.\nBrahmā Viṣṇu Sadāśiva, arddhāṅgī dhārā.\nOm jai Śiva Oṃkārā.",
+      "word_by_word": {
+        "Om": "the sacred primordial sound",
+        "jai": "victory, glory",
+        "Śiva": "Lord Shiva, the auspicious one",
+        "Oṃkārā": "the form of Om",
+        "Svāmī": "Lord, master",
+        "Brahmā": "the creator god",
+        "Viṣṇu": "the preserver god",
+        "Sadāśiva": "the eternal Shiva",
+        "arddhāṅgī": "the one whose half-body is the goddess (Parvati)",
+        "dhārā": "who bears, who holds"
+      },
+      "meaning_en": "Glory to Lord Shiva, who is the very form of Om. He is Brahma the creator, Vishnu the preserver, and the eternal Shiva himself — and he holds Parvati as half of his own body.",
+      "meaning_hi": "ॐ के स्वरूप भगवान शिव की जय हो। वे ही ब्रह्मा, विष्णु और सदाशिव हैं और माँ पार्वती को अपने अर्धांग में धारण करते हैं।",
+      "modern_context_en": "This opening chorus reminds us that one divine energy manifests as creator, preserver, and transformer. When life abroad feels fragmented — career pulling one way, family another — remember that wholeness is your true nature, just as Shiva holds all roles in one being.",
+      "modern_context_hi": "यह स्तुति याद दिलाती है कि एक ही दिव्य शक्ति सृष्टि, पालन और संहार करती है। जब विदेश में जीवन बिखरा हुआ लगे — काम एक ओर खींचे, परिवार दूसरी ओर — तो याद रखें कि पूर्णता आपका असली स्वरूप है।"
+    },
+    {
+      "verse_number": 2,
+      "section": "verse",
+      "hindi_text": "एकानन चतुरानन पंचानन राजे।\nहंसासन गरुड़ासन वृषवाहन साजे॥\nॐ जय शिव ओंकारा॥",
+      "transliteration": "Ekānana caturānana pañcānana rāje.\nHaṃsāsana garuḍāsana vṛṣavāhana sāje.\nOm jai Śiva Oṃkārā.",
+      "word_by_word": {
+        "Ekānana": "one-faced (Brahma's original form)",
+        "caturānana": "four-faced (Brahma)",
+        "pañcānana": "five-faced (Shiva)",
+        "rāje": "shines, presides",
+        "Haṃsāsana": "seated on the swan (Brahma's vehicle)",
+        "garuḍāsana": "seated on Garuda (Vishnu's vehicle)",
+        "vṛṣavāhana": "whose vehicle is the bull (Nandi, Shiva's vehicle)",
+        "sāje": "adorned, arrayed"
+      },
+      "meaning_en": "He shines as the one-faced, the four-faced Brahma, and the five-faced Shiva. He rides the swan of Brahma, the eagle Garuda of Vishnu, and the sacred bull Nandi — all forms are his adornment.",
+      "meaning_hi": "वे एक मुख, चार मुख (ब्रह्मा) और पाँच मुख (शिव) में विराजमान हैं। हंस, गरुड़ और वृषभ — सभी वाहन उन्हीं की शोभा हैं।",
+      "modern_context_en": "Shiva embodies every role without losing his identity. As NRIs we play many roles — employee, parent, spouse, child to aging parents back home. This verse teaches that wearing many hats doesn't diminish who you are; it reveals your fullness.",
+      "modern_context_hi": "शिव हर रूप में विराजमान हैं और अपनी पहचान नहीं खोते। प्रवासी जीवन में हम कई भूमिकाएँ निभाते हैं — कर्मचारी, माता-पिता, जीवनसाथी। यह पद सिखाता है कि अनेक भूमिकाएँ आपकी पूर्णता को प्रकट करती हैं।"
+    },
+    {
+      "verse_number": 3,
+      "section": "verse",
+      "hindi_text": "दो भुज चार चतुर्भुज दसभुज अति सोहे।\nतीनों रूप निरखता त्रिभुवन जन मोहे॥\nॐ जय शिव ओंकारा॥",
+      "transliteration": "Do bhuja cāra caturbhuja daśabhuja ati sohe.\nTīnoṃ rūpa nirakhatā tribhuvana jana mohe.\nOm jai Śiva Oṃkārā.",
+      "word_by_word": {
+        "Do bhuja": "two-armed",
+        "cāra": "four",
+        "caturbhuja": "four-armed (Vishnu)",
+        "daśabhuja": "ten-armed (Shiva as Mahakala or Durga-associated form)",
+        "ati sohe": "looks exceedingly beautiful",
+        "tīnoṃ rūpa": "all three forms",
+        "nirakhatā": "beholding",
+        "tribhuvana": "the three worlds",
+        "jana": "people",
+        "mohe": "are enchanted"
+      },
+      "meaning_en": "With two arms, four arms, and ten arms, he looks magnificent. Beholding these three divine forms, the people of all three worlds are enchanted.",
+      "meaning_hi": "दो भुजा, चार भुजा और दस भुजाओं वाले स्वरूप अत्यंत शोभायमान हैं। तीनों रूपों को देखकर तीनों लोकों के प्राणी मोहित हो जाते हैं।",
+      "modern_context_en": "God's beauty manifests in many forms — just as the divine can't be boxed in, neither can your life's purpose. If your career path or personal journey looks different from others', trust that your unique form has its own magnificence.",
+      "modern_context_hi": "ईश्वर का सौंदर्य अनेक रूपों में प्रकट होता है। यदि आपकी जीवन-यात्रा दूसरों से अलग दिखती है, तो विश्वास रखें कि आपके अनूठे स्वरूप की अपनी भव्यता है।"
+    },
+    {
+      "verse_number": 4,
+      "section": "verse",
+      "hindi_text": "अक्षमाला वनमाला मुण्डमाला धारी।\nचंदन मृगमद सोहे भाले शशिधारी॥\nॐ जय शिव ओंकारा॥",
+      "transliteration": "Akṣamālā vanamālā muṇḍamālā dhārī.\nCandana mṛgamada sohe bhāle śaśidhārī.\nOm jai Śiva Oṃkārā.",
+      "word_by_word": {
+        "Akṣamālā": "rosary of rudrākṣa beads",
+        "vanamālā": "garland of forest flowers",
+        "muṇḍamālā": "garland of skulls",
+        "dhārī": "the one who wears",
+        "candana": "sandalwood paste",
+        "mṛgamada": "musk (deer fragrance)",
+        "sohe": "looks beautiful",
+        "bhāle": "on the forehead",
+        "śaśidhārī": "the one who bears the moon"
+      },
+      "meaning_en": "He wears a rosary of rudrākṣa beads, a garland of forest flowers, and a garland of skulls. Adorned with sandalwood and musk, he looks radiant with the crescent moon upon his forehead.",
+      "meaning_hi": "वे अक्षमाला, वनमाला और मुण्डमाला धारण करते हैं। चंदन और मृगमद से शोभित हैं और ललाट पर चन्द्रमा धारण किए हुए हैं।",
+      "modern_context_en": "Shiva wears skulls alongside flowers — he embraces death and beauty equally. When facing loss — a job ending, a relationship changing, or grief for loved ones far away — remember that transformation requires letting go. The skull garland is not morbid; it is freedom from attachment.",
+      "modern_context_hi": "शिव फूलों के साथ मुण्डमाला भी धारण करते हैं — वे मृत्यु और सौंदर्य दोनों को स्वीकार करते हैं। जब नौकरी जाए, रिश्ते बदलें, या दूर बैठे अपनों का दुःख हो — तो याद रखें कि बदलाव के लिए छोड़ना ज़रूरी है।"
+    },
+    {
+      "verse_number": 5,
+      "section": "verse",
+      "hindi_text": "श्वेताम्बर पीताम्बर बाघम्बर अंगे।\nसनकादिक गरुणादिक भूतादिक संगे॥\nॐ जय शिव ओंकारा॥",
+      "transliteration": "Śvetāmbara pītāmbara bāghambara aṅge.\nSanakādika garuṇādika bhūtādika saṅge.\nOm jai Śiva Oṃkārā.",
+      "word_by_word": {
+        "Śvetāmbara": "white garments (Brahma)",
+        "pītāmbara": "yellow garments (Vishnu)",
+        "bāghambara": "tiger skin (Shiva)",
+        "aṅge": "on the body",
+        "Sanakādika": "sages like Sanaka and his brothers",
+        "garuṇādika": "Garuda and other divine beings",
+        "bhūtādika": "ghosts and spirits",
+        "saṅge": "in the company of"
+      },
+      "meaning_en": "He wears white robes, yellow silk, and tiger skin upon his body. Great sages like Sanaka, divine beings like Garuda, and even ghosts and spirits are in his company.",
+      "meaning_hi": "वे श्वेत वस्त्र, पीताम्बर और बाघम्बर धारण करते हैं। सनकादि ऋषि, गरुड़ जैसे दिव्य प्राणी और भूत-प्रेत सब उनके साथ रहते हैं।",
+      "modern_context_en": "Shiva keeps company with the highest sages and the lowliest spirits without discrimination. In diverse workplaces and multicultural neighborhoods abroad, this is a lesson in radical inclusivity — true greatness sees no hierarchy in the people around it.",
+      "modern_context_hi": "शिव उच्चतम ऋषियों और भूत-प्रेतों दोनों के साथ बिना भेदभाव रहते हैं। विदेश में विविध कार्यस्थलों और बहुसांस्कृतिक माहौल में यह सच्ची समावेशिता का पाठ है — सच्ची महानता किसी में ऊँच-नीच नहीं देखती।"
+    },
+    {
+      "verse_number": 6,
+      "section": "verse",
+      "hindi_text": "कर के मध्य कमण्डलु चक्र त्रिशूलधारी।\nसुखकारी दुःखहारी जगपालनकारी॥\nॐ जय शिव ओंकारा॥",
+      "transliteration": "Kara ke madhya kamaṇḍalu cakra triśūladhārī.\nSukhakārī duḥkhahārī jagapālanakārī.\nOm jai Śiva Oṃkārā.",
+      "word_by_word": {
+        "kara": "hands",
+        "madhya": "in the middle of, among",
+        "kamaṇḍalu": "water pot of an ascetic",
+        "cakra": "the divine discus",
+        "triśūladhārī": "bearer of the trident",
+        "sukhakārī": "bestower of happiness",
+        "duḥkhahārī": "remover of sorrows",
+        "jagapālanakārī": "sustainer of the world"
+      },
+      "meaning_en": "In his hands he holds the ascetic's water pot, the divine discus, and the trident. He bestows happiness, removes sorrow, and sustains the entire world.",
+      "meaning_hi": "उनके हाथों में कमण्डलु, चक्र और त्रिशूल शोभित हैं। वे सुख देने वाले, दुःख हरने वाले और समस्त जगत का पालन करने वाले हैं।",
+      "modern_context_en": "When work deadlines crush you and homesickness hits hard, this verse is a direct prayer: he removes sorrow and gives happiness. On Mahashivratri night, offer your stress and burnout to the one who sustains the world — you don't have to carry everything alone.",
+      "modern_context_hi": "जब काम का बोझ और घर की याद सताए, तो यह पद सीधी प्रार्थना है — वे दुःख हरते हैं और सुख देते हैं। महाशिवरात्रि की रात अपना तनाव और थकान उन्हें अर्पित करें — सब कुछ अकेले ढोने की ज़रूरत नहीं।"
+    },
+    {
+      "verse_number": 7,
+      "section": "verse",
+      "hindi_text": "ब्रह्मा विष्णु सदाशिव जानत अविवेका।\nप्रणवाक्षर में शोभित ये तीनों एका॥\nॐ जय शिव ओंकारा॥",
+      "transliteration": "Brahmā Viṣṇu Sadāśiva jānata avivekā.\nPraṇavākṣara meṃ śobhita ye tīnoṃ ekā.\nOm jai Śiva Oṃkārā.",
+      "word_by_word": {
+        "Brahmā": "the creator",
+        "Viṣṇu": "the preserver",
+        "Sadāśiva": "the eternal Shiva, the transformer",
+        "jānata": "know, recognize",
+        "avivekā": "the undiscriminating, the ignorant",
+        "praṇavākṣara": "the syllable Om (praṇava)",
+        "śobhita": "resplendent, shining",
+        "ye tīnoṃ": "these three",
+        "ekā": "are one"
+      },
+      "meaning_en": "Only the ignorant see Brahma, Vishnu, and Shiva as separate. All three shine as one within the sacred syllable Om — they are one and the same divine reality.",
+      "meaning_hi": "केवल अविवेकी ही ब्रह्मा, विष्णु और शिव को अलग-अलग समझते हैं। ये तीनों प्रणव (ॐ) में एक रूप होकर शोभित हैं — सब एक ही परमात्मा हैं।",
+      "modern_context_en": "This final verse dissolves all divisions. In a world that constantly labels — Hindu or Muslim, Indian or American, success or failure — Shiva teaches that all apparent opposites merge in the ultimate reality. After the long night of Mahashivratri, dawn breaks with this truth: separation is illusion, and you are already whole.",
+      "modern_context_hi": "यह अंतिम पद सभी भेद मिटा देता है। जो संसार लगातार विभाजित करता है — हिंदू या मुसलमान, भारतीय या अमेरिकी, सफलता या असफलता — शिव सिखाते हैं कि सभी विरोध परम सत्य में विलीन हो जाते हैं। महाशिवरात्रि की लंबी रात के बाद यही सत्य उजाला लाता है: भेद माया है, और आप पहले से ही पूर्ण हैं।"
+    }
+  ]
+}

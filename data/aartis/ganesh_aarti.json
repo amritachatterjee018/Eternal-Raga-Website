@@ -1,0 +1,148 @@
+{
+  "id": "ganesh_aarti",
+  "title_en": "Ganesh Aarti — Jai Ganesh Deva",
+  "title_hi": "जय गणेश जय गणेश देवा",
+  "deity": "ganesh",
+  "author": "Traditional",
+  "type": "aarti",
+  "total_verses": 6,
+  "sections": [
+    "chorus",
+    "verse"
+  ],
+  "verses": [
+    {
+      "verse_number": 1,
+      "section": "chorus",
+      "hindi_text": "जय गणेश जय गणेश जय गणेश देवा।\nमाता जाकी पार्वती पिता महादेवा॥",
+      "transliteration": "Jaya Gaṇeśa jaya Gaṇeśa jaya Gaṇeśa devā,\nMātā jākī Pārvatī pitā Mahādevā.",
+      "word_by_word": {
+        "jaya": "glory, victory",
+        "Gaṇeśa": "Lord Ganesh, lord of the ganas",
+        "devā": "divine lord",
+        "mātā": "mother",
+        "jākī": "whose",
+        "Pārvatī": "Goddess Parvati",
+        "pitā": "father",
+        "Mahādevā": "Lord Shiva, the great god"
+      },
+      "meaning_en": "Glory to Lord Ganesh, the divine deity! His mother is Goddess Parvati and his father is Lord Shiva, the great god.",
+      "meaning_hi": "गणेश जी की जय हो! जिनकी माता पार्वती हैं और पिता भगवान शिव (महादेव) हैं।",
+      "modern_context_en": "Before any new venture — a job interview, a house closing, or a child's first day at school — invoking Ganesh reminds us that we stand supported by a divine lineage of strength and grace.",
+      "modern_context_hi": "किसी भी नई शुरुआत से पहले — नौकरी का इंटरव्यू हो, नया घर हो, या बच्चे का पहला दिन — गणेश जी का स्मरण हमें याद दिलाता है कि दैवीय शक्ति हमारे साथ है।"
+    },
+    {
+      "verse_number": 2,
+      "section": "verse",
+      "hindi_text": "एक दन्त दयावन्त चार भुजा धारी।\nमाथे पर तिलक सोहे मूसे की सवारी॥\nजय गणेश जय गणेश जय गणेश देवा।\nमाता जाकी पार्वती पिता महादेवा॥",
+      "transliteration": "Eka danta dayāvanta cāra bhujā dhārī,\nMāthe para tilaka sohe mūse kī savārī.\nJaya Gaṇeśa jaya Gaṇeśa jaya Gaṇeśa devā,\nMātā jākī Pārvatī pitā Mahādevā.",
+      "word_by_word": {
+        "eka": "one",
+        "danta": "tusk",
+        "dayāvanta": "compassionate, merciful",
+        "cāra": "four",
+        "bhujā": "arms",
+        "dhārī": "bearer, one who holds",
+        "māthe": "forehead",
+        "para": "on",
+        "tilaka": "sacred mark",
+        "sohe": "looks beautiful",
+        "mūse": "mouse",
+        "kī": "of",
+        "savārī": "vehicle, mount"
+      },
+      "meaning_en": "He has one tusk, is full of compassion, and bears four arms. A sacred tilak adorns his forehead and he rides upon a mouse as his vehicle.",
+      "meaning_hi": "एक दाँत वाले, दयालु और चार भुजाओं वाले गणेश जी के मस्तक पर तिलक शोभा देता है और मूषक उनकी सवारी है।",
+      "modern_context_en": "Ganesh's single tusk symbolizes sacrifice and focus — a reminder for professionals juggling multiple roles that even imperfection carries grace when paired with compassion.",
+      "modern_context_hi": "गणेश जी का एक दाँत त्याग और एकाग्रता का प्रतीक है — कई भूमिकाओं को निभाने वाले लोगों के लिए यह संदेश है कि करुणा के साथ अपूर्णता में भी सुंदरता है।"
+    },
+    {
+      "verse_number": 3,
+      "section": "verse",
+      "hindi_text": "पान चढ़े फूल चढ़े और चढ़े मेवा।\nलड्डुअन का भोग लगे सन्त करें सेवा॥\nजय गणेश जय गणेश जय गणेश देवा।\nमाता जाकी पार्वती पिता महादेवा॥",
+      "transliteration": "Pāna caḍhe phūla caḍhe aura caḍhe mevā,\nLaḍḍuana kā bhoga lage santa kareṃ sevā.\nJaya Gaṇeśa jaya Gaṇeśa jaya Gaṇeśa devā,\nMātā jākī Pārvatī pitā Mahādevā.",
+      "word_by_word": {
+        "pāna": "betel leaf",
+        "caḍhe": "is offered",
+        "phūla": "flowers",
+        "aura": "and",
+        "mevā": "dry fruits",
+        "laḍḍuana": "laddoos (sweet balls)",
+        "kā": "of",
+        "bhoga": "offering of food",
+        "lage": "is placed",
+        "santa": "saints, devotees",
+        "kareṃ": "do, perform",
+        "sevā": "service, worship"
+      },
+      "meaning_en": "Betel leaves, flowers, and dry fruits are offered to him. Laddoos are placed as his food offering while saints perform devoted service.",
+      "meaning_hi": "उन्हें पान, फूल और मेवा चढ़ाया जाता है। लड्डुओं का भोग लगता है और संत उनकी सेवा करते हैं।",
+      "modern_context_en": "Even far from India, preparing a simple plate of laddoos and flowers on Ganesh Chaturthi connects NRI families to centuries of tradition and brings children closer to their cultural roots.",
+      "modern_context_hi": "भारत से दूर रहकर भी गणेश चतुर्थी पर लड्डू और फूल की सादी थाली सजाना NRI परिवारों को अपनी संस्कृति से जोड़े रखता है और बच्चों को अपनी जड़ों के करीब लाता है।"
+    },
+    {
+      "verse_number": 4,
+      "section": "verse",
+      "hindi_text": "अंधन को आँख देत कोढ़िन को काया।\nबाँझन को पुत्र देत निर्धन को माया॥\nजय गणेश जय गणेश जय गणेश देवा।\nमाता जाकी पार्वती पिता महादेवा॥",
+      "transliteration": "Andhana ko āṅkha deta koḍhina ko kāyā,\nBāṅjhana ko putra deta nirdhana ko māyā.\nJaya Gaṇeśa jaya Gaṇeśa jaya Gaṇeśa devā,\nMātā jākī Pārvatī pitā Mahādevā.",
+      "word_by_word": {
+        "andhana": "the blind",
+        "ko": "to",
+        "āṅkha": "eyes, sight",
+        "deta": "gives",
+        "koḍhina": "lepers, the diseased",
+        "kāyā": "body, healthy form",
+        "bāṅjhana": "the childless",
+        "putra": "son, child",
+        "nirdhana": "the poor",
+        "māyā": "wealth, prosperity"
+      },
+      "meaning_en": "He gives sight to the blind and a healthy body to the diseased. He blesses the childless with children and grants wealth to the poor.",
+      "meaning_hi": "वे अंधों को आँखें देते हैं, रोगियों को स्वस्थ काया देते हैं, बाँझों को पुत्र देते हैं और निर्धनों को धन देते हैं।",
+      "modern_context_en": "When facing health anxieties, fertility struggles, or financial uncertainty in a foreign land, this verse assures us that Ganesh's grace has no limits — he removes obstacles of every kind.",
+      "modern_context_hi": "जब विदेश में स्वास्थ्य की चिंता हो, संतान की आस हो या आर्थिक अनिश्चितता हो, तो यह पद आश्वस्त करता है कि गणेश जी की कृपा असीम है — वे हर बाधा दूर करते हैं।"
+    },
+    {
+      "verse_number": 5,
+      "section": "verse",
+      "hindi_text": "सुर श्याम शरण आए सफल कीजे सेवा।\nमाता जाकी पार्वती पिता महादेवा॥\nजय गणेश जय गणेश जय गणेश देवा।\nमाता जाकी पार्वती पिता महादेवा॥",
+      "transliteration": "Sura śyāma śaraṇa āe saphala kīje sevā,\nMātā jākī Pārvatī pitā Mahādevā.\nJaya Gaṇeśa jaya Gaṇeśa jaya Gaṇeśa devā,\nMātā jākī Pārvatī pitā Mahādevā.",
+      "word_by_word": {
+        "sura": "gods, celestial beings",
+        "śyāma": "the dark-complexioned one (devotee/poet)",
+        "śaraṇa": "refuge, shelter",
+        "āe": "have come",
+        "saphala": "fruitful, successful",
+        "kīje": "please make",
+        "sevā": "service, devotion"
+      },
+      "meaning_en": "Even the gods seek your refuge. O Lord, please make the devoted service of your humble servant Shyam successful and fruitful.",
+      "meaning_hi": "देवता भी आपकी शरण में आते हैं। हे प्रभु, आपके दास श्याम की सेवा सफल कीजिए।",
+      "modern_context_en": "When launching a startup, applying for a visa, or beginning higher studies, surrendering the outcome to Ganesh frees us from anxiety and lets us focus on sincere effort.",
+      "modern_context_hi": "जब कोई नया व्यवसाय शुरू कर रहे हों, वीज़ा के लिए आवेदन हो, या उच्च शिक्षा की शुरुआत हो — फल गणेश जी पर छोड़ देने से चिंता दूर होती है और सच्चे प्रयास पर ध्यान लगता है।"
+    },
+    {
+      "verse_number": 6,
+      "section": "verse",
+      "hindi_text": "दीनन की लाज रखो शम्भु सुतवारी।\nकामना को पूर्ण करो जग बलिहारी॥\nजय गणेश जय गणेश जय गणेश देवा।\nमाता जाकी पार्वती पिता महादेवा॥",
+      "transliteration": "Dīnana kī lāja rakho Śambhu sutavārī,\nKāmanā ko pūrṇa karo jaga balihārī.\nJaya Gaṇeśa jaya Gaṇeśa jaya Gaṇeśa devā,\nMātā jākī Pārvatī pitā Mahādevā.",
+      "word_by_word": {
+        "dīnana": "the humble, the meek",
+        "kī": "of",
+        "lāja": "honour, dignity",
+        "rakho": "protect, preserve",
+        "Śambhu": "Lord Shiva (the auspicious one)",
+        "sutavārī": "O son of",
+        "kāmanā": "wish, desire",
+        "pūrṇa": "complete, fulfill",
+        "karo": "please do",
+        "jaga": "the world",
+        "balihārī": "devoted to, in awe of"
+      },
+      "meaning_en": "O son of Lord Shiva, please protect the honour of the humble. Fulfill their heartfelt wishes — the whole world is devoted to you.",
+      "meaning_hi": "हे शम्भु के पुत्र, दीनों की लाज रखिए। उनकी कामनाएँ पूर्ण कीजिए — सारा संसार आप पर न्योछावर है।",
+      "modern_context_en": "For immigrants striving to maintain dignity while navigating a new culture, this verse is a prayer that Ganesh guards their self-respect and brings their honest dreams to fruition.",
+      "modern_context_hi": "नई संस्कृति में अपना सम्मान बनाए रखते हुए संघर्ष करने वाले प्रवासियों के लिए यह पद प्रार्थना है कि गणेश जी उनकी गरिमा की रक्षा करें और उनके ईमानदार सपनों को साकार करें।"
+    }
+  ]
+}

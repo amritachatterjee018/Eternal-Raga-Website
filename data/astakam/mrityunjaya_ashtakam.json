@@ -1,0 +1,212 @@
+{
+  "id": "mrityunjaya_ashtakam",
+  "title_en": "Mrityunjaya Ashtakam",
+  "title_hi": "मृत्युञ्जय अष्टकम्",
+  "deity": "shiva",
+  "author": "Traditional",
+  "author_hi": "पारंपरिक",
+  "type": "ashtakam",
+  "language": "sanskrit",
+  "total_verses": 8,
+  "sections": [
+    "stuti"
+  ],
+  "description_en": "Eight-verse hymn to Mrityunjaya (Shiva the conqueror of death). Based on the Maha Mrityunjaya Mantra, each verse invokes Shiva to grant immortality and liberate from the fear of death.",
+  "description_hi": "मृत्यु को जीतने वाले शिव की स्तुति। महामृत्युञ्जय मंत्र के आधार पर अमरत्व की प्रार्थना।",
+  "recitation_benefits": [
+    "Conquers fear of death",
+    "Heals terminal illnesses",
+    "Extends lifespan",
+    "Grants liberation from death cycle",
+    "Protects in crises"
+  ],
+  "best_time_to_recite": [
+    "Monday",
+    "Maha Shivaratri",
+    "During serious illness",
+    "Shravan month",
+    "Pradosh Vrat"
+  ],
+  "verses": [
+    {
+      "verse_number": 1,
+      "section": "stuti",
+      "hindi_text": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् ।\nउर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय माऽमृतात् ।।१।।",
+      "transliteration": "oṃ tryambakaṃ yajāmahe sugandhinṃ puṣṭivardhanam ।\nurvārukam iva bandhanān mṛtyormukṣīya mā'mṛtāt ।।1।।",
+      "word_by_word": {
+        "tryambakam": "the three-eyed one",
+        "yajāmahe": "we worship, we adore",
+        "sugandhim": "the fragrant one, of sweet fragrance",
+        "puṣṭivardhanam": "the increaser of nourishment",
+        "urvārukam": "a ripe cucumber",
+        "iva": "like, as",
+        "bandhanāt": "from bondage, from the stem",
+        "mṛtyoḥ": "from death",
+        "mukṣīya": "may You liberate us",
+        "mā": "not, do not",
+        "amṛtāt": "from immortality, from nectar of deathlessness"
+      },
+      "meaning_en": "We worship the three-eyed Lord Shiva, who is fragrant with divine grace and who nourishes and sustains all beings. Just as a ripe cucumber is effortlessly released from its vine, may He liberate us from the bondage of death. Yet let Him never separate us from the nectar of immortality that is His own divine nature.",
+      "meaning_hi": "हम त्रिनेत्रधारी भगवान शिव की पूजा करते हैं, जो दिव्य सुगंध से युक्त हैं और समस्त प्राणियों का पोषण करते हैं। जिस प्रकार पका हुआ खीरा अपनी लता से सहज ही अलग हो जाता है, उसी प्रकार वे हमें मृत्यु के बंधन से मुक्त करें। किंतु अमृतत्व के आनंद से हमें कभी वंचित न करें।",
+      "modern_context_en": "In today's high-pressure world where anxiety disorders and fear of illness dominate our mental landscape, this foundational mantra reminds us to seek a deeper anchor beyond the fragile body. When a doctor delivers a difficult diagnosis or when a loved one faces a life-threatening surgery, chanting this verse shifts our consciousness from panic to surrender and trust. Like a ripe fruit ready to fall, we are invited to release our desperate clinging to outcomes and rest in the healing power of the divine.",
+      "modern_context_hi": "आज की भागदौड़ भरी जिंदगी में जब बीमारी या मृत्यु का डर मन को घेर लेता है, तब यह मंत्र एक मजबूत सहारा बनता है। जब डॉक्टर कोई गंभीर बीमारी की खबर देता है या कोई प्रियजन ICU में होता है, तब इस मंत्र का जाप मन को शांति और ईश्वर पर भरोसा दिलाता है। यह हमें सिखाता है कि जीवन-मृत्यु का नियंत्रण उस त्रिनेत्रधारी के हाथों में है।"
+    },
+    {
+      "verse_number": 2,
+      "section": "stuti",
+      "hindi_text": "मृत्युञ्जयाय रुद्राय नीलकण्ठाय शम्भवे ।\nअमृतेशाय शर्वाय महादेवाय ते नमः ।।२।।",
+      "transliteration": "mṛtyuñjayāya rudrāya nīlakaṇṭhāya śambhave ।\namṛteśāya śarvāya mahādevāya te namaḥ ।।2।।",
+      "word_by_word": {
+        "mṛtyuñjayāya": "to the conqueror of death",
+        "rudrāya": "to the fierce one, to Rudra",
+        "nīlakaṇṭhāya": "to the blue-throated one",
+        "śambhave": "to the bestower of happiness",
+        "amṛteśāya": "to the lord of immortality",
+        "śarvāya": "to the destroyer of evil",
+        "mahādevāya": "to the great god",
+        "te": "to You",
+        "namaḥ": "salutation, obeisance"
+      },
+      "meaning_en": "Salutations to You, O Mrityunjaya, the conqueror of death, the fierce Rudra, and the blue-throated one who swallowed the cosmic poison for the good of all. Salutations to Shambhu the bestower of bliss, to Amriteshaya the lord of immortality, and to Sharva the destroyer of all evil. To You, the great God Mahadeva, I bow with complete devotion.",
+      "meaning_hi": "हे मृत्युञ्जय, हे रुद्र, हे नीलकंठ जिन्होंने समस्त जगत की रक्षा के लिए विष पान किया — आपको नमस्कार है। हे शम्भु, हे अमृतेश, हे शर्व, हे महादेव — आपके इन सभी दिव्य स्वरूपों को मेरा प्रणाम। आपकी अनेक दिव्य शक्तियों का स्मरण करते हुए मैं आपको सादर नमन करता हूँ।",
+      "modern_context_en": "This verse teaches the powerful practice of calling upon God by multiple names, acknowledging the many facets of divine protection available to us. In modern wellness culture, we seek therapists, doctors, mentors, and coaches — each addressing a different dimension of our wellbeing — yet this verse reminds us that Shiva alone encompasses all these roles as healer, destroyer of negativity, and bestower of joy. When overwhelmed by life's complexity, simply reciting these names of Shiva creates a profound sense that every angle of our suffering is seen and held by the divine.",
+      "modern_context_hi": "यह श्लोक हमें सिखाता है कि भगवान के अनेक नामों का स्मरण करना कितना शक्तिशाली है — हर नाम उनकी एक अलग शक्ति को जगाता है। जैसे हम आज अपनी समस्याओं के लिए अलग-अलग विशेषज्ञों के पास जाते हैं, वैसे ही भोलेनाथ हर रूप में हमारे साथ हैं। जब जिंदगी बहुत जटिल लगे, तो बस महादेव के इन पवित्र नामों का जाप करें — मन को गहरी शांति मिलेगी।"
+    },
+    {
+      "verse_number": 3,
+      "section": "stuti",
+      "hindi_text": "कालकालाय भीमाय परशुहस्ताय मीढुषे ।\nगिरिशाय महेशाय मृत्युञ्जय नमोऽस्तु ते ।।३।।",
+      "transliteration": "kālakālāya bhīmāya paraśuhastāya mīḍhuṣe ।\ngiriśāya maheśāya mṛtyuñjaya namo'stu te ।।3।।",
+      "word_by_word": {
+        "kālakālāya": "to the death of death, to the one who governs time",
+        "bhīmāya": "to the formidable, the awesome one",
+        "paraśuhastāya": "to the one who holds the axe in hand",
+        "mīḍhuṣe": "to the generous bestower of boons",
+        "giriśāya": "to the lord of the mountains",
+        "maheśāya": "to the great lord",
+        "mṛtyuñjaya": "O conqueror of death",
+        "namaḥ": "salutation",
+        "astu": "let there be",
+        "te": "to You"
+      },
+      "meaning_en": "Salutations to You, O Mrityunjaya — You who are the death of death itself, the awesome and formidable one who wields the axe that severs the bonds of illusion. You are the generous bestower of boons, the lord of the sacred mountains, and the supreme Maheshvara. Let my obeisance be eternally offered at Your feet, O great God.",
+      "meaning_hi": "हे मृत्युञ्जय, आप काल के भी काल हैं, आप भीमरूप हैं और आपके हाथ में वह परशु है जो अज्ञान के बंधनों को काट देता है। आप उदारतापूर्वक वरदान देने वाले, पर्वतों के स्वामी और परम महेश्वर हैं। आपके चरणों में मेरा बारम्बार नमस्कार अर्पित है।",
+      "modern_context_en": "The image of Shiva as Kalakala — the conqueror of time itself — speaks powerfully to modern anxiety about aging, deadlines, and the relentless march of time. In a world where anti-aging products and productivity apps promise us control over time, this verse offers the radical insight that true mastery over time lies only with the divine. When you feel crushed under the pressure of approaching deadlines, health decline, or the fear of not having enough time, meditating on Shiva as Kalakala liberates you from time's tyranny.",
+      "modern_context_hi": "काल के काल शिव का यह रूप आज के समय में बहुत प्रासंगिक है जब हम सब समय की कमी और उम्र बढ़ने के डर से परेशान रहते हैं। ऑफिस की deadlines हों, बढ़ती उम्र की चिंता हो, या जीवन में समय न मिलने का दर्द — इन सबके बीच यह श्लोक याद दिलाता है कि समय पर केवल महाकाल का अधिकार है। जब समय का बोझ सताए, तो काल के काल का ध्यान करें और मन हल्का हो जाएगा।"
+    },
+    {
+      "verse_number": 4,
+      "section": "stuti",
+      "hindi_text": "विश्वेश्वराय सर्वाय शशिशेखरभूषिते ।\nपिनाकहस्त देवेश मृत्युञ्जय नमोऽस्तु ते ।।४।।",
+      "transliteration": "viśveśvarāya sarvāya śaśiśekharabūṣite ।\npinākahastadevāya mṛtyuñjaya namo'stu te ।।4।।",
+      "word_by_word": {
+        "viśveśvarāya": "to the lord of the universe",
+        "sarvāya": "to the all-pervading one",
+        "śaśiśekhara": "the one with the crescent moon as his crown",
+        "bhūṣite": "adorned, ornamented",
+        "pināka": "the divine bow Pinaka",
+        "hasta": "in hand",
+        "devāya": "to the divine lord",
+        "mṛtyuñjaya": "O conqueror of death",
+        "namaḥ": "salutation",
+        "te": "to You"
+      },
+      "meaning_en": "Salutations to You, O Mrityunjaya — the lord of the entire universe, the all-pervading one adorned with the crescent moon as His crown, whose serene beauty contains within it the cycles of time and cosmic illumination. You hold the mighty bow Pinaka in Your hand, ready to destroy all that threatens righteousness and peace. O divine Lord, let this humble salutation reach You across all the worlds You encompass.",
+      "meaning_hi": "हे मृत्युञ्जय, आप विश्वेश्वर हैं — सम्पूर्ण ब्रह्मांड के स्वामी, जो सर्वव्यापी हैं और अपने मस्तक पर चंद्रकला को धारण किये हैं जो कालचक्र और दिव्य प्रकाश का प्रतीक है। आपके हाथ में पिनाक धनुष है जो अधर्म का नाश करता है। हे देवेश, मेरा यह नमस्कार आपके चरणों में समर्पित है।",
+      "modern_context_en": "Shiva as Vishveshvara — lord of the entire universe — reminds us that the same consciousness that governs galaxies and seasons also governs the tiny ecosystem of our personal lives. When we feel lost in the impersonal enormity of modern cities, bureaucratic systems, or global crises that seem beyond anyone's control, this verse restores our sense that there is indeed a conscious, caring intelligence at the center of all. The crescent moon on Shiva's crown, symbol of the mind's gentle illumination, invites us to let our own anxious minds rest under His cooling light.",
+      "modern_context_hi": "जो शक्ति पूरे ब्रह्मांड को चलाती है, वही हमारी छोटी सी जिंदगी को भी संभालती है — यह विचार कितना सुकूनदेह है। जब बड़े शहरों की अजनबियत, सरकारी तंत्र की उलझनें, या दुनिया की बड़ी समस्याएँ हमें बेबस महसूस कराएँ, तब विश्वेश्वर का स्मरण करें। उनके मस्तक पर चंद्रमा की तरह शीतल प्रकाश हमारे व्याकुल मन को भी शांत कर देता है।"
+    },
+    {
+      "verse_number": 5,
+      "section": "stuti",
+      "hindi_text": "जटाजूटधराय च गङ्गाधरविभूषिते ।\nभस्मोद्धूलितसर्वाङ्ग मृत्युञ्जय नमोऽस्तु ते ।।५।।",
+      "transliteration": "jaṭājūṭadharāya ca gaṅgādharavibhūṣite ।\nbhasmoddhūlitasarvāṅga mṛtyuñjaya namo'stu te ।।5।।",
+      "word_by_word": {
+        "jaṭājūṭa": "matted locks of hair",
+        "dharāya": "to the bearer, the one who holds",
+        "gaṅgādhara": "the bearer of the Ganga river",
+        "vibhūṣite": "adorned, beautifully ornamented",
+        "bhasma": "sacred ash, holy vibhuti",
+        "uddhūlita": "smeared, covered",
+        "sarvāṅga": "all over the body, every limb",
+        "mṛtyuñjaya": "O conqueror of death",
+        "namaḥ": "salutation",
+        "te": "to You"
+      },
+      "meaning_en": "Salutations to You, O Mrityunjaya — You who bear the cascade of matted locks adorned with the sacred river Ganga flowing through them, whose entire body is beautifully smeared with holy ash that declares the ultimate truth of impermanence. The Ganga in Your locks purifies all who remember it, and the ash upon Your body whispers that all which is born shall return to its source. O Mrityunjaya, receive my humble bow.",
+      "meaning_hi": "हे मृत्युञ्जय, आपकी जटाओं में पवित्र गंगा विराजमान है और आपका सम्पूर्ण शरीर भस्म से विभूषित है जो जीवन की नश्वरता की सत्य घोषणा करता है। गंगा सभी पापों और दुःखों को धो देती है, और भस्म यह स्मरण दिलाती है कि एक दिन सब कुछ इसी में विलीन हो जाएगा। हे मृत्युञ्जय, आपके इस अद्भुत रूप को मेरा प्रणाम।",
+      "modern_context_en": "The sacred ash that covers Shiva's body is one of the most profound symbols in Hindu philosophy — everything that burns becomes ash, and Shiva wears this truth as an ornament rather than a tragedy. In modern life where we desperately invest in anti-aging serums, status symbols, and legacy-building, Shiva's ash-smeared form invites us to make peace with impermanence and find freedom in it. When you lose a job, a relationship, or a cherished identity, meditating on Vibhuti-adorned Shiva teaches that what turns to ash was never the real you to begin with.",
+      "modern_context_hi": "शिव का भस्म-लिप्त शरीर हमें एक गहरी सच्चाई सिखाता है — जो भी जलता है वह राख बन जाता है, और शिव इस सच को दुख नहीं बल्कि आभूषण की तरह पहनते हैं। आज जब हम anti-aging products, social media image और status symbols में उलझे हैं, तब यह रूप हमें नश्वरता के साथ शांति बनाना सिखाता है। नौकरी जाए, रिश्ता टूटे या कोई पहचान खो जाए — भस्मधारी शिव का ध्यान याद दिलाता है कि असली 'आप' तो इन सबसे परे हैं।"
+    },
+    {
+      "verse_number": 6,
+      "section": "stuti",
+      "hindi_text": "करुणाकर देवेश भक्तानुग्रहकारक ।\nसंसारसागरे मग्नं उद्धरस्व दयानिधे ।।६।।",
+      "transliteration": "karuṇākara deveśa bhaktānugrahakāraka ।\nsaṃsārasāgare magnaṃ uddharasva dayānidhe ।।6।।",
+      "word_by_word": {
+        "karuṇākara": "the mine of compassion, the compassionate one",
+        "deveśa": "lord of the gods",
+        "bhakta": "devotee",
+        "anugraha": "grace, blessing",
+        "kāraka": "the one who bestows, the doer",
+        "saṃsāra": "the cycle of worldly existence",
+        "sāgare": "in the ocean",
+        "magnam": "submerged, drowning",
+        "uddharasva": "please lift up, please rescue",
+        "dayānidhe": "O treasure-house of compassion"
+      },
+      "meaning_en": "O compassionate Lord, O Deveshvara who bestows grace upon Your devoted ones — I am submerged and drowning in the vast ocean of worldly existence with its endless cycles of birth, suffering, attachment, and death. Please lift me up from these turbulent waters, O treasure-house of mercy and compassion. Your grace alone is the rope that can pull me safely to the shore of liberation.",
+      "meaning_hi": "हे करुणाकर देवेश, हे भक्तों पर अनुग्रह करने वाले — मैं इस संसार-सागर में डूबा जा रहा हूँ जहाँ जन्म-मृत्यु, आसक्ति और कष्टों की अनंत लहरें हैं। हे दयानिधि, कृपया मुझे इस सागर से निकालिए और मोक्ष के किनारे तक पहुँचाइए। आपकी कृपा ही वह रस्सी है जो मुझे डूबने से बचा सकती है।",
+      "modern_context_en": "This verse speaks directly to the experience of feeling trapped — in toxic relationships, addictive patterns, overwhelming debt, mental health crises, or simply the exhausting sense that life has become an endless treadmill going nowhere. The image of drowning in the ocean of samsara resonates deeply with modern burnout, where people feel they are barely keeping their heads above water despite working harder than ever. This prayer is a courageous act of admitting we cannot save ourselves and calling upon a power greater than our own ego to lift us up.",
+      "modern_context_hi": "आज कितने लोग toxic relationships, कर्ज के बोझ, mental health की समस्याओं, या बस जिंदगी की थकान में डूबे हुए महसूस करते हैं — इन सबके लिए यह श्लोक सीधे दिल से बोलता है। जब लगे कि चाहे जितनी मेहनत करो, कुछ नहीं बदलता और संसार-सागर में डूबते जा रहे हो, तब यह प्रार्थना करना बहुत साहस का काम है। दयानिधि शिव से मदद माँगना यह स्वीकार करना है कि अकेले हम सब कुछ नहीं कर सकते — और यही स्वीकृति मुक्ति की पहली सीढ़ी है।"
+    },
+    {
+      "verse_number": 7,
+      "section": "stuti",
+      "hindi_text": "त्र्यम्बकं यजमानस्य मृत्युपाशविनाशन ।\nमोक्षमार्गप्रदातारं मृत्युञ्जय नमोऽस्तु ते ।।७।।",
+      "transliteration": "tryambakaṃ yajamānasya mṛtyupāśavināśana ।\nmokṣamārgapradātāraṃ mṛtyuñjaya namo'stu te ।।7।।",
+      "word_by_word": {
+        "tryambakam": "the three-eyed one",
+        "yajamānasya": "of the worshipper, of the one who performs the yajna",
+        "mṛtyu": "death",
+        "pāśa": "noose, binding",
+        "vināśana": "destroyer, the one who annihilates",
+        "mokṣa": "liberation, final release",
+        "mārga": "path, way",
+        "pradātāram": "the bestower, the giver",
+        "mṛtyuñjaya": "O conqueror of death",
+        "namaḥ": "salutation",
+        "te": "to You"
+      },
+      "meaning_en": "Salutations to You, O Mrityunjaya, the three-eyed one who destroys the noose of death that binds all worshippers who take refuge in Your lotus feet. You are the supreme bestower of the path of moksha — the liberating knowledge that cuts through ignorance and frees the soul from the endless cycle of death and rebirth. O conqueror of death, accept this devotee's humble prostration.",
+      "meaning_hi": "हे मृत्युञ्जय, हे त्र्यम्बक — आप अपने भक्तों के मृत्युपाश को नष्ट करने वाले हैं जो आपकी शरण लेते हैं। आप ही मोक्षमार्ग के प्रदाता हैं — वह दिव्य ज्ञान जो अज्ञान को काटकर आत्मा को जन्म-मृत्यु के चक्र से मुक्त करता है। हे मृत्युञ्जय, इस भक्त का नमस्कार स्वीकार करें।",
+      "modern_context_en": "The concept of moksha-marga — the path of liberation — is not only about life after death but about liberation from the psychological deaths we experience daily: the death of self-worth in a critical workplace, the death of hope in chronic illness, or the death of joy in a loveless routine. Shiva as the giver of the liberation path points us toward practices — meditation, self-inquiry, devotion — that systematically free us from our inner prisons right now, in this lifetime. Every morning when you choose conscious living over habitual reactivity, you are walking the moksha-marga that Mrityunjaya illuminates.",
+      "modern_context_hi": "मोक्षमार्ग का मतलब सिर्फ मृत्यु के बाद की मुक्ति नहीं है — बल्कि यह उन रोज़ाना की मौतों से छुटकारा है जो हम झेलते हैं: किसी की आलोचना से आत्मसम्मान का टूटना, बीमारी में उम्मीद का मरना, या बेजान दिनचर्या में खुशी का गुम हो जाना। शिव हमें ध्यान, आत्मचिंतन और भक्ति के रूप में मोक्षमार्ग इसी जीवन में दिखाते हैं। जब भी आप आदतन प्रतिक्रिया की जगह सचेत जीवन चुनते हैं, आप मृत्युञ्जय के दिखाए मोक्षमार्ग पर चल रहे होते हैं।"
+    },
+    {
+      "verse_number": 8,
+      "section": "phala-shruti",
+      "hindi_text": "इदं स्तोत्रं पठेद्यस्तु मृत्युञ्जयस्य सन्निधौ ।\nमृत्युं जयति सोऽनित्यं लभते मोक्षमव्ययम् ।।८।।",
+      "transliteration": "idaṃ stotraṃ paṭhedyastu mṛtyuñjayasya sannidhau ।\nmṛtyuṃ jayati so'nityaṃ labhate mokṣamavyayam ।।8।।",
+      "word_by_word": {
+        "idam": "this",
+        "stotram": "hymn, prayer",
+        "paṭhet": "recites, reads",
+        "yastu": "whoever",
+        "mṛtyuñjayasya": "of Mrityunjaya",
+        "sannidhau": "in the presence of, near",
+        "mṛtyum": "death",
+        "jayati": "conquers, overcomes",
+        "saḥ": "he, that one",
+        "anityam": "impermanence, the transient",
+        "labhate": "obtains, receives",
+        "mokṣam": "liberation",
+        "avyayam": "imperishable, eternal"
+      },
+      "meaning_en": "Whoever recites this sacred hymn in the presence of Mrityunjaya, with a devoted and surrendered heart, shall conquer death and all the impermanence that brings sorrow and fear to human life. Such a devotee shall attain the imperishable and eternal liberation — moksha — which is the ultimate goal of human existence and the supreme gift of Shiva's grace. This is the divine promise sealed by the conqueror of death Himself.",
+      "meaning_hi": "जो भी भक्त मृत्युञ्जय की उपस्थिति में, श्रद्धा और समर्पण से इस पवित्र स्तोत्र का पाठ करता है, वह मृत्यु और नश्वरता को जीत लेता है। ऐसा भक्त अविनाशी और शाश्वत मोक्ष को प्राप्त होता है जो मानव जीवन का परम लक्ष्य है और शिव की कृपा का सर्वोच्च उपहार है। यह मृत्युञ्जय का दिव्य वचन है।",
+      "modern_context_en": "The phala-shruti — the declaration of this hymn's fruits — is not a transactional promise but an invitation to transform your relationship with mortality itself through consistent, sincere devotional practice. Modern neuroscience confirms what ancient seers knew: regular mantra repetition and devotional prayer literally rewire the brain's fear circuitry, reducing amygdala reactivity to existential threats. By making this ashtakam a daily practice — perhaps each morning before checking your phone — you build a deep inner resilience that allows you to face life's inevitable losses, illnesses, and endings with grace, courage, and even joy.",
+      "modern_context_hi": "यह फलश्रुति कोई सौदेबाजी नहीं है — यह एक निमंत्रण है कि नियमित और सच्ची भक्ति से मृत्यु के साथ अपना रिश्ता बदल लो। आधुनिक neuroscience भी यही कहती है जो ऋषियों ने हजारों साल पहले जाना था: नियमित मंत्र-जाप और प्रार्थना दिमाग के डर वाले हिस्से को literally बदल देती है। रोज़ सुबह फोन उठाने से पहले इस अष्टकम का पाठ करें — धीरे-धीरे आप पाएँगे कि जिंदगी के बड़े से बड़े दुख, बीमारी और नुकसान भी आपको तोड़ नहीं पाएँगे, बल्कि आप उन्हें साहस और प्रसन्नता से स्वीकार कर सकेंगे।"
+    }
+  ]
+}

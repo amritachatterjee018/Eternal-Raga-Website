@@ -1,0 +1,233 @@
+{
+  "id": "ardhanarishwara_ashtakam",
+  "title_en": "Ardhanarishwara Ashtakam",
+  "title_hi": "अर्धनारीश्वर अष्टकम्",
+  "deity": "shiva",
+  "author": "Adi Shankaracharya",
+  "author_hi": "आदि शंकराचार्य",
+  "type": "ashtakam",
+  "language": "sanskrit",
+  "total_verses": 9,
+  "sections": [
+    "stuti",
+    "phala_shruti"
+  ],
+  "description_en": "Nine-verse hymn to Ardhanarishwara, the divine androgynous form of Shiva-Shakti united. Celebrates the union of masculine and feminine cosmic principles as inseparable.",
+  "description_hi": "शिव और शक्ति के अर्धनारीश्वर रूप की स्तुति। स्त्री और पुरुष शक्तियों के अभेद का गान।",
+  "recitation_benefits": [
+    "Harmonizes male-female energies",
+    "Heals gender-related issues",
+    "Grants wholeness and balance",
+    "Bestows marital harmony",
+    "Awakens kundalini"
+  ],
+  "best_time_to_recite": [
+    "Monday",
+    "Maha Shivaratri",
+    "Marriage ceremonies",
+    "During relationship healing",
+    "Navaratri"
+  ],
+  "verses": [
+    {
+      "verse_number": 1,
+      "section": "stuti",
+      "hindi_text": "चाम्पेयगौरार्धशरीरकायै कर्पूरगौरार्धशरीरकाय ।\nधम्मिल्लकायै च जटाधराय नमः शिवायै च नमः शिवाय ।।१।।",
+      "transliteration": "cāmpeyagaurārdhāśarīrakāyai karpūragaurārdhāśarīrakāya |\ndhamillakāyai ca jaṭādharāya namaḥ śivāyai ca namaḥ śivāya ||1||",
+      "word_by_word": {
+        "चाम्पेयगौर": "golden-yellow like the champak flower",
+        "अर्धशरीरकायै": "to the one whose half-body is",
+        "कर्पूरगौर": "white as camphor",
+        "अर्धशरीरकाय": "to the one whose other half-body is",
+        "धम्मिल्लकायै": "to the one with braided hair",
+        "जटाधराय": "to the bearer of matted locks",
+        "नमः": "salutation / obeisance",
+        "शिवायै": "to Shiva (feminine form, Parvati)",
+        "शिवाय": "to Shiva (masculine form)"
+      },
+      "meaning_en": "I bow to the one whose left half shines like the golden champak flower — the radiant Parvati — and whose right half gleams white as camphor — the luminous Shiva. Her half bears braided hair adorned beautifully, while His half bears the wild, matted locks of a yogi. Salutations to Shiva in Her form, and salutations to Shiva in His form.",
+      "meaning_hi": "मैं उनको प्रणाम करता हूँ जिनका बायाँ आधा भाग चम्पे के फूल की तरह सुनहरी आभा वाली देवी पार्वती का है, और दायाँ आधा भाग कर्पूर की तरह श्वेत भगवान शिव का है। उनके एक भाग में सुंदर धम्मिल्ल केश हैं और दूसरे भाग में जटाएँ सुशोभित हैं। शिवा (पार्वती) को और शिव को मेरा नमस्कार है।",
+      "modern_context_en": "In modern partnerships — whether in marriage, business, or creative work — we often see how two seemingly opposite personalities together form a perfect whole. One partner may be nurturing and emotionally warm while the other is disciplined and focused, yet their union creates something greater than either alone. This verse reminds us that difference is not division; it is the very design of divine completeness.",
+      "modern_context_hi": "आज के रिश्तों में हम देखते हैं कि एक साथी भावनात्मक रूप से गर्म और देखभाल करने वाला होता है, जबकि दूसरा अनुशासित और व्यावहारिक। ये दोनों मिलकर एक पूर्ण जीवन बनाते हैं। यह श्लोक हमें याद दिलाता है कि अंतर कमज़ोरी नहीं, बल्कि ईश्वरीय संपूर्णता की नींव है।"
+    },
+    {
+      "verse_number": 2,
+      "section": "stuti",
+      "hindi_text": "कस्तूरिकाकुङ्कुमचर्चितायै चितारजःपुञ्जविचर्चिताय ।\nकृतस्मरायै विकृतस्मराय नमः शिवायै च नमः शिवाय ।।२।।",
+      "transliteration": "kastūrikākuṅkumacarcitāyai citārajaḥpuñjavicarcitāya |\nkṛtasmarāyai vikṛtasmarāya namaḥ śivāyai ca namaḥ śivāya ||2||",
+      "word_by_word": {
+        "कस्तूरिका": "musk",
+        "कुङ्कुम": "saffron / vermillion",
+        "चर्चितायै": "to the one adorned with",
+        "चितारजः": "ash from the cremation ground",
+        "पुञ्ज": "heap / mass",
+        "विचर्चिताय": "to the one smeared with",
+        "कृतस्मरायै": "to the one who gave birth to Kama (love)",
+        "विकृतस्मराय": "to the one who destroyed Kama (desire)",
+        "नमः": "salutation",
+        "शिवायै": "to Goddess Shiva (Parvati)",
+        "शिवाय": "to Lord Shiva"
+      },
+      "meaning_en": "Salutations to the one whose feminine half is adorned with fragrant musk and saffron, and whose masculine half is smeared with the sacred ash of the cremation ground. Her half is the very source and nurturer of love and desire, while His half is the destroyer of that same desire through supreme detachment. In this one form, creation and liberation are eternally held together.",
+      "meaning_hi": "उनके स्त्री भाग पर कस्तूरी और कुंकुम से शृंगार किया गया है, जबकि पुरुष भाग पर श्मशान की भस्म लगी हुई है। एक भाग प्रेम और सृजन का उद्गम है, जबकि दूसरा भाग वैराग्य और मोक्ष का प्रतीक है। ऐसे अर्धनारीश्वर को मेरा प्रणाम है।",
+      "modern_context_en": "Every human being carries within them the capacity both for deep emotional attachment and for letting go — loving fully and yet not clinging. A parent who nurtures a child with unconditional love while also preparing them to be independent embodies this very balance. This verse teaches us that true wholeness includes both the joy of connection and the wisdom of non-attachment.",
+      "modern_context_hi": "एक अच्छे माता-पिता अपने बच्चे से गहरा प्यार भी करते हैं और उसे स्वतंत्र भी छोड़ते हैं — यही इस श्लोक की शिक्षा है। हम सबके भीतर लगाव और वैराग्य दोनों की ज़रूरत है। जब हम किसी से प्यार करते हुए भी उसे नियंत्रित नहीं करते, तभी हम सच्चे अर्थ में परिपक्व होते हैं।"
+    },
+    {
+      "verse_number": 3,
+      "section": "stuti",
+      "hindi_text": "झणत्क्वणत्कङ्कणशिञ्जितायै घुणत्घुणत्घुण्घुरुनूपुराय ।\nपादारविन्दद्वयशोभितायै नमः शिवायै च नमः शिवाय ।।३।।",
+      "transliteration": "jhaṇatkvaṇatkaṅkaṇaśiñjitāyai ghuṇatghuṇatghuṇghurūnūpurāya |\npādāravindadvayaśobhitāyai namaḥ śivāyai ca namaḥ śivāya ||3||",
+      "word_by_word": {
+        "झणत्क्वणत्": "tinkling, jingling sound",
+        "कङ्कण": "bangles / bracelets",
+        "शिञ्जितायै": "to the one resounding with",
+        "घुणत्घुणत्": "deep resonant anklet sound",
+        "घुण्घुरु": "small jingling bells",
+        "नूपुराय": "to the one wearing anklets",
+        "पादारविन्द": "lotus feet",
+        "द्वय": "pair / two",
+        "शोभितायै": "to the one adorned with",
+        "नमः": "salutation"
+      },
+      "meaning_en": "Salutations to the one whose feminine half is adorned with bangles that tinkle melodiously, and whose masculine half wears resonant anklet-bells that ring with a deep, powerful sound. Both lotus feet together radiate divine beauty and grace, filling the cosmos with sacred rhythm. I bow to this form that embodies the music of the universe in its very movement.",
+      "meaning_hi": "उनके स्त्री भाग में कंगनों की मधुर झनकार है और पुरुष भाग में घुंघरुओं की गहरी गूँज है। दोनों कमल-चरण मिलकर एक अद्भुत दिव्य सौंदर्य की सृष्टि करते हैं। इस संगीतमय रूप में सृष्टि की लय समाहित है — ऐसे अर्धनारीश्वर को नमस्कार है।",
+      "modern_context_en": "Music itself is a perfect metaphor here — melody and rhythm, though different in nature, together create harmony. In modern workplaces and creative teams, those who bring emotional sensitivity and those who bring structural discipline must learn to work in concert, like the bangles and anklets in this verse. When both voices are honored, the result is something truly beautiful.",
+      "modern_context_hi": "संगीत में जैसे सुर और ताल मिलकर सुंदर धुन बनाते हैं, वैसे ही जीवन में भावनात्मक और व्यावहारिक पक्ष साथ चलने पर सफलता मिलती है। ऑफिस में या घर में, जब हम दूसरे के स्वभाव की आवाज़ को भी सम्मान देते हैं, तभी एक सुंदर तालमेल बनता है। यह श्लोक हमें टीमवर्क और सहयोग का दिव्य संदेश देता है।"
+    },
+    {
+      "verse_number": 4,
+      "section": "stuti",
+      "hindi_text": "प्रीतिप्रियायै प्रियतत्त्वबोधायै प्रमोदमानायै प्रियदर्शनाय ।\nनिर्मायिकायै विमलस्वरूपाय नमः शिवायै च नमः शिवाय ।।४।।",
+      "transliteration": "prītipriyāyai priyatattvabodāyai pramodamānāyai priyadarśanāya |\nnirmāyikāyai vimalasvarūpāya namaḥ śivāyai ca namaḥ śivāya ||4||",
+      "word_by_word": {
+        "प्रीति": "love / affection",
+        "प्रियायै": "to the one who loves / dear one",
+        "प्रियतत्त्वबोध": "knowledge of the essence of love",
+        "प्रमोदमानायै": "to the one who is ever joyful",
+        "प्रियदर्शनाय": "to the one who is beautiful to behold",
+        "निर्मायिकायै": "to the one free from illusion",
+        "विमल": "pure / spotless",
+        "स्वरूपाय": "to the one of pure nature",
+        "नमः": "salutation"
+      },
+      "meaning_en": "Salutations to the feminine aspect who is the very embodiment of love, ever blissful and radiating affection, and to the masculine aspect who is the knowledge of the supreme principle underlying all love. Her form overflows with joy and delight, while His form is the immaculate, illusion-free pure consciousness that underlies all existence. Together they reveal that divine love is not blind emotion but the union of joy and wisdom.",
+      "meaning_hi": "प्रेम और आनंद की मूर्ति देवी पार्वती के स्वरूप को और प्रेम के परम तत्त्व का ज्ञान देने वाले, निर्मल और मायारहित शिव के स्वरूप को मेरा प्रणाम है। एक ओर भाव और हर्ष है, दूसरी ओर शुद्ध चेतना और तत्त्वज्ञान है। ये दोनों मिलकर ही सच्चे प्रेम की परिभाषा देते हैं।",
+      "modern_context_en": "Many people today experience a conflict between following their heart and following their head — between emotional warmth and rational clarity. This verse reveals that these are not opposites but two faces of the same divine reality. In relationships and decisions, honoring both the feeling and the understanding leads to choices that are neither impulsive nor cold, but truly wise.",
+      "modern_context_hi": "आज की दुनिया में हम अक्सर सोचते हैं — दिल की सुनूँ या दिमाग की? यह श्लोक बताता है कि दोनों एक ही सिक्के के दो पहलू हैं। जब भावना और बुद्धि साथ काम करें, तो हर निर्णय — चाहे करियर हो, रिश्ते हों या जीवन का कोई मोड़ — सही और संतुलित होता है।"
+    },
+    {
+      "verse_number": 5,
+      "section": "stuti",
+      "hindi_text": "प्रपञ्चसृष्ट्यै च प्रपञ्चरक्षायै प्रपञ्चसंहृत्यै परायणाय ।\nप्रपञ्चवन्द्यायै प्रपञ्चनाथाय नमः शिवायै च नमः शिवाय ।।५।।",
+      "transliteration": "prapañcasṛṣṭyai ca prapañcarakṣāyai prapañcasaṃhṛtyai parāyaṇāya |\nprapañcavandyāyai prapañcanāthāya namaḥ śivāyai ca namaḥ śivāya ||5||",
+      "word_by_word": {
+        "प्रपञ्च": "the universe / phenomenal world",
+        "सृष्ट्यै": "to the one who creates",
+        "रक्षायै": "to the one who protects",
+        "संहृत्यै": "to the one who dissolves",
+        "परायणाय": "to the supreme refuge",
+        "वन्द्यायै": "to the one who is worthy of worship",
+        "नाथाय": "to the lord / master",
+        "नमः": "salutation",
+        "शिवायै": "to Goddess Parvati",
+        "शिवाय": "to Lord Shiva"
+      },
+      "meaning_en": "Salutations to the one who, in Her feminine aspect, is the power of cosmic creation and preservation, and in His masculine aspect, is the power of dissolution and the supreme transcendent refuge. She is the world's mother, worshipped by the entire universe, while He is the Lord to whom all of creation ultimately returns. In this single form reside all three cosmic functions — creation, preservation, and dissolution.",
+      "meaning_hi": "उनके स्त्री स्वरूप में सृष्टि की रचना और पालन की शक्ति है, और पुरुष स्वरूप में संहार और परम शरण की शक्ति है। वे स्वयं ही ब्रह्मा, विष्णु और महेश के कार्य को एक ही शरीर में धारण करते हैं। समस्त ब्रह्मांड जिनकी वंदना करता है, उन अर्धनारीश्वर को नमस्कार है।",
+      "modern_context_en": "In any organization or family, the forces of innovation (creation), maintenance (preservation), and transformation (dissolution) are all necessary. A startup founder who creates, a manager who preserves systems, and a reformer who dismantles what no longer works — all three are expressions of the divine triad in this verse. Recognizing that all three roles are sacred helps us respect every contributor in our communities.",
+      "modern_context_hi": "किसी भी संस्था या परिवार में तीन शक्तियाँ काम करती हैं — नई चीज़ें बनाना, उन्हें संभालना और जो पुराना हो गया उसे बदलना। यह श्लोक हमें सिखाता है कि ये तीनों भूमिकाएँ समान रूप से पवित्र हैं। चाहे आप निर्माता हों, प्रबंधक हों या बदलाव लाने वाले — ईश्वर की शक्ति आप सबके माध्यम से काम करती है।"
+    },
+    {
+      "verse_number": 6,
+      "section": "stuti",
+      "hindi_text": "फणीन्द्रभूषायै फणीन्द्रधाराय रमावतंसायै महेश्वराय ।\nधनुःसुरेन्द्राय धनुर्धराय नमः शिवायै च नमः शिवाय ।।६।।",
+      "transliteration": "phaṇīndrabhuṣāyai phaṇīndradhārāya ramāvataṃsāyai maheśvarāya |\ndhanussureñdrāyai dhanurdharāya namaḥ śivāyai ca namaḥ śivāya ||6||",
+      "word_by_word": {
+        "फणीन्द्र": "king of serpents (Vasuki/Shesha)",
+        "भूषायै": "to the one adorned with",
+        "धाराय": "to the one who bears / wears",
+        "रमावतंसायै": "to the one adorned like Lakshmi (opulent)",
+        "महेश्वराय": "to the Great Lord",
+        "धनुः": "bow",
+        "सुरेन्द्राय": "to the lord of gods / Indra's bow (rainbow)",
+        "धनुर्धराय": "to the bearer of the bow (Pinaka)",
+        "नमः": "salutation"
+      },
+      "meaning_en": "Salutations to the feminine aspect adorned with the serpent-king as her ornament, magnificent like Goddess Lakshmi Herself, and to the masculine Maheshvara who bears the serpent-king as his garland. Her form radiates royal abundance and divine grace, while His form bears the great bow Pinaka, the weapon of cosmic order. Together they adorn each other with the same sacred serpent, showing that what terrifies becomes beautiful in divine consciousness.",
+      "meaning_hi": "सर्पराज से अलंकृत, लक्ष्मी के समान वैभवशालिनी देवी और सर्पराज को आभूषण की तरह धारण करने वाले महेश्वर को मेरा प्रणाम है। एक ही सर्प दोनों को अलंकृत करता है — यह दर्शाता है कि जो एक के लिए भय है, वही दूसरे के लिए सौंदर्य बन जाता है। पिनाक धनुषधारी शिव और भव्य देवी को नमस्कार है।",
+      "modern_context_en": "What one person considers a weakness or a burden can be another person's strength and ornament — this is the profound message of this verse for modern life. A person's intense sensitivity might be seen as vulnerability in one context, yet in another it makes them a gifted counselor or artist. When two people in a relationship or partnership embrace each other's unique qualities instead of judging them, the 'serpent' of difference becomes a shared jewel.",
+      "modern_context_hi": "जो बात एक के लिए कमज़ोरी लगती है, वही दूसरे के लिए गहना बन सकती है। उदाहरण के तौर पर, किसी की अत्यधिक संवेदनशीलता उसे एक बेहतरीन काउंसलर या कलाकार बनाती है। जब हम अपने साथी, दोस्त या सहकर्मी की विशेषताओं को समझकर उन्हें अपनाते हैं, तो मतभेद खूबसूरती में बदल जाते हैं।"
+    },
+    {
+      "verse_number": 7,
+      "section": "stuti",
+      "hindi_text": "प्रदीप्तरत्नोज्ज्वलकुण्डलायै स्फुरन्महापन्नगभूषणाय ।\nशिवान्वितायै च शिवान्विताय नमः शिवायै च नमः शिवाय ।।७।।",
+      "transliteration": "pradīptaratnojjvalakuṇḍalāyai sphuranmahāpannagabhūṣaṇāya |\nśivānvitāyai ca śivānvitāya namaḥ śivāyai ca namaḥ śivāya ||7||",
+      "word_by_word": {
+        "प्रदीप्त": "blazing / radiant",
+        "रत्न": "jewel / gem",
+        "उज्ज्वल": "brilliant / shining",
+        "कुण्डलायै": "to the one wearing earrings",
+        "स्फुरन्": "gleaming / glittering",
+        "महापन्नग": "great serpent",
+        "भूषणाय": "to the one adorned with as ornament",
+        "शिवान्विता": "accompanied by Shiva / united with Shiva",
+        "नमः": "salutation",
+        "शिवायै": "to Parvati",
+        "शिवाय": "to Shiva"
+      },
+      "meaning_en": "Salutations to the feminine half adorned with brilliant, gem-studded earrings that blaze with radiant light, and to the masculine half whose ornament is a great, gleaming serpent coiled in splendor. She is the one who is eternally united with Shiva, and He is the one who is eternally united with Shakti — each defined by and completed through the other. Their union is not circumstantial but essential, as fundamental as light is to the sun.",
+      "meaning_hi": "दीप्तिमान रत्नखचित कुंडल धारण किए देवी और महान सर्प को आभूषण की तरह पहने शिव को मेरा प्रणाम है। वे शिवा हैं क्योंकि शिव के साथ हैं, और शिव हैं क्योंकि शिवा उनके साथ हैं। एक-दूसरे से उनकी पहचान अटूट है — जैसे प्रकाश और सूर्य।",
+      "modern_context_en": "Our identity is often shaped profoundly by our deepest relationships — a mentor who believes in us, a life partner who sees our potential, or a community that calls forth our best self. This verse speaks to how we are completed and defined by those we are united with in love and purpose. In modern psychology, the idea that healthy relationships enhance rather than diminish individual identity resonates deeply with this ancient truth.",
+      "modern_context_hi": "हमारी पहचान अक्सर हमारे सबसे करीबी रिश्तों से बनती है। एक अच्छा जीवनसाथी, एक सच्चा गुरु या एक सहयोगी समुदाय हमें वह बना देता है जो हम अकेले नहीं बन सकते। यह श्लोक हमें याद दिलाता है कि सच्चे रिश्ते हमारी स्वतंत्रता को कम नहीं, बल्कि हमारी पहचान को निखारते हैं।"
+    },
+    {
+      "verse_number": 8,
+      "section": "stuti",
+      "hindi_text": "अम्भोधरश्यामललोहितायै तपःप्रकाशोज्ज्वलितेन्दवे च ।\nनिरन्तरायै निखिलेश्वराय नमः शिवायै च नमः शिवाय ।।८।।",
+      "transliteration": "ambhodharaśyāmalaloḥitāyai tapaḥprakāśojjvalitendave ca |\nnirantarāyai nikhileśvarāya namaḥ śivāyai ca namaḥ śivāya ||8||",
+      "word_by_word": {
+        "अम्भोधर": "cloud-bearer / cloud-dark",
+        "श्यामल": "dark / dusky",
+        "लोहितायै": "to the one with a reddish hue",
+        "तपःप्रकाश": "the light of austerity / tapas",
+        "उज्ज्वलित": "blazing / illuminated",
+        "इन्दवे": "to the one like the moon",
+        "निरन्तरायै": "to the one who is continuous / unceasing",
+        "निखिलेश्वराय": "to the Lord of all",
+        "नमः": "salutation"
+      },
+      "meaning_en": "Salutations to the feminine half whose complexion is like a rain-laden dark cloud with a beautiful reddish glow, full of life-giving promise, and to the masculine half who blazes like the moon illuminated by the light of supreme tapas and austerity. She is the unceasing, ever-present Shakti that pervades all of existence without interruption, while He is the Lord of the entire universe, the all-encompassing Maheshvara. In their unity, the cooling moon and the life-giving rain cloud together sustain all of creation.",
+      "meaning_hi": "मेघ के समान श्यामल और रक्तिम आभा वाली देवी को और तपःप्रकाश से दीप्त चंद्रमा के समान शिव को मेरा प्रणाम है। वे निरंतर सर्वव्यापी शक्ति हैं और ये समस्त विश्व के अधीश्वर हैं। जीवनदायिनी मेघश्यामला और शीतल चंद्रमा मिलकर समस्त सृष्टि का पोषण करते हैं।",
+      "modern_context_en": "In ecology and in life, both the life-giving rain and the cooling moonlight are essential to sustain a healthy world. Similarly, in our personal lives we need both the nurturing, abundant energy that provides what we need to grow, and the calm, clarifying light of reflection and self-discipline. This verse is a reminder to balance outer nurturing action with inner contemplative practice in our daily routines.",
+      "modern_context_hi": "जैसे खेती के लिए बारिश और चाँदनी दोनों ज़रूरी हैं, वैसे ही हमारे जीवन में पोषण और साधना दोनों आवश्यक हैं। बाहर से सक्रिय रहना और अंदर से शांत — यही संतुलन हमें स्वस्थ और खुशहाल रखता है। रोज़ाना के जीवन में थोड़ा समय ध्यान और आत्म-चिंतन को देने की प्रेरणा यह श्लोक देता है।"
+    },
+    {
+      "verse_number": 9,
+      "section": "phalashruti",
+      "hindi_text": "इदं पठेद् अष्टकमिष्टदं यो भक्त्या स मान्यो भुवि दीर्घजीवी ।\nप्राप्नोति सौभाग्यमनन्तमन्ते शिवस्य साम्राज्यपदं सुशान्तम् ।।९।।",
+      "transliteration": "idaṃ paṭhed aṣṭakamiṣṭadaṃ yo bhaktyā sa māṇyo bhuvi dīrghajīvī |\nprāpnoti saubhāgyamanantamante śivasya sāmrājyapadaṃ suśāntam ||9||",
+      "word_by_word": {
+        "इदम्": "this",
+        "पठेत्": "one who recites / reads",
+        "अष्टकम्": "the ashtakam (eight-verse hymn)",
+        "इष्टदम्": "that which grants what is desired",
+        "भक्त्या": "with devotion",
+        "मान्यः": "honored / respected",
+        "भुवि": "on this earth",
+        "दीर्घजीवी": "long-lived",
+        "सौभाग्यम्": "great fortune / auspiciousness",
+        "अनन्तम्": "infinite / endless",
+        "अन्ते": "in the end / ultimately",
+        "शिवस्य": "of Shiva",
+        "साम्राज्यपदम्": "the state of supreme sovereignty",
+        "सुशान्तम्": "supremely peaceful"
+      },
+      "meaning_en": "Whoever recites this ashtakam with sincere devotion shall be honored and revered in this world and shall live a long and blessed life. In the course of life, they will attain boundless auspiciousness and prosperity, and ultimately they will reach the supreme, perfectly peaceful state of Shiva's own sovereign realm. This hymn grants all that is desired and leads the devoted soul to the final liberation of divine peace.",
+      "meaning_hi": "जो भक्त इस अष्टकम का श्रद्धापूर्वक पाठ करता है, वह इस संसार में सम्मानित और दीर्घायु होता है। उसे जीवन में अनंत सौभाग्य की प्राप्ति होती है और अंत में शिव के परम शांत, सर्वोच्च साम्राज्य पद की प्राप्ति होती है। यह अष्टकम मनोवांछित फल देने वाला और मोक्षदायक है।",
+      "modern_context_en": "The phala shruti, or verse of fruits, is not mere superstition — it is an ancient psychological insight that consistent, devoted practice leads to transformation. When we begin and end our day with sacred intention, reading or reflecting on these verses, we gradually internalize the balance of Shiva and Shakti — strength with gentleness, action with stillness. Over time, this practice reshapes our character, our relationships, and ultimately our experience of the world.",
+      "modern_context_hi": "यह फलश्रुति केवल एक आशीर्वाद नहीं, बल्कि नियमित साधना के मनोवैज्ञानिक प्रभाव का प्राचीन विज्ञान है। जब हम रोज़ सुबह या रात को इस अष्टकम का पाठ करते हैं, तो धीरे-धीरे शिव और शक्ति का संतुलन — शक्ति और कोमलता, क्रिया और विश्राम — हमारे स्वभाव में उतरने लगता है। समय के साथ यह हमारे रिश्तों, हमारे व्यवहार और हमारी आंतरिक शांति को बदल देता है।"
+    }
+  ]
+}

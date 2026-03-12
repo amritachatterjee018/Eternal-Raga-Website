@@ -1,0 +1,220 @@
+{
+  "id": "ganga_ashtakam",
+  "title_en": "Ganga Ashtakam",
+  "title_hi": "गङ्गाष्टकम्",
+  "deity": "devi",
+  "author": "Adi Shankaracharya",
+  "author_hi": "आदि शंकराचार्य",
+  "type": "ashtakam",
+  "language": "sanskrit",
+  "total_verses": 8,
+  "sections": [
+    "stuti"
+  ],
+  "description_en": "Eight-verse hymn to Mother Ganga, the sacred river who flows from Vishnu's feet through Shiva's matted locks to earth. Describes her purifying power, ability to grant liberation, and remove all sins.",
+  "description_hi": "माता गंगा की स्तुति जो विष्णु के चरणों से शिव की जटाओं से पृथ्वी पर उतरी हैं।",
+  "recitation_benefits": [
+    "Purifies all sins",
+    "Grants liberation at death",
+    "Blesses with Ganga merit",
+    "Removes ancestral karmas",
+    "Sanctifies the devotee"
+  ],
+  "best_time_to_recite": [
+    "Ganga Dussehra",
+    "During Ganga bath",
+    "Makar Sankranti",
+    "Pitru Paksha",
+    "Monday"
+  ],
+  "verses": [
+    {
+      "verse_number": 1,
+      "section": "stuti",
+      "hindi_text": "देवि सुरेश्वरि भगवति गङ्गे त्रिभुवनतारिणि तरलतरङ्गे ।\nशङ्करमौलिविहारिणि विमले मम मतिरास्तां तव पदकमले ।।१।।",
+      "transliteration": "devi sureśvari bhagavati gaṅge tribhuvanatāriṇi tarala-taraṅge ।\nśaṅkara-mauli-vihāriṇi vimale mama matir āstāṃ tava pada-kamale ।।1।।",
+      "word_by_word": {
+        "देवि": "O Goddess",
+        "सुरेश्वरि": "sovereign of the gods",
+        "भगवति": "O blessed one / divine one",
+        "गङ्गे": "O Ganga",
+        "त्रिभुवनतारिणि": "deliverer of the three worlds",
+        "तरलतरङ्गे": "with playful, dancing waves",
+        "शङ्करमौलिविहारिणि": "one who sports in Shiva's matted locks",
+        "विमले": "O pure and spotless one",
+        "मम": "my",
+        "मतिः": "mind / intellect",
+        "आस्ताम्": "let it be fixed / rest",
+        "तव": "your",
+        "पदकमले": "at the lotus feet"
+      },
+      "meaning_en": "O Goddess Ganga, sovereign of the gods, O divine and blessed one, you who deliver all three worlds with your playful dancing waves! You who sport freely in the matted locks of Lord Shiva, you who are utterly pure and spotless — may my mind rest forever at your lotus feet.",
+      "meaning_hi": "हे देवी गङ्गे, देवों की स्वामिनी, हे भगवती! आप अपनी चंचल लहरों से तीनों लोकों का उद्धार करने वाली हैं। आप भगवान शंकर की जटाओं में विहार करने वाली और परम पवित्र हैं — मेरी बुद्धि सदा आपके चरणकमलों में स्थित रहे।",
+      "modern_context_en": "In an age of mental restlessness fueled by social media and constant noise, this verse teaches us to anchor our minds to something sacred and unchanging. Just as Ganga flows steadily through the chaos of the world, fixing our attention on the divine helps us find clarity amid information overload. Each morning, before reaching for your phone, a moment of this prayer can redirect your focus toward what truly matters.",
+      "modern_context_hi": "आज के दौर में सोशल मीडिया और भागदौड़ भरी ज़िन्दगी में मन को एकाग्र रख पाना बहुत मुश्किल है। यह श्लोक हमें याद दिलाता है कि अपने मन को किसी पवित्र आधार से जोड़ें। सुबह उठते ही फोन उठाने से पहले एक पल माँ गङ्गा का स्मरण करें — मन को सच्ची शांति मिलेगी।"
+    },
+    {
+      "verse_number": 2,
+      "section": "stuti",
+      "hindi_text": "भागीरथि सुखदायिनि मातस्तव जलमहिमा निगमे ख्यातः ।\nनाहं जाने तव महिमानं पाहि कृपामयि मामज्ञानम् ।।२।।",
+      "transliteration": "bhāgīrathi sukha-dāyini mātas tava jala-mahimā nigame khyātaḥ ।\nnāhaṃ jāne tava mahimānaṃ pāhi kṛpāmayi mām ajñānam ।।2।।",
+      "word_by_word": {
+        "भागीरथि": "O Bhagirathi (daughter of Bhagiratha's penance)",
+        "सुखदायिनि": "giver of joy and happiness",
+        "मातः": "O Mother",
+        "तव": "your",
+        "जलमहिमा": "the glory of your waters",
+        "निगमे": "in the Vedas / sacred scriptures",
+        "ख्यातः": "celebrated / renowned",
+        "नाहम्": "I do not",
+        "जाने": "know / understand",
+        "महिमानम्": "greatness / glory",
+        "पाहि": "protect / save me",
+        "कृपामयि": "O compassionate one",
+        "माम्": "me",
+        "अज्ञानम्": "ignorant one"
+      },
+      "meaning_en": "O Bhagirathi, O Mother, bestower of all happiness — the glory of your sacred waters has been celebrated throughout the Vedas and scriptures since ancient times. I, an ignorant soul, cannot fathom the full measure of your greatness; O compassionate one, please protect and uplift even this unworthy, ignorant being.",
+      "meaning_hi": "हे भागीरथी, हे सुखदायिनी माता! आपके जल की महिमा वेदों और शास्त्रों में युगों से प्रसिद्ध है। मैं आपकी महानता को पूर्णतः नहीं जानता; हे कृपामयी माँ, इस अज्ञानी को अपनी शरण में लेकर रक्षा करें।",
+      "modern_context_en": "This verse beautifully models intellectual humility — an attitude sorely needed today when we think a quick internet search gives us complete knowledge. No matter how educated or accomplished we become, there are vast dimensions of the sacred that remain beyond our understanding. Approaching the divine with this honest admission of our limitations opens us to genuine grace and wisdom.",
+      "modern_context_hi": "आज हम सोचते हैं कि गूगल पर सब कुछ मिल जाता है, लेकिन यह श्लोक हमें सिखाता है कि असली ज्ञान विनम्रता में है। जितना हम जानते हैं उससे कहीं अधिक अनजाना है। माँ के सामने 'मैं नहीं जानता' कहने का साहस ही सच्ची भक्ति की शुरुआत है।"
+    },
+    {
+      "verse_number": 3,
+      "section": "stuti",
+      "hindi_text": "हरिपदपाद्यतरङ्गिणि गङ्गे हिमविधुमुक्ताधवलतरङ्गे ।\nदूरीकुरु मम दुष्कृतिभारं कुरु कृपया भवसागरपारम् ।।३।।",
+      "transliteration": "hari-pada-pādya-taraṅgiṇi gaṅge hima-vidhu-muktā-dhavala-taraṅge ।\ndūrī-kuru mama duṣkṛti-bhāraṃ kuru kṛpayā bhava-sāgara-pāram ।।3।।",
+      "word_by_word": {
+        "हरिपदपाद्यतरङ्गिणि": "she who flows as the water that washed Vishnu's feet",
+        "गङ्गे": "O Ganga",
+        "हिमविधुमुक्ताधवलतरङ्गे": "with waves white as snow, moon, and pearls",
+        "दूरीकुरु": "remove / drive far away",
+        "मम": "my",
+        "दुष्कृतिभारम्": "burden of sinful deeds",
+        "कुरु": "grant / bestow",
+        "कृपया": "by your grace / compassionately",
+        "भवसागरपारम्": "the crossing of the ocean of worldly existence"
+      },
+      "meaning_en": "O Ganga, you who surge forth as the sacred water that bathed Lord Vishnu's feet, your waves gleam white as snow, the moon, and precious pearls! By your grace, remove the heavy burden of my accumulated sins, and carry me across the vast and terrifying ocean of worldly existence to the shore of liberation.",
+      "meaning_hi": "हे गङ्गे, आप भगवान विष्णु के चरणों से उत्पन्न पवित्र धारा हैं, आपकी तरंगें हिम, चन्द्रमा और मोतियों की भाँति श्वेत हैं। कृपा करके मेरे पापों का भार दूर करें और इस भवसागर को पार करवाएँ।",
+      "modern_context_en": "Many of us carry invisible burdens — guilt from past mistakes, regrets over broken relationships, or the weight of moral compromises made under pressure. This verse acknowledges that such burdens are real and heavy, and invites us to release them through sincere devotion and a dip in Ganga's grace. Even if you cannot physically visit the river, holding her image in your heart during prayer is said to begin the process of inner cleansing.",
+      "modern_context_hi": "हम सब अपने अंदर कुछ न कुछ अपराधबोध, पछतावा या गलतियों का बोझ लेकर चलते हैं। यह श्लोक कहता है कि माँ गङ्गा उस भार को उठा लेती हैं। अगर गङ्गा तट पर नहीं जा सकते तो मन में उनका ध्यान करते हुए यह प्रार्थना करें — हल्कापन अवश्य महसूस होगा।"
+    },
+    {
+      "verse_number": 4,
+      "section": "stuti",
+      "hindi_text": "तव जलममलं येन निपीतं परमपदं खलु तेन गृहीतम् ।\nमातर्गङ्गे त्वयि यो भक्तः किल तं द्रष्टुं न यमः शक्तः ।।४।।",
+      "transliteration": "tava jalam amalaṃ yena nipītaṃ parama-padaṃ khalu tena gṛhītam ।\nmātar gaṅge tvayi yo bhaktaḥ kila taṃ draṣṭuṃ na yamaḥ śaktaḥ ।।4।।",
+      "word_by_word": {
+        "तव": "your",
+        "जलम्": "water",
+        "अमलम्": "pure / spotless / unblemished",
+        "येन": "by whom / whoever",
+        "निपीतम्": "has been drunk / consumed",
+        "परमपदम्": "the supreme state / highest abode (liberation)",
+        "खलु": "indeed / certainly / verily",
+        "तेन": "by that person",
+        "गृहीतम्": "obtained / attained",
+        "मातः": "O Mother",
+        "यः": "who",
+        "भक्तः": "devoted / a devotee",
+        "तम्": "that person",
+        "द्रष्टुम्": "to see / to approach",
+        "न": "not",
+        "यमः": "Yama, the god of death",
+        "शक्तः": "capable / able"
+      },
+      "meaning_en": "Whoever has drunk your immaculate, pure waters, O Ganga, has verily attained the supreme state of liberation — this is certain. O Mother Ganga, the one who is truly devoted to you — even Yama, the lord of death, does not have the power to approach or claim such a person.",
+      "meaning_hi": "हे माता गङ्गे, जिसने भी आपके निर्मल जल का पान किया है, उसने निश्चय ही परमपद की प्राप्ति कर ली। आपका जो भक्त है, उसे देखने या उसके पास आने में यमराज भी असमर्थ हैं।",
+      "modern_context_en": "This verse speaks to the universal human fear of death and the anxiety of an uncertain future. In modern terms, it assures us that a life rooted in devotion, purity, and connection to the sacred removes the sting of mortality. People who live with genuine spiritual awareness — serving others, maintaining inner purity, staying connected to the divine — report a fearlessness and peace that no worldly achievement can provide.",
+      "modern_context_hi": "मृत्यु का भय आज भी हर इंसान के मन में रहता है। यह श्लोक कहता है कि माँ गङ्गा की सच्ची भक्ति से वह भय दूर होता है। जो जीवन पवित्रता, सेवा और ईश्वर से जुड़कर जीता है, उसे मृत्यु भी नहीं डरा सकती — यह बात आधुनिक मनोविज्ञान भी मानता है।"
+    },
+    {
+      "verse_number": 5,
+      "section": "stuti",
+      "hindi_text": "पतितोद्धारिणि जाह्नवि गङ्गे खण्डितगिरिवरमण्डितभङ्गे ।\nभीष्मजननि हे मुनिवरकन्ये पतितनिवारिणि त्रिभुवनधन्ये ।।५।।",
+      "transliteration": "patita-uddhāriṇi jāhnavi gaṅge khaṇḍita-giri-vara-maṇḍita-bhaṅge ।\nbhīṣma-janani he muni-vara-kanye patita-nivāriṇi tri-bhuvana-dhanye ।।5।।",
+      "word_by_word": {
+        "पतितोद्धारिणि": "uplifter of the fallen / redeemer of the sinful",
+        "जाह्नवि": "O Jahnavi (daughter of sage Jahnu)",
+        "गङ्गे": "O Ganga",
+        "खण्डितगिरिवरमण्डितभङ्गे": "adorned with waves that cut through the best of mountains",
+        "भीष्मजननि": "O mother of Bhishma",
+        "मुनिवरकन्ये": "O daughter of the greatest of sages",
+        "पतितनिवारिणि": "one who prevents / removes the fallen state",
+        "त्रिभुवनधन्ये": "O blessed one of all three worlds"
+      },
+      "meaning_en": "O Jahnavi, O Ganga, uplifter of the fallen, your magnificent waves cleave through the greatest of mountains in their ceaseless journey! O mother of the great Bhishma, O daughter of the foremost of sages, you who prevent the fallen state of sinful souls — you are the truly blessed one of all three worlds.",
+      "meaning_hi": "हे जाह्नवी, हे गङ्गे, आप पतितों का उद्धार करने वाली हैं। आपकी लहरें पर्वतों को काटती हुई निर्बाध बहती हैं। हे भीष्म की माता, मुनिवरों की कन्या, पतितों को पतन से बचाने वाली — आप तीनों लोकों में धन्य हैं।",
+      "modern_context_en": "The title 'patita-uddharani' — redeemer of the fallen — is extraordinarily relevant today. Those struggling with addiction, those who have made grave mistakes and feel irredeemable, those crushed under cycles of failure — this verse tells them that no fall is final when the divine is near. Just as Ganga cuts through even the Himalayas to reach those who need her, grace finds its way to the most broken places.",
+      "modern_context_hi": "आज बहुत से लोग नशे की लत, गलत राह या बार-बार की विफलता से टूट जाते हैं और सोचते हैं कि वे सुधर नहीं सकते। यह श्लोक उन्हें आशा देता है — 'पतितोद्धारिणि' माँ गङ्गा ऐसे ही लोगों के लिए हैं। कोई भी इतना नहीं गिरा कि उसे माँ की कृपा न मिल सके।"
+    },
+    {
+      "verse_number": 6,
+      "section": "stuti",
+      "hindi_text": "कल्पलतामिव फलदां लोके प्रणमति यस्त्वां न पतति शोके ।\nपारावारविहारिणि गङ्गे विमुखयुवतिकृतमलापाङ्गे ।।६।।",
+      "transliteration": "kalpa-latām iva phala-dāṃ loke praṇamati yas tvāṃ na patati śoke ।\npārāvāra-vihāriṇi gaṅge vimukha-yuvati-kṛta-mala-apāṅge ।।6।।",
+      "word_by_word": {
+        "कल्पलताम्": "like the wish-fulfilling celestial vine",
+        "इव": "like / as",
+        "फलदाम्": "the one who grants fruits / boons",
+        "लोके": "in this world",
+        "प्रणमति": "one who bows / offers obeisance",
+        "यः": "whoever",
+        "त्वाम्": "you",
+        "न": "not",
+        "पतति": "falls",
+        "शोके": "into grief / sorrow",
+        "पारावारविहारिणि": "one who flows from shore to shore / across the ocean",
+        "गङ्गे": "O Ganga",
+        "अपाङ्गे": "with a side-glance / with grace"
+      },
+      "meaning_en": "Like the celestial wish-fulfilling vine Kalpalata, you grant all desired fruits to those in this world — whoever bows to you never falls into the pit of sorrow. O Ganga, you who roam from shore to shore across the vast ocean, even a single compassionate side-glance of yours destroys all impurities.",
+      "meaning_hi": "हे गङ्गे, आप इस संसार में कल्पलता के समान सभी इच्छाएँ पूरी करती हैं — जो आपको प्रणाम करता है वह कभी शोक में नहीं पड़ता। आप तट से तट तक विहार करने वाली हैं और आपके कटाक्ष मात्र से सारी मलिनता नष्ट हो जाती है।",
+      "modern_context_en": "In a world driven by ambition where people desperately chase success, wealth, and happiness through external means, this verse presents a profound counterpoint: the one who bows to the divine with sincerity never truly falls into despair. This is not about passive resignation but about the inner security that comes from devotion — a security that no job loss, market crash, or personal failure can permanently shatter.",
+      "modern_context_hi": "आज लोग सफलता, पैसा और खुशी की तलाश में बाहर भटकते रहते हैं। यह श्लोक कहता है जो माँ गङ्गा को सच्चे मन से प्रणाम करता है वह कभी स्थायी दुख में नहीं पड़ता। नौकरी जाए, नुकसान हो — भीतर की यह शांति अटूट रहती है।"
+    },
+    {
+      "verse_number": 7,
+      "section": "stuti",
+      "hindi_text": "इन्द्रमुकुटमणिराजितचरणे सुरवरमुनिवरशेखरशरणे ।\nपापहारिणि परितापहारिणि प्रणतजनार्तिहरे जय जय गङ्गे ।।७।।",
+      "transliteration": "indra-mukuṭa-maṇi-rājita-caraṇe sura-vara-muni-vara-śekhara-śaraṇe ।\npāpa-hāriṇi paritāpa-hāriṇi praṇata-janārti-hare jaya jaya gaṅge ।।7।।",
+      "word_by_word": {
+        "इन्द्रमुकुटमणिराजितचरणे": "O one whose feet are adorned by the jewels of Indra's crown",
+        "सुरवरमुनिवरशेखरशरणे": "O refuge of the best of gods and sages",
+        "पापहारिणि": "O remover of sins",
+        "परितापहारिणि": "O remover of burning anguish and suffering",
+        "प्रणतजनार्तिहरे": "O destroyer of the afflictions of those who bow before you",
+        "जय": "victory / glory to",
+        "गङ्गे": "O Ganga"
+      },
+      "meaning_en": "O Ganga, whose feet are resplendent with the jewels of Indra's crown, who is the supreme refuge of the greatest gods and sages! O remover of sins, O destroyer of burning anguish and pain, O alleviator of every affliction of those who bow before you — glory, glory to you, O Ganga!",
+      "meaning_hi": "हे गङ्गे, इन्द्र के मुकुट के मणियों से आपके चरण सुशोभित हैं, देवशिरोमणि और मुनिश्रेष्ठ आपकी शरण लेते हैं। हे पापहारिणी, दाहशमनी, प्रणत जनों की पीड़ा हरने वाली — आपकी जय हो, जय हो!",
+      "modern_context_en": "This triumphant verse of victory ('jaya jaya Gange') reminds us that calling out to the divine in moments of crisis is not weakness but wisdom. When anxiety overwhelms us, when physical or emotional pain becomes too much to bear, raising this cry of devotion — whether in prayer, song, or silent remembrance — connects us to a power infinitely greater than our problems. Many practitioners of Ganga devotion report a tangible lifting of mental heaviness during such moments of sincere invocation.",
+      "modern_context_hi": "जब घबराहट, दर्द या तकलीफ असहनीय हो जाए, तो 'जय जय गङ्गे' पुकारना कमज़ोरी नहीं, सबसे बड़ी शक्ति है। यह श्लोक हमें सिखाता है कि परम सत्ता की शरण में आते ही पाप और ताप दोनों छूटने लगते हैं। माँ के नाम की पुकार में ही उपाय है।"
+    },
+    {
+      "verse_number": 8,
+      "section": "phalaśruti",
+      "hindi_text": "गङ्गाष्टकमिदं पुण्यं यः पठेत् प्रयतः सदा ।\nसर्वपापविशुद्धात्मा विष्णुलोकं स गच्छति ।।८।।",
+      "transliteration": "gaṅgāṣṭakam idaṃ puṇyaṃ yaḥ paṭhet prayataḥ sadā ।\nsarva-pāpa-viśuddhātmā viṣṇu-lokaṃ sa gacchati ।।8।।",
+      "word_by_word": {
+        "गङ्गाष्टकम्": "this Ganga Ashtakam / the eight-verse hymn to Ganga",
+        "इदम्": "this",
+        "पुण्यम्": "meritorious / sacred / holy",
+        "यः": "whoever",
+        "पठेत्": "reads / recites",
+        "प्रयतः": "with discipline / with purity of body and mind",
+        "सदा": "always / regularly",
+        "सर्वपापविशुद्धात्मा": "one whose soul is purified of all sins",
+        "विष्णुलोकम्": "the realm of Lord Vishnu / Vaikunthaloka",
+        "सः": "that person",
+        "गच्छति": "goes / attains"
+      },
+      "meaning_en": "Whoever recites this sacred and meritorious Ganga Ashtakam always, with purity and discipline of body and mind — that person, having had their soul purified of all accumulated sins, attains the supreme realm of Lord Vishnu, the abode of eternal liberation.",
+      "meaning_hi": "जो कोई इस पवित्र गङ्गाष्टकम् का सदा पवित्रता और अनुशासन के साथ पाठ करता है, उसकी आत्मा सभी पापों से शुद्ध होकर भगवान विष्णु के लोक को प्राप्त होती है।",
+      "modern_context_en": "The phalaśruti — the verse describing the fruit of recitation — is a practical promise that makes this an ideal daily practice. In modern terms, committing to read or listen to these eight verses each morning with sincerity is a small but powerful habit that research in contemplative practice also supports: regular sacred recitation reduces cortisol, cultivates gratitude, and rewires the mind toward peace. The ultimate reward described here — liberation — begins unfolding in small ways right here, right now, in this very life.",
+      "modern_context_hi": "यह अंतिम श्लोक एक व्यावहारिक वादा करता है। हर सुबह इन आठ श्लोकों का पाठ एक छोटी लेकिन शक्तिशाली आदत है। आधुनिक विज्ञान भी कहता है कि नियमित मंत्रपाठ से तनाव कम होता है और मन में शांति आती है। मोक्ष की यात्रा इसी जीवन में, इसी क्षण से शुरू होती है।"
+    }
+  ]
+}

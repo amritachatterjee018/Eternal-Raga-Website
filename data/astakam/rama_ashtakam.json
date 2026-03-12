@@ -1,0 +1,214 @@
+{
+  "id": "rama_ashtakam",
+  "title_en": "Rama Ashtakam",
+  "title_hi": "रामाष्टकम्",
+  "deity": "rama",
+  "author": "Traditional",
+  "author_hi": "पारंपरिक",
+  "type": "ashtakam",
+  "language": "sanskrit",
+  "total_verses": 8,
+  "sections": [
+    "stuti"
+  ],
+  "description_en": "Eight-verse hymn to Lord Rama, the ideal king, devoted husband, and seventh avatar of Vishnu. Describes his divine bow, lotus eyes, dark blue complexion, and his glory as Maryada Purushottama.",
+  "description_hi": "भगवान राम की स्तुति। धनुषधारी, कमलनयन, श्याम वर्ण और मर्यादा पुरुषोत्तम का गान।",
+  "recitation_benefits": [
+    "Develops noble character",
+    "Grants righteousness and dharma",
+    "Brings family harmony",
+    "Removes obstacles in life",
+    "Bestows divine protection"
+  ],
+  "best_time_to_recite": [
+    "Ram Navami",
+    "Tuesday",
+    "Dussehra",
+    "During Ramayana path",
+    "Evening prayers"
+  ],
+  "verses": [
+    {
+      "verse_number": 1,
+      "section": "stuti",
+      "hindi_text": "रामं दशरथपुत्रं च जानकीप्राणवल्लभम्।\nकौसल्यानन्दनं वन्दे रघुवंशसमुद्भवम्।।१।।",
+      "transliteration": "rāmaṃ daśarathaputraṃ ca jānakīprāṇavallabham।\nkausalyānandanaṃ vande raghuvaṃśasamudbhavam।।1।।",
+      "word_by_word": {
+        "rāmam": "Rama (the one who delights all)",
+        "daśarathaputram": "son of Dasharatha",
+        "ca": "and",
+        "jānakī": "Janaki (Sita)",
+        "prāṇavallabham": "beloved of life",
+        "kausalyānandanam": "joy of Kausalya",
+        "vande": "I bow / I worship",
+        "raghuvaṃśa": "Raghu dynasty",
+        "samudbhavam": "born of / arisen from"
+      },
+      "meaning_en": "I bow to Rama, the beloved son of Dasharatha and the cherished life-partner of Janaki (Sita). He is the one who fills the heart of Kausalya with joy and is the most illustrious scion of the Raghu dynasty. In him converge the highest ideals of sonhood, husbandhood, and noble lineage.",
+      "meaning_hi": "मैं दशरथ के पुत्र, जानकी के प्राणवल्लभ और कौसल्या के आनंद राम को प्रणाम करता हूँ। वे रघुवंश के गौरवशाली रत्न हैं। उनमें एक आदर्श पुत्र, पति और कुलदीपक के सभी गुण विद्यमान हैं।",
+      "modern_context_en": "In today's fragmented families where roles of son, spouse, and heir often conflict, Rama's life shows that these identities can coexist with grace and dignity. When we honor our parents while also being devoted companions to our partners, we live the Rama ideal. This verse is a reminder to carry our family name not as a burden but as a sacred trust.",
+      "modern_context_hi": "आज के समय में जब परिवार में पीढ़ियों के बीच दूरियाँ बढ़ रही हैं, राम का जीवन हमें सिखाता है कि बेटा, पति और कुल का वारिस — सभी भूमिकाएँ एक साथ निभाई जा सकती हैं। जब हम माता-पिता की सेवा करते हुए अपने जीवनसाथी का भी सम्मान करते हैं, तो हम राम के आदर्श को जीते हैं। अपने परिवार का नाम गर्व से आगे ले जाना ही असली धर्म है।"
+    },
+    {
+      "verse_number": 2,
+      "section": "stuti",
+      "hindi_text": "नीलाभ्रशरीरं च पीतकौशेयवाससम्।\nमहाबाहुं महाक्षत्रं नमामि रघुनन्दनम्।।२।।",
+      "transliteration": "nīlābhraśarīraṃ ca pītakaśeyavāsasam।\nmahābāhuṃ mahākṣatraṃ namāmi raghunandanam।।2।।",
+      "word_by_word": {
+        "nīlābhra": "dark blue cloud",
+        "śarīram": "body / form",
+        "ca": "and",
+        "pīta": "yellow / golden",
+        "kauśeya": "silk garment",
+        "vāsasam": "clothed in",
+        "mahābāhum": "mighty-armed",
+        "mahākṣatram": "great warrior / kshatriya",
+        "namāmi": "I bow",
+        "raghunandanam": "delight of the Raghus"
+      },
+      "meaning_en": "I bow to the delight of the Raghu clan — whose body shines like the deep blue rain cloud, who is adorned in golden yellow silk garments, and whose mighty arms are the refuge of the righteous. He is the supreme warrior-king, the protector of dharma in every age. His form unites beauty with invincible strength.",
+      "meaning_hi": "मैं रघुनंदन राम को नमन करता हूँ जिनका शरीर नीले मेघ के समान सुंदर है, जो पीले रेशमी वस्त्र धारण करते हैं और जिनकी भुजाएँ अत्यंत शक्तिशाली हैं। वे महान क्षत्रिय और धर्म के रक्षक हैं। उनके रूप में सौंदर्य और पराक्रम का अद्भुत संगम है।",
+      "modern_context_en": "The image of the dark-blue form clothed in golden silk speaks to the balance of inner depth and outer grace — the kind of poise we admire in leaders who combine quiet strength with dignified presence. In workplaces and communities today, those who lead with both power and elegance inspire genuine respect. Meditating on Rama's form helps us cultivate that poised, purposeful energy within ourselves.",
+      "modern_context_hi": "नीले मेघ जैसा गहरापन और पीले रेशम जैसी कोमलता — यह संगम हमें बताता है कि असली नेतृत्व में शक्ति और शालीनता दोनों होती हैं। आज के कॉर्पोरेट जगत या सामाजिक जीवन में जो व्यक्ति ताकत के साथ विनम्रता रखता है, वही सच्चा प्रभावशाली नेता बनता है। राम के स्वरूप का ध्यान हमें यही संतुलन सिखाता है।"
+    },
+    {
+      "verse_number": 3,
+      "section": "stuti",
+      "hindi_text": "कोदण्डखण्डनं शत्रुं जानकीश्वरमीश्वरम्।\nसुग्रीवसख्यकर्तारं वन्दे राममनामयम्।।३।।",
+      "transliteration": "kodaṇḍakhaṇḍanaṃ śatruṃ jānakīśvaramīśvaram।\nsugrīvasakhyakartāraṃ vande rāmamanāmayam।।3।।",
+      "word_by_word": {
+        "kodaṇḍa": "divine bow",
+        "khaṇḍanam": "breaker / destroyer",
+        "śatrum": "of enemies",
+        "jānakī": "Sita",
+        "īśvaram": "the supreme lord",
+        "sugrīva": "Sugriva",
+        "sakhya": "friendship / alliance",
+        "kartāram": "one who creates / establishes",
+        "vande": "I bow",
+        "rāmam": "Rama",
+        "anāmayam": "free from all affliction"
+      },
+      "meaning_en": "I bow to Rama who is free from all affliction — the wielder of the sacred Kodanda bow who destroys enemies of dharma, the supreme lord and beloved master of Janaki. He is the one who forged the great alliance with Sugriva, seeing beyond caste and station to recognize a true friend in need. His life demonstrates that alliances built on righteousness and mutual trust are the foundation of every great victory.",
+      "meaning_hi": "मैं उन राम को प्रणाम करता हूँ जो समस्त पीड़ाओं से परे हैं — जो कोदंड धनुष से शत्रुओं का नाश करते हैं और जानकी के स्वामी हैं। उन्होंने सुग्रीव के साथ मित्रता की जो जाति और स्थिति की सीमाओं से परे थी। उनका जीवन सिखाता है कि न्याय और विश्वास पर आधारित संबंध ही हर महान विजय की नींव होते हैं।",
+      "modern_context_en": "Rama's friendship with Sugriva — a displaced, grieving, outcast king — teaches us to look beyond social hierarchies when building meaningful alliances. In today's diverse workplaces, the most effective teams are those where a leader, like Rama, reaches out to the overlooked and marginalized to create something powerful together. True strength lies not in going alone but in finding and honoring your Sugriva.",
+      "modern_context_hi": "राम ने सुग्रीव के साथ दोस्ती की जो उस समय बेघर और निराश्रित था — यह सिखाता है कि असली ताकत उन लोगों को साथ लेने में है जिन्हें दुनिया ने नकार दिया हो। आज ऑफिस में, टीम में, या समाज में जब हम किसी उपेक्षित व्यक्ति की क्षमता को पहचानते हैं और उसे साथ लेते हैं, तो हम राम जैसा नेतृत्व करते हैं। अकेले चलने से बड़ा काम मिलकर चलने में है।"
+    },
+    {
+      "verse_number": 4,
+      "section": "stuti",
+      "hindi_text": "कमलायतलोचनं च श्यामलं मधुरस्वरम्।\nब्रह्मण्यं भक्तवत्सलं च नमामि रघुराघवम्।।४।।",
+      "transliteration": "kamalāyatalocanam ca śyāmalaṃ madhurasvaram।\nbrahmaṇyaṃ bhaktavatsalaṃ ca namāmi raghurāghavam।।4।।",
+      "word_by_word": {
+        "kamala": "lotus",
+        "āyata": "wide / long / extended",
+        "locanam": "eyes",
+        "ca": "and",
+        "śyāmalam": "dark / dusky / blue-green complexion",
+        "madhura": "sweet / melodious",
+        "svaram": "voice",
+        "brahmaṇyam": "devoted to brahman / upholding the sacred",
+        "bhakta": "devotee",
+        "vatsalam": "affectionate toward / cherishing",
+        "namāmi": "I bow",
+        "raghurāghavam": "the Raghu among Raghus"
+      },
+      "meaning_en": "I bow to the foremost of the Raghu clan — whose eyes are wide and beautiful as the lotus, whose complexion is a radiant dark blue-green, and whose voice carries the sweetness of celestial music. He is ever devoted to the sacred and overflows with tender affection for all his devotees. To hear his name alone is to feel embraced by that boundless love.",
+      "meaning_hi": "मैं रघुकुल के श्रेष्ठ राम को नमन करता हूँ जिनके नेत्र विशाल कमल के समान हैं, वर्ण श्यामल और सुंदर है तथा स्वर अत्यंत मधुर है। वे सदा ब्रह्म के प्रति समर्पित और अपने भक्तों पर स्नेह बरसाने वाले हैं। उनका नाम सुनते ही हृदय प्रेम से भर जाता है।",
+      "modern_context_en": "In an age saturated with harsh words, trolling, and bitter public discourse, the image of Rama's sweet voice and tender gaze offers a powerful corrective. Speaking with gentleness and looking at others with compassion rather than judgment are radical acts in today's world. When we consciously soften our tone in a difficult conversation — with a parent, partner, or colleague — we channel Rama's madhura svara into everyday life.",
+      "modern_context_hi": "आज जब सोशल मीडिया पर कड़वाहट और कटु वचनों की भरमार है, राम की मधुर वाणी और कमल जैसी करुणामयी दृष्टि हमें एक नया रास्ता दिखाती है। जब हम किसी मुश्किल बातचीत में भी अपनी आवाज़ नरम रखते हैं और दूसरे को सम्मान से देखते हैं, तो यही राम का अनुसरण है। मधुर बोलना आज के दौर में सबसे बड़ी शक्ति है।"
+    },
+    {
+      "verse_number": 5,
+      "section": "stuti",
+      "hindi_text": "सत्यसन्धं महाधीरं पितृभक्तं जितेन्द्रियम्।\nवनवासैकनिष्ठं च नमामि रामचन्द्रकम्।।५।।",
+      "transliteration": "satyasandhaṃ mahādhīraṃ pitṛbhaktaṃ jitendriyam।\nvanavāsaikaniṣṭhaṃ ca namāmi rāmacandrakam।।5।।",
+      "word_by_word": {
+        "satyasandham": "true to one's word / pledged to truth",
+        "mahādhīram": "greatly courageous / supremely steadfast",
+        "pitṛbhaktam": "devoted to one's father",
+        "jitendriyam": "one who has conquered the senses",
+        "vanavāsa": "forest exile",
+        "ekaniṣṭham": "singularly steadfast / completely dedicated",
+        "ca": "and",
+        "namāmi": "I bow",
+        "rāmacandrakam": "Ramachandra (Rama, moon-like)"
+      },
+      "meaning_en": "I bow to Ramachandra — who is unwavering in his commitment to truth, supremely courageous in the face of adversity, and filled with deep devotion to his father. He is a master of the senses and accepted the forest exile with absolute single-minded resolve, never wavering in his duty. His entire life in the forest was not a punishment but a testament to the supreme dignity of keeping one's word.",
+      "meaning_hi": "मैं रामचंद्र को नमन करता हूँ जो सत्य के प्रति अटल, महान धैर्यशाली और पिता के परम भक्त हैं। उन्होंने इंद्रियों पर विजय प्राप्त की और वनवास को पूर्ण निष्ठा और प्रसन्नता से स्वीकार किया। उनका वनवास दंड नहीं बल्कि वचन की रक्षा का महान उदाहरण था।",
+      "modern_context_en": "How many of us honor commitments when they become inconvenient — a promise to a parent, a deadline to a colleague, a vow to ourselves? Rama walked into fourteen years of forest exile not with resentment but with full-hearted acceptance because he had given his word. In our daily lives, choosing integrity over convenience — even at personal cost — is the modern forest exile, and it builds the same unshakable character.",
+      "modern_context_hi": "जब नौकरी छूटने का डर हो, या किसी वादे को निभाना मुश्किल लगे — तब सोचिए कि राम ने चौदह साल का वनवास बिना शिकायत के स्वीकार किया। वचन निभाना, भले ही उसकी कीमत चुकानी पड़े — यही आज के जीवन में राम का अनुसरण है। जो लोग मुश्किल वक़्त में भी अपनी बात के पक्के होते हैं, वही समाज के असली नायक हैं।"
+    },
+    {
+      "verse_number": 6,
+      "section": "stuti",
+      "hindi_text": "हनुमत्सेवितं नित्यं सर्वलोकहितं परम्।\nसीतासमेतं सुखदं नमामि रघुनायकम्।।६।।",
+      "transliteration": "hanumatservitaṃ nityaṃ sarvalokaahitaṃ param।\nsītāsametaṃ sukhadaṃ namāmi raghunāyakam।।6।।",
+      "word_by_word": {
+        "hanumat": "Hanuman",
+        "sevitam": "served by / attended by",
+        "nityam": "eternally / always",
+        "sarvaloka": "all worlds",
+        "hitam": "welfare / benefit of",
+        "param": "supreme / transcendent",
+        "sītā": "Sita",
+        "sametam": "accompanied by / together with",
+        "sukhadam": "giver of joy / happiness",
+        "namāmi": "I bow",
+        "raghunāyakam": "leader / champion of the Raghus"
+      },
+      "meaning_en": "I bow to the leader of the Raghu clan — who is eternally attended by the devoted Hanuman, who works ceaselessly for the welfare of all worlds, and who grants boundless joy to all. He is seen ever in the company of Sita, representing the sacred union of dharma and compassion. In his court of the heart, devotion and love are the only qualifications for entry.",
+      "meaning_hi": "मैं रघुनायक राम को नमन करता हूँ जिनकी सेवा में हनुमान सदा तत्पर रहते हैं और जो समस्त लोकों के कल्याण में सदा संलग्न रहते हैं। सीता के साथ विराजमान वे परमानंद के दाता हैं। उनके दरबार में प्रवेश का एकमात्र अधिकार है — प्रेम और भक्ति।",
+      "modern_context_en": "The image of Rama always accompanied by Sita and Hanuman speaks to the power of a leader surrounded by genuine love and fierce loyalty. In today's world, the most effective and fulfilled people are those who have cultivated deep relationships — a supportive partner and a fiercely loyal friend who believes in their mission. Success built with such relationships endures; achievement pursued in isolation often rings hollow.",
+      "modern_context_hi": "राम के साथ सीता और हनुमान — यह तस्वीर बताती है कि असली सफलता वह है जो प्यार और वफादारी के साथ हासिल हो। आज जिस इंसान के पास एक प्रेमपूर्ण जीवनसाथी और एक सच्चा दोस्त है जो उसके सपनों पर भरोसा करे — वह व्यक्ति वाकई धन्य है। अकेले पाई हुई कामयाबी से ज़्यादा मूल्यवान है वह सफलता जो अपनों के साथ मिलकर पाई जाए।"
+    },
+    {
+      "verse_number": 7,
+      "section": "stuti",
+      "hindi_text": "मर्यादापुरुषोत्तमं धर्मरक्षकमव्ययम्।\nरावणान्तकरं वीरं नमामि राममीश्वरम्।।७।।",
+      "transliteration": "maryādāpuruṣottamaṃ dharmarakṣakamavyayam।\nrāvaṇāntakaraṃ vīraṃ namāmi rāmamīśvaram।।7।।",
+      "word_by_word": {
+        "maryādā": "boundary / righteous conduct / propriety",
+        "puruṣottamam": "supreme among men / best of beings",
+        "dharma": "righteousness / cosmic order",
+        "rakṣakam": "protector / guardian",
+        "avyayam": "imperishable / undecaying",
+        "rāvaṇa": "Ravana",
+        "antakaram": "destroyer / one who brings end to",
+        "vīram": "hero / valiant one",
+        "namāmi": "I bow",
+        "rāmam": "Rama",
+        "īśvaram": "the Lord"
+      },
+      "meaning_en": "I bow to Lord Rama — the supreme among all beings who upholds the highest boundaries of righteous conduct, the imperishable protector of dharma, and the heroic destroyer of Ravana who embodied adharma. He is Maryada Purushottama — the one who never breaks the sacred code of ethical conduct even under the most extreme personal suffering. His victory over Ravana is eternal proof that ultimately, truth and righteousness prevail over every kind of evil.",
+      "meaning_hi": "मैं ईश्वर राम को नमन करता हूँ — जो मर्यादा पुरुषोत्तम हैं, जो धर्म के अविनाशी रक्षक हैं और जिन्होंने अधर्म के प्रतीक रावण का अंत किया। वे वे पुरुष हैं जो अत्यंत कठिन परिस्थितियों में भी अपनी नैतिक मर्यादा नहीं तोड़ते। रावण पर उनकी विजय यह शाश्वत सत्य सिद्ध करती है कि अंतत: सत्य और धर्म की ही जीत होती है।",
+      "modern_context_en": "In a world where cutting ethical corners often seems to bring faster rewards, Rama's title Maryada Purushottama is a radical challenge: what if you never compromised your principles, no matter the cost? We see modern Ravanas in corruption, exploitation, and dishonesty — and Rama teaches us that each act of ethical courage, however small, is a blow against that adharma. Choosing the harder right over the easier wrong in daily decisions is how we live this verse.",
+      "modern_context_hi": "आज जब शॉर्टकट लेने वाले जल्दी आगे बढ़ते दिखते हैं, राम की 'मर्यादा पुरुषोत्तम' की उपाधि हमें चुनौती देती है — क्या हम बिना सिद्धांत तोड़े आगे बढ़ सकते हैं? भ्रष्टाचार, धोखाधड़ी और अन्याय — ये आज के रावण हैं। जब हम परीक्षा में नकल न करें, ऑफिस में झूठ न बोलें, या किसी कमज़ोर का शोषण न होने दें — तो हम अपने जीवन में रावण का अंत करते हैं।"
+    },
+    {
+      "verse_number": 8,
+      "section": "phalaśruti",
+      "hindi_text": "इत्येतद् रामाष्टकमिदं यः पठेद् भक्तिसंयुतः।\nसर्वपापविनिर्मुक्तः रामसायुज्यमाप्नुयात्।।८।।",
+      "transliteration": "ityetad rāmāṣṭakamidaṃ yaḥ paṭhed bhaktisaṃyutaḥ।\nsarvapāpavinirmuktaḥ rāmasāyujyamāpnuyāt।।8।।",
+      "word_by_word": {
+        "iti": "thus / in this manner",
+        "etat": "this",
+        "rāmāṣṭakam": "the Rama Ashtakam (eight-verse hymn to Rama)",
+        "yaḥ": "whoever",
+        "paṭhet": "reads / recites",
+        "bhakti": "devotion",
+        "saṃyutaḥ": "endowed with / filled with",
+        "sarva": "all",
+        "pāpa": "sin / negative karma",
+        "vinirmuktaḥ": "completely freed from",
+        "rāma": "Rama",
+        "sāyujyam": "union with / merging into",
+        "āpnuyāt": "attains / obtains"
+      },
+      "meaning_en": "Whoever recites this Rama Ashtakam with a heart full of devotion shall be freed from all sins and negative karmas accumulated across lifetimes. Such a devoted soul attains the supreme state of union with Rama — not merely closeness to the divine, but a merging into his very essence of truth, love, and righteousness. This eightfold praise is not just a prayer but a transformation, turning the one who recites it into a reflection of Rama himself.",
+      "meaning_hi": "जो कोई इस रामाष्टकम् का भक्तिपूर्वक पाठ करता है, वह सभी पापों और जन्म-जन्मांतर के नकारात्मक कर्मों से मुक्त हो जाता है। ऐसी भक्तिमयी आत्मा राम के साथ सायुज्य — अर्थात् उनमें विलीन होने की परम अवस्था — को प्राप्त करती है। यह अष्टकम् केवल एक स्तुति नहीं, बल्कि एक रूपांतरण है जो पाठक को स्वयं राम का प्रतिबिंब बना देता है।",
+      "modern_context_en": "The phalaśruti or fruit-of-recitation verse is not superstition — it is a psychological and spiritual technology. When we repeatedly recite these eight praises with genuine feeling, we gradually internalize the qualities of Rama: truthfulness, courage, compassion, and integrity. In modern terms, this is the practice of values-based affirmation — choosing daily which qualities to water within ourselves. Reciting this ashtakam each morning sets a conscious ethical intention for the day ahead.",
+      "modern_context_hi": "फलश्रुति का मतलब सिर्फ इनाम पाना नहीं है — यह एक मनोवैज्ञानिक और आध्यात्मिक प्रक्रिया है। जब हम रोज़ इन आठ श्लोकों को भाव से पढ़ते हैं, तो हम धीरे-धीरे राम के गुणों को — सत्य, साहस, करुणा और ईमानदारी को — अपने भीतर उतारते जाते हैं। सुबह इस अष्टकम् का पाठ करना एक शक्तिशाली इरादे के साथ दिन शुरू करने जैसा है — एक संकल्प कि आज हम राम की तरह जीने की कोशिश करेंगे।"
+    }
+  ]
+}

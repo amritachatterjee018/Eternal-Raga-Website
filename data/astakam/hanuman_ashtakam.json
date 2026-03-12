@@ -1,0 +1,221 @@
+{
+  "id": "hanuman_ashtakam",
+  "title_en": "Hanuman Ashtakam",
+  "title_hi": "हनुमान अष्टकम्",
+  "deity": "hanuman",
+  "author": "Traditional",
+  "author_hi": "पारंपरिक",
+  "type": "ashtakam",
+  "language": "sanskrit",
+  "total_verses": 8,
+  "sections": [
+    "stuti"
+  ],
+  "description_en": "The Hanuman Ashtakam is an eight-verse hymn celebrating the extraordinary strength, devotion, and courage of Lord Hanuman. It describes his leaping across the ocean, carrying the Sanjeevani mountain, burning Lanka, and his unwavering devotion to Lord Ram.",
+  "description_hi": "हनुमान अष्टकम् भगवान हनुमान की असाधारण शक्ति, भक्ति और साहस का गान करने वाला आठ श्लोकों का स्तोत्र है। समुद्र लांघना, संजीवनी पर्वत, लंका दहन और श्रीराम के प्रति अटल भक्ति का वर्णन।",
+  "recitation_benefits": [
+    "Grants physical and mental strength",
+    "Removes fear and anxiety",
+    "Protects from evil forces",
+    "Builds courage and determination",
+    "Deepens devotion to Ram"
+  ],
+  "best_time_to_recite": [
+    "Tuesday",
+    "Saturday",
+    "Hanuman Jayanti",
+    "During difficult times",
+    "Before physical challenges"
+  ],
+  "verses": [
+    {
+      "verse_number": 1,
+      "section": "stuti",
+      "hindi_text": "बाल समय रवि भक्षि लियो तब,\nतीनहुँ लोक भयो अँधियारो।\nताहि सों त्रास भयो जग को,\nयह संकट काहु न जात है टारो।\nदेवन आनि करी बिनती तब,\nछाँड़ि दियो रवि कष्ट निवारो।\nको नहिं जानत है जग में कपि,\nसंकटमोचन नाम तिहारो॥१॥",
+      "transliteration": "Bāla samaya ravi bhakṣi liyo taba,\ntīnahuṃ loka bhayo aṃdhiyāro.\nTāhi soṃ trāsa bhayo jaga ko,\nyaha saṃkaṭa kāhu na jāta hai ṭāro.\nDevana āni karī binatī taba,\nchāṃṛi diyo ravi kaṣṭa nivāro.\nKo nahiṃ jānata hai jaga meṃ kapi,\nsaṃkaṭamocana nāma tihāro.॥1॥",
+      "word_by_word": {
+        "bāla": "childhood/young",
+        "samaya": "time/moment",
+        "ravi": "the sun",
+        "bhakṣi liyo": "swallowed/consumed",
+        "tīnahuṃ loka": "all three worlds",
+        "aṃdhiyāro": "darkness",
+        "trāsa": "fear/terror",
+        "saṃkaṭa": "crisis/distress",
+        "devana": "the gods/devas",
+        "binatī": "prayer/supplication",
+        "kaṣṭa nivāro": "remover of suffering",
+        "saṃkaṭamocana": "liberator from all crises",
+        "nāma": "name",
+        "tihāro": "yours"
+      },
+      "meaning_en": "In his childhood, Hanuman swallowed the sun, plunging all three worlds into darkness. The entire creation trembled with fear, and no one could resolve this crisis. When the gods came and prayed to him, he released the sun and relieved all suffering — and thus, O Hanuman, who in this world does not know your name as Sankatmochan, the remover of all crises?",
+      "meaning_hi": "बचपन में हनुमान जी ने सूर्य को निगल लिया था, जिससे तीनों लोकों में अंधेरा छा गया। यह संकट किसी से भी टाला नहीं जा रहा था। जब देवताओं ने विनती की, तब उन्होंने सूर्य को छोड़ दिया और सबका कष्ट दूर हुआ — इसीलिए हे कपि, आपका नाम संकटमोचन है।",
+      "modern_context_en": "When life suddenly goes dark — an unexpected job loss, a health scare, or a relationship falling apart — it can feel like the whole world has stopped. Hanuman's childhood leela reminds us that even the most overwhelming crises have a resolution when we invoke divine grace. Next time panic sets in at 3 AM, remember that Sankatmochan exists precisely for moments when no human solution seems available.",
+      "modern_context_hi": "जब अचानक नौकरी चली जाए, कोई बड़ी बीमारी हो, या रिश्ते टूट जाएँ — ऐसा लगता है जैसे सब कुछ अंधेरे में डूब गया। हनुमान जी की यह लीला बताती है कि जब कोई रास्ता न दिखे, तब भी संकटमोचन का नाम लेने से राह निकलती है। रात को घबराहट हो तो बस मन में 'संकटमोचन' दोहराएँ — यह नाम ही ताकत है।"
+    },
+    {
+      "verse_number": 2,
+      "section": "stuti",
+      "hindi_text": "बालि की त्रास कपीस बसे गिरि,\nजात महापथ पाँव न धारो।\nचौंकि महासुर मारि गिराये,\nदेखि सुरारिन्ह त्रास निवारो।\nतात के पात लगाय के लंका,\nजारि असोक तहाँ दुख टारो।\nको नहिं जानत है जग में कपि,\nसंकटमोचन नाम तिहारो॥२॥",
+      "transliteration": "Bāli kī trāsa kapīsa base giri,\njāta mahāpatha pāṃva na dhāro.\nCauṃki mahāsura māri girāye,\ndekhi surārinhi trāsa nivāro.\nTāta ke pāta lagāya ke laṃkā,\njāri asoka tahāṃ dukha ṭāro.\nKo nahiṃ jānata hai jaga meṃ kapi,\nsaṃkaṭamocana nāma tihāro.॥2॥",
+      "word_by_word": {
+        "bāli": "Bali the mighty monkey king",
+        "trāsa": "terror/fear",
+        "kapīsa": "king of monkeys (Sugriva)",
+        "giri": "mountain",
+        "mahāpatha": "the great path/highway",
+        "mahāsura": "great demon",
+        "māri girāye": "killed and struck down",
+        "surāri": "enemies of the gods",
+        "laṃkā": "Lanka",
+        "jāri": "burning",
+        "asoka": "the Ashoka grove",
+        "dukha ṭāro": "removed sorrow"
+      },
+      "meaning_en": "When Sugriva lived in hiding on the mountain, terrorized by Bali, Hanuman stepped forth on the great path without hesitation. He struck down mighty demons, freeing the gods from fear. Then, reaching Lanka, he set fire to the Ashoka grove and dispelled the sorrow of those imprisoned there — O Hanuman, who in this world does not know your name as Sankatmochan?",
+      "meaning_hi": "बालि के भय से सुग्रीव पहाड़ पर छुपे थे और हनुमान जी ने उनके लिए निडर होकर रास्ता बनाया। महान असुरों को मारकर देवताओं का डर दूर किया। फिर लंका पहुँचकर अशोक वाटिका जलाई और माँ सीता का दुख कम किया — इसीलिए तुम्हारा नाम संकटमोचन है।",
+      "modern_context_en": "Sometimes we watch a friend or colleague being bullied, sidelined, or pushed out — and fear keeps us silent. Hanuman's courage in standing up for Sugriva even when Bali was vastly more powerful is a call to be that one person who speaks up in a toxic workplace meeting or defends someone being harassed online. Being a true ally requires stepping onto the 'mahapatha' even when the odds feel impossible.",
+      "modern_context_hi": "कभी-कभी हम देखते हैं कि हमारा कोई दोस्त या साथी किसी शक्तिशाली इंसान के डर से चुप है। हनुमान जी ने सुग्रीव के लिए निडर होकर खड़े होकर दिखाया कि असली दोस्ती ऐसी ही होती है। ऑफिस में किसी की मदद करनी हो या सोशल मीडिया पर किसी के बचाव में आना हो — हनुमान जैसा साहस दिखाएँ।"
+    },
+    {
+      "verse_number": 3,
+      "section": "stuti",
+      "hindi_text": "लंका असोक सिनासुर मारे,\nसुरपति सुत करि पद विनयो।\nगणपति हरि सब संकट टारे,\nयह कहि प्रीति बढ़ायो।\nलंका जारि असोक दुलारी,\nसीय की सुधि प्रभु को सुनायो।\nको नहिं जानत है जग में कपि,\nसंकटमोचन नाम तिहारो॥३॥",
+      "transliteration": "Laṃkā asoka sināsura māre,\nsuropati suta kari pada vinayo.\nGaṇapati hari saba saṃkaṭa ṭāre,\nyaha kahi prīti baṛhāyo.\nLaṃkā jāri asoka dulārī,\nsīya kī sudhi prabhu ko sunāyo.\nKo nahiṃ jānata hai jaga meṃ kapi,\nsaṃkaṭamocana nāma tihāro.॥3॥",
+      "word_by_word": {
+        "asoka": "the Ashoka grove",
+        "sināsura": "demon soldiers",
+        "māre": "slain/killed",
+        "suropati suta": "son of Indra (Jayanta)",
+        "pada vinayo": "fell at feet humbly",
+        "saṃkaṭa ṭāre": "removed all crises",
+        "prīti baṛhāyo": "increased love/devotion",
+        "dulārī": "beloved",
+        "sīya kī sudhi": "news of Sita",
+        "prabhu ko sunāyo": "conveyed to the Lord"
+      },
+      "meaning_en": "In Lanka's Ashoka grove, Hanuman slew the demon guards, and even the son of Indra bowed at his feet in humility. He removed every crisis, strengthening the bond of devotion between Ram and his devotees. After burning Lanka, he returned and delivered the precious news of Sita to Lord Ram, turning grief into hope — O Hanuman, who does not know your name as Sankatmochan?",
+      "meaning_hi": "लंका की अशोक वाटिका में हनुमान जी ने राक्षस सैनिकों को मारा और इंद्र के पुत्र ने भी उनके चरणों में प्रणाम किया। लंका जलाने के बाद उन्होंने माँ सीता का समाचार श्रीराम को सुनाया और उनका दुख हरा। इसीलिए हे कपि, संसार में तुम्हारा नाम संकटमोचन है।",
+      "modern_context_en": "In our most anxious moments — when we're waiting for medical test results or wondering if a long-distance relationship can survive — what we need most is someone to bring us reliable news and real hope. Hanuman's role as the messenger who brought Sita's news to Ram speaks to the power of being a trustworthy bridge between people in crisis. If you're in a position to connect someone to information, help, or hope today, don't hesitate — that is your Hanuman moment.",
+      "modern_context_hi": "जब कोई अपनों से दूर हो, कोई बुरी खबर का इंतज़ार कर रहा हो — उस वक्त एक सच्चा दोस्त जो सही खबर लाए, वही हनुमान जी जैसा है। लंबे समय से अलग रह रहे परिवार हों या दो लोगों के बीच गलतफहमी हो — सही समय पर सही बात पहुँचाना बड़ा काम है। आज किसी के लिए वो 'दूत' बनें जो सच और उम्मीद लेकर आए।"
+    },
+    {
+      "verse_number": 4,
+      "section": "stuti",
+      "hindi_text": "बज्र देह दानव दल मारे,\nरघुपति काज सवाँरि हैं।\nभव सागर तारन कारन,\nराम दुलारे बलवान हैं।\nसंकट से हनुमान छुड़ावैं,\nमन क्रम बचन ध्यान हैं।\nको नहिं जानत है जग में कपि,\nसंकटमोचन नाम तिहारो॥४॥",
+      "transliteration": "Vajra deha dānava dala māre,\nraghupati kāja savāṃri haiṃ.\nBhava sāgara tārana kārana,\nrāma dulāre balavāna haiṃ.\nSaṃkaṭa se hanumāna chuṛāvaiṃ,\nmana krama bacana dhyāna haiṃ.\nKo nahiṃ jānata hai jaga meṃ kapi,\nsaṃkaṭamocana nāma tihāro.॥4॥",
+      "word_by_word": {
+        "vajra deha": "thunderbolt-like body",
+        "dānava dala": "army of demons",
+        "māre": "slain",
+        "raghupati kāja": "work/mission of Lord Ram",
+        "savāṃri": "accomplished/fulfilled",
+        "bhava sāgara": "ocean of worldly existence",
+        "tārana": "one who helps cross",
+        "rāma dulāre": "beloved of Ram",
+        "balavāna": "supremely powerful",
+        "saṃkaṭa": "crisis/danger",
+        "mana krama bacana": "in thought, action, and word",
+        "dhyāna": "meditation/focus"
+      },
+      "meaning_en": "With his thunderbolt-like body, Hanuman destroyed entire armies of demons and accomplished all of Lord Ram's missions. He is the means of crossing the endless ocean of worldly existence, the beloved and powerful servant of Ram. Hanuman liberates his devotees from every crisis — in thought, in deed, and in word, he is the supreme object of meditation.",
+      "meaning_hi": "वज्र जैसे शरीर से हनुमान जी ने राक्षसों की पूरी सेना को नष्ट कर दिया और रघुपति का सारा काम पूरा किया। वे भवसागर से पार लगाने वाले, राम के प्रिय और महाबलवान हैं। मन, कर्म और वचन से उनका ध्यान करने वाले को वे हर संकट से मुक्त कर देते हैं।",
+      "modern_context_en": "We often compartmentalize our spiritual life from our professional one — we pray at home but feel completely alone when facing a brutal performance review or a business failure. The teaching of 'mana krama bacana' — aligning thought, action, and word — is the ancient formula for integrated living that modern psychology calls 'authenticity.' When your inner beliefs, your outward actions, and your spoken commitments are all aligned, like Hanuman's, you become genuinely unstoppable.",
+      "modern_context_hi": "हम अक्सर घर पर भगवान को मानते हैं लेकिन ऑफिस में या मुश्किल वक्त में उन्हें भूल जाते हैं। 'मन, कर्म, वचन' — ये तीनों एक साथ हों तो इंसान सच में अजेय हो जाता है। जब आप जो सोचते हैं, वो बोलते हैं और वही करते हैं — तब कोई भी इंटरव्यू, कोई भी चुनौती आपको नहीं रोक सकती।"
+    },
+    {
+      "verse_number": 5,
+      "section": "stuti",
+      "hindi_text": "आँधी सी चाल चलत बन माहीं,\nपर्वत दोय बाँह उठायो।\nदुर्गम काज जगत के जेते,\nसुगम अनुग्रह तुम्हरे पायो।\nराम दुलारे तुम रखवारे,\nसुमिरत होत सहाय हो।\nको नहिं जानत है जग में कपि,\nसंकटमोचन नाम तिहारो॥५॥",
+      "transliteration": "Āṃdhī sī cāla calata bana māhīṃ,\nparvata doya bāṃha uṭhāyo.\nDurgama kāja jagata ke jete,\nsugama anugraha tumhare pāyo.\nRāma dulāre tuma rakhavāre,\nsumerata hota sahāya ho.\nKo nahiṃ jānata hai jaga meṃ kapi,\nsaṃkaṭamocana nāma tihāro.॥5॥",
+      "word_by_word": {
+        "āṃdhī sī cāla": "speed like a storm/whirlwind",
+        "bana māhīṃ": "through the forest",
+        "parvata doya": "two mountains",
+        "bāṃha uṭhāyo": "lifted on arms",
+        "durgama kāja": "difficult/impossible tasks",
+        "sugama": "easy/accessible",
+        "anugraha": "grace/blessing",
+        "rakhavāre": "protector/guardian",
+        "sumerata": "upon remembering/chanting",
+        "sahāya": "help/assistance"
+      },
+      "meaning_en": "Moving through the forest with the speed of a whirlwind, Hanuman lifted two great mountains in his arms with ease. All the difficult and seemingly impossible tasks of this world become simple and achievable through his grace. O Ram's beloved protector, the moment one remembers you, you arrive as help — who in this world does not know your name as Sankatmochan?",
+      "meaning_hi": "आँधी जैसी गति से वन में दौड़ते हुए हनुमान जी ने दोनों भुजाओं से पर्वत उठा लिए। संसार के जो भी कठिन से कठिन काम हैं, वे उनकी कृपा से सरल हो जाते हैं। राम के प्यारे रक्षक, बस नाम लेते ही वे मदद के लिए आ जाते हैं।",
+      "modern_context_en": "Every entrepreneur, student, or parent knows the feeling of staring at a seemingly impossible mountain of tasks — a startup with dwindling funds, a dissertation deadline, or managing a special-needs child. Hanuman carrying two mountains reminds us that when our intention is pure and our cause is righteous, capacities we never knew we had will suddenly emerge. The next time your to-do list feels like Himalayan peaks, pause, breathe, and invoke that inner Hanuman energy before you begin.",
+      "modern_context_hi": "स्टार्टअप चलाना हो, बोर्ड एग्जाम देना हो, या बच्चों की परवरिश अकेले करनी हो — हर काम पहाड़ जैसा लग सकता है। हनुमान जी का दो पहाड़ उठाना हमें याद दिलाता है कि जब नीयत साफ हो और काम सही हो, तो ताकत खुद-ब-खुद आ जाती है। बस काम शुरू करने से पहले एक बार मन में हनुमान जी को याद करें — देखें कैसे रास्ता बनता है।"
+    },
+    {
+      "verse_number": 6,
+      "section": "stuti",
+      "hindi_text": "रावण युद्ध अहान कियो तब,\nनाभि कुंड पियूष नसायो।\nछुपि छुपि लक्ष्मण लेत समीरन,\nराम प्रभु मूर्छित भयो।\nजाम्बवंत के बचन सुनाये,\nवीर हनुमान उठि धाये।\nको नहिं जानत है जग में कपि,\nसंकटमोचन नाम तिहारो॥६॥",
+      "transliteration": "Rāvaṇa yuddha ahāna kiyo taba,\nnābhi kuṃḍa piyūṣa nasāyo.\nChupi chupi lakṣmaṇa leta samīrana,\nrāma prabhu mūrchita bhayo.\nJāmbavaṃta ke bacana sunāye,\nvīra hanumāna uṭhi dhāye.\nKo nahiṃ jānata hai jaga meṃ kapi,\nsaṃkaṭamocana nāma tihāro.॥6॥",
+      "word_by_word": {
+        "rāvaṇa": "Ravana the demon king",
+        "yuddha ahāna": "challenged to battle",
+        "nābhi kuṃḍa": "navel vessel of nectar",
+        "piyūṣa": "nectar of immortality",
+        "nasāyo": "destroyed/depleted",
+        "lakṣmaṇa": "Lakshmana",
+        "samīrana": "breath of life",
+        "mūrchita": "unconscious/fainted",
+        "jāmbavaṃta": "Jambavan the bear king",
+        "bacana": "words/counsel",
+        "uṭhi dhāye": "arose and rushed forth"
+      },
+      "meaning_en": "When Ravana challenged the battle and exhausted the nectar of life from his navel vessel, Lakshmana fell unconscious, and even Lord Ram was overwhelmed with grief. But when Jambavan spoke words of counsel and reminder to Hanuman, the great hero instantly arose and rushed forth — O Hanuman, who in this world does not know your name as Sankatmochan?",
+      "meaning_hi": "रावण ने युद्ध में ऐसी माया की कि लक्ष्मण मूर्छित हो गए और श्रीराम शोक में डूब गए। लेकिन जब जांबवंत ने हनुमान जी को उनकी शक्ति याद दिलाई, तो वे तुरंत उठ खड़े हुए। हे कपि, संसार में कौन नहीं जानता कि तुम्हारा नाम संकटमोचन है।",
+      "modern_context_en": "There are moments in life — after a devastating breakup, a failed business, or a serious illness — when we simply forget who we are and what we're capable of. Like Hanuman who needed Jambavan's reminder to reconnect with his own power, sometimes we all need a mentor, a coach, or even a trusted friend to hold up a mirror and say: 'Remember, you are stronger than this.' Seek out your Jambavan today — and be one for someone else.",
+      "modern_context_hi": "कभी-कभी बड़ी असफलता के बाद — रिश्ता टूटने पर, बिज़नेस डूबने पर, या बड़ी बीमारी के बाद — हम खुद को भूल जाते हैं। जैसे जांबवंत ने हनुमान जी को उनकी ताकत याद दिलाई, वैसे ही हमें भी कभी-कभी किसी अच्छे दोस्त या मेंटर की ज़रूरत होती है। आज किसी टूटे हुए इंसान के लिए 'जांबवंत' बनें — उसे उसकी असली ताकत याद दिलाएँ।"
+    },
+    {
+      "verse_number": 7,
+      "section": "stuti",
+      "hindi_text": "जय जय जय हनुमान गोसाईं,\nकृपा करहु गुरुदेव की नाईं।\nयह शत बार पाठ कर कोई,\nछूटहिं बंदि महासुख होई।\nजो यह पढ़े हनुमान चलीसा,\nहोय सिद्धि साखी गौरीसा।\nको नहिं जानत है जग में कपि,\nसंकटमोचन नाम तिहारो॥७॥",
+      "transliteration": "Jaya jaya jaya hanumāna gosāīṃ,\nkṛpā karahu gurudeva kī nāīṃ.\nYaha śata bāra pāṭha kara koī,\nchuṭahiṃ baṃdi mahāsukha hoī.\nJo yaha paṛhe hanumāna calīsā,\nhoya siddhi sākhī gaurīsā.\nKo nahiṃ jānata hai jaga meṃ kapi,\nsaṃkaṭamocana nāma tihāro.॥7॥",
+      "word_by_word": {
+        "jaya jaya jaya": "victory, victory, victory (triple glory)",
+        "gosāīṃ": "master/lord of the senses",
+        "kṛpā karahu": "bestow grace/mercy",
+        "gurudeva": "divine teacher",
+        "nāīṃ": "in the manner of",
+        "śata bāra": "one hundred times",
+        "pāṭha": "recitation/reading",
+        "baṃdi": "bondage/imprisonment",
+        "mahāsukha": "supreme bliss",
+        "siddhi": "spiritual accomplishment",
+        "sākhī": "witness",
+        "gaurīsā": "Lord Shiva (consort of Gauri)"
+      },
+      "meaning_en": "Victory, victory, victory to Lord Hanuman, the master of the senses — bestow your grace upon us as a divine teacher would. Whoever recites this a hundred times is freed from all bondage and attains supreme bliss. One who reads the Hanuman Chalisa attains spiritual accomplishment, with Lord Shiva himself as witness — O Hanuman, who does not know your name as Sankatmochan?",
+      "meaning_hi": "हे गोसाईं हनुमान जी, आपकी जय हो, जय हो, जय हो — गुरुदेव के समान हम पर कृपा करें। जो इसे सौ बार पढ़े, उसके सारे बंधन टूट जाएँ और महासुख की प्राप्ति हो। हनुमान चालीसा पढ़ने वाले को सिद्धि मिलती है और इसके साक्षी स्वयं भगवान शिव हैं।",
+      "modern_context_en": "In a world overloaded with self-help podcasts, productivity hacks, and wellness apps, the simplest and most powerful technology remains consistent daily practice — japam, paath, or any devotional ritual done with full presence. Science now confirms that repetitive devotional practice rewires the nervous system, reducing cortisol and anxiety. Whether you're struggling with addiction, overthinking, or emotional paralysis, start with a hundred repetitions of Hanuman's name and watch the inner 'bondage' begin to dissolve.",
+      "modern_context_hi": "हम सोशल मीडिया पर घंटों बिताते हैं लेकिन पाँच मिनट भजन को नहीं दे पाते। विज्ञान भी मानता है कि नियमित जप और पाठ से दिमाग का तनाव कम होता है। अगर आप ओवरथिंकिंग, डिप्रेशन या किसी बुरी आदत से लड़ रहे हैं — तो बस सौ बार हनुमान जी का नाम लें, धीरे-धीरे बंधन टूटने लगेंगे।"
+    },
+    {
+      "verse_number": 8,
+      "section": "phalaśruti",
+      "hindi_text": "पाठ करो हनुमान अष्टक का,\nप्रेम सहित नित नेम से।\nसंकट कटे मिटे सब पीड़ा,\nजो सुमिरे हनुमत् नाम से।\nराम लखन सीता मन बसिये,\nनाथ हृदय तुम धाम से।\nको नहिं जानत है जग में कपि,\nसंकटमोचन नाम तिहारो॥८॥",
+      "transliteration": "Pāṭha karo hanumāna aṣṭaka kā,\nprema sahita nita nema se.\nSaṃkaṭa kaṭe miṭe saba pīḍā,\njo sumire hanumata nāma se.\nRāma lakhana sītā mana basiye,\nnātha hṛdaya tuma dhāma se.\nKo nahiṃ jānata hai jaga meṃ kapi,\nsaṃkaṭamocana nāma tihāro.॥8॥",
+      "word_by_word": {
+        "pāṭha karo": "recite/read",
+        "aṣṭaka": "eight-verse hymn",
+        "prema sahita": "with love/devotion",
+        "nita nema": "daily as a vow/discipline",
+        "saṃkaṭa kaṭe": "crises are cut away",
+        "pīḍā": "pain/suffering",
+        "sumire": "one who remembers/chants",
+        "hanumata nāma": "the name of Hanuman",
+        "rāma lakhana sītā": "Ram, Lakshman, and Sita",
+        "mana basiye": "dwell in the mind/heart",
+        "hṛdaya": "heart",
+        "dhāma": "abode/home"
+      },
+      "meaning_en": "Recite this Hanuman Ashtakam daily with love and as a sacred discipline — all crises will be cut away and all suffering will be erased for one who takes Hanuman's name. May Ram, Lakshman, and Sita dwell forever in your mind, and O Lord Hanuman, may you make the devotee's heart your eternal abode — who in this world does not know your name as Sankatmochan?",
+      "meaning_hi": "इस हनुमान अष्टकम् का प्रतिदिन प्रेम और नियम के साथ पाठ करें — जो हनुमत् का नाम लेगा, उसके सारे संकट कटेंगे और सारी पीड़ा मिटेगी। श्रीराम, लक्ष्मण और सीता मन में बसें और हे नाथ, आप इस हृदय को अपना धाम बनाएँ — हे कपि, संसार में कौन नहीं जानता कि तुम्हारा नाम संकटमोचन है।",
+      "modern_context_en": "In an age of constant distraction — from pinging notifications to endless scrolling — the idea of setting a daily spiritual discipline (nema) feels radical but is profoundly necessary. Research in habit formation shows it takes consistent daily practice to create lasting neural change; the ancient rishis encoded this same truth in the concept of 'nita nema.' Whether you're trying to build healthier habits, heal from trauma, or simply find 5 minutes of peace in a chaotic day — let this Ashtakam be your anchor, and invite Ram and Hanuman to make their home in your heart.",
+      "modern_context_hi": "आज के ज़माने में नोटिफिकेशन और रील्स के बीच रोज़ कुछ मिनट की साधना करना बड़ी बात है — लेकिन यही 'नित नेम' है जो ज़िंदगी बदलता है। चाहे ट्रैफिक में हों, ऑफिस के बाहर हों, या रात सोने से पहले — बस इस अष्टकम् का पाठ करें। जब राम और हनुमान आपके दिल में घर कर लें, तो फिर दुनिया का कोई भी संकट आपको तोड़ नहीं सकता।"
+    }
+  ]
+}
