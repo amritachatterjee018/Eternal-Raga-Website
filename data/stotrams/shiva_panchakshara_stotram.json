@@ -1,0 +1,142 @@
+{
+  "id": "shiva_panchakshara_stotram",
+  "title_en": "Shiva Panchakshara Stotram",
+  "title_hi": "शिव पञ्चाक्षर स्तोत्रम्",
+  "deity": "shiva",
+  "author": "Adi Shankaracharya",
+  "type": "stotram",
+  "total_verses": 5,
+  "sections": [
+    "stotram"
+  ],
+  "description_en": "The Shiva Panchakshara Stotram is a celebrated hymn composed by Adi Shankaracharya in praise of Lord Shiva. It consists of five verses, each dedicated to one syllable of the sacred Panchakshara mantra 'Na-Ma-Shi-Va-Ya' (नमशिवाय). Each verse elaborates on the divine attributes of Shiva associated with the respective syllable. It is one of the most revered Shiva stotrams and is chanted daily by devotees seeking liberation, peace, and divine grace.",
+  "description_hi": "शिव पञ्चाक्षर स्तोत्रम् आदि शंकराचार्य द्वारा रचित भगवान शिव की स्तुति में एक प्रसिद्ध स्तोत्र है। इसमें पाँच श्लोक हैं, जिनमें से प्रत्येक पवित्र पञ्चाक्षर मंत्र 'न-म-शि-व-य' के एक अक्षर को समर्पित है। प्रत्येक श्लोक में संबंधित अक्षर से जुड़े शिव के दिव्य गुणों का वर्णन किया गया है। यह शिव के सबसे पूजनीय स्तोत्रों में से एक है और भक्त मोक्ष, शांति और दिव्य कृपा की प्राप्ति के लिए इसका प्रतिदिन पाठ करते हैं।",
+  "verses": [
+    {
+      "verse_number": 1,
+      "section": "stotram",
+      "hindi_text": "नागेन्द्रहाराय त्रिलोचनाय\nभस्माङ्गरागाय महेश्वराय।\nनित्याय शुद्धाय दिगम्बराय\nतस्मै नकाराय नमः शिवाय॥",
+      "transliteration": "Nāgendrahārāya trilоcanāya\nbhasmāṅgarāgāya maheśvarāya|\nnityāya śuddhāya digambarāya\ntasmai nakārāya namaḥ śivāya||",
+      "word_by_word": {
+        "नागेन्द्रहाराय": "one who wears the king of serpents as a garland",
+        "त्रिलोचनाय": "one who has three eyes",
+        "भस्माङ्गरागाय": "one whose body is smeared with sacred ash",
+        "महेश्वराय": "to the great Lord",
+        "नित्याय": "to the eternal one",
+        "शुद्धाय": "to the pure one",
+        "दिगम्बराय": "to the one who is clothed by the directions (sky-clad)",
+        "तस्मै": "to that",
+        "नकाराय": "to the syllable 'Na'",
+        "नमः": "salutations",
+        "शिवाय": "to Shiva"
+      },
+      "meaning_en": "Salutations to Shiva, who is represented by the syllable 'Na' — the one who wears the king of serpents (Vasuki) as a garland, who has three eyes, whose body is adorned with sacred ash, who is the great Lord (Maheshvara), who is eternal, who is absolutely pure, and who is clad in the directions of the sky (digambara).",
+      "meaning_hi": "उस शिव को नमस्कार, जो 'न' अक्षर के रूप में हैं — जो नागराज (वासुकि) को हार के रूप में धारण करते हैं, जिनके तीन नेत्र हैं, जिनका शरीर पवित्र भस्म से विभूषित है, जो महेश्वर हैं, जो नित्य हैं, जो शुद्ध हैं, और जो दिगम्बर (आकाश को वस्त्र के रूप में धारण करने वाले) हैं।",
+      "modern_context_en": "In today's world, where impurity and corruption are rampant, the verse's emphasis on Shiva as 'Shuddha' (pure) and 'Nitya' (eternal) inspires us to seek inner purity and timeless values. The image of Shiva smeared in ash reminds us of the transience of the body, encouraging detachment from materialism. The serpent garland symbolizes the mastery over fear and ego — relevant lessons for modern challenges.",
+      "modern_context_hi": "आज के युग में जहाँ अशुद्धता और भ्रष्टाचार व्याप्त है, शिव को 'शुद्ध' और 'नित्य' बताना हमें आंतरिक पवित्रता और शाश्वत मूल्यों की ओर प्रेरित करता है। भस्म से विभूषित शिव का रूप शरीर की नश्वरता की याद दिलाता है और भौतिकवाद से वैराग्य की प्रेरणा देता है। नाग-हार भय और अहंकार पर विजय का प्रतीक है — जो आधुनिक चुनौतियों में भी प्रासंगिक है।"
+    },
+    {
+      "verse_number": 2,
+      "section": "stotram",
+      "hindi_text": "मन्दाकिनीसलिलचन्दनचर्चिताय\nनन्दीश्वरप्रमथनाथमहेश्वराय।\nमन्दारपुष्पबहुपुष्पसुपूजिताय\nतस्मै मकाराय नमः शिवाय॥",
+      "transliteration": "Mandākinīsalilacandanacarcitāya\nnandīśvarapramathanāthamaheśvarāya|\nmandārapuṣpabahupuṣpasupūjitāya\ntasmai makārāya namaḥ śivāya||",
+      "word_by_word": {
+        "मन्दाकिनीसलिल": "with the waters of the Mandakini (Ganga)",
+        "चन्दन": "sandalwood paste",
+        "चर्चिताय": "one who is anointed/smeared",
+        "नन्दीश्वर": "Nandishvara (lord of Nandi)",
+        "प्रमथ": "Pramathas (Shiva's attendants)",
+        "नाथ": "lord",
+        "महेश्वराय": "to the great Lord",
+        "मन्दार": "Mandara flower (coral tree flower)",
+        "पुष्प": "flowers",
+        "बहुपुष्प": "many flowers",
+        "सुपूजिताय": "one who is well worshipped",
+        "तस्मै": "to that",
+        "मकाराय": "to the syllable 'Ma'",
+        "नमः": "salutations",
+        "शिवाय": "to Shiva"
+      },
+      "meaning_en": "Salutations to Shiva, who is represented by the syllable 'Ma' — the one who is anointed with the waters of the Mandakini (Ganga) and sandalwood paste, who is the great Lord and master of Nandishvara and the Pramathas (his divine attendants), and who is worshipped with Mandara flowers and many other flowers.",
+      "meaning_hi": "उस शिव को नमस्कार, जो 'म' अक्षर के रूप में हैं — जो मन्दाकिनी (गंगा) के जल और चंदन से सुशोभित हैं, जो नन्दीश्वर और प्रमथगणों के नाथ एवं महेश्वर हैं, और जो मन्दार तथा अनेक पुष्पों से भली-भाँति पूजित हैं।",
+      "modern_context_en": "This verse reminds us of the importance of devotional service and the joy of worship. In modern life, dedicating time to mindful rituals — offering flowers, chanting — creates a sacred space amidst chaos. Shiva as the lord of his attendants (Pramathas) also symbolizes the ideal leader who cares for all beings, a model of compassionate leadership relevant in today's corporate and social environments.",
+      "modern_context_hi": "यह श्लोक भक्ति सेवा और पूजा के आनंद के महत्व की याद दिलाता है। आधुनिक जीवन में, सचेतन अनुष्ठानों — पुष्पार्पण, जप — के लिए समय निकालना अव्यवस्था के बीच एक पवित्र स्थान बनाता है। प्रमथगणों के नाथ शिव एक आदर्श नेता का प्रतीक हैं जो सभी प्राणियों का ध्यान रखते हैं — यह आज के कॉर्पोरेट और सामाजिक परिवेश में भी प्रासंगिक है।"
+    },
+    {
+      "verse_number": 3,
+      "section": "stotram",
+      "hindi_text": "शिवाय गौरीवदनाब्जवृन्द-\nसूर्याय दक्षाध्वरनाशकाय।\nश्रीनीलकण्ठाय वृषध्वजाय\nतस्मै शिकाराय नमः शिवाय॥",
+      "transliteration": "Śivāya gaurīvadanābjavṛnda-\nsūryāya dakṣādhvaranāśakāya|\nśrīnīlakaṇṭhāya vṛṣadhvajāya\ntasmai śikārāya namaḥ śivāya||",
+      "word_by_word": {
+        "शिवाय": "to Shiva",
+        "गौरी": "Gauri (Parvati)",
+        "वदन": "face",
+        "अब्ज": "lotus",
+        "वृन्द": "multitude/cluster",
+        "सूर्याय": "like the sun (one who illuminates)",
+        "दक्षाध्वर": "the sacrifice of Daksha",
+        "नाशकाय": "to the destroyer",
+        "श्रीनीलकण्ठाय": "to the one with a blue throat (Neelkantha)",
+        "वृषध्वजाय": "to the one whose flag bears the bull (Nandi)",
+        "तस्मै": "to that",
+        "शिकाराय": "to the syllable 'Shi'",
+        "नमः": "salutations"
+      },
+      "meaning_en": "Salutations to Shiva, who is represented by the syllable 'Shi' — the auspicious one, who is like the sun that illuminates the lotus-like face of Gauri (Parvati), who destroyed the sacrifice of Daksha, who has a blue throat (Neelakantha, having drunk the poison Halahala to save the universe), and whose banner bears the bull (Nandi).",
+      "meaning_hi": "उस शिव को नमस्कार, जो 'शि' अक्षर के रूप में हैं — जो शुभ हैं, जो गौरी (पार्वती) के कमलमुख को प्रकाशित करने वाले सूर्य के समान हैं, जिन्होंने दक्ष के यज्ञ का विनाश किया, जिनका कण्ठ नीला है (नीलकण्ठ — विश्व की रक्षा के लिए हलाहल विष पीने के कारण), और जिनकी ध्वजा पर वृषभ (नन्दी) अंकित है।",
+      "modern_context_en": "Shiva as Neelakantha who swallowed poison to protect the world is a powerful metaphor for selfless sacrifice. In modern times, this inspires leaders, doctors, social workers, and individuals to absorb negativity and hardship for the greater good. The destruction of Daksha's ego-driven sacrifice is a reminder that rituals devoid of true devotion and humility are meaningless — a timeless message about the spirit over the letter of practice.",
+      "modern_context_hi": "नीलकण्ठ के रूप में शिव, जिन्होंने सृष्टि की रक्षा के लिए विष पिया, निस्वार्थ बलिदान का शक्तिशाली प्रतीक है। आधुनिक समय में, यह नेताओं, डॉक्टरों, समाज सेवकों और व्यक्तियों को सामान्य भले के लिए नकारात्मकता और कठिनाई को सहन करने की प्रेरणा देता है। दक्ष के अहंकारपूर्ण यज्ञ का विनाश हमें याद दिलाता है कि सच्ची भक्ति और विनम्रता से रहित अनुष्ठान अर्थहीन हैं।"
+    },
+    {
+      "verse_number": 4,
+      "section": "stotram",
+      "hindi_text": "वसिष्ठकुम्भोद्भवगौतमार्य-\nमुनीन्द्रदेवार्चितशेखराय।\nचन्द्रार्कवैश्वानरलोचनाय\nतस्मै वकाराय नमः शिवाय॥",
+      "transliteration": "Vasiṣṭhakumbhodbhavagautamārya-\nmunīndradevārcitaśekharāya|\ncandrārkavaiśvānaralocanāya\ntasmai vakārāya namaḥ śivāya||",
+      "word_by_word": {
+        "वसिष्ठ": "sage Vasishtha",
+        "कुम्भोद्भव": "Agastya (born from a pot)",
+        "गौतम": "sage Gautama",
+        "आर्य": "noble sages",
+        "मुनीन्द्र": "king of sages",
+        "देव": "gods/devas",
+        "अर्चित": "worshipped",
+        "शेखराय": "to the one who is the crown/chief",
+        "चन्द्र": "moon",
+        "अर्क": "sun",
+        "वैश्वानर": "fire",
+        "लोचनाय": "to the one whose eyes are",
+        "तस्मै": "to that",
+        "वकाराय": "to the syllable 'Va'",
+        "नमः": "salutations",
+        "शिवाय": "to Shiva"
+      },
+      "meaning_en": "Salutations to Shiva, who is represented by the syllable 'Va' — the one who is worshipped and revered as the crown (supreme) by great sages like Vasishtha, Agastya (Kumbhodbhava), Gautama, and other noble sages and by the devas, and whose three eyes are the moon, the sun, and fire respectively.",
+      "meaning_hi": "उस शिव को नमस्कार, जो 'व' अक्षर के रूप में हैं — जिन्हें वसिष्ठ, कुम्भोद्भव (अगस्त्य), गौतम और अन्य श्रेष्ठ मुनीन्द्रों तथा देवताओं द्वारा मस्तक पर धारण किए जाने योग्य (शेखर) के रूप में पूजा जाता है, और जिनके तीन नेत्र क्रमशः चन्द्रमा, सूर्य और अग्नि हैं।",
+      "modern_context_en": "The three eyes of Shiva — moon (mind and intuition), sun (active consciousness), and fire (transformative wisdom) — represent a holistic model of perception. In modern psychology and philosophy, this triad parallels the unconscious, conscious, and superconscious minds. The veneration of Shiva by great sages reminds us that the pursuit of knowledge ultimately leads to the divine — a message for scientists, scholars, and seekers in today's age.",
+      "modern_context_hi": "शिव के तीन नेत्र — चन्द्र (मन और अंतर्ज्ञान), सूर्य (सक्रिय चेतना), और अग्नि (परिवर्तनकारी ज्ञान) — अनुभूति का एक समग्र मॉडल प्रस्तुत करते हैं। आधुनिक मनोविज्ञान और दर्शन में, यह त्रिक अवचेतन, चेतन और अतिचेतन मन के समानांतर है। महान ऋषियों द्वारा शिव की वंदना हमें याद दिलाती है कि ज्ञान की खोज अंततः परमात्मा की ओर ले जाती है।"
+    },
+    {
+      "verse_number": 5,
+      "section": "stotram",
+      "hindi_text": "यज्ञस्वरूपाय जटाधराय\nपिनाकहस्ताय सनातनाय।\nदिव्याय देवाय दिगम्बराय\nतस्मै यकाराय नमः शिवाय॥",
+      "transliteration": "Yajñasvarūpāya jaṭādharāya\npinākahaستāya sanātanāya|\ndivyāya devāya digambarāya\ntasmai yakārāya namaḥ śivāya||",
+      "word_by_word": {
+        "यज्ञस्वरूपाय": "to the one who is the embodiment of yajna (sacrifice)",
+        "जटाधराय": "to the one who has matted hair (jata)",
+        "पिनाकहस्ताय": "to the one who holds the Pinaka bow in his hand",
+        "सनातनाय": "to the eternal/ancient one",
+        "दिव्याय": "to the divine one",
+        "देवाय": "to the shining one / god",
+        "दिगम्बराय": "to the one clad in the sky/directions (sky-clad)",
+        "तस्मै": "to that",
+        "यकाराय": "to the syllable 'Ya'",
+        "नमः": "salutations",
+        "शिवाय": "to Shiva"
+      },
+      "meaning_en": "Salutations to Shiva, who is represented by the syllable 'Ya' — the one who is the very embodiment of yajna (sacrifice and selfless action), who bears matted hair (jata), who holds the Pinaka bow in his hand, who is the eternal and primordial being (Sanatana), who is divine, who is the resplendent god, and who is clad in the directions of the sky (digambara).",
+      "meaning_hi": "उस शिव को नमस्कार, जो 'य' अक्षर के रूप में हैं — जो यज्ञ (निस्वार्थ कर्म और आत्मसमर्पण) के स्वरूप हैं, जो जटाधारी हैं, जिनके हाथ में पिनाक धनुष है, जो सनातन (शाश्वत और आदि) हैं, जो दिव्य हैं, जो देवों के देव हैं, और जो दिगम्बर (आकाश को वस्त्र मानने वाले) हैं।",
+      "modern_context_en": "Shiva as 'Yajnasvarupa' — the embodiment of sacrifice — is a profound teaching for modern times. True yajna is not just a ritual fire but any selfless action performed for the collective good. In today's world of individualism and consumerism, Shiva's identity as Sanatana (eternal) and Digambara (free from all external coverings) calls us back to simplicity, freedom from social conditioning, and dedication to a higher purpose.",
+      "modern_context_hi": "शिव का 'यज्ञस्वरूप' — बलिदान का अवतार — आधुनिक समय के लिए एक गहन शिक्षा है। सच्चा यज्ञ केवल अग्निकुंड की रस्म नहीं, बल्कि सामूहिक भले के लिए किया गया कोई भी निस्वार्थ कर्म है। आज के व्यक्तिवाद और उपभोक्तावाद के युग में, शिव का सनातन और दिगम्बर स्वरूप हमें सरलता, सामाजिक बंधनों से मुक्ति और उच्च उद्देश्य के प्रति समर्पण की ओर आमंत्रित करता है।"
+    }
+  ]
+}

@@ -75,9 +75,9 @@ export default function DeityHub() {
             <h2 className="scroll-heading text-3xl font-serif text-[var(--color-brand-purple)]">
               108 Names <span className="hindi-text text-2xl ml-2">१०८ नाम</span>
             </h2>
-            <a href="#" className="text-[var(--color-brand-purple)] font-medium hover:text-[var(--color-brand-gold-dark)] flex items-center gap-1">
+            <Link href="/mantras/108-names-of-shiva" className="text-[var(--color-brand-purple)] font-medium hover:text-[var(--color-brand-gold-dark)] flex items-center gap-1">
               View All 108 Names <ArrowRight size={16} />
-            </a>
+            </Link>
           </div>
           
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">

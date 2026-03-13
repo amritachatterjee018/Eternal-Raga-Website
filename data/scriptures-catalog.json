@@ -1,0 +1,295 @@
+{
+  "categories": [
+    {
+      "id": "gita",
+      "title_en": "Gita",
+      "title_hi": "गीता",
+      "icon": "chariot-wheel",
+      "color": "#4169E1",
+      "description_en": "Divine dialogues on dharma, karma, and liberation",
+      "description_hi": "धर्म, कर्म और मोक्ष पर दिव्य संवाद",
+      "items": [
+        {
+          "id": "bhagavad-gita",
+          "title_en": "Bhagavad Gita",
+          "title_hi": "भगवद्गीता",
+          "chapters": 18,
+          "verses": 700,
+          "deity": "krishna",
+          "status": "active",
+          "slug": "/scriptures/bhagavad-gita/"
+        },
+        {
+          "id": "rama-gita",
+          "title_en": "Rama Gita",
+          "title_hi": "राम गीता",
+          "chapters": 2,
+          "verses": 62,
+          "deity": "ram",
+          "status": "active",
+          "slug": "/scriptures/rama-gita/"
+        },
+        {
+          "id": "shiva-gita",
+          "title_en": "Shiva Gita",
+          "title_hi": "शिव गीता",
+          "chapters": 16,
+          "verses": 750,
+          "deity": "shiva",
+          "status": "active",
+          "slug": "/scriptures/shiva-gita/"
+        },
+        {
+          "id": "ashtavakra-gita",
+          "title_en": "Ashtavakra Gita",
+          "title_hi": "अष्टावक्र गीता",
+          "chapters": 20,
+          "verses": 298,
+          "deity": "universal",
+          "status": "coming_soon"
+        },
+        {
+          "id": "avadhuta-gita",
+          "title_en": "Avadhuta Gita",
+          "title_hi": "अवधूत गीता",
+          "chapters": 8,
+          "verses": 271,
+          "deity": "shiva",
+          "status": "coming_soon"
+        },
+        {
+          "id": "uddhava-gita",
+          "title_en": "Uddhava Gita",
+          "title_hi": "उद्धव गीता",
+          "chapters": 24,
+          "verses": 1030,
+          "deity": "krishna",
+          "status": "coming_soon"
+        },
+        {
+          "id": "devi-gita",
+          "title_en": "Devi Gita",
+          "title_hi": "देवी गीता",
+          "chapters": 10,
+          "verses": 507,
+          "deity": "durga",
+          "status": "coming_soon"
+        },
+        {
+          "id": "ganesha-gita",
+          "title_en": "Ganesha Gita",
+          "title_hi": "गणेश गीता",
+          "chapters": 11,
+          "verses": 414,
+          "deity": "ganesha",
+          "status": "coming_soon"
+        }
+      ]
+    },
+    {
+      "id": "puranas",
+      "title_en": "Puranas",
+      "title_hi": "पुराण",
+      "icon": "ancient-scroll",
+      "color": "#8B4513",
+      "description_en": "Ancient narratives of gods, creation, and cosmic history",
+      "description_hi": "देवताओं, सृष्टि और ब्रह्मांडीय इतिहास की प्राचीन कथाएँ",
+      "items": [
+        {
+          "id": "shiva-purana",
+          "title_en": "Shiva Purana",
+          "title_hi": "शिव पुराण",
+          "variant": "7 Samhitas",
+          "deity": "shiva",
+          "status": "coming_soon"
+        },
+        {
+          "id": "bhagavata-purana",
+          "title_en": "Bhagavata Purana",
+          "title_hi": "भागवत पुराण",
+          "variant": "12 Skandhas · 18,000 Verses",
+          "deity": "krishna",
+          "status": "coming_soon"
+        },
+        {
+          "id": "vishnu-purana",
+          "title_en": "Vishnu Purana",
+          "title_hi": "विष्णु पुराण",
+          "variant": "6 Amsas",
+          "deity": "vishnu",
+          "status": "coming_soon"
+        },
+        {
+          "id": "devi-bhagavatam",
+          "title_en": "Devi Bhagavatam",
+          "title_hi": "देवी भागवतम्",
+          "variant": "12 Skandhas",
+          "deity": "durga",
+          "status": "coming_soon"
+        },
+        {
+          "id": "skanda-purana",
+          "title_en": "Skanda Purana",
+          "title_hi": "स्कंद पुराण",
+          "variant": "Largest Purana",
+          "deity": "kartikeya",
+          "status": "coming_soon"
+        },
+        {
+          "id": "markandeya-purana",
+          "title_en": "Markandeya Purana",
+          "title_hi": "मार्कण्डेय पुराण",
+          "variant": "Contains Durga Saptashati",
+          "deity": "durga",
+          "status": "coming_soon"
+        },
+        {
+          "id": "garuda-purana",
+          "title_en": "Garuda Purana",
+          "title_hi": "गरुड पुराण",
+          "variant": "Afterlife & Dharma",
+          "deity": "vishnu",
+          "status": "coming_soon"
+        },
+        {
+          "id": "padma-purana",
+          "title_en": "Padma Purana",
+          "title_hi": "पद्म पुराण",
+          "variant": "5 Khandas",
+          "deity": "vishnu",
+          "status": "coming_soon"
+        }
+      ]
+    },
+    {
+      "id": "upanishads",
+      "title_en": "Upanishads",
+      "title_hi": "उपनिषद",
+      "icon": "flame-of-knowledge",
+      "color": "#DAA520",
+      "description_en": "The philosophical essence of the Vedas — the end of knowledge",
+      "description_hi": "वेदों का दार्शनिक सार — ज्ञान की परिणति",
+      "items": [
+        {
+          "id": "isha-upanishad",
+          "title_en": "Isha Upanishad",
+          "title_hi": "ईश उपनिषद",
+          "variant": "18 Mantras",
+          "veda": "Shukla Yajurveda",
+          "status": "coming_soon"
+        },
+        {
+          "id": "kena-upanishad",
+          "title_en": "Kena Upanishad",
+          "title_hi": "केन उपनिषद",
+          "variant": "4 Khandas",
+          "veda": "Sama Veda",
+          "status": "coming_soon"
+        },
+        {
+          "id": "katha-upanishad",
+          "title_en": "Katha Upanishad",
+          "title_hi": "कठ उपनिषद",
+          "variant": "2 Adhyayas",
+          "veda": "Krishna Yajurveda",
+          "status": "coming_soon"
+        },
+        {
+          "id": "mundaka-upanishad",
+          "title_en": "Mundaka Upanishad",
+          "title_hi": "मुण्डक उपनिषद",
+          "variant": "3 Mundakas",
+          "veda": "Atharva Veda",
+          "status": "coming_soon"
+        },
+        {
+          "id": "mandukya-upanishad",
+          "title_en": "Mandukya Upanishad",
+          "title_hi": "माण्डूक्य उपनिषद",
+          "variant": "12 Mantras",
+          "veda": "Atharva Veda",
+          "status": "coming_soon"
+        },
+        {
+          "id": "taittiriya-upanishad",
+          "title_en": "Taittiriya Upanishad",
+          "title_hi": "तैत्तिरीय उपनिषद",
+          "variant": "3 Vallis",
+          "veda": "Krishna Yajurveda",
+          "status": "coming_soon"
+        },
+        {
+          "id": "aitareya-upanishad",
+          "title_en": "Aitareya Upanishad",
+          "title_hi": "ऐतरेय उपनिषद",
+          "variant": "3 Adhyayas",
+          "veda": "Rigveda",
+          "status": "coming_soon"
+        },
+        {
+          "id": "chandogya-upanishad",
+          "title_en": "Chandogya Upanishad",
+          "title_hi": "छान्दोग्य उपनिषद",
+          "variant": "8 Prapathakas",
+          "veda": "Sama Veda",
+          "status": "coming_soon"
+        },
+        {
+          "id": "brihadaranyaka-upanishad",
+          "title_en": "Brihadaranyaka Upanishad",
+          "title_hi": "बृहदारण्यक उपनिषद",
+          "variant": "6 Adhyayas",
+          "veda": "Shukla Yajurveda",
+          "status": "coming_soon"
+        },
+        {
+          "id": "svetasvatara-upanishad",
+          "title_en": "Svetasvatara Upanishad",
+          "title_hi": "श्वेताश्वतर उपनिषद",
+          "variant": "6 Adhyayas",
+          "veda": "Krishna Yajurveda",
+          "status": "coming_soon"
+        }
+      ]
+    },
+    {
+      "id": "vedas",
+      "title_en": "Vedas",
+      "title_hi": "वेद",
+      "icon": "sacred-fire",
+      "color": "#DC143C",
+      "description_en": "The foundational revealed wisdom — Shruti, heard by the ancient Rishis",
+      "description_hi": "मूलभूत प्रकट ज्ञान — श्रुति, प्राचीन ऋषियों द्वारा सुनी गई",
+      "items": [
+        {
+          "id": "rigveda-selections",
+          "title_en": "Rigveda Selections",
+          "title_hi": "ऋग्वेद",
+          "variant": "Selected Suktas · 10 Mandalas",
+          "status": "coming_soon"
+        },
+        {
+          "id": "yajurveda-selections",
+          "title_en": "Yajurveda Selections",
+          "title_hi": "यजुर्वेद",
+          "variant": "Selected Mantras · Shukla & Krishna",
+          "status": "coming_soon"
+        },
+        {
+          "id": "samaveda-selections",
+          "title_en": "Sama Veda Selections",
+          "title_hi": "सामवेद",
+          "variant": "Musical Chants · 1875 Verses",
+          "status": "coming_soon"
+        },
+        {
+          "id": "atharvaveda-selections",
+          "title_en": "Atharva Veda Selections",
+          "title_hi": "अथर्ववेद",
+          "variant": "Selected Hymns · 20 Kandas",
+          "status": "coming_soon"
+        }
+      ]
+    }
+  ]
+}

@@ -185,6 +185,7 @@ const MANTRAS_DATA = [
   { id: 12, name: 'Mahalakshmy Ashtakam',      hindi: 'महालक्ष्म्यष्टकम्',      type: 'Ashtakams', deity: 'Lakshmi', duration: '~5 min',  desc: 'Prayer to Goddess Mahalakshmi',                               link: '/mantras/mahalakshmy-ashtakam',    deityIcon: 'https://picsum.photos/seed/lakshmi-icon/100/100' },
   { id: 13, name: 'Sri Suktam',                hindi: 'श्री सूक्तम्',           type: 'Suktams',   deity: 'Lakshmi', duration: '~10 min', desc: 'Vedic hymn invoking Goddess Lakshmi',                         link: '/mantras/sri-suktam',              deityIcon: 'https://picsum.photos/seed/lakshmi-icon/100/100' },
   { id: 14, name: 'Lalitha Sahasranamam',      hindi: 'ललिता सहस्रनाम',         type: 'Stotrams',  deity: 'Durga',   duration: '~35 min', desc: '1000 names of the Divine Mother',                             link: '/mantras/lalitha-sahasranamam',    deityIcon: 'https://picsum.photos/seed/durga-icon/100/100' },
+  { id: 15, name: '108 Names of Shiva',        hindi: 'शिव के 108 नाम',          type: '108 Names', deity: 'Shiva',   duration: '~25 min', desc: 'All 108 sacred names with meaning, story & modern context',   link: '/mantras/108-names-of-shiva',      deityIcon: 'https://picsum.photos/seed/shiva-icon/100/100' },
 ];
 
 /* ─── Schema.org FAQPage JSON-LD ────────────────────────────────── */
@@ -619,10 +620,28 @@ function JapMantraSection({ show }: { show: boolean }) {
   );
 }
 
+/* ─── Shared entry type (used by both MANTRAS_DATA and serverMantras) ─── */
+type MantraEntry = {
+  id: number;
+  name: string;
+  hindi: string;
+  type: string;
+  deity: string;
+  duration: string;
+  desc: string;
+  link: string;
+  deityIcon: string;
+};
+
 /* ─── Main component ─────────────────────────────────────────────── */
 const KNOWLEDGE_SECTION_ID = 'sacred-text-guide';
 
-export default function Mantras() {
+interface MantrasProps {
+  /** Injected by server component from JSON files. Falls back to MANTRAS_DATA if not provided. */
+  serverMantras?: MantraEntry[];
+}
+
+export default function Mantras({ serverMantras }: MantrasProps = {}) {
   const [activeCategory, setActiveCategory] = useState('All');
   const [activeDeity, setActiveDeity] = useState('All');
   const [searchQuery, setSearchQuery] = useState('');
@@ -652,18 +671,23 @@ export default function Mantras() {
 
   const activeCardInfo = TYPE_INFO.find(t => t.key === openCardKey);
 
-  const filteredMantras = MANTRAS_DATA.filter((m) => {
+  // Use server-injected data if available, otherwise fall back to hardcoded list
+  const allData: MantraEntry[] = serverMantras && serverMantras.length > 0 ? serverMantras : MANTRAS_DATA;
+
+  const filteredMantras = allData.filter((m) => {
     const categoryMatch = activeCategory === 'All' || m.type === activeCategory;
     const deityMatch    = activeDeity === 'All'    || m.deity === activeDeity;
     const searchMatch   = m.name.toLowerCase().includes(searchQuery.toLowerCase()) || m.hindi.includes(searchQuery);
     return categoryMatch && deityMatch && searchMatch;
   });
 
-  const renderMantraCard = (mantra: typeof MANTRAS_DATA[0], idx: number = 0) => (
+  const renderMantraCard = (mantra: typeof MANTRAS_DATA[0], idx: number = 0, animate = false) => (
     <Link
       key={mantra.id}
       href={mantra.link}
-      className={`scroll-verse scroll-delay-${(idx % 6) + 1} interactive-card
+      className={`${
+        animate ? `scroll-verse scroll-delay-${(idx % 6) + 1} ` : ''
+      }interactive-card
                   bg-white dark:bg-[#1C0A42] p-5 rounded-2xl
                   border border-gray-200 dark:border-[rgba(200,150,46,0.15)]
                   shadow-sm group flex items-center justify-between`}
@@ -673,11 +697,12 @@ export default function Mantras() {
           <img src={mantra.deityIcon} alt={mantra.deity} className="w-full h-full object-cover" referrerPolicy="no-referrer" />
         </div>
         <div>
-          <h3 className="text-lg font-serif text-[var(--color-brand-purple)] dark:text-[#E0CFFF]
-                         group-hover:text-[var(--color-brand-gold-dark)] transition-colors mb-1">
-            {mantra.name}{' '}
-            <span className="hindi-text text-sm ml-1 text-gray-500 dark:text-[#9E88CC]">{mantra.hindi}</span>
+          <h3
+            className="text-base font-semibold leading-tight mb-0.5 text-[#1B0A3C] dark:text-white group-hover:text-[#C8962E] transition-colors"
+          >
+            {mantra.name}
           </h3>
+          <p className="hindi-text text-sm text-[#C8962E] mb-1">{mantra.hindi}</p>
           <div className="flex items-center gap-2 text-xs mb-1">
             <span className="bg-[var(--color-brand-gold)]/20 text-[var(--color-brand-gold-dark)] px-2 py-0.5 rounded-full font-medium">
               {mantra.type.replace(/s$/, '')}
@@ -829,7 +854,7 @@ export default function Mantras() {
 
         <div className="mb-12">
           <div className="mb-6 text-gray-500 dark:text-[#9E88CC] font-medium">
-            Showing {filteredMantras.length} of 120+ sacred texts
+            Showing {filteredMantras.length} of {allData.length}+ sacred texts
           </div>
 
           {activeDeity === 'All' && activeCategory === 'All' && !searchQuery ? (
@@ -838,8 +863,12 @@ export default function Mantras() {
                 { label: 'शिव Shiva',                deities: ['Shiva'] },
                 { label: 'कृष्ण/विष्णु Krishna & Vishnu', deities: ['Krishna', 'Vishnu'] },
                 { label: 'दुर्गा/देवी Durga & Devi',  deities: ['Durga', 'Lakshmi'] },
+                { label: 'गणेश Ganesha',              deities: ['Ganesh', 'Ganesha'] },
+                { label: 'हनुमान Hanuman',             deities: ['Hanuman'] },
+                { label: 'राम Ram',                   deities: ['Ram', 'Rama', 'Ram'] },
+                { label: 'अन्य Other',                deities: ['Saraswati', 'Kali', 'Universal', 'Surya', 'Shani', 'Santoshi', 'Subramanya', 'Kartikeya'] },
               ].map(({ label, deities }) => {
-                const items = filteredMantras.filter((m) => deities.includes(m.deity));
+                const items = filteredMantras.filter((m) => deities.some(d => m.deity.toLowerCase() === d.toLowerCase()));
                 if (!items.length) return null;
                 return (
                   <div key={label} className="mb-10">
@@ -848,7 +877,7 @@ export default function Mantras() {
                       {label}
                     </h2>
                     <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-                      {items.map((m, i) => renderMantraCard(m, i))}
+                      {items.map((m, i) => renderMantraCard(m, i, true))}
                     </div>
                   </div>
                 );
@@ -856,7 +885,7 @@ export default function Mantras() {
             </>
           ) : (
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-              {filteredMantras.map((m, i) => renderMantraCard(m, i))}
+              {filteredMantras.map((m, i) => renderMantraCard(m, i, false))}
               {filteredMantras.length === 0 && (
                 <div className="col-span-full text-center py-12 text-gray-500 bg-gray-50 dark:bg-[#1C0A42] rounded-2xl border border-gray-200 dark:border-[rgba(200,150,46,0.15)]">
                   No matching sacred texts found. Try adjusting your filters.

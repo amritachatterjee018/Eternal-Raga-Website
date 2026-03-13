@@ -110,9 +110,7 @@ export default function DeityTabBar() {
   const mouseX  = useRef<number>(0.5);
 
   /* ── Dark mode detection (reactive) ─────────────────────── */
-  const [isDark, setIsDark] = useState<boolean>(
-    () => document.documentElement.classList.contains('dark')
-  );
+  const [isDark, setIsDark] = useState<boolean>(false);
   useEffect(() => {
     const obs = new MutationObserver(() =>
       setIsDark(document.documentElement.classList.contains('dark'))

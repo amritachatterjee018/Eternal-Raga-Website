@@ -2,7 +2,8 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react';
 import Link from 'next/link';
 import { usePathname, useRouter } from 'next/navigation';
-import { Search, Menu, X, Facebook, Instagram, Youtube, Music2, Apple, User, ChevronDown, Sun, Moon } from 'lucide-react';
+import { Search, Menu, X, Music2, Apple, User, ChevronDown, Sun, Moon } from 'lucide-react';
+import SocialBar from './SocialBar';
 
 /* ── SVG Tab Icons ─────────────────────────────────────────────────── */
 const HomeIcon = () => (
@@ -505,6 +506,9 @@ export default function Layout() {
           </div>
         </div>
 
+        {/* Social Bar — between newsletter and footer links */}
+        <SocialBar />
+
         {/* Layer 2: Main Footer Content */}
         <div className="scroll-footer-layer w-full bg-[#1B0A3C] pt-[80px] pb-[80px] px-4 sm:px-6 lg:px-8">
           <div className="max-w-[1200px] mx-auto">
@@ -527,24 +531,8 @@ export default function Layout() {
                 <p className="text-xs text-[#FFFDF0] mb-8">
                   A <a href="#" className="text-[var(--color-brand-gold)] underline hover:text-yellow-400 transition-colors">Creative Chronix</a> Product
                 </p>
-                {/* Social Icons — prominent */}
-                <p className="text-xs font-bold tracking-widest uppercase text-[#C8962E] mb-3">
-                  Follow Us · हमें फॉलो करें
-                </p>
-                <div className="flex flex-row gap-4">
-                  {[
-                    { icon: <Youtube size={24} />, label: 'YouTube' },
-                    { icon: <Instagram size={24} />, label: 'Instagram' },
-                    { icon: <Facebook size={24} />, label: 'Facebook' },
-                    { icon: <Music2 size={24} />, label: 'Spotify' },
-                    { icon: <Apple size={24} />, label: 'Apple Music' },
-                  ].map(({ icon, label }) => (
-                    <a key={label} href="#" aria-label={label} className="footer-social-icon">
-                      {icon}
-                    </a>
-                  ))}
-                </div>
               </div>
+
 
               {/* Column 2: Quick Links */}
               <div className="lg:col-span-2">
@@ -613,23 +601,8 @@ export default function Layout() {
                 <p className="text-xs text-[#FFFDF0] mb-8">
                   A <a href="#" className="text-[var(--color-brand-gold)] underline hover:text-yellow-400 transition-colors">Creative Chronix</a> Product
                 </p>
-                <p className="text-xs font-bold tracking-widest uppercase text-[#C8962E] mb-3">
-                  Follow Us · हमें फॉलो करें
-                </p>
-                <div className="flex flex-row gap-4 justify-center flex-wrap">
-                  {[
-                    { icon: <Youtube size={24} />, label: 'YouTube' },
-                    { icon: <Instagram size={24} />, label: 'Instagram' },
-                    { icon: <Facebook size={24} />, label: 'Facebook' },
-                    { icon: <Music2 size={24} />, label: 'Spotify' },
-                    { icon: <Apple size={24} />, label: 'Apple Music' },
-                  ].map(({ icon, label }) => (
-                    <a key={label} href="#" aria-label={label} className="footer-social-icon">
-                      {icon}
-                    </a>
-                  ))}
-                </div>
               </div>
+
 
               {/* Accordion sections */}
               {([
@@ -686,7 +659,7 @@ export default function Layout() {
         {/* Layer 3: Bottom Bar — animated ETERNAL RAGA only */}
         <div className="w-full bg-[#120828] py-[80px] relative overflow-hidden flex items-center justify-center" style={{ minHeight: '160px' }}>
           <div className="pointer-events-none select-none overflow-hidden w-full flex items-center justify-center">
-            <span className="text-[84px] md:text-[140px] lg:text-[182px] font-serif font-bold whitespace-nowrap footer-shimmer-text tracking-widest">
+            <span className="font-serif font-bold whitespace-nowrap footer-shimmer-text tracking-widest">
               ETERNAL RAGA
             </span>
           </div>
