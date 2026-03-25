@@ -458,7 +458,7 @@ function ThemeHeroCard({
         <span style={{
           display: 'block',
           fontSize: 10, fontWeight: 700, letterSpacing: '2px',
-          textTransform: 'uppercase', color: theme.color, marginBottom: 6,
+          textTransform: 'uppercase', color: '#C8962E', marginBottom: 6,
         }}>
           Theme {theme.theme_number} of 9
         </span>
@@ -472,14 +472,14 @@ function ThemeHeroCard({
         </h3>
         <span
           className="hindi-text"
-          style={{ display: 'block', fontSize: 'clamp(0.9rem, 1.4vw, 1.1rem)', color: theme.color, fontFamily: 'Georgia, serif', marginBottom: 4 }}
+          style={{ display: 'block', fontSize: 'clamp(0.9rem, 1.4vw, 1.1rem)', color: '#C8962E', fontFamily: 'Georgia, serif', marginBottom: 4 }}
         >
           {theme.theme_hi}
         </span>
         <p style={{ fontSize: 11, fontStyle: 'italic', color: 'rgba(255,255,255,0.72)', margin: 0 }}>
           {theme.mood}
         </p>
-        <span className="thc-explore">Explore 12 Names ▼</span>
+        <span className="thc-explore" style={{ color: '#C8962E' }}>Explore 12 Names ▼</span>
       </div>
     </div>
   );
@@ -736,7 +736,7 @@ function NameCard({
 
         {/* Significance */}
         <div className="hidden sm:block flex-shrink-0 max-w-xs">
-          <p className="text-xs dark:text-[#9E88CC] text-gray-500 line-clamp-1 text-right">{name.significance}</p>
+          <p className="text-xs font-medium line-clamp-1 text-right" style={{ color: isDark ? '#9E88CC' : '#C8962E' }}>{name.significance}</p>
         </div>
         <div className="flex-shrink-0 ml-2" style={{ color: themeColor }}>
           {expanded ? <ChevronUp size={18} /> : <ChevronDown size={18} />}
@@ -757,26 +757,26 @@ function NameCard({
 
           {/* Etymology */}
           <div className="mb-5">
-            <h4 className="text-xs uppercase tracking-widest font-semibold dark:text-[#9E88CC] text-gray-400 mb-1">
+            <h4 className="text-xs uppercase tracking-widest font-semibold mb-1" style={{ color: isDark ? '#9E88CC' : '#C8962E' }}>
               Etymology · व्युत्पत्ति
             </h4>
-            <p className="text-sm dark:text-[#BCA8E8] text-gray-600 leading-relaxed">{name.etymology}</p>
+            <p className="text-sm leading-relaxed" style={{ color: isDark ? '#BCA8E8' : '#F3E4FF' }}>{name.etymology}</p>
           </div>
 
           {/* Two-column: Meaning + Modern Context */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-5">
             <div>
-              <h4 className="text-xs uppercase tracking-widest font-semibold dark:text-[#9E88CC] text-gray-400 mb-2">
+              <h4 className="text-xs uppercase tracking-widest font-semibold mb-2" style={{ color: isDark ? '#9E88CC' : '#C8962E' }}>
                 {isHi ? 'अर्थ' : 'Meaning'}
               </h4>
-              <p className="text-sm dark:text-[#BCA8E8] text-gray-700 leading-relaxed">
+              <p className="text-sm leading-relaxed" style={{ color: isDark ? '#BCA8E8' : '#F3E4FF' }}>
                 {isHi ? name.meaning_hi : name.meaning_en}
               </p>
 
-              <h4 className="text-xs uppercase tracking-widest font-semibold dark:text-[#9E88CC] text-gray-400 mt-4 mb-2">
-                {isHi ? 'कथा' : 'Story'} · <span className="text-[10px] font-normal normal-case italic dark:text-[#9E88CC] text-gray-400">From tradition</span>
+              <h4 className="text-xs uppercase tracking-widest font-semibold mt-4 mb-2" style={{ color: isDark ? '#9E88CC' : '#C8962E' }}>
+                {isHi ? 'कथा' : 'Story'} · <span className="text-[10px] font-normal normal-case italic" style={{ color: isDark ? '#9E88CC' : '#E0CFFF' }}>From tradition</span>
               </h4>
-              <p className="text-sm dark:text-[#BCA8E8] text-gray-700 leading-relaxed">
+              <p className="text-sm leading-relaxed" style={{ color: isDark ? '#BCA8E8' : '#F3E4FF' }}>
                 {isHi ? name.story_hi : name.story_en}
               </p>
             </div>
@@ -790,11 +790,11 @@ function NameCard({
                 borderLeft: `3px solid ${themeColor}`,
               }}
             >
-              <h4 className="text-xs uppercase tracking-widest font-semibold mb-2" style={{ color: themeColor }}>
+              <h4 className="text-xs uppercase tracking-widest font-semibold mb-2" style={{ color: isDark ? '#C8962E' : '#1B0A3C' }}>
                 {isHi ? 'आज के समय में' : 'Modern Context'}
-                {' '}· <span className="text-[10px] font-normal normal-case italic" style={{ color: hex2rgba(themeColor, 0.7) }}>For your life right now</span>
+                {' '}· <span className="text-[10px] font-normal normal-case italic" style={{ color: isDark ? hex2rgba('#C8962E', 0.8) : '#493582' }}>For your life right now</span>
               </h4>
-              <p className="text-sm dark:text-[#E0CFFF] text-gray-800 leading-relaxed">
+              <p className="text-sm leading-relaxed" style={{ color: isDark ? '#E0CFFF' : '#1B0A3C', fontWeight: 500 }}>
                 {isHi ? name.modern_context_hi : name.modern_context_en}
               </p>
             </div>
@@ -804,18 +804,18 @@ function NameCard({
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-5">
             <SpinBorder themeColor={themeColor}>
               <div data-practice className="rounded-xl p-4" style={{ background: practiceBg, border: `1px solid ${practiceBdr}` }}>
-                <h4 className="text-xs uppercase tracking-widest font-semibold dark:text-[#C8962E] text-[#1B0A3C] mb-2">
+                <h4 className="text-xs uppercase tracking-widest font-semibold mb-2" style={{ color: isDark ? '#C8962E' : '#1B0A3C' }}>
                   Meditation · ध्यान
                 </h4>
-                <p className="text-xs dark:text-[#BCA8E8] text-gray-600 leading-relaxed">{name.meditation}</p>
+                <p className="text-xs leading-relaxed" style={{ color: isDark ? '#BCA8E8' : '#1B0A3C', fontWeight: 500 }}>{name.meditation}</p>
               </div>
             </SpinBorder>
             <SpinBorder themeColor={themeColor}>
               <div data-practice className="rounded-xl p-4" style={{ background: practiceBg, border: `1px solid ${practiceBdr}` }}>
-                <h4 className="text-xs uppercase tracking-widest font-semibold dark:text-[#C8962E] text-[#1B0A3C] mb-2">
+                <h4 className="text-xs uppercase tracking-widest font-semibold mb-2" style={{ color: isDark ? '#C8962E' : '#1B0A3C' }}>
                   Mantra Practice · मंत्र जप
                 </h4>
-                <p className="text-xs dark:text-[#BCA8E8] text-gray-600 leading-relaxed">{name.mantra_practice}</p>
+                <p className="text-xs leading-relaxed" style={{ color: isDark ? '#BCA8E8' : '#1B0A3C', fontWeight: 500 }}>{name.mantra_practice}</p>
               </div>
             </SpinBorder>
           </div>
@@ -826,10 +826,10 @@ function NameCard({
             className="rounded-xl px-5 py-4 mb-5 italic"
             style={{ background: journalBg, borderLeft: `3px solid ${themeColor}` }}
           >
-            <p className="text-xs uppercase tracking-widest font-semibold mb-1 not-italic" style={{ color: themeColor }}>
+            <p className="text-xs uppercase tracking-widest font-semibold mb-1 not-italic" style={{ color: isDark ? '#C8962E' : '#1B0A3C' }}>
               Journal Prompt · चिंतन
             </p>
-            <p className="text-sm dark:text-[#E0CFFF] text-gray-700">
+            <p className="text-sm" style={{ color: isDark ? '#E0CFFF' : '#1B0A3C', fontWeight: 500 }}>
               &ldquo;{isHi ? name.journal_prompt_hi : name.journal_prompt_en}&rdquo;
             </p>
           </div>
@@ -838,7 +838,7 @@ function NameCard({
           <div className="text-center py-4">
             <pre
               className="font-serif text-sm leading-loose whitespace-pre-wrap inline-block text-left"
-              style={{ fontFamily: 'Georgia, serif', color: isDark ? '#E0CFFF' : '#1B0A3C' }}
+              style={{ fontFamily: 'Georgia, serif', color: isDark ? '#E0CFFF' : '#F3E4FF' }}
             >
               {isHi ? name.verse_hi : name.verse_en}
             </pre>
@@ -903,23 +903,23 @@ function ThemeSection({
         {/* Theme Header */}
         <div className="mb-6">
           <div
-            className="inline-block text-xs font-semibold uppercase tracking-widest px-3 py-1 rounded-full mb-3"
-            style={{ background: hex2rgba(theme.color, 0.18), color: theme.color }}
+            className="inline-block text-xs font-semibold uppercase tracking-widest px-3 py-1 rounded-full mb-3 shadow-sm"
+            style={{ background: isDark ? hex2rgba(theme.color, 0.25) : hex2rgba(theme.color, 0.15), color: '#FFFFFF' }}
           >
             Theme {theme.theme_number} of 9
           </div>
           <h2
-            className="text-3xl md:text-4xl font-serif mb-2 dark:text-white text-[#1B0A3C]"
-            style={{ fontFamily: 'Georgia, serif' }}
+            className="text-3xl md:text-4xl font-serif mb-2"
+            style={{ fontFamily: 'Georgia, serif', color: '#FFFFFF' }}
           >
             {theme.theme_en}
-            <span className="mx-3 dark:text-white/30 text-gray-300">·</span>
-            <span className="hindi-text" style={{ color: theme.color }}>
+            <span className="mx-3" style={{ color: isDark ? 'rgba(255,255,255,0.3)' : 'rgba(255,255,255,0.5)' }}>·</span>
+            <span className="hindi-text" style={{ color: '#C8962E' }}>
               {theme.theme_hi}
             </span>
           </h2>
-          <p className="text-sm italic dark:text-[#9E88CC] text-gray-400 mb-4">{theme.mood}</p>
-          <p className="text-base dark:text-[#BCA8E8] text-gray-700 leading-relaxed max-w-3xl">
+          <p className="text-sm italic mb-4" style={{ color: '#C8962E', fontWeight: 500 }}>{theme.mood}</p>
+          <p className="text-base leading-relaxed max-w-3xl" style={{ color: isDark ? '#BCA8E8' : '#F3E4FF' }}>
             {isHi ? theme.theme_description_hi : theme.theme_description_en}
           </p>
         </div>

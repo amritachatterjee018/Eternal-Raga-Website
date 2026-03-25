@@ -2,6 +2,7 @@
 import React, { useState, useRef, useEffect, useCallback } from 'react';
 import Link from 'next/link';
 import { Play, Search, ChevronDown, X } from 'lucide-react';
+import { useRouter } from 'next/navigation';
 
 /* ─── Type definitions ─────────────────────────────────────────── */
 interface TypeInfo {
@@ -10,6 +11,7 @@ interface TypeInfo {
   hindi: string;
   definition: string;
   example: string;
+  href?: string;         // if set, pill navigates instead of filtering
 }
 
 /* ─── Category metadata (for filter pill info cards) ────────────── */
@@ -84,6 +86,13 @@ const TYPE_INFO: TypeInfo[] = [
     definition: 'A collection of 108 sacred names of a deity, each revealing a different quality or divine form.',
     example: '108 Names of Shiva, 108 Names of Vishnu',
   },
+  {
+    key: 'Sahasranamas',
+    label: 'Sahasranama',
+    hindi: 'सहस्रनाम',
+    definition: 'A thousand sacred names of a deity — the most complete and meditative form of praise in the Hindu tradition.',
+    example: 'Vishnu Sahasranama, Lalita Sahasranama',
+  },
 ];
 
 /* ─── SEO knowledge definitions (Part 2) ────────────────────────── */
@@ -151,6 +160,13 @@ const KNOWLEDGE_DEFS = [
     body: 'A collection of 108 sacred names of a deity, each revealing a different quality or form. Chanting all 108 names equals offering 108 prayers — often used during special pujas and festivals.',
     example: '108 Names of Shiva, 108 Names of Vishnu',
   },
+  {
+    key: 'sahasranama',
+    label: 'Sahasranama',
+    hindi: 'सहस्रनाम',
+    body: 'A sacred hymn of 1000 divine names, each revealing a unique attribute or cosmic truth. Reciting a Sahasranama equals performing a complete yagya — the most powerful nama-japa in Hindu tradition.',
+    example: 'Vishnu Sahasranama, Lalita Sahasranama',
+  },
 ];
 
 /* ─── Mantra data ──────────────────────────────────────────────── */
@@ -188,6 +204,51 @@ const MANTRAS_DATA = [
   { id: 15, name: '108 Names of Shiva',        hindi: 'शिव के 108 नाम',          type: '108 Names', deity: 'Shiva',   duration: '~25 min', desc: 'All 108 sacred names with meaning, story & modern context',   link: '/mantras/108-names-of-shiva',      deityIcon: 'https://picsum.photos/seed/shiva-icon/100/100' },
 ];
 
+/* ─── Sahasranama teaser data (keep in sync with sahasranamas/page.tsx) ── */
+const SAHASRANAMAS_TEASER = [
+  {
+    id: 'vishnu-sahasranama',
+    title_en: 'Vishnu Sahasranama',
+    title_hi: 'विष्णु सहस्रनाम',
+    source: 'From Mahabharata · Anushasana Parva',
+    verses: 1000,
+    accentColor: '#7B8EC2',
+    status: 'active' as const,
+    slug: '/mantras/sahasranamas/vishnu-sahasranama',
+    deity: 'Vishnu',
+  },
+  {
+    id: 'lalita-sahasranama',
+    title_en: 'Lalita Sahasranama',
+    title_hi: 'ललिता सहस्रनाम',
+    source: 'From Brahmanda Purana',
+    verses: 1000,
+    accentColor: '#E06060',
+    status: 'coming_soon' as const,
+    deity: 'Durga',
+  },
+  {
+    id: 'shiva-sahasranama',
+    title_en: 'Shiva Sahasranama',
+    title_hi: 'शिव सहस्रनाम',
+    source: 'From Anushasana Parva',
+    verses: 1000,
+    accentColor: '#5BA3CF',
+    status: 'coming_soon' as const,
+    deity: 'Shiva',
+  },
+  {
+    id: 'ganesha-sahasranama',
+    title_en: 'Ganesha Sahasranama',
+    title_hi: 'गणेश सहस्रनाम',
+    source: 'From Ganesha Purana',
+    verses: 1000,
+    accentColor: '#FF7043',
+    status: 'coming_soon' as const,
+    deity: 'Ganesha',
+  },
+];
+
 /* ─── Schema.org FAQPage JSON-LD ────────────────────────────────── */
 const FAQ_SCHEMA = {
   '@context': 'https://schema.org',
@@ -208,9 +269,10 @@ interface PillProps {
   isActive: boolean;
   onSelect: () => void;
   onOpenCard: () => void;
+  router: ReturnType<typeof useRouter>;
 }
 
-function FilterPill({ info, isActive, onSelect, onOpenCard }: PillProps) {
+function FilterPill({ info, isActive, onSelect, onOpenCard, router }: PillProps) {
   const [hoverTip, setHoverTip] = useState(false);
   const hoverTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
 
@@ -232,12 +294,20 @@ function FilterPill({ info, isActive, onSelect, onOpenCard }: PillProps) {
       onMouseLeave={handleMouseLeave}
     >
       <button
-        onClick={() => { onSelect(); onOpenCard(); }}
+        onClick={() => {
+          if (info.href) { router.push(info.href); return; }
+          onSelect(); onOpenCard();
+        }}
         className={`filter-pill transition-all duration-200 ${
-          isActive ? 'filter-pill-active' : 'filter-pill-inactive'
+          info.href
+            ? 'filter-pill-inactive' // nav-type pills never stay active
+            : isActive ? 'filter-pill-active' : 'filter-pill-inactive'
         }`}
+        style={info.href ? { borderColor: 'rgba(200,150,46,0.5)', color: '#C8962E', fontWeight: 600 } : undefined}
       >
+        {info.href && <span style={{ fontSize: '0.75em', marginRight: 4 }}>ॐ</span>}
         {info.key === 'All' ? 'All' : info.label}
+        {info.href && <span style={{ fontSize: '0.65em', marginLeft: 4, opacity: 0.7 }}>↗</span>}
       </button>
 
       {/* Hover tooltip — shows ABOVE the pill so it's never clipped downward */}
@@ -303,7 +373,7 @@ function hex2rgba(hex: string, alpha: number) {
   return `rgba(${r},${g},${b},${alpha})`;
 }
 
-function BeejMantraSection({ show }: { show: boolean }) {
+function BeejMantraSection({ show, activeDeity }: { show: boolean; activeDeity: string }) {
   const scrollRef = useRef<HTMLDivElement>(null);
   const autoRef   = useRef<ReturnType<typeof setInterval> | null>(null);
   const hoverDir  = useRef<-1 | 0 | 1>(0);   // -1 left, 0 none, 1 right
@@ -460,7 +530,7 @@ function BeejMantraSection({ show }: { show: boolean }) {
           onScroll={syncArrows}
           className="flex gap-5 overflow-x-auto pb-6 hide-scrollbar"
         >
-          {BEEJ_MANTRAS.map((bm) => (
+          {BEEJ_MANTRAS.filter(bm => activeDeity === 'All' || bm.deity.toLowerCase().includes(activeDeity.toLowerCase())).map((bm) => (
             <a
               key={bm.iast}
               href={`/mantras/${bm.slug}`}
@@ -545,8 +615,9 @@ const JAP_MANTRAS = [
   { name: 'Om Kali Ma',                   hindi: 'ॐ काली मा',               deity: 'Kali · काली',             circleSymbol: 'कां', firstLine: 'ॐ काली मा...',                      color: '#4B0082', duration: '~8 min',  slug: 'om-kali-ma' },
 ];
 
-function JapMantraSection({ show }: { show: boolean }) {
-  if (!show) return null;
+function JapMantraSection({ show, activeDeity }: { show: boolean; activeDeity: string }) {
+  const visibleJapMantras = JAP_MANTRAS.filter(jm => activeDeity === 'All' || jm.deity.toLowerCase().includes(activeDeity.toLowerCase()));
+  if (!show || visibleJapMantras.length === 0) return null;
   return (
     <section aria-label="Jap Mantras" className="mb-14">
       <div className="flex items-baseline justify-between mb-6">
@@ -560,7 +631,7 @@ function JapMantraSection({ show }: { show: boolean }) {
       </div>
 
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-5">
-        {JAP_MANTRAS.map((jm) => (
+        {visibleJapMantras.map((jm) => (
           <a
             key={jm.slug + jm.name}
             href={`/mantras/${jm.slug}`}
@@ -597,7 +668,7 @@ function JapMantraSection({ show }: { show: boolean }) {
                 padding: '44px 10px 14px',
               }}
             >
-              <p className="text-[15px] font-bold text-[#1B0A3C] dark:text-white leading-tight mb-1">{jm.name}</p>
+              <p className="text-[15px] font-bold leading-tight mb-1" style={{ color: 'var(--color-brand-text)' }}>{jm.name}</p>
               <p className="text-[15px] hindi-text mb-2" style={{ color: '#C8962E' }}>{jm.hindi}</p>
               <div className="h-px w-10 bg-[#C8962E] mb-2" />
               <p className="text-[14px] text-gray-500 dark:text-[#BCA8E8] mb-1 hindi-text">{jm.deity}</p>
@@ -642,6 +713,7 @@ interface MantrasProps {
 }
 
 export default function Mantras({ serverMantras }: MantrasProps = {}) {
+  const router = useRouter();
   const [activeCategory, setActiveCategory] = useState('All');
   const [activeDeity, setActiveDeity] = useState('All');
   const [searchQuery, setSearchQuery] = useState('');
@@ -675,9 +747,9 @@ export default function Mantras({ serverMantras }: MantrasProps = {}) {
   const allData: MantraEntry[] = serverMantras && serverMantras.length > 0 ? serverMantras : MANTRAS_DATA;
 
   const filteredMantras = allData.filter((m) => {
-    const categoryMatch = activeCategory === 'All' || m.type === activeCategory;
-    const deityMatch    = activeDeity === 'All'    || m.deity === activeDeity;
-    const searchMatch   = m.name.toLowerCase().includes(searchQuery.toLowerCase()) || m.hindi.includes(searchQuery);
+    const categoryMatch = activeCategory === 'All' || m.type.toLowerCase() === activeCategory.toLowerCase();
+    const deityMatch    = activeDeity === 'All'    || m.deity.toLowerCase() === activeDeity.toLowerCase();
+    const searchMatch   = (m.name ?? '').toLowerCase().includes(searchQuery.toLowerCase()) || (m.hindi ?? '').includes(searchQuery);
     return categoryMatch && deityMatch && searchMatch;
   });
 
@@ -688,12 +760,11 @@ export default function Mantras({ serverMantras }: MantrasProps = {}) {
       className={`${
         animate ? `scroll-verse scroll-delay-${(idx % 6) + 1} ` : ''
       }interactive-card
-                  bg-white dark:bg-[#1C0A42] p-5 rounded-2xl
-                  border border-gray-200 dark:border-[rgba(200,150,46,0.15)]
+                  theme-card-lilac border p-5 rounded-2xl
                   shadow-sm group flex items-center justify-between`}
     >
       <div className="flex items-center gap-4">
-        <div className="w-10 h-10 rounded-full overflow-hidden flex-shrink-0 border border-gray-100">
+        <div className="w-10 h-10 rounded-full overflow-hidden flex-shrink-0 border border-[#493582]/10 dark:border-gray-800">
           <img src={mantra.deityIcon} alt={mantra.deity} className="w-full h-full object-cover" referrerPolicy="no-referrer" />
         </div>
         <div>
@@ -708,16 +779,17 @@ export default function Mantras({ serverMantras }: MantrasProps = {}) {
               {mantra.type.replace(/s$/, '')}
             </span>
             <span className="text-gray-400">•</span>
-            <span className="text-gray-500 dark:text-[#9E88CC]">{mantra.deity}</span>
+            <span className="text-[#493582]/80 dark:text-[#9E88CC]">{mantra.deity}</span>
             <span className="text-gray-400">•</span>
-            <span className="text-gray-500 dark:text-[#9E88CC]">{mantra.duration}</span>
+            <span className="text-[#493582]/80 dark:text-[#9E88CC]">{mantra.duration}</span>
           </div>
-          <p className="text-sm text-gray-500 dark:text-[#9E88CC] line-clamp-1">{mantra.desc}</p>
+          <p className="text-sm text-[#493582]/80 dark:text-[#9E88CC] line-clamp-1">{mantra.desc}</p>
         </div>
       </div>
-      <div className="w-10 h-10 rounded-full bg-gray-50 dark:bg-[#2A1060] flex items-center justify-center
-                      group-hover:bg-[var(--color-brand-gold)] group-hover:text-[var(--color-brand-purple)]
-                      transition-colors text-gray-400 flex-shrink-0 ml-4">
+      <div className="w-10 h-10 rounded-full bg-[#493582]/5 dark:bg-[#2A1060] flex items-center justify-center
+                      group-hover:bg-[#C8962E] group-hover:text-white
+                      dark:group-hover:bg-[#C8962E] dark:group-hover:text-[#1C0A42]
+                      transition-colors text-[#493582]/60 dark:text-gray-400 flex-shrink-0 ml-4">
         <Play size={20} className="ml-1" />
       </div>
     </Link>
@@ -762,8 +834,8 @@ export default function Mantras({ serverMantras }: MantrasProps = {}) {
 
           {/* ── PART 1: Interactive Type Filter Pills ── */}
           <div ref={pillsWrapRef}>
-            {/* Scrollable pill bar */}
-            <div className="flex overflow-x-auto justify-start md:justify-center gap-3 pb-2 mb-2 hide-scrollbar">
+            {/* Two-row pill bar */}
+            <div className="flex flex-wrap justify-center gap-3 pb-2 mb-2">
               {TYPE_INFO.map((info) => (
                 <FilterPill
                   key={info.key}
@@ -771,6 +843,7 @@ export default function Mantras({ serverMantras }: MantrasProps = {}) {
                   isActive={activeCategory === info.key}
                   onSelect={() => setActiveCategory(info.key)}
                   onOpenCard={() => openCard(info.key)}
+                  router={router}
                 />
               ))}
             </div>
@@ -848,54 +921,189 @@ export default function Mantras({ serverMantras }: MantrasProps = {}) {
 
         {/* Results */}
         {/* ── Beej Mantra Section ── */}
-        <BeejMantraSection show={activeCategory === 'All' || activeCategory === 'Beej Mantras'} />
+        <BeejMantraSection show={activeCategory === 'All' || activeCategory === 'Beej Mantras'} activeDeity={activeDeity} />
         {/* ── Jap Mantra Section ── */}
-        <JapMantraSection show={activeCategory === 'All' || activeCategory === 'Jap Mantras'} />
+        <JapMantraSection show={activeCategory === 'All' || activeCategory === 'Jap Mantras'} activeDeity={activeDeity} />
 
-        <div className="mb-12">
-          <div className="mb-6 text-gray-500 dark:text-[#9E88CC] font-medium">
-            Showing {filteredMantras.length} of {allData.length}+ sacred texts
-          </div>
+        {/* ── Type-Based Sections ─────────────────────────────────── */}
+        {(() => {
+          const TYPE_SECTIONS = [
+            { key: 'Stotrams',  label: 'Stotrams',   hindi: 'स्तोत्र',       icon: '🕉', accent: '#7B5EA7' },
+            { key: 'Ashtakams', label: 'Ashtakams',   hindi: 'अष्टकम्',       icon: '✦', accent: '#2E86AB' },
+            { key: 'Chalisas',  label: 'Chalisas',    hindi: 'चालीसा',        icon: '🪔', accent: '#E07B39' },
+            { key: 'Suktams',   label: 'Suktams',     hindi: 'सूक्तम्',       icon: '📿', accent: '#2A9D8F' },
+            { key: 'Kavachs',   label: 'Kavacha',     hindi: 'कवच',          icon: '🛡', accent: '#C0392B' },
+            { key: '108 Names', label: '108 Names',   hindi: 'अष्टोत्तर शत', icon: '🌸', accent: '#D4A017' },
+            { key: 'Aartis',    label: 'Aartis',      hindi: 'आरती',          icon: '🔥', accent: '#E91E63' },
+          ];
 
-          {activeDeity === 'All' && activeCategory === 'All' && !searchQuery ? (
-            <>
-              {[
-                { label: 'शिव Shiva',                deities: ['Shiva'] },
-                { label: 'कृष्ण/विष्णु Krishna & Vishnu', deities: ['Krishna', 'Vishnu'] },
-                { label: 'दुर्गा/देवी Durga & Devi',  deities: ['Durga', 'Lakshmi'] },
-                { label: 'गणेश Ganesha',              deities: ['Ganesh', 'Ganesha'] },
-                { label: 'हनुमान Hanuman',             deities: ['Hanuman'] },
-                { label: 'राम Ram',                   deities: ['Ram', 'Rama', 'Ram'] },
-                { label: 'अन्य Other',                deities: ['Saraswati', 'Kali', 'Universal', 'Surya', 'Shani', 'Santoshi', 'Subramanya', 'Kartikeya'] },
-              ].map(({ label, deities }) => {
-                const items = filteredMantras.filter((m) => deities.some(d => m.deity.toLowerCase() === d.toLowerCase()));
+          const anySection = TYPE_SECTIONS.some(ts => {
+            const showSection = activeCategory === 'All' || activeCategory === ts.key;
+            if (!showSection) return false;
+            return filteredMantras.some(m => m.type.toLowerCase() === ts.key.toLowerCase());
+          });
+
+          const searchFallback = searchQuery && filteredMantras.length > 0;
+
+          // When searching, show a simple flat grid across all types
+          if (searchFallback) {
+            return (
+              <div className="mb-12">
+                <div className="mb-4 text-gray-500 dark:text-[#9E88CC] font-medium text-sm">
+                  {filteredMantras.length} result{filteredMantras.length !== 1 ? 's' : ''} found
+                </div>
+                <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+                  {filteredMantras.map((m, i) => renderMantraCard(m, i, true))}
+                </div>
+              </div>
+            );
+          }
+
+          return (
+            <div className="mb-12 space-y-14">
+              {TYPE_SECTIONS.map(ts => {
+                const showSection = activeCategory === 'All' || activeCategory === ts.key;
+                if (!showSection) return null;
+
+                const items = filteredMantras.filter(m =>
+                  m.type.toLowerCase() === ts.key.toLowerCase()
+                );
                 if (!items.length) return null;
+
                 return (
-                  <div key={label} className="mb-10">
-                    <h2 className="text-2xl font-serif text-[var(--color-brand-purple)] dark:text-[#E0CFFF]
-                                   mb-6 border-b border-gray-200 dark:border-[rgba(200,150,46,0.2)] pb-2">
-                      {label}
-                    </h2>
+                  <section key={ts.key} aria-label={ts.label}>
+                    {/* Section header */}
+                    <div
+                      className="flex items-center justify-between mb-6 pb-3"
+                      style={{ borderBottom: `2px solid ${ts.accent}33` }}
+                    >
+                      <div className="flex items-center gap-3">
+                        <div
+                          className="w-10 h-10 rounded-xl flex items-center justify-center text-lg flex-shrink-0"
+                          style={{ background: ts.accent + '18', border: `1.5px solid ${ts.accent}44` }}
+                        >
+                          {ts.icon}
+                        </div>
+                        <div>
+                          <h2
+                            className="text-2xl font-serif leading-tight"
+                            style={{ color: 'var(--color-brand-purple)' }}
+                          >
+                            {ts.label}
+                            <span className="ml-3 hindi-text text-lg font-normal" style={{ color: ts.accent }}>
+                              · {ts.hindi}
+                            </span>
+                          </h2>
+                        </div>
+                        <span
+                          className="ml-2 text-xs font-bold px-2 py-0.5 rounded-full"
+                          style={{ background: ts.accent + '20', color: ts.accent }}
+                        >
+                          {items.length}
+                        </span>
+                      </div>
+                    </div>
+
+                    {/* Cards grid */}
                     <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
                       {items.map((m, i) => renderMantraCard(m, i, true))}
                     </div>
-                  </div>
+                  </section>
                 );
               })}
-            </>
-          ) : (
-            <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-              {filteredMantras.map((m, i) => renderMantraCard(m, i, false))}
-              {filteredMantras.length === 0 && (
-                <div className="col-span-full text-center py-12 text-gray-500 bg-gray-50 dark:bg-[#1C0A42] rounded-2xl border border-gray-200 dark:border-[rgba(200,150,46,0.15)]">
+
+              {/* No results */}
+              {!anySection && !searchQuery && (
+                <div className="text-center py-12 text-gray-500 bg-gray-50 dark:bg-[#1C0A42] rounded-2xl border border-gray-200 dark:border-[rgba(200,150,46,0.15)]">
                   No matching sacred texts found. Try adjusting your filters.
                 </div>
               )}
             </div>
-          )}
-        </div>
+          );
+        })()}
 
-        {/* Bottom CTA */}
+
+
+        {/* ══════ SAHASRANAMA COLLECTION SECTION ══════ */}
+        {(activeCategory === 'All' || activeCategory === 'Sahasranamas') && (() => {
+          const visibleSahasranamas = SAHASRANAMAS_TEASER.filter(s =>
+            activeDeity === 'All' || s.deity.toLowerCase() === activeDeity.toLowerCase()
+          );
+          if (!visibleSahasranamas.length) return null;
+          return (
+            <div className="rounded-2xl mb-8 border border-[rgba(200,150,46,0.25)]
+                            bg-[#FFF8E7] dark:bg-[#120730] shadow-sm">
+
+              {/* Section header */}
+              <div className="flex items-center justify-between px-6 py-5
+                              border-b border-[rgba(200,150,46,0.2)]">
+                <div className="flex items-center gap-3">
+                  <span className="text-3xl leading-none text-[#C8962E] dark:text-[#F5C518]">ॐ</span>
+                  <div>
+                    <h2 className="text-xl font-serif text-[#1B0A3C] dark:text-white leading-tight">
+                      Sahasranama Collection
+                    </h2>
+                    <p className="text-xs text-[#7A6248] dark:text-white/40 hindi-text">
+                      सहस्रनाम — 1000 Sacred Names
+                    </p>
+                  </div>
+                </div>
+                <Link
+                  href="/en/mantras/sahasranamas"
+                  className="text-xs font-semibold text-[#C8962E] hover:text-[#A87524]
+                             dark:hover:text-[#F5C518] transition-colors flex items-center gap-1"
+                >
+                  View All →
+                </Link>
+              </div>
+
+              {/* Cards grid */}
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 p-5">
+                {visibleSahasranamas.map(s => {
+                  const isActive = s.status === 'active';
+                  const card = (
+                    <div
+                      key={s.id}
+                      className={`relative rounded-xl p-5 transition-all duration-200
+                        theme-card-lilac border-t border-r border-b
+                        ${isActive ? 'hover:shadow-md' : 'opacity-60'}`}
+                      style={{ borderLeft: `4px solid ${s.accentColor}` }}
+                    >
+                      <span className={`absolute top-3 right-3 text-[10px] font-bold
+                                       px-2 py-0.5 rounded-full border border-[rgba(200,150,46,0.3)]
+                                       ${isActive
+                                         ? 'bg-[rgba(200,150,46,0.15)] text-[#8B6914] dark:bg-[rgba(200,150,46,0.2)] dark:text-[#C8962E]'
+                                         : 'bg-[rgba(200,150,46,0.08)] text-[#A08040] dark:text-[rgba(200,150,46,0.4)]'
+                                       }`}>
+                        {isActive ? 'NEW' : 'Coming Soon'}
+                      </span>
+                      <p className="text-base hindi-text mb-0.5" style={{ color: s.accentColor }}>{s.title_hi}</p>
+                      <p className="text-sm font-semibold text-[#1B0A3C] dark:text-white mb-1">{s.title_en}</p>
+                      <p className="text-[11px] text-[#7A6248] dark:text-white/35 mb-4">{s.source}</p>
+                      <div className="flex items-center justify-between">
+                        <span className="text-[11px] font-semibold px-2.5 py-0.5 rounded-full border"
+                              style={{ color: s.accentColor, borderColor: s.accentColor + '44' }}>
+                          {s.verses.toLocaleString()} Names
+                        </span>
+                        {isActive && (
+                          <span className="text-[11px] font-semibold text-[#C8962E]">Explore →</span>
+                        )}
+                      </div>
+                    </div>
+                  );
+                  return isActive && s.slug ? (
+                    <Link key={s.id} href={`/en${s.slug}`} className="block">{card}</Link>
+                  ) : (
+                    <div key={s.id}>{card}</div>
+                  );
+                })}
+              </div>
+            </div>
+          );
+        })()}
+
+
+
         <div className="scroll-scale bg-[var(--color-brand-purple)] rounded-2xl p-8 text-center text-white shadow-md mb-16">
           <h3 className="text-2xl font-serif mb-4">Can't find what you're looking for?</h3>
           <p className="text-white/80 mb-6 max-w-lg mx-auto">
@@ -914,6 +1122,7 @@ export default function Mantras({ serverMantras }: MantrasProps = {}) {
         </div>
 
       </div>
+
 
       {/* ══════ PART 2: SEO Knowledge Section — full bleed cream ══════ */}
       <section id={KNOWLEDGE_SECTION_ID} aria-label="Understanding Sacred Texts"

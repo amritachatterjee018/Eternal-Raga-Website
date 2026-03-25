@@ -290,6 +290,54 @@
           "status": "coming_soon"
         }
       ]
+    },
+    {
+      "id": "sahasranama",
+      "title_en": "Sahasranama",
+      "title_hi": "सहस्रनाम",
+      "icon": "thousand-names",
+      "color": "#C8962E",
+      "description_en": "A thousand sacred names of the divine — with meaning, context, and word-by-word breakdown",
+      "description_hi": "भगवान के हज़ार पवित्र नाम — अर्थ, संदर्भ और शब्द-दर-शब्द विश्लेषण सहित",
+      "items": [
+        {
+          "id": "vishnu-sahasranama",
+          "title_en": "Vishnu Sahasranama",
+          "title_hi": "विष्णु सहस्रनाम",
+          "verses": 1000,
+          "variant": "1000 Names · From Mahabharata",
+          "deity": "vishnu",
+          "status": "active",
+          "slug": "/scriptures/sahasranamas/vishnu-sahasranama"
+        },
+        {
+          "id": "lalita-sahasranama",
+          "title_en": "Lalita Sahasranama",
+          "title_hi": "ललिता सहस्रनाम",
+          "verses": 1000,
+          "variant": "From Brahmanda Purana",
+          "deity": "devi",
+          "status": "coming_soon"
+        },
+        {
+          "id": "shiva-sahasranama",
+          "title_en": "Shiva Sahasranama",
+          "title_hi": "शिव सहस्रनाम",
+          "verses": 1000,
+          "variant": "From Anushasana Parva",
+          "deity": "shiva",
+          "status": "coming_soon"
+        },
+        {
+          "id": "ganesh-sahasranama",
+          "title_en": "Ganesha Sahasranama",
+          "title_hi": "गणेश सहस्रनाम",
+          "verses": 1000,
+          "variant": "From Ganesha Purana",
+          "deity": "ganesha",
+          "status": "coming_soon"
+        }
+      ]
     }
   ]
 }

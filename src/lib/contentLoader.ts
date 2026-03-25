@@ -1,5 +1,6 @@
 /**
  * contentLoader.ts  —  SERVER ONLY (uses Node.js `fs`)
+ * Also loads Sahasranama data from data/sahasranamas/vishnu_sahasranama_master.json
  * Scans /data/ subfolders and returns typed mantra objects.
  *
  * NOTE: Actual folder names on disk (confirmed):
@@ -112,3 +113,85 @@ export function getMantraStaticParams(): { slug: string }[] {
     .filter(m => m.type !== '108-names')
     .map(m => ({ slug: m.id }));
 }
+
+/* ═══════════════════════════════════════════════════════════════
+   VISHNU SAHASRANAMA
+   Reads data/sahasranamas/vishnu_sahasranama_master.json
+   SERVER ONLY — never imported in client components
+   ═══════════════════════════════════════════════════════════════ */
+
+const VISHNU_JSON_PATH = path.join(DATA_DIR, 'sahasranamas', 'vishnu_sahasranama_master.json');
+
+export interface WordEntry {
+  sanskrit: string;
+  en: string;
+  hi: string;
+}
+
+export interface VishnuName {
+  number: number;
+  name_sanskrit: string;       // ॐ विश्वाय नमः
+  name_devanagari: string;     // विश्वम्
+  name_iast: string;           // Viśvam
+  root_word: string;           // viś
+  meaning_en: string;
+  meaning_hi: string;
+  word_by_word: Record<string, WordEntry>;
+  theme: string;               // cosmic_order | protection | etc.
+  modern_context: string;      // Hindi paragraph
+  modern_context_en: string;   // English paragraph
+  nri_context: string;
+  usage_context: string;
+}
+
+// Lazy-loaded cache — JSON is only read once per server process
+let _vishnuCache: VishnuName[] | null = null;
+
+function loadVishnuNames(): VishnuName[] {
+  if (_vishnuCache) return _vishnuCache;
+  const raw = fs.readFileSync(VISHNU_JSON_PATH, 'utf-8');
+  _vishnuCache = JSON.parse(raw) as VishnuName[];
+  return _vishnuCache;
+}
+
+/** Returns all 1000 Vishnu Sahasranama entries */
+export function getAllVishnuNames(): VishnuName[] {
+  return loadVishnuNames();
+}
+
+/** Returns a single entry by 1-based number (1–1000) */
+export function getVishnuNameByNumber(n: number): VishnuName | null {
+  const all = loadVishnuNames();
+  return all.find(v => v.number === n) ?? null;
+}
+
+/** Returns all entries matching the given theme */
+export function getVishnuNamesByTheme(theme: string): VishnuName[] {
+  return loadVishnuNames().filter(v => v.theme === theme);
+}
+
+/** Returns `{ number: '1' }` … `{ number: '1000' }` for generateStaticParams */
+export function getVishnuNameStaticParams(): { number: string }[] {
+  return loadVishnuNames().map(v => ({ number: String(v.number) }));
+}
+
+/** Returns count of names per theme */
+export function getThemeCounts(): Record<string, number> {
+  const counts: Record<string, number> = {};
+  for (const v of loadVishnuNames()) {
+    counts[v.theme] = (counts[v.theme] ?? 0) + 1;
+  }
+  return counts;
+}
+
+/** Returns up to `limit` names from the same theme, excluding the given number, sorted by canonical order */
+export function getRelatedNamesByTheme(
+  theme: string,
+  excludeNumber: number,
+  limit: number
+): VishnuName[] {
+  return loadVishnuNames()
+    .filter(v => v.theme === theme && v.number !== excludeNumber)
+    .slice(0, limit);
+}
+
