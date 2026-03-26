@@ -2,8 +2,9 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react';
 import Link from 'next/link';
 import { useParams } from 'next/navigation';
-import { Search, X, ChevronRight, ChevronUp, ChevronDown, Lock } from 'lucide-react';
+import { Search, X, ChevronRight, ChevronUp, ChevronDown } from 'lucide-react';
 import { THEME_COLORS, THEME_DESCRIPTIONS } from '../lib/themeColors';
+import DeityHeroImage from '../components/DeityHeroImage';
 
 /* ─── Types ─────────────────────────────────────────────────────── */
 export interface NameCard {
@@ -15,10 +16,46 @@ export interface NameCard {
   theme: string;
 }
 
+interface HeroConfig {
+  titleEn: string;                       // e.g. 'Vishnu Sahasranama'
+  titleHi: string;                       // e.g. 'विष्णु सहस्रनाम'
+  subtitleEn: string;                    // e.g. 'The 1000 Sacred Names of Lord Vishnu'
+  subtitleHi: string;                    // e.g. 'भगवान विष्णु के 1000 पवित्र नाम'
+  sourceText: string;                    // e.g. 'From the Anushasana Parva…'
+  nameCount: number;                     // 1000 | 1008
+  themeCount: number;                    // e.g. 15
+  /* Image / placeholder (optional) */
+  imageSrc?: string;                     // e.g. /images/sahasranama/vishnu_sahasranama.jpg
+  imageAltEn?: string;
+  imageAltHi?: string;
+  placeholderColor?: string;             // accent color for gradient e.g. '#5BA3CF'
+  devanagariForPlaceholder?: string;     // e.g. 'विष्णु'
+}
+
+const VISHNU_HERO: HeroConfig = {
+  titleEn: 'Vishnu Sahasranama',
+  titleHi: 'विष्णु सहस्रनाम',
+  subtitleEn: 'The 1000 Sacred Names of Lord Vishnu',
+  subtitleHi: 'भगवान विष्णु के 1000 पवित्र नाम',
+  sourceText: 'From the Anushasana Parva of the Mahabharata, as taught by Bhishma to Yudhishthira on the battlefield of Kurukshetra. Each name reveals a divine quality of the Supreme Lord.',
+  nameCount: 1000,
+  themeCount: 15,
+  imageSrc: '/images/sahasranama/vishnu_sahasranama.jpg',
+  imageAltEn: 'Lord Vishnu in divine four-armed form',
+  imageAltHi: 'चतुर्भुज दिव्य रूप में भगवान विष्णु',
+  placeholderColor: '#5BA3CF',
+  devanagariForPlaceholder: 'विष्णु',
+};
+
 interface Props {
   cards: NameCard[];
   themeCounts: Record<string, number>;
-  basePath?: string; // 'mantras' | 'scriptures'
+  basePath?: string;                           // 'mantras' | 'scriptures'
+  sahasranamaSlug?: string;                    // e.g. 'vishnu-sahasranama'
+  heroConfig?: HeroConfig;                     // defaults to VISHNU_HERO
+  accentColor?: string;                        // defaults to '#C8962E'
+  alternateTitles?: string[];                  // from sahasranama_alternate_titles.json
+  regionalNames?: Record<string, string>;      // { tamil: '...', telugu: '...' }
 }
 
 const PAGE_SIZE = 50;
@@ -36,14 +73,14 @@ const MILESTONES = [
   { number: 1000, label: 'Sarvap.' },
 ];
 
-/* ─── Individual Name Card (shared between both views) ────────── */
-function NameCard({ card, locale, basePath }: { card: NameCard; locale: string; basePath: string }) {
+/* ─── Individual Name Card ───────────────────────────────────────── */
+function NameCard({ card, locale, basePath, sahasranamaSlug }: { card: NameCard; locale: string; basePath: string; sahasranamaSlug: string }) {
   const theme = THEME_COLORS[card.theme] ?? { color: '#C8962E', label_en: card.theme, label_hi: '' };
 
   return (
     <Link
       id={`name-${card.number}`}
-      href={`/${locale}/${basePath}/sahasranamas/vishnu-sahasranama/${card.number}`}
+      href={`/${locale}/${basePath}/sahasranamas/${sahasranamaSlug}/${card.number}`}
       className="group block bg-[#F3E4FF] theme-card border border-gray-200 dark:border-[#C8962E]/25 shadow-sm dark:shadow-none"
       style={{
         borderRadius: 16,
@@ -117,10 +154,10 @@ function NameCard({ card, locale, basePath }: { card: NameCard; locale: string; 
 
 /* ─── Theme Explorer Accordion ──────────────────────────────────── */
 function ThemeAccordion({
-  themeId, count, cards, locale, search, isOpen, onToggle, basePath,
+  themeId, count, cards, locale, search, isOpen, onToggle, basePath, sahasranamaSlug,
 }: {
   themeId: string; count: number; cards: NameCard[]; locale: string;
-  search: string; isOpen: boolean; onToggle: () => void; basePath: string;
+  search: string; isOpen: boolean; onToggle: () => void; basePath: string; sahasranamaSlug: string;
 }) {
   const theme = THEME_COLORS[themeId] ?? { color: '#C8962E', label_en: themeId, label_hi: '' };
   const description = THEME_DESCRIPTIONS[themeId] ?? '';
@@ -153,16 +190,11 @@ function ThemeAccordion({
         }}
         className={isOpen ? "" : "hover:bg-[#F3E4FF]/50 dark:hover:bg-[#493582]/40 bg-transparent dark:bg-[#493582]/60"}
       >
-        {/* Dot */}
         <div style={{ width: 12, height: 12, borderRadius: '50%', background: theme.color, flexShrink: 0 }} />
-
-        {/* Labels */}
         <div style={{ flex: 1, textAlign: 'left' }}>
           <span style={{ fontSize: 16, fontWeight: 600, marginRight: 10 }} className="text-[#1B0A3C] dark:text-[#fff]">{theme.label_en}</span>
           <span style={{ fontFamily: "'Noto Sans Devanagari', Georgia, serif", fontSize: 14 }} className="text-[#493582] dark:text-[#D4A843]">{theme.label_hi}</span>
         </div>
-
-        {/* Count badge */}
         <div style={{
           width: 36, height: 36, borderRadius: '50%',
           background: `${theme.color}22`, border: `1.5px solid ${theme.color}55`,
@@ -171,7 +203,6 @@ function ThemeAccordion({
         }}>
           {count}
         </div>
-
         {isOpen ? <ChevronUp size={18} style={{ color: theme.color, flexShrink: 0 }} /> : <ChevronDown size={18} style={{ color: 'rgba(200,150,46,0.5)', flexShrink: 0 }} />}
       </button>
 
@@ -185,7 +216,7 @@ function ThemeAccordion({
             <p style={{ fontSize: 13, textAlign: 'center', padding: '20px 0' }} className="text-[#493582]/70 dark:text-white/30">No names match your search in this theme.</p>
           ) : (
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: 20 }}>
-              {displayed.map(card => <NameCard key={card.number} card={card} locale={locale} basePath={basePath} />)}
+              {displayed.map(card => <NameCard key={card.number} card={card} locale={locale} basePath={basePath} sahasranamaSlug={sahasranamaSlug} />)}
             </div>
           )}
         </div>
@@ -194,8 +225,132 @@ function ThemeAccordion({
   );
 }
 
+/* ─── Other Names Accordion ──────────────────────────────────────── */
+const LANGUAGE_LABELS: Record<string, string> = {
+  tamil: 'Tamil', telugu: 'Telugu', kannada: 'Kannada',
+  malayalam: 'Malayalam', bengali: 'Bengali', gujarati: 'Gujarati',
+  odia: 'Odia', marathi: 'Marathi',
+};
+
+function OtherNamesAccordion({
+  alternateTitles, regionalNames,
+}: {
+  alternateTitles: string[];
+  regionalNames: Record<string, string>;
+}) {
+  const [isOpen, setIsOpen] = React.useState(false);
+  const totalCount = alternateTitles.length;
+  const regionalEntries = Object.entries(regionalNames);
+  const contentRef = React.useRef<HTMLDivElement>(null);
+  const [height, setHeight] = React.useState(0);
+
+  React.useEffect(() => {
+    if (contentRef.current) {
+      setHeight(isOpen ? contentRef.current.scrollHeight : 0);
+    }
+  }, [isOpen]);
+
+  if (totalCount === 0) return null;
+
+  return (
+    <div style={{
+      borderBottom: '1px solid rgba(200,150,46,0.15)',
+      borderTop: '1px solid rgba(200,150,46,0.1)',
+    }} className="bg-[#F3E4FF]/60 dark:bg-[rgba(27,10,60,0.7)]">
+      <div style={{ maxWidth: 1200, margin: '0 auto', padding: '0 16px' }}>
+        <button
+          onClick={() => setIsOpen(o => !o)}
+          aria-expanded={isOpen}
+          style={{
+            width: '100%', display: 'flex', alignItems: 'center',
+            justifyContent: 'space-between', gap: 12,
+            padding: '14px 0', background: 'none', border: 'none',
+            cursor: 'pointer', fontFamily: 'inherit',
+            textAlign: 'left',
+          }}
+        >
+          <span style={{ fontSize: 13 }} className="text-[#B8A88A] dark:text-[#B8A88A]">
+            Known by <span style={{ color: '#C8962E', fontWeight: 700 }}>{totalCount}</span> names across India
+            {' '}·{' '}
+            <span style={{ fontFamily: "'Noto Sans Devanagari', Georgia, serif" }}>भारत भर में</span>{' '}
+            <span style={{ color: '#C8962E', fontWeight: 700 }}>{totalCount}</span>{' '}
+            <span style={{ fontFamily: "'Noto Sans Devanagari', Georgia, serif" }}>नामों से जाना जाता है</span>
+          </span>
+          <span style={{
+            fontSize: 11, fontWeight: 600, color: '#C8962E',
+            border: '1px solid rgba(200,150,46,0.35)', borderRadius: 20,
+            padding: '3px 10px', whiteSpace: 'nowrap', flexShrink: 0,
+            transition: 'all 150ms ease',
+          }}>
+            {isOpen ? 'Hide · छुपाएं' : 'Show · दिखाएं'}
+          </span>
+        </button>
+
+        <div style={{
+          overflow: 'hidden',
+          maxHeight: height,
+          transition: 'max-height 200ms ease-in-out',
+        }}>
+          <div ref={contentRef} style={{ paddingBottom: 20 }}>
+            <p style={{ fontSize: 11, fontWeight: 700, letterSpacing: '0.06em', textTransform: 'uppercase', marginBottom: 10 }} className="text-[#C8962E]/70">
+              Other Names · अन्य नाम
+            </p>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: 4, marginBottom: 20 }}>
+              {alternateTitles.map((title, i) => {
+                const [enPart, hiPart] = title.split(' / ');
+                return (
+                  <div key={i} style={{ fontSize: 13.5, lineHeight: 1.6 }}>
+                    <span className="text-[#1B0A3C] dark:text-white">{enPart?.trim()}</span>
+                    {hiPart && (
+                      <>
+                        <span className="text-[#493582]/50 dark:text-white/25"> / </span>
+                        <span style={{ fontFamily: "'Noto Sans Devanagari', Georgia, serif" }} className="text-[#C8962E]">{hiPart.trim()}</span>
+                      </>
+                    )}
+                  </div>
+                );
+              })}
+            </div>
+
+            {regionalEntries.length > 0 && (
+              <>
+                <p style={{ fontSize: 11, fontWeight: 700, letterSpacing: '0.06em', textTransform: 'uppercase', marginBottom: 10 }} className="text-[#C8962E]/70">
+                  Regional Names · क्षेत्रीय नाम
+                </p>
+                <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '8px 20px', maxWidth: 640 }}>
+                  {regionalEntries.map(([lang, name]) => (
+                    <div key={lang} style={{ display: 'flex', alignItems: 'baseline', gap: 8 }}>
+                      <span style={{ fontSize: 12, minWidth: 72, fontWeight: 600 }} className="text-[#493582]/70 dark:text-[#B8A88A]">
+                        {LANGUAGE_LABELS[lang] ?? lang}
+                      </span>
+                      <span style={{
+                        fontSize: 14,
+                        fontFamily: "'Noto Sans Devanagari', 'Noto Sans Tamil', 'Noto Sans Telugu', 'Noto Sans Kannada', 'Noto Sans Malayalam', 'Noto Sans Bengali', sans-serif",
+                      }} className="text-[#A07424] dark:text-[#D4A843]">
+                        {name}
+                      </span>
+                    </div>
+                  ))}
+                </div>
+              </>
+            )}
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
 /* ─── Main Component ─────────────────────────────────────────────── */
-export default function VishnuSahasranama({ cards, themeCounts, basePath = 'mantras' }: Props) {
+export default function VishnuSahasranama({
+  cards, themeCounts,
+  basePath = 'mantras',
+  sahasranamaSlug = 'vishnu-sahasranama',
+  heroConfig = VISHNU_HERO,
+  accentColor = '#C8962E',
+  alternateTitles = [],
+  regionalNames = {},
+}: Props) {
   const rawParams = useParams();
   const locale = (Array.isArray(rawParams?.locale) ? rawParams.locale[0] : rawParams?.locale) || 'en';
 
@@ -207,17 +362,14 @@ export default function VishnuSahasranama({ cards, themeCounts, basePath = 'mant
   const [showScrollTop, setShowScrollTop] = useState(false);
   const sentinelRef = useRef<HTMLDivElement>(null);
 
-  /* Sorted theme list (by count desc) for theme explorer */
   const sortedThemes = Object.entries(themeCounts)
     .sort(([, a], [, b]) => b - a)
     .map(([id]) => id);
 
-  /* Initially open first 2 themes */
   const [openThemes, setOpenThemes] = useState<Set<string>>(
     () => new Set(sortedThemes.slice(0, 2))
   );
 
-  /* Group cards by theme (sorted by canonical number) */
   const cardsByTheme = React.useMemo(() => {
     const map: Record<string, NameCard[]> = {};
     for (const card of cards) {
@@ -227,7 +379,6 @@ export default function VishnuSahasranama({ cards, themeCounts, basePath = 'mant
     return map;
   }, [cards]);
 
-  /* Sequential view: client-side filter */
   const filteredSeq = React.useMemo(() => {
     let result = cards;
     if (activeTheme !== 'All') result = result.filter(c => c.theme === activeTheme);
@@ -245,7 +396,6 @@ export default function VishnuSahasranama({ cards, themeCounts, basePath = 'mant
 
   const displayedSeq = filteredSeq.slice(0, displayCount);
 
-  /* IntersectionObserver for infinite scroll */
   useEffect(() => {
     const sentinel = sentinelRef.current;
     if (!sentinel) return;
@@ -262,7 +412,7 @@ export default function VishnuSahasranama({ cards, themeCounts, basePath = 'mant
 
   useEffect(() => {
     const handleScroll = () => {
-      setIsFilterSticky(window.scrollY > 420);
+      setIsFilterSticky(window.scrollY > 320);
       setShowScrollTop(window.scrollY > 800);
     };
     window.addEventListener('scroll', handleScroll, { passive: true });
@@ -270,7 +420,6 @@ export default function VishnuSahasranama({ cards, themeCounts, basePath = 'mant
   }, []);
 
   const scrollToCard = useCallback((number: number) => {
-    // Make sure the card is rendered first
     const cardIdx = filteredSeq.findIndex(c => c.number === number);
     if (cardIdx >= displayCount) setDisplayCount(cardIdx + PAGE_SIZE);
     setTimeout(() => {
@@ -287,7 +436,7 @@ export default function VishnuSahasranama({ cards, themeCounts, basePath = 'mant
     });
   };
 
-  /* ── Theme Legend Bar (for Theme Explorer) ── */
+  /* ── Theme Legend Bar (Theme Explorer) ── */
   const ThemeLegendBar = () => (
     <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap', paddingBottom: 4, paddingTop: 4 }}>
       {sortedThemes.map(id => {
@@ -313,16 +462,15 @@ export default function VishnuSahasranama({ cards, themeCounts, basePath = 'mant
     </div>
   );
 
-  /* ── Theme Filter Pills (Sequential View) ── */
+  /* ── Theme Filter Pills (Sequential) ── */
   const ThemeFilterPills = () => (
     <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap', paddingBottom: 2 }}>
-      {/* All pill */}
       <button onClick={() => setActiveTheme('All')} style={{
         flexShrink: 0, padding: '5px 16px', borderRadius: 24,
         fontSize: 13, fontWeight: activeTheme === 'All' ? 700 : 500,
         cursor: 'pointer', fontFamily: 'inherit', whiteSpace: 'nowrap',
-      }} className={activeTheme === 'All' 
-        ? "bg-[#493582] border-none text-white dark:bg-[#C8962E] dark:text-white" 
+      }} className={activeTheme === 'All'
+        ? "bg-[#493582] border-none text-white dark:bg-[#C8962E] dark:text-white"
         : "bg-transparent border-[1.5px] border-[#493582]/30 text-[#493582] dark:border-[rgba(200,150,46,0.3)] dark:text-[#C8962E]"}>
         All ({cards.length})
       </button>
@@ -341,7 +489,7 @@ export default function VishnuSahasranama({ cards, themeCounts, basePath = 'mant
             ? "bg-[#493582]/10 border-[1.5px] border-[#493582] dark:bg-[rgba(200,150,46,0.15)] dark:border-[#C8962E]"
             : "bg-transparent border-[1.5px] border-[#493582]/20 dark:border-[rgba(200,150,46,0.25)]"}>
             <div style={{ width: 8, height: 8, borderRadius: '50%', background: theme.color, flexShrink: 0 }} />
-            <span style={{ fontSize: 13, fontWeight: isActive ? 700 : 500 }} className={isActive ? "text-[#1B0A3C] dark:text-[#fff]" : "text-[#2D1654] dark:text-white/70"} >
+            <span style={{ fontSize: 13, fontWeight: isActive ? 700 : 500 }} className={isActive ? "text-[#1B0A3C] dark:text-[#fff]" : "text-[#2D1654] dark:text-white/70"}>
               <span>{theme.label_en}</span> <span style={{ opacity: 0.65, fontSize: 11 }}>({count})</span>
             </span>
           </button>
@@ -353,53 +501,92 @@ export default function VishnuSahasranama({ cards, themeCounts, basePath = 'mant
   return (
     <div className="bg-white theme-bg min-h-screen transition-colors duration-300">
 
-      {/* ── Hero ── */}
-      <div style={{
-        padding: '80px 24px 60px', textAlign: 'center', position: 'relative', overflow: 'hidden',
-      }} className="bg-[#F3E4FF]/40 theme-hero">
-        <div style={{ fontSize: 160, position: 'absolute', top: -30, left: '50%', transform: 'translateX(-50%)', pointerEvents: 'none', lineHeight: 1 }} className="text-[#493582]/5 dark:text-[#C8962E]/5">ॐ</div>
+      {/* ── Hero (image + gradient placeholder) ── */}
+      <DeityHeroImage
+        src={heroConfig.imageSrc}
+        altEn={heroConfig.imageAltEn}
+        altHi={heroConfig.imageAltHi}
+        placeholderColor={heroConfig.placeholderColor ?? '#5BA3CF'}
+        devanagariName={heroConfig.devanagariForPlaceholder ?? heroConfig.titleHi.split(' ')[0]}
+        height={280}
+        style={{ borderRadius: 0 }}
+      >
+        {/* Dark gradient overlay */}
+        <div style={{
+          position: 'absolute', inset: 0,
+          background: 'linear-gradient(to bottom, rgba(27,10,60,0.5) 0%, rgba(27,10,60,0.35) 30%, rgba(27,10,60,0.82) 80%, rgba(27,10,60,0.97) 100%)',
+        }} />
 
-        {/* Breadcrumb */}
-        <nav style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: 6, marginBottom: 32, flexWrap: 'wrap' }}>
+        {/* Breadcrumb — top */}
+        <nav style={{
+          position: 'absolute', top: 18, left: 0, right: 0,
+          display: 'flex', justifyContent: 'center', alignItems: 'center', gap: 6, flexWrap: 'wrap',
+          zIndex: 5,
+        }}>
           {[
             { label: 'Home', href: `/${locale}` },
             { label: basePath === 'mantras' ? 'Mantras & Stotrams' : 'Scriptures', href: `/${locale}/${basePath}` },
             { label: 'Sahasranamas', href: `/${locale}/${basePath}/sahasranamas` },
           ].map(item => (
             <React.Fragment key={item.label}>
-              <Link href={item.href} style={{ fontSize: 13, textDecoration: 'none' }} className="text-[#493582] dark:text-white/40 hover:text-[#1B0A3C] dark:hover:text-[#C8962E]">{item.label}</Link>
-              <ChevronRight size={12} className="text-[#493582]/70 dark:text-white/25" />
+              <Link href={item.href} style={{ fontSize: 13, textDecoration: 'none', color: 'rgba(255,255,255,0.55)' }}
+                className="hover:text-white">{item.label}</Link>
+              <ChevronRight size={12} style={{ color: 'rgba(255,255,255,0.3)' }} />
             </React.Fragment>
           ))}
-          <span style={{ color: '#C8962E', fontSize: 13, fontWeight: 600 }}>Vishnu Sahasranama</span>
+          <span style={{ color: accentColor, fontSize: 13, fontWeight: 600 }}>{heroConfig.titleEn}</span>
         </nav>
 
-        <div style={{ fontSize: 52, color: '#F5C518', marginBottom: 14, lineHeight: 1 }}>ॐ</div>
-        <h1 style={{ fontFamily: 'Georgia, serif', fontSize: 'clamp(30px, 6vw, 54px)', fontWeight: 700, lineHeight: 1.1, marginBottom: 8 }} className="text-[#1B0A3C] dark:text-[#fff]">
-          Vishnu Sahasranama
-        </h1>
-        <p style={{ fontFamily: "'Noto Sans Devanagari', Georgia, serif", fontSize: 'clamp(20px, 4vw, 30px)', marginBottom: 18, fontWeight: 600 }} className="text-[#493582] dark:text-[#D4A843]">
-          विष्णु सहस्रनाम
-        </p>
-        <p style={{ fontSize: 16, marginBottom: 8 }} className="text-[#2D1654] dark:text-white/60">
-          The 1000 Sacred Names of Lord Vishnu · भगवान विष्णु के 1000 पवित्र नाम
-        </p>
-        <p style={{ fontSize: 14, maxWidth: 620, margin: '0 auto 32px', lineHeight: 1.7 }} className="text-[#493582] dark:text-white/45">
-          From the Anushasana Parva of the Mahabharata, as taught by Bhishma to Yudhishthira on the battlefield of Kurukshetra. Each name reveals a divine quality of the Supreme Lord.
-        </p>
-
-        {/* Stats */}
-        <div style={{ display: 'flex', justifyContent: 'center', gap: 10, flexWrap: 'wrap' }}>
-          {[{ v: '1,000', l: 'Names' }, { v: '15', l: 'Themes' }, { v: '13,000+', l: 'Content Fields' }].map(s => (
-            <div key={s.l} style={{
-              background: 'rgba(200,150,46,0.12)', border: '1px solid rgba(200,150,46,0.3)',
-              borderRadius: 24, padding: '5px 18px', color: '#C8962E', fontSize: 13, fontWeight: 600,
-            }}>
-              <span style={{ color: '#F5C518', fontWeight: 700 }}>{s.v}</span> · {s.l}
-            </div>
-          ))}
+        {/* Bottom text overlay */}
+        <div style={{ padding: '0 20px 22px', position: 'relative', zIndex: 5 }}>
+          <p style={{
+            fontFamily: "'Noto Sans Devanagari', Georgia, serif",
+            fontSize: 'clamp(16px, 3vw, 20px)', fontWeight: 600, margin: 0, marginBottom: 2,
+            color: '#D4A843',
+          }}>
+            {heroConfig.titleHi}
+          </p>
+          <h1 style={{
+            fontFamily: 'Georgia, serif',
+            fontSize: 'clamp(22px, 4.5vw, 36px)', fontWeight: 700, lineHeight: 1.15,
+            margin: '2px 0 6px', color: '#FFFFFF',
+            textShadow: '0 2px 8px rgba(0,0,0,0.5)',
+          }}>
+            {heroConfig.titleEn}
+          </h1>
+          <p style={{ fontSize: 13, fontStyle: 'italic', margin: '0 0 12px', color: 'rgba(212,196,168,0.8)', lineHeight: 1.5, maxWidth: 600 }}>
+            {heroConfig.subtitleEn} · <span style={{ fontFamily: "'Noto Sans Devanagari', Georgia, serif" }}>{heroConfig.subtitleHi}</span>
+          </p>
+          <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
+            {[
+              { v: heroConfig.nameCount.toLocaleString(), l: 'Names' },
+              { v: String(heroConfig.themeCount), l: 'Themes' },
+            ].map(s => (
+              <div key={s.l} style={{
+                background: 'rgba(200,150,46,0.2)', border: '1px solid rgba(200,150,46,0.45)',
+                borderRadius: 24, padding: '4px 14px', color: '#E8C96A', fontSize: 12, fontWeight: 700,
+              }}>
+                {s.v} · {s.l}
+              </div>
+            ))}
+          </div>
         </div>
+      </DeityHeroImage>
+
+      {/* Source text strip */}
+      <div style={{ padding: '14px 20px', borderBottom: '1px solid rgba(200,150,46,0.12)' }} className="bg-[#F3E4FF]/40 theme-hero">
+        <p style={{ fontSize: 13, lineHeight: 1.7, maxWidth: 700, margin: '0 auto', textAlign: 'center' }} className="text-[#493582] dark:text-white/45">
+          {heroConfig.sourceText}
+        </p>
       </div>
+
+      {/* ── Other Names Accordion ── */}
+      {alternateTitles.length > 0 && (
+        <OtherNamesAccordion
+          alternateTitles={alternateTitles}
+          regionalNames={regionalNames}
+        />
+      )}
 
       {/* ── Milestone Bar ── */}
       <div style={{ borderBottom: '1px solid rgba(200,150,46,0.12)', padding: '9px 16px', display: 'flex', gap: 8, alignItems: 'center', overflowX: 'auto' }} className="bg-[#F3E4FF] dark:bg-[rgba(38,46,105,0.7)]">
@@ -428,7 +615,6 @@ export default function VishnuSahasranama({ cards, themeCounts, basePath = 'mant
         padding: '14px 16px',
       }} className="bg-[#F3E4FF]/80 dark:bg-[#1B0A3C]/90">
         <div style={{ maxWidth: 1200, margin: '0 auto' }}>
-          {/* Row 1: View Toggle + Search */}
           <div style={{ display: 'flex', gap: 12, alignItems: 'center', marginBottom: 12, flexWrap: 'wrap' }}>
             {/* View Toggle */}
             <div style={{
@@ -453,16 +639,16 @@ export default function VishnuSahasranama({ cards, themeCounts, basePath = 'mant
             {/* Search */}
             <div style={{ position: 'relative', flex: 1, minWidth: 200 }}>
               <Search size={15} style={{ position: 'absolute', left: 12, top: '50%', transform: 'translateY(-50%)', color: '#C8962E', pointerEvents: 'none' }} />
-                <input type="text" value={search} onChange={e => setSearch(e.target.value)}
-                  placeholder="Search 1000 names... · 1000 नामों में खोजें..."
-                  style={{
-                    width: '100%', boxSizing: 'border-box',
-                    border: '1px solid rgba(200,150,46,0.28)',
-                    borderRadius: 10, padding: '8px 36px 8px 36px',
-                    fontSize: 14, outline: 'none', fontFamily: 'inherit',
-                  }}
-                  className="bg-[#F3E4FF] dark:bg-[#493582]/60 text-[#1B0A3C] dark:text-[#fff] placeholder:text-[#493582]/70 dark:placeholder:text-white/40"
-                />
+              <input type="text" value={search} onChange={e => setSearch(e.target.value)}
+                placeholder={`Search ${heroConfig.nameCount} names...`}
+                style={{
+                  width: '100%', boxSizing: 'border-box',
+                  border: '1px solid rgba(200,150,46,0.28)',
+                  borderRadius: 10, padding: '8px 36px 8px 36px',
+                  fontSize: 14, outline: 'none', fontFamily: 'inherit',
+                }}
+                className="bg-[#F3E4FF] dark:bg-[#493582]/60 text-[#1B0A3C] dark:text-[#fff] placeholder:text-[#493582]/70 dark:placeholder:text-white/40"
+              />
               {search && (
                 <button onClick={() => setSearch('')} style={{ position: 'absolute', right: 10, top: '50%', transform: 'translateY(-50%)', background: 'none', border: 'none', color: 'rgba(255,255,255,0.4)', cursor: 'pointer', padding: 2 }}>
                   <X size={15} />
@@ -471,7 +657,6 @@ export default function VishnuSahasranama({ cards, themeCounts, basePath = 'mant
             </div>
           </div>
 
-          {/* Row 2: Pills (sequential) or Theme Legend (theme) */}
           {view === 'sequential' ? <ThemeFilterPills /> : <ThemeLegendBar />}
         </div>
       </div>
@@ -481,7 +666,6 @@ export default function VishnuSahasranama({ cards, themeCounts, basePath = 'mant
 
         {view === 'sequential' ? (
           <>
-            {/* Counter */}
             <p style={{ fontSize: 13, marginBottom: 22, textAlign: 'center' }} className="text-[#493582] dark:text-white/40">
               Showing <span style={{ color: '#C8962E', fontWeight: 600 }}>{Math.min(displayCount, filteredSeq.length)}</span>{' '}
               of <span className="text-[#1B0A3C] dark:text-[#fff] font-medium">{filteredSeq.length}</span> names
@@ -500,7 +684,7 @@ export default function VishnuSahasranama({ cards, themeCounts, basePath = 'mant
               </div>
             ) : (
               <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(290px, 1fr))', gap: 24 }}>
-                {displayedSeq.map(card => <NameCard key={card.number} card={card} locale={locale} basePath={basePath} />)}
+                {displayedSeq.map(card => <NameCard key={card.number} card={card} locale={locale} basePath={basePath} sahasranamaSlug={sahasranamaSlug} />)}
               </div>
             )}
 
@@ -531,6 +715,7 @@ export default function VishnuSahasranama({ cards, themeCounts, basePath = 'mant
                   isOpen={openThemes.has(id)}
                   onToggle={() => toggleTheme(id)}
                   basePath={basePath}
+                  sahasranamaSlug={sahasranamaSlug}
                 />
               </div>
             ))}

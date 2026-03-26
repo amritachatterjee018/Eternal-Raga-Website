@@ -34,6 +34,8 @@ interface Props {
   relatedNames: RelatedName[];
   locale: string;
   basePath?: string;
+  sahasranamaSlug?: string;   // e.g. 'vishnu-sahasranama'
+  maxNumber?: number;         // 1000 | 1008
 }
 
 /* ─── Section header ─────────────────────────────────────────── */
@@ -50,20 +52,20 @@ function SectionHeader({ en, hi }: { en: string; hi: string }) {
   );
 }
 
-export default function VishnuNameDetail({ name, relatedNames, locale, basePath = 'mantras' }: Props) {
+export default function VishnuNameDetail({ name, relatedNames, locale, basePath = 'mantras', sahasranamaSlug = 'vishnu-sahasranama', maxNumber = 1000 }: Props) {
   const [contextTab, setContextTab] = useState<'hi' | 'en'>('hi');
   const theme = THEME_COLORS[name.theme] ?? { color: '#C8962E', label_en: name.theme, label_hi: '' };
   const hasPrev = name.number > 1;
-  const hasNext = name.number < 1000;
+  const hasNext = name.number < maxNumber;
 
   /* Keyboard navigation */
   useEffect(() => {
     const handleKey = (e: KeyboardEvent) => {
       if ((e.target as HTMLElement)?.tagName === 'INPUT') return;
       if (e.key === 'ArrowLeft' && hasPrev) {
-        window.location.href = `/${locale}/${basePath}/sahasranamas/vishnu-sahasranama/${name.number - 1}`;
+        window.location.href = `/${locale}/${basePath}/sahasranamas/${sahasranamaSlug}/${name.number - 1}`;
       } else if (e.key === 'ArrowRight' && hasNext) {
-        window.location.href = `/${locale}/${basePath}/sahasranamas/vishnu-sahasranama/${name.number + 1}`;
+        window.location.href = `/${locale}/${basePath}/sahasranamas/${sahasranamaSlug}/${name.number + 1}`;
       }
     };
     window.addEventListener('keydown', handleKey);
@@ -83,7 +85,7 @@ export default function VishnuNameDetail({ name, relatedNames, locale, basePath 
             { label: 'Home', href: `/${locale}` },
             { label: basePath === 'mantras' ? 'Mantras & Stotrams' : 'Scriptures', href: `/${locale}/${basePath}` },
             { label: 'Sahasranamas', href: `/${locale}/${basePath}/sahasranamas` },
-            { label: 'Vishnu Sahasranama', href: `/${locale}/${basePath}/sahasranamas/vishnu-sahasranama` },
+            { label: sahasranamaSlug.split('-').map(w => w[0].toUpperCase() + w.slice(1)).join(' '), href: `/${locale}/${basePath}/sahasranamas/${sahasranamaSlug}` },
           ].map(item => (
             <React.Fragment key={item.label}>
               <Link href={item.href} className="text-[#493582] dark:text-white/40 text-[12px] no-underline hover:text-[#1B0A3C] dark:hover:text-white transition-colors">
@@ -230,7 +232,7 @@ export default function VishnuNameDetail({ name, relatedNames, locale, basePath 
               {relatedNames.map(r => {
                 const rTheme = THEME_COLORS[r.theme] ?? theme;
                 return (
-                  <Link key={r.number} href={`/${locale}/${basePath}/sahasranamas/vishnu-sahasranama/${r.number}`} 
+                  <Link key={r.number} href={`/${locale}/${basePath}/sahasranamas/${sahasranamaSlug}/${r.number}`} 
                     className="shrink-0 w-[150px] rounded-xl p-[12px_13px] no-underline transition-all duration-150 block"
                     style={{
                       background: `${rTheme.color}10`, border: `1px solid ${rTheme.color}35`,
@@ -253,7 +255,7 @@ export default function VishnuNameDetail({ name, relatedNames, locale, basePath 
         {/* ── Prev / Next ── */}
         <div className="flex gap-3 mt-7">
           {hasPrev ? (
-            <Link href={`/${locale}/${basePath}/sahasranamas/vishnu-sahasranama/${name.number - 1}`} 
+            <Link href={`/${locale}/${basePath}/sahasranamas/${sahasranamaSlug}/${name.number - 1}`} 
               className="flex-1 flex items-center gap-[10px] rounded-xl p-[15px_18px] no-underline transition-colors duration-200 border border-[#493582]/20 dark:border-[#C8962E]/25 bg-[#F3E4FF] theme-card hover:bg-[#F3E4FF]/80 dark:hover:brightness-110"
             >
               <ChevronLeft size={20} className="text-[#493582] dark:text-[#C8962E] shrink-0" />
@@ -265,7 +267,7 @@ export default function VishnuNameDetail({ name, relatedNames, locale, basePath 
           ) : <div className="flex-1" />}
 
           {hasNext ? (
-            <Link href={`/${locale}/${basePath}/sahasranamas/vishnu-sahasranama/${name.number + 1}`} 
+            <Link href={`/${locale}/${basePath}/sahasranamas/${sahasranamaSlug}/${name.number + 1}`} 
               className="flex-1 flex items-center justify-end gap-[10px] rounded-xl p-[15px_18px] no-underline transition-colors duration-200 border border-[#493582]/20 dark:border-[#C8962E]/25 bg-[#F3E4FF] theme-card hover:bg-[#F3E4FF]/80 dark:hover:brightness-110"
             >
               <div className="text-right">
@@ -279,10 +281,10 @@ export default function VishnuNameDetail({ name, relatedNames, locale, basePath 
 
         {/* Back link */}
         <div className="text-center mt-5">
-          <Link href={`/${locale}/${basePath}/sahasranamas/vishnu-sahasranama`} 
+          <Link href={`/${locale}/${basePath}/sahasranamas/${sahasranamaSlug}`} 
             className="inline-flex items-center gap-[6px] text-[#493582] hover:text-[#1B0A3C] dark:text-[#C8962E]/65 dark:hover:text-[#C8962E] text-[14px] no-underline transition-colors">
             <ArrowLeft size={15} />
-            Back to all 1000 names
+            Back to all {maxNumber} names
           </Link>
         </div>
 

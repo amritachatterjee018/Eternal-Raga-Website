@@ -1,0 +1,614 @@
+{
+  "_meta": {
+    "description": "Alternate titles reference for all 26 Eternal Raga Sahasranamas",
+    "purpose": "Plug alternate_titles array into each master Sahasranama JSON wrapper for multi-regional search and SEO",
+    "created": "2026-03-26",
+    "author": "Claude for Eternal Raga / CreativeChronix"
+  },
+  "sahasranamas": [
+    {
+      "id": "sahasranama_vishnu",
+      "primary_title_en": "Vishnu Sahasranama",
+      "primary_title_hi": "विष्णु सहस्रनाम",
+      "deity_key": "vishnu",
+      "source_text": "Anushasana Parva, Mahabharata",
+      "canonical_count": 1000,
+      "alternate_titles": [
+        "Sri Vishnu Sahasranama Stotram / श्री विष्णु सहस्रनाम स्तोत्रम्",
+        "Vishnu Sahasranama Stotram / विष्णु सहस्रनाम स्तोत्रम्",
+        "Bhishma Stuti / भीष्म स्तुति",
+        "Sri Vishnu Divya Sahasranama / श्री विष्णु दिव्य सहस्रनाम"
+      ],
+      "regional_names": {
+        "tamil": "விஷ்ணு சகஸ்ரநாமம்",
+        "telugu": "విష్ణు సహస్రనామం",
+        "kannada": "ವಿಷ್ಣು ಸಹಸ್ರನಾಮ",
+        "malayalam": "വിഷ്ണു സഹസ്രനാമം",
+        "bengali": "বিষ্ণু সহস্রনাম",
+        "gujarati": "વિષ્ણુ સહસ્રનામ",
+        "odia": "ବିଷ୍ଣୁ ସହସ୍ରନାମ",
+        "marathi": "विष्णू सहस्रनाम"
+      },
+      "seo_keywords": ["vishnu 1000 names", "vishnu sahasranamam", "vishnu sahasranama lyrics", "bhishma stuti"]
+    },
+    {
+      "id": "sahasranama_lalita",
+      "primary_title_en": "Lalita Sahasranama",
+      "primary_title_hi": "ललिता सहस्रनाम",
+      "deity_key": "durga",
+      "source_text": "Brahmanda Purana, Lalitopakhyana",
+      "canonical_count": 1000,
+      "alternate_titles": [
+        "Sri Lalita Sahasranama Stotram / श्री ललिता सहस्रनाम स्तोत्रम्",
+        "Lalita Sahasranama Stotram / ललिता सहस्रनाम स्तोत्रम्",
+        "Sri Lalita Devi Sahasranama / श्री ललिता देवी सहस्रनाम",
+        "Lalitambika Sahasranama / ललिताम्बिका सहस्रनाम"
+      ],
+      "regional_names": {
+        "tamil": "லலிதா சகஸ்ரநாமம்",
+        "telugu": "లలితా సహస్రనామం",
+        "kannada": "ಲಲಿತಾ ಸಹಸ್ರನಾಮ",
+        "malayalam": "ലളിതാ സഹസ്രനാമം",
+        "bengali": "ললিতা সহস্রনাম",
+        "gujarati": "લલિતા સહસ્રનામ",
+        "odia": "ଲଲିତା ସହସ୍ରନାମ",
+        "marathi": "ललिता सहस्रनाम"
+      },
+      "seo_keywords": ["lalita sahasranamam", "lalita 1000 names", "lalita devi names", "sri vidya sahasranama"]
+    },
+    {
+      "id": "sahasranama_hanuman",
+      "primary_title_en": "Hanuman Sahasranama",
+      "primary_title_hi": "हनुमान सहस्रनाम",
+      "deity_key": "hanuman",
+      "source_text": "Parasara Samhita",
+      "canonical_count": 1008,
+      "alternate_titles": [
+        "Sri Hanuman Sahasranama Stotram / श्री हनुमान सहस्रनाम स्तोत्रम्",
+        "Bajrangbali Sahasranama / बजरंगबली सहस्रनाम",
+        "Maruti Sahasranama / मारुति सहस्रनाम",
+        "Anjaneya Sahasranama / आञ्जनेय सहस्रनाम",
+        "Pavanputra Sahasranama / पवनपुत्र सहस्रनाम",
+        "Mahavira Sahasranama / महावीर सहस्रनाम"
+      ],
+      "regional_names": {
+        "tamil": "ஆஞ்சநேயர் சகஸ்ரநாமம் / அனுமன் சகஸ்ரநாமம்",
+        "telugu": "ఆంజనేయ సహస్రనామం / హనుమాన్ సహస్రనామం",
+        "kannada": "ಆಂಜನೇಯ ಸಹಸ್ರನಾಮ / ಹನುಮಾನ್ ಸಹಸ್ರನಾಮ",
+        "malayalam": "ഹനുമാൻ സഹസ്രനാമം / ആഞ്ജനേയ സഹസ്രനാമം",
+        "bengali": "হনুমান সহস্রনাম",
+        "gujarati": "હનુમાન સહસ્રનામ",
+        "odia": "ହନୁମାନ ସହସ୍ରନାମ",
+        "marathi": "मारुती सहस्रनाम / हनुमान सहस्रनाम"
+      },
+      "seo_keywords": ["hanuman 1000 names", "bajrangbali sahasranama", "anjaneya sahasranamam", "maruti sahasranama"]
+    },
+    {
+      "id": "sahasranama_shiva",
+      "primary_title_en": "Shiva Sahasranama",
+      "primary_title_hi": "शिव सहस्रनाम",
+      "deity_key": "shiva",
+      "source_text": "Shiva Purana, Koti Rudra Samhita",
+      "canonical_count": 1008,
+      "alternate_titles": [
+        "Sri Shiva Sahasranama Stotram / श्री शिव सहस्रनाम स्तोत्रम्",
+        "Mahadeva Sahasranama / महादेव सहस्रनाम",
+        "Shankara Sahasranama / शंकर सहस्रनाम",
+        "Bholenath Sahasranama / भोलेनाथ सहस्रनाम",
+        "Pashupati Sahasranama / पशुपति सहस्रनाम"
+      ],
+      "regional_names": {
+        "tamil": "சிவ சகஸ்ரநாமம்",
+        "telugu": "శివ సహస్రనామం",
+        "kannada": "ಶಿವ ಸಹಸ್ರನಾಮ",
+        "malayalam": "ശിവ സഹസ്രനാമം",
+        "bengali": "শিব সহস্রনাম",
+        "gujarati": "શિવ સહસ્રનામ",
+        "odia": "ଶିବ ସହସ୍ରନାମ",
+        "marathi": "शिव सहस्रनाम"
+      },
+      "seo_keywords": ["shiva 1000 names", "shiv sahasranam", "mahadeva sahasranama", "shiva sahasranama lyrics"]
+    },
+    {
+      "id": "sahasranama_venkateswara",
+      "primary_title_en": "Venkateswara Sahasranama",
+      "primary_title_hi": "वेंकटेश्वर सहस्रनाम",
+      "deity_key": "vishnu",
+      "source_text": "Brahmanda Purana",
+      "canonical_count": 1008,
+      "alternate_titles": [
+        "Sri Venkateswara Sahasranama Stotram / श्री वेंकटेश्वर सहस्रनाम स्तोत्रम्",
+        "Balaji Sahasranama / बालाजी सहस्रनाम",
+        "Srinivasa Sahasranama / श्रीनिवास सहस्रनाम",
+        "Tirupati Balaji Sahasranama / तिरुपति बालाजी सहस्रनाम",
+        "Venkatachalapathi Sahasranama / वेंकटाचलपति सहस्रनाम",
+        "Govinda Sahasranama / गोविन्द सहस्रनाम"
+      ],
+      "regional_names": {
+        "tamil": "வெங்கடேஸ்வரா சகஸ்ரநாமம் / பாலாஜி சகஸ்ரநாமம்",
+        "telugu": "వేంకటేశ్వర సహస్రనామం / శ్రీనివాస సహస్రనామం",
+        "kannada": "ವೆಂಕಟೇಶ್ವರ ಸಹಸ್ರನಾಮ / ಶ್ರೀನಿವಾಸ ಸಹಸ್ರನಾಮ",
+        "malayalam": "വെങ്കടേശ്വര സഹസ്രനാമം",
+        "bengali": "বেঙ্কটেশ্বর সহস্রনাম",
+        "gujarati": "વેંકટેશ્વર સહસ્રનામ / બાલાજી સહસ્રનામ",
+        "odia": "ବେଙ୍କଟେଶ୍ୱର ସହସ୍ରନାମ",
+        "marathi": "वेंकटेश्वर सहस्रनाम / बालाजी सहस्रनाम"
+      },
+      "seo_keywords": ["venkateswara 1000 names", "balaji sahasranama", "srinivasa sahasranama", "tirupati sahasranama", "govinda namalu"]
+    },
+    {
+      "id": "sahasranama_krishna",
+      "primary_title_en": "Krishna Sahasranama",
+      "primary_title_hi": "कृष्ण सहस्रनाम",
+      "deity_key": "krishna",
+      "source_text": "Sanatkumara Samhita / Narada Pancharatra",
+      "canonical_count": 1008,
+      "alternate_titles": [
+        "Sri Krishna Sahasranama Stotram / श्री कृष्ण सहस्रनाम स्तोत्रम्",
+        "Gopala Sahasranama / गोपाल सहस्रनाम",
+        "Keshava Sahasranama / केशव सहस्रनाम",
+        "Madhava Sahasranama / माधव सहस्रनाम",
+        "Shyam Sahasranama / श्याम सहस्रनाम"
+      ],
+      "regional_names": {
+        "tamil": "கிருஷ்ணா சகஸ்ரநாமம்",
+        "telugu": "కృష్ణ సహస్రనామం",
+        "kannada": "ಕೃಷ್ಣ ಸಹಸ್ರನಾಮ",
+        "malayalam": "കൃഷ്ണ സഹസ്രനാമം",
+        "bengali": "কৃষ্ণ সহস্রনাম",
+        "gujarati": "કૃષ્ણ સહસ્રનામ",
+        "odia": "କୃଷ୍ଣ ସହସ୍ରନାମ",
+        "marathi": "कृष्ण सहस्रनाम"
+      },
+      "seo_keywords": ["krishna 1000 names", "gopala sahasranama", "krishna sahasranama lyrics", "shyam sahasranama"]
+    },
+    {
+      "id": "sahasranama_lakshmi",
+      "primary_title_en": "Lakshmi Sahasranama",
+      "primary_title_hi": "लक्ष्मी सहस्रनाम",
+      "deity_key": "lakshmi",
+      "source_text": "Skanda Purana",
+      "canonical_count": 1008,
+      "alternate_titles": [
+        "Sri Lakshmi Sahasranama Stotram / श्री लक्ष्मी सहस्रनाम स्तोत्रम्",
+        "Mahalakshmi Sahasranama / महालक्ष्मी सहस्रनाम",
+        "Sri Devi Sahasranama / श्री देवी सहस्रनाम",
+        "Kamala Sahasranama / कमला सहस्रनाम"
+      ],
+      "regional_names": {
+        "tamil": "லக்ஷ்மி சகஸ்ரநாமம் / மகாலக்ஷ்மி சகஸ்ரநாமம்",
+        "telugu": "లక్ష్మి సహస్రనామం / మహాలక్ష్మి సహస్రనామం",
+        "kannada": "ಲಕ್ಷ್ಮಿ ಸಹಸ್ರನಾಮ / ಮಹಾಲಕ್ಷ್ಮಿ ಸಹಸ್ರನಾಮ",
+        "malayalam": "ലക്ഷ്മി സഹസ്രനാമം / മഹാലക്ഷ്മി സഹസ്രനാമം",
+        "bengali": "লক্ষ্মী সহস্রনাম",
+        "gujarati": "લક્ષ્મી સહસ્રનામ",
+        "odia": "ଲକ୍ଷ୍ମୀ ସହସ୍ରନାମ",
+        "marathi": "लक्ष्मी सहस्रनाम"
+      },
+      "seo_keywords": ["lakshmi 1000 names", "mahalakshmi sahasranama", "lakshmi sahasranama lyrics", "diwali lakshmi names"]
+    },
+    {
+      "id": "sahasranama_ganesha",
+      "primary_title_en": "Ganesha Sahasranama",
+      "primary_title_hi": "गणेश सहस्रनाम",
+      "deity_key": "ganesh",
+      "source_text": "Ganesha Purana",
+      "canonical_count": 1008,
+      "alternate_titles": [
+        "Sri Ganesha Sahasranama Stotram / श्री गणेश सहस्रनाम स्तोत्रम्",
+        "Ganapati Sahasranama / गणपति सहस्रनाम",
+        "Vinayaka Sahasranama / विनायक सहस्रनाम",
+        "Vighneshwara Sahasranama / विघ्नेश्वर सहस्रनाम",
+        "Lambodara Sahasranama / लम्बोदर सहस्रनाम"
+      ],
+      "regional_names": {
+        "tamil": "கணேச சகஸ்ரநாமம் / விநாயகர் சகஸ்ரநாமம் / பிள்ளையார் சகஸ்ரநாமம்",
+        "telugu": "గణేశ సహస్రనామం / వినాయక సహస్రనామం",
+        "kannada": "ಗಣೇಶ ಸಹಸ್ರನಾಮ / ವಿನಾಯಕ ಸಹಸ್ರನಾಮ",
+        "malayalam": "ഗണേശ സഹസ്രനാമം / വിനായക സഹസ്രനാമം",
+        "bengali": "গণেশ সহস্রনাম",
+        "gujarati": "ગણેશ સહસ્રનામ",
+        "odia": "ଗଣେଶ ସହସ୍ରନାମ",
+        "marathi": "गणेश सहस्रनाम / गणपती सहस्रनाम"
+      },
+      "seo_keywords": ["ganesha 1000 names", "ganapati sahasranama", "vinayaka sahasranama", "ganesh chaturthi sahasranama"]
+    },
+    {
+      "id": "sahasranama_durga",
+      "primary_title_en": "Durga Sahasranama",
+      "primary_title_hi": "दुर्गा सहस्रनाम",
+      "deity_key": "durga",
+      "source_text": "Markandeya Purana / Devi Bhagavatam",
+      "canonical_count": 1008,
+      "alternate_titles": [
+        "Sri Durga Sahasranama Stotram / श्री दुर्गा सहस्रनाम स्तोत्रम्",
+        "Mahadurga Sahasranama / महादुर्गा सहस्रनाम",
+        "Chandika Sahasranama / चण्डिका सहस्रनाम",
+        "Ambika Sahasranama / अम्बिका सहस्रनाम",
+        "Sheranwali Sahasranama / शेरांवाली सहस्रनाम"
+      ],
+      "regional_names": {
+        "tamil": "துர்கா சகஸ்ரநாமம்",
+        "telugu": "దుర్గా సహస్రనామం",
+        "kannada": "ದುರ್ಗಾ ಸಹಸ್ರನಾಮ",
+        "malayalam": "ദുർഗ്ഗ സഹസ്രനാമം",
+        "bengali": "দুর্গা সহস্রনাম",
+        "gujarati": "દુર્ગા સહસ્રનામ",
+        "odia": "ଦୁର୍ଗା ସହସ୍ରନାମ",
+        "marathi": "दुर्गा सहस्रनाम"
+      },
+      "seo_keywords": ["durga 1000 names", "durga sahasranama lyrics", "navratri sahasranama", "chandika sahasranama"]
+    },
+    {
+      "id": "sahasranama_kali",
+      "primary_title_en": "Kali Sahasranama",
+      "primary_title_hi": "काली सहस्रनाम",
+      "deity_key": "kali",
+      "source_text": "Mahakala Samhita / Kalika Purana",
+      "canonical_count": 1000,
+      "alternate_titles": [
+        "Sri Kali Sahasranama Stotram / श्री काली सहस्रनाम स्तोत्रम्",
+        "Mahakali Sahasranama / महाकाली सहस्रनाम",
+        "Dakshina Kali Sahasranama / दक्षिण काली सहस्रनाम",
+        "Kalika Sahasranama / कालिका सहस्रनाम",
+        "Shyama Sahasranama / श्यामा सहस्रनाम"
+      ],
+      "regional_names": {
+        "tamil": "காளி சகஸ்ரநாமம்",
+        "telugu": "కాళి సహస్రనామం",
+        "kannada": "ಕಾಳಿ ಸಹಸ್ರನಾಮ",
+        "malayalam": "കാളി സഹസ്രനാമം",
+        "bengali": "কালী সহস্রনাম / মহাকালী সহস্রনাম"
+      },
+      "seo_keywords": ["kali 1000 names", "mahakali sahasranama", "kalika sahasranama", "kali puja sahasranama"]
+    },
+    {
+      "id": "sahasranama_rama",
+      "primary_title_en": "Rama Sahasranama",
+      "primary_title_hi": "राम सहस्रनाम",
+      "deity_key": "ram",
+      "source_text": "Padma Purana / Ananda Ramayana",
+      "canonical_count": 1008,
+      "alternate_titles": [
+        "Sri Rama Sahasranama Stotram / श्री राम सहस्रनाम स्तोत्रम्",
+        "Ramachandra Sahasranama / रामचन्द्र सहस्रनाम",
+        "Sitaram Sahasranama / सीताराम सहस्रनाम",
+        "Raghunatha Sahasranama / रघुनाथ सहस्रनाम",
+        "Kodandapani Sahasranama / कोदण्डपाणि सहस्रनाम"
+      ],
+      "regional_names": {
+        "tamil": "ராம சகஸ்ரநாமம்",
+        "telugu": "రామ సహస్రనామం / శ్రీరామ సహస్రనామం",
+        "kannada": "ರಾಮ ಸಹಸ್ರನಾಮ",
+        "malayalam": "രാമ സഹസ്രനാമം",
+        "bengali": "রাম সহস্রনাম",
+        "gujarati": "રામ સહસ્રનામ",
+        "odia": "ରାମ ସହସ୍ରନାମ",
+        "marathi": "राम सहस्रनाम"
+      },
+      "seo_keywords": ["rama 1000 names", "ram sahasranama lyrics", "ramnavami sahasranama", "raghunath sahasranama"]
+    },
+    {
+      "id": "sahasranama_subramanya",
+      "primary_title_en": "Subramanya Sahasranama",
+      "primary_title_hi": "सुब्रमण्य सहस्रनाम",
+      "deity_key": "shiva",
+      "source_text": "Skanda Purana",
+      "canonical_count": 1008,
+      "alternate_titles": [
+        "Sri Subramanya Sahasranama Stotram / श्री सुब्रमण्य सहस्रनाम स्तोत्रम्",
+        "Murugan Sahasranama / முருகன் சகஸ்ரநாமம்",
+        "Kartikeya Sahasranama / कार्तिकेय सहस्रनाम",
+        "Skanda Sahasranama / स्कन्द सहस्रनाम",
+        "Kumara Sahasranama / कुमार सहस्रनाम",
+        "Shanmukha Sahasranama / षण्मुख सहस्रनाम",
+        "Senthil Andavar Sahasranama / செந்தில் ஆண்டவர் சகஸ்ரநாமம்"
+      ],
+      "regional_names": {
+        "tamil": "முருகன் சகஸ்ரநாமம் / சுப்ரமணிய சகஸ்ரநாமம்",
+        "telugu": "సుబ్రహ్మణ్య సహస్రనామం / కుమారస్వామి సహస్రనామం",
+        "kannada": "ಸುಬ್ರಹ್ಮಣ್ಯ ಸಹಸ್ರನಾಮ / ಕುಮಾರಸ್ವಾಮಿ ಸಹಸ್ರನಾಮ",
+        "malayalam": "സുബ്രഹ്മണ്യ സഹസ്രനാമം / മുരുകൻ സഹസ്രനാമം",
+        "bengali": "কার্তিকেয় সহস্রনাম",
+        "marathi": "कार्तिकेय सहस्रनाम"
+      },
+      "seo_keywords": ["murugan 1000 names", "kartikeya sahasranama", "skanda sahasranama", "subramanya sahasranama", "murugan sahasranamam"]
+    },
+    {
+      "id": "sahasranama_surya",
+      "primary_title_en": "Surya Sahasranama",
+      "primary_title_hi": "सूर्य सहस्रनाम",
+      "deity_key": "vishnu",
+      "source_text": "Bhavishya Purana",
+      "canonical_count": 1008,
+      "alternate_titles": [
+        "Sri Surya Sahasranama Stotram / श्री सूर्य सहस्रनाम स्तोत्रम्",
+        "Aditya Sahasranama / आदित्य सहस्रनाम",
+        "Ravi Sahasranama / रवि सहस्रनाम",
+        "Bhaskara Sahasranama / भास्कर सहस्रनाम",
+        "Savitra Sahasranama / सवित्र सहस्रनाम"
+      ],
+      "regional_names": {
+        "tamil": "சூரிய சகஸ்ரநாமம்",
+        "telugu": "సూర్య సహస్రనామం",
+        "kannada": "ಸೂರ್ಯ ಸಹಸ್ರನಾಮ",
+        "malayalam": "സൂര്യ സഹസ്രനാമം",
+        "bengali": "সূর্য সহস্রনাম"
+      },
+      "seo_keywords": ["surya 1000 names", "aditya sahasranama", "surya sahasranama lyrics", "chhath puja sahasranama"]
+    },
+    {
+      "id": "sahasranama_narasimha",
+      "primary_title_en": "Narasimha Sahasranama",
+      "primary_title_hi": "नरसिंह सहस्रनाम",
+      "deity_key": "vishnu",
+      "source_text": "Narasimha Purana",
+      "canonical_count": 1008,
+      "alternate_titles": [
+        "Sri Narasimha Sahasranama Stotram / श्री नरसिंह सहस्रनाम स्तोत्रम्",
+        "Nrisimha Sahasranama / नृसिंह सहस्रनाम",
+        "Lakshmi Narasimha Sahasranama / लक्ष्मी नरसिंह सहस्रनाम",
+        "Ugra Narasimha Sahasranama / उग्र नरसिंह सहस्रनाम"
+      ],
+      "regional_names": {
+        "tamil": "நரசிம்மர் சகஸ்ரநாமம்",
+        "telugu": "నరసింహ సహస్రనామం / లక్ష్మీ నరసింహ సహస్రనామం",
+        "kannada": "ನರಸಿಂಹ ಸಹಸ್ರನಾಮ / ಲಕ್ಷ್ಮೀ ನರಸಿಂಹ ಸಹಸ್ರನಾಮ",
+        "malayalam": "നരസിംഹ സഹസ്രനാമം",
+        "bengali": "নরসিংহ সহস্রনাম"
+      },
+      "seo_keywords": ["narasimha 1000 names", "nrisimha sahasranama", "lakshmi narasimha sahasranama", "narasimha jayanti"]
+    },
+    {
+      "id": "sahasranama_gayatri",
+      "primary_title_en": "Gayatri Sahasranama",
+      "primary_title_hi": "गायत्री सहस्रनाम",
+      "deity_key": "saraswati",
+      "source_text": "Devi Bhagavatam",
+      "canonical_count": 1000,
+      "alternate_titles": [
+        "Sri Gayatri Sahasranama Stotram / श्री गायत्री सहस्रनाम स्तोत्रम्",
+        "Gayatri Devi Sahasranama / गायत्री देवी सहस्रनाम",
+        "Savitri Sahasranama / सावित्री सहस्रनाम",
+        "Veda Mata Sahasranama / वेद माता सहस्रनाम"
+      ],
+      "regional_names": {
+        "tamil": "காயத்ரி சகஸ்ரநாமம்",
+        "telugu": "గాయత్రీ సహస్రనామం",
+        "kannada": "ಗಾಯತ್ರಿ ಸಹಸ್ರನಾಮ",
+        "malayalam": "ഗായത്രി സഹസ്രനാമം",
+        "bengali": "গায়ত্রী সহস্রনাম"
+      },
+      "seo_keywords": ["gayatri 1000 names", "gayatri devi sahasranama", "gayatri sahasranama lyrics"]
+    },
+    {
+      "id": "sahasranama_rudra",
+      "primary_title_en": "Rudra Sahasranama",
+      "primary_title_hi": "रुद्र सहस्रनाम",
+      "deity_key": "shiva",
+      "source_text": "Shiva Purana, Rudra Yamala Tantra",
+      "canonical_count": 1008,
+      "alternate_titles": [
+        "Sri Rudra Sahasranama Stotram / श्री रुद्र सहस्रनाम स्तोत्रम्",
+        "Maharudra Sahasranama / महारुद्र सहस्रनाम",
+        "Ekadasharudra Sahasranama / एकादशरुद्र सहस्रनाम"
+      ],
+      "regional_names": {
+        "tamil": "ருத்ர சகஸ்ரநாமம்",
+        "telugu": "రుద్ర సహస్రనామం",
+        "kannada": "ರುದ್ರ ಸಹಸ್ರನಾಮ",
+        "malayalam": "രുദ്ര സഹസ്രനാമം",
+        "bengali": "রুদ্র সহস্রনাম"
+      },
+      "seo_keywords": ["rudra 1000 names", "rudra sahasranama lyrics", "maharudra sahasranama"]
+    },
+    {
+      "id": "sahasranama_dakshinamurthy",
+      "primary_title_en": "Dakshinamurthy Sahasranama",
+      "primary_title_hi": "दक्षिणामूर्ति सहस्रनाम",
+      "deity_key": "shiva",
+      "source_text": "Shaiva Agama texts",
+      "canonical_count": 1000,
+      "alternate_titles": [
+        "Sri Dakshinamurthy Sahasranama Stotram / श्री दक्षिणामूर्ति सहस्रनाम स्तोत्रम्",
+        "Dakshinamurti Sahasranama / दक्षिणामूर्ति सहस्रनाम",
+        "Jnana Dakshinamurthy Sahasranama / ज्ञान दक्षिणामूर्ति सहस्रनाम",
+        "Medha Dakshinamurthy Sahasranama / मेधा दक्षिणामूर्ति सहस्रनाम"
+      ],
+      "regional_names": {
+        "tamil": "தக்ஷிணாமூர்த்தி சகஸ்ரநாமம்",
+        "telugu": "దక్షిణామూర్తి సహస్రనామం",
+        "kannada": "ದಕ್ಷಿಣಾಮೂರ್ತಿ ಸಹಸ್ರನಾಮ",
+        "malayalam": "ദക്ഷിണാമൂർത്തി സഹസ്രനാമം"
+      },
+      "seo_keywords": ["dakshinamurthy 1000 names", "dakshinamurthy sahasranama", "guru sahasranama"]
+    },
+    {
+      "id": "sahasranama_annapurna",
+      "primary_title_en": "Annapurna Sahasranama",
+      "primary_title_hi": "अन्नपूर्णा सहस्रनाम",
+      "deity_key": "durga",
+      "source_text": "Devi Bhagavatam / Tantra texts",
+      "canonical_count": 1000,
+      "alternate_titles": [
+        "Sri Annapurna Sahasranama Stotram / श्री अन्नपूर्णा सहस्रनाम स्तोत्रम्",
+        "Annapurna Devi Sahasranama / अन्नपूर्णा देवी सहस्रनाम",
+        "Annapoorneshwari Sahasranama / अन्नपूर्णेश्वरी सहस्रनाम"
+      ],
+      "regional_names": {
+        "tamil": "அன்னபூர்ணா சகஸ்ரநாமம்",
+        "telugu": "అన్నపూర్ణా సహస్రనామం",
+        "kannada": "ಅನ್ನಪೂರ್ಣ ಸಹಸ್ರನಾಮ",
+        "malayalam": "അന്നപൂർണ സഹസ്രനാമം",
+        "bengali": "অন্নপূর্ণা সহস্রনাম"
+      },
+      "seo_keywords": ["annapurna 1000 names", "annapurna devi sahasranama", "annapoorneshwari sahasranama"]
+    },
+    {
+      "id": "sahasranama_bhuvaneshwari",
+      "primary_title_en": "Bhuvaneshwari Sahasranama",
+      "primary_title_hi": "भुवनेश्वरी सहस्रनाम",
+      "deity_key": "durga",
+      "source_text": "Tantrasara / Devi Bhagavatam",
+      "canonical_count": 1000,
+      "alternate_titles": [
+        "Sri Bhuvaneshwari Sahasranama Stotram / श्री भुवनेश्वरी सहस्रनाम स्तोत्रम्",
+        "Bhuvaneshwari Devi Sahasranama / भुवनेश्वरी देवी सहस्रनाम"
+      ],
+      "regional_names": {
+        "tamil": "புவனேஸ்வரி சகஸ்ரநாமம்",
+        "telugu": "భువనేశ్వరి సహస్రనామం",
+        "kannada": "ಭುವನೇಶ್ವರಿ ಸಹಸ್ರನಾಮ",
+        "malayalam": "ഭുവനേശ്വരി സഹസ്രനാമം"
+      },
+      "seo_keywords": ["bhuvaneshwari 1000 names", "bhuvaneshwari sahasranama", "dasa mahavidya sahasranama"]
+    },
+    {
+      "id": "sahasranama_tripura_sundari",
+      "primary_title_en": "Tripura Sundari Sahasranama",
+      "primary_title_hi": "त्रिपुर सुंदरी सहस्रनाम",
+      "deity_key": "durga",
+      "source_text": "Brahmanda Purana / Tripura Rahasya",
+      "canonical_count": 1000,
+      "alternate_titles": [
+        "Sri Tripura Sundari Sahasranama Stotram / श्री त्रिपुर सुंदरी सहस्रनाम स्तोत्रम्",
+        "Shodashi Sahasranama / षोडशी सहस्रनाम",
+        "Tripuramba Sahasranama / त्रिपुराम्बा सहस्रनाम",
+        "Sri Vidya Sahasranama / श्री विद्या सहस्रनाम"
+      ],
+      "regional_names": {
+        "tamil": "திரிபுர சுந்தரி சகஸ்ரநாமம் / ஷோடசி சகஸ்ரநாமம்",
+        "telugu": "త్రిపుర సుందరి సహస్రనామం",
+        "kannada": "ತ್ರಿಪುರ ಸುಂದರಿ ಸಹಸ್ರನಾಮ",
+        "malayalam": "ത്രിപുര സുന്ദരി സഹസ്രനാമം"
+      },
+      "seo_keywords": ["tripura sundari 1000 names", "shodashi sahasranama", "sri vidya sahasranama"]
+    },
+    {
+      "id": "sahasranama_rajarajeshwari",
+      "primary_title_en": "Rajarajeshwari Sahasranama",
+      "primary_title_hi": "राजराजेश्वरी सहस्रनाम",
+      "deity_key": "durga",
+      "source_text": "Sri Vidya tradition / Lalita texts",
+      "canonical_count": 1000,
+      "alternate_titles": [
+        "Sri Rajarajeshwari Sahasranama Stotram / श्री राजराजेश्वरी सहस्रनाम स्तोत्रम्",
+        "Rajamathangi Sahasranama / राजमातंगी सहस्रनाम",
+        "Raja Shyamala Sahasranama / राज श्यामला सहस्रनाम"
+      ],
+      "regional_names": {
+        "tamil": "ராஜராஜேஸ்வரி சகஸ்ரநாமம்",
+        "telugu": "రాజరాజేశ్వరి సహస్రనామం",
+        "kannada": "ರಾಜರಾಜೇಶ್ವರಿ ಸಹಸ್ರನಾಮ",
+        "malayalam": "രാജരാജേശ്വരി സഹസ്രനാമം"
+      },
+      "seo_keywords": ["rajarajeshwari 1000 names", "rajarajeshwari sahasranama", "sri vidya names"]
+    },
+    {
+      "id": "sahasranama_heramba_ganesha",
+      "primary_title_en": "Heramba Ganesha Sahasranama",
+      "primary_title_hi": "हेरम्ब गणेश सहस्रनाम",
+      "deity_key": "ganesh",
+      "source_text": "Mudgala Purana",
+      "canonical_count": 1008,
+      "alternate_titles": [
+        "Sri Heramba Ganesha Sahasranama Stotram / श्री हेरम्ब गणेश सहस्रनाम स्तोत्रम्",
+        "Heramba Ganapati Sahasranama / हेरम्ब गणपति सहस्रनाम",
+        "Pancha Mukha Ganesha Sahasranama / पंचमुख गणेश सहस्रनाम"
+      ],
+      "regional_names": {
+        "tamil": "ஹேரம்ப கணேச சகஸ்ரநாமம்",
+        "telugu": "హేరంబ గణేశ సహస్రనామం",
+        "kannada": "ಹೇರಂಬ ಗಣೇಶ ಸಹಸ್ರನಾಮ",
+        "malayalam": "ഹേരംബ ഗണേശ സഹസ്രനാമം"
+      },
+      "seo_keywords": ["heramba ganesha 1000 names", "heramba ganapati sahasranama", "pancha mukha ganesha"]
+    },
+    {
+      "id": "sahasranama_dattatreya",
+      "primary_title_en": "Dattatreya Sahasranama",
+      "primary_title_hi": "दत्तात्रेय सहस्रनाम",
+      "deity_key": "vishnu",
+      "source_text": "Dattatreya Tantra / Narada Purana",
+      "canonical_count": 1008,
+      "alternate_titles": [
+        "Sri Dattatreya Sahasranama Stotram / श्री दत्तात्रेय सहस्रनाम स्तोत्रम्",
+        "Datta Sahasranama / दत्त सहस्रनाम",
+        "Gurudeva Dattatreya Sahasranama / गुरुदेव दत्तात्रेय सहस्रनाम",
+        "Avadhuta Sahasranama / अवधूत सहस्रनाम"
+      ],
+      "regional_names": {
+        "tamil": "தத்தாத்ரேயர் சகஸ்ரநாமம்",
+        "telugu": "దత్తాత్రేయ సహస్రనామం",
+        "kannada": "ದತ್ತಾತ್ರೇಯ ಸಹಸ್ರನಾಮ",
+        "malayalam": "ദത്താത്രേയ സഹസ്രനാമം",
+        "marathi": "दत्तात्रेय सहस्रनाम / दत्त सहस्रनाम",
+        "gujarati": "દત્તાત્રેય સહસ્રનામ"
+      },
+      "seo_keywords": ["dattatreya 1000 names", "datta sahasranama", "gurudeva dattatreya", "dattatreya jayanti"]
+    },
+    {
+      "id": "sahasranama_ayyappa",
+      "primary_title_en": "Ayyappa Sahasranama",
+      "primary_title_hi": "अय्यप्पा सहस्रनाम",
+      "deity_key": "shiva",
+      "source_text": "Bhuta Natha Sahasranama, Kerala tradition",
+      "canonical_count": 1008,
+      "alternate_titles": [
+        "Sri Ayyappa Sahasranama Stotram / श्री अय्यप्पा सहस्रनाम स्तोत्रम्",
+        "Dharma Shasta Sahasranama / धर्म शास्ता सहस्रनाम",
+        "Bhutanatha Sahasranama / भूतनाथ सहस्रनाम",
+        "Manikanta Sahasranama / मणिकंठ सहस्रनाम",
+        "Hariharaputra Sahasranama / हरिहरपुत्र सहस्रनाम",
+        "Sabarimala Sahasranama / शबरीमला सहस्रनाम"
+      ],
+      "regional_names": {
+        "tamil": "ஐயப்பன் சகஸ்ரநாமம் / தர்ம சாஸ்தா சகஸ்ரநாமம்",
+        "telugu": "అయ్యప్ప సహస్రనామం / ధర్మశాస్త సహస్రనామం",
+        "kannada": "ಅಯ್ಯಪ್ಪ ಸಹಸ್ರನಾಮ / ಧರ್ಮಶಾಸ್ತ ಸಹಸ್ರನಾಮ",
+        "malayalam": "അയ്യപ്പൻ സഹസ്രനാമം / ധർമ്മശാസ്താ സഹസ്രനാമം"
+      },
+      "seo_keywords": ["ayyappa 1000 names", "sabarimala sahasranama", "dharma shasta sahasranama", "mandala kalam sahasranama", "swamiye saranam ayyappa"]
+    },
+    {
+      "id": "sahasranama_varaha",
+      "primary_title_en": "Varaha Sahasranama",
+      "primary_title_hi": "वराह सहस्रनाम",
+      "deity_key": "vishnu",
+      "source_text": "Varaha Purana",
+      "canonical_count": 1008,
+      "alternate_titles": [
+        "Sri Varaha Sahasranama Stotram / श्री वराह सहस्रनाम स्तोत्रम्",
+        "Adi Varaha Sahasranama / आदि वराह सहस्रनाम",
+        "Bhumi Varaha Sahasranama / भूमि वराह सहस्रनाम"
+      ],
+      "regional_names": {
+        "tamil": "வராஹ சகஸ்ரநாமம்",
+        "telugu": "వరాహ సహస్రనామం",
+        "kannada": "ವರಾಹ ಸಹಸ್ರನಾಮ",
+        "malayalam": "വരാഹ സഹസ്രനാമം"
+      },
+      "seo_keywords": ["varaha 1000 names", "varaha sahasranama", "varaha avatar names"]
+    },
+    {
+      "id": "sahasranama_hayagriva",
+      "primary_title_en": "Hayagriva Sahasranama",
+      "primary_title_hi": "हयग्रीव सहस्रनाम",
+      "deity_key": "vishnu",
+      "source_text": "Pancharatra Agama",
+      "canonical_count": 1008,
+      "alternate_titles": [
+        "Sri Hayagriva Sahasranama Stotram / श्री हयग्रीव सहस्रनाम स्तोत्रम्",
+        "Hayagriva Deva Sahasranama / हयग्रीव देव सहस्रनाम",
+        "Vidya Hayagriva Sahasranama / विद्या हयग्रीव सहस्रनाम"
+      ],
+      "regional_names": {
+        "tamil": "ஹயக்ரீவர் சகஸ்ரநாமம்",
+        "telugu": "హయగ్రీవ సహస్రనామం",
+        "kannada": "ಹಯಗ್ರೀವ ಸಹಸ್ರನಾಮ",
+        "malayalam": "ഹയഗ്രീവ സഹസ്രനാമം"
+      },
+      "seo_keywords": ["hayagriva 1000 names", "hayagriva sahasranama", "vidya hayagriva", "student prayers"]
+    }
+  ]
+}

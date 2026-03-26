@@ -1,6 +1,7 @@
 /**
  * contentLoader.ts  —  SERVER ONLY (uses Node.js `fs`)
  * Also loads Sahasranama data from data/sahasranamas/vishnu_sahasranama_master.json
+ * and alternate metadata from data/sahasranamas/sahasranama_alternate_titles.json
  * Scans /data/ subfolders and returns typed mantra objects.
  *
  * NOTE: Actual folder names on disk (confirmed):
@@ -195,3 +196,155 @@ export function getRelatedNamesByTheme(
     .slice(0, limit);
 }
 
+
+/* ═══════════════════════════════════════════════════════════════
+   SAHASRANAMA ALTERNATE TITLES
+   Reads data/sahasranamas/sahasranama_alternate_titles.json
+   SERVER ONLY
+   ═══════════════════════════════════════════════════════════════ */
+
+const ALT_TITLES_PATH = path.join(DATA_DIR, 'sahasranamas', 'sahasranama_alternate_titles.json');
+
+export interface SahasranamaAltMeta {
+  id: string;                               // e.g. "sahasranama_vishnu"
+  primary_title_en: string;
+  primary_title_hi: string;
+  deity_key: string;
+  source_text: string;
+  canonical_count: number;
+  alternate_titles: string[];               // "Balaji Sahasranama / बालाजी सहस्रनाम"
+  regional_names: Record<string, string>;   // { tamil: "விஷ்ணு சகஸ்ரநாமம்", ... }
+  seo_keywords: string[];
+}
+
+interface AltTitlesFile {
+  _meta: Record<string, string>;
+  sahasranamas: SahasranamaAltMeta[];
+}
+
+let _altTitlesCache: SahasranamaAltMeta[] | null = null;
+
+function loadAltTitles(): SahasranamaAltMeta[] {
+  if (_altTitlesCache) return _altTitlesCache;
+  const raw = fs.readFileSync(ALT_TITLES_PATH, 'utf-8');
+  const file = JSON.parse(raw) as AltTitlesFile;
+  _altTitlesCache = file.sahasranamas;
+  return _altTitlesCache;
+}
+
+/** Returns all alternate-title metadata entries */
+export function getAllSahasranamaAltMeta(): SahasranamaAltMeta[] {
+  return loadAltTitles();
+}
+
+/** Returns metadata for one Sahasranama by its `id` field, or null */
+export function getSahasranamaAltMetaById(id: string): SahasranamaAltMeta | null {
+  return loadAltTitles().find(s => s.id === id) ?? null;
+}
+
+/** Convenience: returns alternate-title metadata for Vishnu Sahasranama */
+export function getVishnuSahasranamaMeta(): SahasranamaAltMeta | null {
+  return getSahasranamaAltMetaById('sahasranama_vishnu');
+}
+
+/** Convenience: returns alternate-title metadata for Lalita Sahasranama */
+export function getLalitaSahasranamaMeta(): SahasranamaAltMeta | null {
+  return getSahasranamaAltMetaById('sahasranama_lalita');
+}
+
+/** Convenience: returns alternate-title metadata for Venkateswara Sahasranama */
+export function getVenkateswaraSahasranamaMeta(): SahasranamaAltMeta | null {
+  return getSahasranamaAltMetaById('sahasranama_venkateswara');
+}
+
+
+/* ═══════════════════════════════════════════════════════════════
+   LALITA SAHASRANAMA
+   Reads data/sahasranamas/lalita_sahasranama_master.json
+   SERVER ONLY
+   ═══════════════════════════════════════════════════════════════ */
+
+const LALITA_JSON_PATH = path.join(DATA_DIR, 'sahasranamas', 'lalita_sahasranama_master.json');
+
+let _lalitaCache: VishnuName[] | null = null;
+
+function loadLalitaNames(): VishnuName[] {
+  if (_lalitaCache) return _lalitaCache;
+  const raw = fs.readFileSync(LALITA_JSON_PATH, 'utf-8');
+  _lalitaCache = JSON.parse(raw) as VishnuName[];
+  return _lalitaCache;
+}
+
+export function getAllLalitaNames(): VishnuName[] { return loadLalitaNames(); }
+
+export function getLalitaNameByNumber(n: number): VishnuName | null {
+  return loadLalitaNames().find(v => v.number === n) ?? null;
+}
+
+export function getLalitaNamesByTheme(theme: string): VishnuName[] {
+  return loadLalitaNames().filter(v => v.theme === theme);
+}
+
+export function getLalitaThemeCounts(): Record<string, number> {
+  const counts: Record<string, number> = {};
+  for (const v of loadLalitaNames()) { counts[v.theme] = (counts[v.theme] ?? 0) + 1; }
+  return counts;
+}
+
+export function getLalitaNameStaticParams(): { number: string }[] {
+  return loadLalitaNames().map(v => ({ number: String(v.number) }));
+}
+
+export function getRelatedLalitaNamesByTheme(
+  theme: string, excludeNumber: number, limit: number
+): VishnuName[] {
+  return loadLalitaNames()
+    .filter(v => v.theme === theme && v.number !== excludeNumber)
+    .slice(0, limit);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════
+   VENKATESWARA SAHASRANAMA
+   Reads data/sahasranamas/venkateswara_sahasranama_master.json
+   SERVER ONLY
+   ═══════════════════════════════════════════════════════════════ */
+
+const VENKATESWARA_JSON_PATH = path.join(DATA_DIR, 'sahasranamas', 'venkateswara_sahasranama_master.json');
+
+let _venkateswaraCache: VishnuName[] | null = null;
+
+function loadVenkateswaraNames(): VishnuName[] {
+  if (_venkateswaraCache) return _venkateswaraCache;
+  const raw = fs.readFileSync(VENKATESWARA_JSON_PATH, 'utf-8');
+  _venkateswaraCache = JSON.parse(raw) as VishnuName[];
+  return _venkateswaraCache;
+}
+
+export function getAllVenkateswaraNames(): VishnuName[] { return loadVenkateswaraNames(); }
+
+export function getVenkateswaraNameByNumber(n: number): VishnuName | null {
+  return loadVenkateswaraNames().find(v => v.number === n) ?? null;
+}
+
+export function getVenkateswaraNamesByTheme(theme: string): VishnuName[] {
+  return loadVenkateswaraNames().filter(v => v.theme === theme);
+}
+
+export function getVenkateswaraThemeCounts(): Record<string, number> {
+  const counts: Record<string, number> = {};
+  for (const v of loadVenkateswaraNames()) { counts[v.theme] = (counts[v.theme] ?? 0) + 1; }
+  return counts;
+}
+
+export function getVenkateswaraNameStaticParams(): { number: string }[] {
+  return loadVenkateswaraNames().map(v => ({ number: String(v.number) }));
+}
+
+export function getRelatedVenkateswaraNamesByTheme(
+  theme: string, excludeNumber: number, limit: number
+): VishnuName[] {
+  return loadVenkateswaraNames()
+    .filter(v => v.theme === theme && v.number !== excludeNumber)
+    .slice(0, limit);
+}
